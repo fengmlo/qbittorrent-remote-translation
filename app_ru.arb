@@ -1,7 +1,7 @@
 {
   "clickToAddServer": "Нажмите, чтобы добавить сервер",
   "selectMode": "Выбрать",
-  "selectTorrentCount": "{count,plural, =1{{count} торрент} other{{count} торрентов}}",
+  "selectTorrentCount": "{count,plural, =1{{count} торрент} other{{count} торрента(ов)}}",
   "@selectTorrentCount": {
     "placeholders": {
       "count": {
@@ -31,7 +31,7 @@
   "savePath": "Путь сохранения",
   "fullSetting": "Больше настроек",
   "cancel": "ОТМЕНА",
-  "confirm": "ГОТОВО",
+  "confirm": "ОК",
   "noLinkTips": "Пожалуйста, введите торрент-ссылку",
   "category": "Категория",
   "cookie": "Cookie-файлы",
@@ -291,6 +291,6 @@
   "maximalPriority": "Максимальный приоритет",
   "copyFileName": "Копировать имя файла",
   "bestApiTips": "Получите максимум удовольствия от Api 2.6.1 и выше",
-  "searchHint": "Фильтр по текущему списку",
+  "searchHint": "Фильтр торрентов в списке",
   "server": "Сервер"
 }
