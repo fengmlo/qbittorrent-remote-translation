@@ -292,5 +292,9 @@
   "copyFileName": "Copy file name",
   "bestApiTips": "Get the best experience on Api 2.6.1 and above",
   "searchHint": "Filter current list",
-  "server": "Server"
+  "server": "Server",
+  "contentLayout": "Content layout",
+  "contentLayoutOriginal": "Original",
+  "contentLayoutSubfolder": "Subfolder",
+  "contentLayoutNoSubfolder": "NoSubfolder"
 }

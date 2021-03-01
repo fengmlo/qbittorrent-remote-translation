@@ -289,5 +289,9 @@
   "copyFileName": "複製文件名",
   "bestApiTips": "在 Api 2.6.1 及以上版本上能獲得最佳體驗",
   "searchHint": "過濾當前列表",
-  "server": "服務器"
+  "server": "服務器",
+  "contentLayout": "內容佈局",
+  "contentLayoutOriginal": "原始",
+  "contentLayoutSubfolder": "創建子文件夾",
+  "contentLayoutNoSubfolder": "不創建子文件夾"
 }

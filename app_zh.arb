@@ -289,5 +289,9 @@
   "copyFileName": "复制文件名",
   "bestApiTips": "在 Api 2.6.1 及以上版本上能获得最佳体验",
   "searchHint": "过滤当前列表",
-  "server": "服务器"
+  "server": "服务器",
+  "contentLayout": "内容布局",
+  "contentLayoutOriginal": "原始",
+  "contentLayoutSubfolder":"创建子文件夹",
+  "contentLayoutNoSubfolder": "不创建子文件夹"
 }
