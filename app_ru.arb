@@ -26,7 +26,7 @@
   "ratio": "Рейтинг",
   "torrentLinkLabel": "Ссылка или магнет-ссылка",
   "torrentFileLabel": "Торрент файл",
-  "torrentLinkHint": "http://, https://, магнет: и bc://bt/ ссылка, только одна ссылка в строке",
+  "torrentLinkHint": "http://, https://, magnet: и bc://bt/ ссылка, только одна ссылка в строке",
   "autoTmm": "Режим автоуправления торрентом",
   "savePath": "Путь сохранения",
   "fullSetting": "Больше настроек",
@@ -292,5 +292,9 @@
   "copyFileName": "Копировать имя файла",
   "bestApiTips": "Получите максимум удовольствия от Api 2.6.1 и выше",
   "searchHint": "Фильтр торрентов в списке",
-  "server": "Сервер"
+  "server": "Сервер",
+  "contentLayout": "Размещение содержимого",
+  "contentLayoutOriginal": "Исходное",
+  "contentLayoutSubfolder": "Создавать подпапку",
+  "contentLayoutNoSubfolder": "Не создавать подпапку"
 }
