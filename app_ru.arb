@@ -293,4 +293,8 @@
   "bestApiTips": "Получите максимум удовольствия от Api 2.6.1 и выше",
   "searchHint": "Фильтр торрентов в списке",
   "server": "Сервер"
+  "contentLayout": "Размещение содержимого",
+  "contentLayoutOriginal": "Исходное",
+  "contentLayoutSubfolder": "Создать подпапку",
+  "contentLayoutNoSubfolder": "Не создавать подпапку"
 }
