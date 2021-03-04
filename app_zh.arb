@@ -293,5 +293,17 @@
   "contentLayout": "内容布局",
   "contentLayoutOriginal": "原始",
   "contentLayoutSubfolder":"创建子文件夹",
-  "contentLayoutNoSubfolder": "不创建子文件夹"
+  "contentLayoutNoSubfolder": "不创建子文件夹",
+  "rss": "RSS",
+  "date": "日期",
+  "downloadTorrent": "下载种子",
+  "openUrl": "打开 Url",
+  "cannotOpenUrlTips": "无法打开链接: {url}",
+  "@cannotOpenUrlTips": {
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  }
 }

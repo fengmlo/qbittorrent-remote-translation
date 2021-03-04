@@ -296,5 +296,17 @@
   "contentLayout": "Content layout",
   "contentLayoutOriginal": "Original",
   "contentLayoutSubfolder": "Subfolder",
-  "contentLayoutNoSubfolder": "NoSubfolder"
+  "contentLayoutNoSubfolder": "NoSubfolder",
+  "rss": "RSS",
+  "date": "Date",
+  "downloadTorrent": "Download torrent",
+  "openUrl": "Open url",
+  "cannotOpenUrlTips": "Could not launch {url}",
+  "@cannotOpenUrlTips": {
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  }
 }
