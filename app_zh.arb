@@ -305,5 +305,17 @@
         "type": "String"
       }
     }
-  }
+  },
+  "unread": "未读",
+  "emptyList": "空",
+  "selectedItemCount": "{count,plural, other{{count}个项目}}",
+  "@selectedItemCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "newSubscription": "新订阅",
+  "newSubscriptionTitle":"请输入RSS订阅地址",
+  "feedUrlHint": "订阅源 Url"
 }

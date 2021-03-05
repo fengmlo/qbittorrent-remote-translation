@@ -308,5 +308,17 @@
         "type": "String"
       }
     }
-  }
+  },
+  "unread": "Unread",
+  "emptyList": "Empty list",
+  "selectedItemCount": "{count,plural, =1{{count} item} other{{count} items}}",
+  "@selectedItemCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "newSubscription": "New subscription",
+  "newSubscriptionTitle":"Type a RSS feed Url",
+  "feedUrlHint": "Feed Url"
 }

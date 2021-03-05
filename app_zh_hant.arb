@@ -305,5 +305,17 @@
         "type": "String"
       }
     }
-  }
+  },
+  "unread": "未讀",
+  "emptyList": "空",
+  "selectedItemCount": "{count,plural, other{{count}個項目}}",
+  "@selectedItemCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "newSubscription": "新訂閱",
+  "newSubscriptionTitle": "請輸入RSS訂閱地址",
+  "feedUrlHint": "訂閱源 Url"
 }
