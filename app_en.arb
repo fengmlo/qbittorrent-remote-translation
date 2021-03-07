@@ -319,6 +319,13 @@
     }
   },
   "newSubscription": "New subscription",
-  "newSubscriptionTitle":"Type a RSS feed Url",
-  "feedUrlHint": "Feed Url"
+  "newSubscriptionTitle": "Type a RSS feed Url",
+  "feedUrlHint": "Feed Url",
+  "updateSuccess": "Update success",
+  "autoUpdateRss": "Auto update RSS",
+  "autoUpdateRssOnSubtitle": "Auto update RSS items when entering the RSS page",
+  "autoUpdateRssOffSubtitle": "User clicks to update",
+  "fastStartDownload": "Fast start download",
+  "fastStartDownloadOnSubtitle": "Start downloading without displaying the download dialog",
+  "fastStartDownloadOffSubtitle": "Always show download dialog"
 }

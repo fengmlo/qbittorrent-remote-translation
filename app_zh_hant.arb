@@ -317,5 +317,12 @@
   },
   "newSubscription": "新訂閱",
   "newSubscriptionTitle": "請輸入RSS訂閱地址",
-  "feedUrlHint": "訂閱源 Url"
+  "feedUrlHint": "訂閱源 Url",
+  "updateSuccess": "更新成功",
+  "autoUpdateRss": "自動更新RSS",
+  "autoUpdateRssOnSubtitle": "進入RSS頁面時自動更新RSS項目",
+  "autoUpdateRssOffSubtitle": "用戶點擊更新",
+  "fastStartDownload": "快速開始下載",
+  "fastStartDownloadOnSubtitle": "某些情況下不顯示下載對話框",
+  "fastStartDownloadOffSubtitle": "始終顯示下載對話框"
 }

@@ -292,7 +292,7 @@
   "server": "服务器",
   "contentLayout": "内容布局",
   "contentLayoutOriginal": "原始",
-  "contentLayoutSubfolder":"创建子文件夹",
+  "contentLayoutSubfolder": "创建子文件夹",
   "contentLayoutNoSubfolder": "不创建子文件夹",
   "rss": "RSS",
   "date": "日期",
@@ -316,6 +316,13 @@
     }
   },
   "newSubscription": "新订阅",
-  "newSubscriptionTitle":"请输入RSS订阅地址",
-  "feedUrlHint": "订阅源 Url"
+  "newSubscriptionTitle": "请输入RSS订阅地址",
+  "feedUrlHint": "订阅源 Url",
+  "updateSuccess": "更新成功",
+  "autoUpdateRss": "自动更新RSS",
+  "autoUpdateRssOnSubtitle": "进入RSS页面时自动更新RSS项目",
+  "autoUpdateRssOffSubtitle": "用户点击更新",
+  "fastStartDownload": "快速开始下载",
+  "fastStartDownloadOnSubtitle": "某些情况下不显示下载对话框",
+  "fastStartDownloadOffSubtitle": "始终显示下载对话框"
 }
