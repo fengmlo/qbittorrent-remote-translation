@@ -324,5 +324,6 @@
   "autoUpdateRssOffSubtitle": "用户点击更新",
   "fastStartDownload": "快速开始下载",
   "fastStartDownloadOnSubtitle": "某些情况下不显示下载对话框",
-  "fastStartDownloadOffSubtitle": "始终显示下载对话框"
+  "fastStartDownloadOffSubtitle": "始终显示下载对话框",
+  "translator": "译者"
 }

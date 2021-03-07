@@ -327,5 +327,6 @@
   "autoUpdateRssOffSubtitle": "User clicks to update",
   "fastStartDownload": "Fast start download",
   "fastStartDownloadOnSubtitle": "Start downloading without displaying the download dialog",
-  "fastStartDownloadOffSubtitle": "Always show download dialog"
+  "fastStartDownloadOffSubtitle": "Always show download dialog",
+  "translator": "Translator"
 }
