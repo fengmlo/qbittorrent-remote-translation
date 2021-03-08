@@ -24,7 +24,7 @@
   "upSpeed": "Скорость отдачи",
   "eta": "Осталось времени",
   "ratio": "Рейтинг",
-  "torrentLinkLabel": "Ссылка или магнет-ссылка",
+  "torrentLinkLabel": "Адрес или магнет-ссылка",
   "torrentFileLabel": "Торрент файл",
   "torrentLinkHint": "http://, https://, magnet: и bc://bt/ ссылка, только одна ссылка в строке",
   "autoTmm": "Режим автоуправления торрентом",
@@ -295,7 +295,45 @@
   "server": "Сервер",
   "contentLayout": "Размещение содержимого",
   "contentLayoutOriginal": "Исходное",
-  "contentLayoutSubfolder": "Создавать подпапку",
+  "contentLayoutSubfolder": "Создать подпапку",
   "contentLayoutNoSubfolder": "Не создавать подпапку",
-  "rss": "RSS"
+  "rss": "RSS-каналы",
+  "date": "Дата",
+  "downloadTorrent": "Загрузить торрент",
+  "openUrl": "Открыть новостную ссылку",
+  "cannotOpenUrlTips": "Не удалось открыть {url}",
+  "@cannotOpenUrlTips": {
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "unread": "Не прочитано",
+  "emptyList": "Список пуст",
+  "selectedItemCount": "{count,plural, =1{{count} элемент} other{{count} элемента(ов)}}",
+  "@selectedItemCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "newSubscription": "Новая подписка",
+  "newSubscriptionTitle": "Введите адрес RSS-канала",
+  "feedUrlHint": "Адрес канала",
+  "updateSuccess": "Успешно обновлено",
+  "autoUpdateRss": "Автообновление RSS-каналов",
+  "autoUpdateRssOnSubtitle": "Автоматическое обновление RSS-элементов при входе на страницу RSS-каналов",
+  "autoUpdateRssOffSubtitle": "Ручное обновление, посредством нажатия кнопки обновления",
+  "fastStartDownload": "Быстрая загрузка",
+  "fastStartDownloadOnSubtitle": "Загружать без отображения диалогового окна загрузки",
+  "fastStartDownloadOffSubtitle": "Всегда отображать диалоговое окно загрузки",
+  "translator": "Переводчики",
+  "update": "Обновить",
+  "updateAll": "Обновить все",
+  "markItemsRead": "Отменить как прочитанные",
+  "copyFeedUrl": "Копировать адрес ссылки",
+  "delete": "Удалить",
+  "deleteRssDialogMessage": "Вы точно хотите удалить выбранные RSS-каналы?",
+  "newFeedNameHint": "Новое имя канала"
 }
