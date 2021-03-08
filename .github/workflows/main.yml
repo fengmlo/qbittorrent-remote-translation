@@ -24,16 +24,24 @@ jobs:
         token: ${{ secrets.access_token }} # `GitHub_PAT` is a secret that contains your PAT
         #path: my-tools
         ref: master
-    #- run: git submodule update --init --recursive
-    - name: Checkout submodules # checkout rest
-      shell: bash
-      run: |
-        # If your submodules are configured to use SSH instead of HTTPS please uncomment the following line
-        git config --global url."https://github.com/".insteadOf "git@github.com:"
-        auth_header="$(git config --local --get http.https://github.com/.extraheader)"
-        git submodule sync --recursive
-        git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+        fetch-depth: 0
+        submodules: 'recursive'
+    
+    - run: |
+        git pull
+        #echo $(git log --branches --remotes=origin)
+        git checkout $(git log --branches --remotes=origin -1 --pretty=format:'%D' | sed 's/.*, //g')
         git submodule update --remote
+    # - run: git submodule update --init --recursive
+    # - name: Checkout submodules # checkout rest
+    #   shell: bash
+    #   run: |
+    #     # If your submodules are configured to use SSH instead of HTTPS please uncomment the following line
+    #     git config --global url."https://github.com/".insteadOf "git@github.com:"
+    #     auth_header="$(git config --local --get http.https://github.com/.extraheader)"
+    #     git submodule sync --recursive
+    #     git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+    #     git submodule update --remote
 
     - name: Get key
       uses: RollyPeres/base64-to-path@v1
@@ -55,9 +63,9 @@ jobs:
     # Setup the flutter environment.
     - uses: subosito/flutter-action@v1
       with:
-        channel: 'dev' # 'dev', 'alpha', default to: 'stable'
+        channel: 'stable' # 'dev', 'alpha', default to: 'stable'
         # flutter-version: '1.12.x' # you can also specify exact version of flutter
-        flutter-version: 1.26.0-1.0.pre
+        flutter-version: 2.0.0
 
     #- run: git submodule init
     #- run: git submodule update
