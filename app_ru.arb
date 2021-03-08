@@ -296,6 +296,6 @@
   "contentLayout": "Размещение содержимого",
   "contentLayoutOriginal": "Исходное",
   "contentLayoutSubfolder": "Создавать подпапку",
-  "contentLayoutNoSubfolder": "Не создавать подпапку"
+  "contentLayoutNoSubfolder": "Не создавать подпапку",
   "rss": "RSS"
 }
