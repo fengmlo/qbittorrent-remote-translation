@@ -328,5 +328,12 @@
   "fastStartDownload": "Fast start download",
   "fastStartDownloadOnSubtitle": "Start downloading without displaying the download dialog",
   "fastStartDownloadOffSubtitle": "Always show download dialog",
-  "translator": "Translator"
+  "translator": "Translators",
+  "update": "Update",
+  "updateAll": "Update all",
+  "markItemsRead": "Mark items read",
+  "copyFeedUrl": "Copy feed url",
+  "delete": "Delete",
+  "deleteRssDialogMessage": "Are you sure you want to delete the selected RSS feeds?",
+  "newFeedNameHint": "New feed name"
 }

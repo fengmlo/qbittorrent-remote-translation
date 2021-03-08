@@ -323,7 +323,14 @@
   "autoUpdateRssOnSubtitle": "进入RSS页面时自动更新RSS项目",
   "autoUpdateRssOffSubtitle": "用户点击更新",
   "fastStartDownload": "快速开始下载",
-  "fastStartDownloadOnSubtitle": "某些情况下不显示下载对话框",
+  "fastStartDownloadOnSubtitle": "不显示下载弹框，直接开始下载",
   "fastStartDownloadOffSubtitle": "始终显示下载对话框",
-  "translator": "译者"
+  "translator": "译者",
+  "update": "更新",
+  "updateAll": "全部更新",
+  "markItemsRead": "标记为已读",
+  "copyFeedUrl": "复制订阅源 Url",
+  "delete": "删除",
+  "deleteRssDialogMessage": "您确定要删除所选的 RSS 订阅吗？",
+  "newFeedNameHint": "新订阅源名称"
 }
