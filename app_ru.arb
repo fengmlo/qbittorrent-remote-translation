@@ -56,8 +56,8 @@
   "addServer": "Добавить сервер",
   "manageServer": "Управление серверами",
   "appSetting": "Настройки",
-  "setCategoryDialogTittle": "Выбрать",
-  "editCategory": "Изменить",
+  "setCategoryDialogTittle": "Выбрать категорию",
+  "editCategory": "Изменить категорию",
   "downloadedInHomeList": "{completed} (всего: {totalSize})",
   "@downloadedInHomeList": {
     "placeholders": {
@@ -336,7 +336,7 @@
   "delete": "Удалить",
   "deleteRssDialogMessage": "Вы точно хотите удалить выбранные RSS-каналы?",
   "newFeedNameHint": "Новое имя канала",
-  "rememberDownloadSetting": "Пункты настроек диалогового окна загрузки",
+  "rememberDownloadSetting": "Пункты настроек диалогового окна добавления загрузки",
   "rememberDownloadSettingOnSubtitle": "Запоминать выбранные пункты настроек в диалоговом окне добавления загрузки",
   "rememberDownloadSettingOffSubtitle": "Не запоминать выбранные пункты настроек в диалоговом окне добавления загрузки"
 }
