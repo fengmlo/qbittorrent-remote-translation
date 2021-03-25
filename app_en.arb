@@ -335,5 +335,8 @@
   "copyFeedUrl": "Copy feed url",
   "delete": "Delete",
   "deleteRssDialogMessage": "Are you sure you want to delete the selected RSS feeds?",
-  "newFeedNameHint": "New feed name"
+  "newFeedNameHint": "New feed name",
+  "rememberDownloadSetting": "Remember download Setting",
+  "rememberDownloadSettingOnSubtitle": "Remember the options in the download dialog",
+  "rememberDownloadSettingOffSubtitle": "Don’t remember the options in the download dialog"
 }
