@@ -16,7 +16,7 @@
   "newNameHint": "Новое имя",
   "changeSavePath": "Изменить путь сохранения",
   "newSavePathHint": "Новый путь",
-  "addedOn": "Добавлен",
+  "addedOn": "Дата добавления",
   "name": "Имя",
   "size": "Размер",
   "state": "Статус",
@@ -93,7 +93,7 @@
   "files": "Файлы",
   "trackers": "Трекеры",
   "peers": "Пиры",
-  "torrentInformation": "Информация о торрент",
+  "torrentInformation": "Информация",
   "totalSizeTitle": "Общий размер",
   "totalSizeInfo": "{totalSize} ({piecesNum} частей из {pieceSize})",
   "@totalSizeInfo": {
@@ -111,7 +111,7 @@
   "savePathTitle": "Путь сохранения",
   "createDateTitle": "Дата создания",
   "creatorTitle": "Создав в",
-  "transfer": "Передача",
+  "transfer": "Торрент",
   "totalDownloadedTitle": "Загружено",
   "totalUploadedTitle": "Отдано",
   "totalWastedTitle": "Потеряно",
@@ -129,13 +129,13 @@
   "customize": "Настроить",
   "minuteHint": "в минутах",
   "dates": "Дата",
-  "addedDateTitle": "Добавлен",
+  "addedDateTitle": "Дата добавления",
   "completedDateTitle": "Завершен",
   "elapsedDateTitle": "Активен",
   "timeElapsed": "Прошедшее время",
   "downLoadTimeTitle": "Загрузка",
   "seedingTimeTitle": "Раздача",
-  "etaTitle": "Осталось",
+  "etaTitle": "Осталось времени",
   "noPeersTips": "Нет пиров",
   "client": "Клиент",
   "connection": "Соединение",
@@ -206,8 +206,8 @@
   "autoManageTorrentOnSubtitle": "Включен. Путь сохранения выбирается автоматически в зависимости от категории",
   "autoManageTorrentOffSubtitle": "Выключен. Можно изменять путь сохранения",
   "showNationalFlag": "Отображение страны",
-  "showNationalFlagOnSubtitle": "Флаг страны в списке пиров",
-  "showNationalFlagOffSubtitle": "Название страны в списке пиров",
+  "showNationalFlagOnSubtitle": "Показывать флаг страны в списке пиров",
+  "showNationalFlagOffSubtitle": "Показывать название страны в списке пиров",
   "expandFileList": "Список файлов торрента",
   "expandFileListOnSubtitle": "Список файлов развернут",
   "expandFileListOffSubtitle": "Список файлов свернут",
@@ -338,5 +338,62 @@
   "newFeedNameHint": "Новое имя канала",
   "rememberDownloadSetting": "Пункты настроек диалогового окна добавления загрузки",
   "rememberDownloadSettingOnSubtitle": "Запоминать выбранные пункты настроек в диалоговом окне добавления загрузки",
-  "rememberDownloadSettingOffSubtitle": "Не запоминать выбранные пункты настроек в диалоговом окне добавления загрузки"
+  "rememberDownloadSettingOffSubtitle": "Не запоминать выбранные пункты настроек в диалоговом окне добавления загрузки",
+  "piecesTitle": "Части",
+  "piecesInfo": "{piecesNum} × {pieceSize} (из них есть {pieceHave})",
+  "@piecesInfo": {
+    "placeholders": {
+      "piecesNum": {
+      },
+      "pieceSize": {
+        "type": "String"
+      },
+      "pieceHave": {
+      }
+    }
+  },
+  "completedOnTitle": "Дата завершения",
+  "createdOnTitle": "Создав в",
+  "torrentHashTitle": "Хеш торрента",
+  "commentTitle": "Комментарий",
+  "timeActiveTitle": "Активен",
+  "connectionsTitle": "Соединения",
+  "connectionsInfo": "{connectionsNum} ({connectionsLimit} максимум)",
+  "@connectionsInfo": {
+    "placeholders": {
+      "connectionsNum": {
+      },
+      "connectionsLimit": {
+      }
+    }
+  },
+  "transferInfo": "{transferred} ({transferredInSession} за сеанс)",
+  "@transferInfo": {
+    "placeholders": {
+      "transferred": {
+      },
+      "transferredInSession": {
+      }
+    }
+  },
+  "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} всего)",
+  "@seedsOrPeersInfo": {
+    "placeholders": {
+      "seedsOrPeers": {
+      },
+      "totalSeedsOrPeers": {
+      }
+    }
+  },
+  "speedInfo": "{speed} ({speedAvg} средняя)",
+  "@speedInfo": {
+    "placeholders": {
+      "speed": {
+      },
+      "speedAvg": {
+      }
+    }
+  },
+  "reannounceInTitle": "Следующий анонс",
+  "lastSeenCompleteTitle": "Замечен целиком"
 }
