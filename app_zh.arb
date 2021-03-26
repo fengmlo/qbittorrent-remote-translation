@@ -113,7 +113,7 @@
   "createDateTitle": "创建时间",
   "creatorTitle": "创建者",
   "transfer": "传输",
-  "totalDownloadedTitle": "总计下载",
+  "totalDownloadedTitle": "已下载",
   "totalUploadedTitle": "已上传",
   "totalWastedTitle": "损耗",
   "averageDownloadSpeedTitle": "平均下载速度",
@@ -130,13 +130,13 @@
   "customize": "自定义",
   "minuteHint": "分钟",
   "dates": "日期",
-  "addedDateTitle": "添加时间",
+  "addedDateTitle": "添加于",
   "completedDateTitle": "完成时间",
   "elapsedDateTitle": "持续时间",
   "timeElapsed": "运行时间",
   "downLoadTimeTitle": "下载时间",
   "seedingTimeTitle": "做种时间",
-  "etaTitle": "ETA",
+  "etaTitle": "剩余时间",
   "noPeersTips": "没有节点",
   "client": "客户端",
   "connection": "连接",
@@ -335,5 +335,62 @@
   "newFeedNameHint": "新订阅源名称",
   "rememberDownloadSetting": "记住下载设置",
   "rememberDownloadSettingOnSubtitle": "记住下载弹框中的选项",
-  "rememberDownloadSettingOffSubtitle": "不记住下载弹框中的选项"
+  "rememberDownloadSettingOffSubtitle": "不记住下载弹框中的选项",
+  "piecesTitle": "区块",
+  "piecesInfo": "{piecesNum} × {pieceSize} (已完成 {pieceHave})",
+  "@piecesInfo": {
+    "placeholders": {
+      "piecesNum": {
+      },
+      "pieceSize": {
+        "type": "String"
+      },
+      "pieceHave": {
+      }
+    }
+  },
+  "completedOnTitle": "完成于",
+  "createdOnTitle": "创建于",
+  "torrentHashTitle": "Torrent 哈希值",
+  "commentTitle": "注释",
+  "timeActiveTitle": "活动时间",
+  "connectionsTitle": "连接",
+  "connectionsInfo": "{connectionsNum} (最大 {connectionsLimit})",
+  "@connectionsInfo": {
+    "placeholders": {
+      "connectionsNum": {
+      },
+      "connectionsLimit": {
+      }
+    }
+  },
+  "transferInfo": "{transferred} (本次会话 {transferredInSession})",
+  "@transferInfo": {
+    "placeholders": {
+      "transferred": {
+      },
+      "transferredInSession": {
+      }
+    }
+  },
+  "seedsOrPeersInfo": "{seedsOrPeers} (总计 {totalSeedsOrPeers})",
+  "@seedsOrPeersInfo": {
+    "placeholders": {
+      "seedsOrPeers": {
+      },
+      "totalSeedsOrPeers": {
+      }
+    }
+  },
+  "speedInfo": "{speed} (平均 {speedAvg})",
+  "@speedInfo": {
+    "placeholders": {
+      "speed": {
+      },
+      "speedAvg": {
+      }
+    }
+  },
+  "reannounceInTitle": "下次汇报",
+  "lastSeenCompleteTitle": "最后完整可见"
 }

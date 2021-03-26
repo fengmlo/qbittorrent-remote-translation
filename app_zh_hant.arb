@@ -113,7 +113,7 @@
   "createDateTitle": "創建時間",
   "creatorTitle": "創建者",
   "transfer": "傳輸",
-  "totalDownloadedTitle": "總計下載",
+  "totalDownloadedTitle": "已下載",
   "totalUploadedTitle": "已上傳",
   "totalWastedTitle": "損耗",
   "averageDownloadSpeedTitle": "平均下載速度",
@@ -130,13 +130,13 @@
   "customize": "自定義",
   "minuteHint": "分鐘",
   "dates": "日期",
-  "addedDateTitle": "添加時間",
+  "addedDateTitle": "添加於",
   "completedDateTitle": "完成時間",
   "elapsedDateTitle": "持續時間",
   "timeElapsed": "運行時間",
   "downLoadTimeTitle": "下載時間",
   "seedingTimeTitle": "做種時間",
-  "etaTitle": "ETA",
+  "etaTitle": "剩餘時間",
   "noPeersTips": "沒有節點",
   "client": "客戶端",
   "connection": "連接",
@@ -335,5 +335,62 @@
   "newFeedNameHint": "新訂閱源名稱",
   "rememberDownloadSetting": "記住下載設置",
   "rememberDownloadSettingOnSubtitle": "記住下載彈框中的選項",
-  "rememberDownloadSettingOffSubtitle": "不記住下載彈框中的選項"
+  "rememberDownloadSettingOffSubtitle": "不記住下載彈框中的選項",
+  "piecesTitle": "區塊",
+  "piecesInfo": "{piecesNum} × {pieceSize} (已完成 {pieceHave})",
+  "@piecesInfo": {
+    "placeholders": {
+      "piecesNum": {
+      },
+      "pieceSize": {
+        "type": "String"
+      },
+      "pieceHave": {
+      }
+    }
+  },
+  "completedOnTitle": "完成於",
+  "createdOnTitle": "創建於",
+  "torrentHashTitle": "Torrent 哈希值",
+  "commentTitle": "註釋",
+  "timeActiveTitle": "活動時間",
+  "connectionsTitle": "連接",
+  "connectionsInfo": "{connectionsNum} (最大 {connectionsLimit})",
+  "@connectionsInfo": {
+    "placeholders": {
+      "connectionsNum": {
+      },
+      "connectionsLimit": {
+      }
+    }
+  },
+  "transferInfo": "{transferred} (本次會話 {transferredInSession})",
+  "@transferInfo": {
+    "placeholders": {
+      "transferred": {
+      },
+      "transferredInSession": {
+      }
+    }
+  },
+  "seedsOrPeersInfo": "{seedsOrPeers} (總計 {totalSeedsOrPeers})",
+  "@seedsOrPeersInfo": {
+    "placeholders": {
+      "seedsOrPeers": {
+      },
+      "totalSeedsOrPeers": {
+      }
+    }
+  },
+  "speedInfo": "{speed} (平均 {speedAvg})",
+  "@speedInfo": {
+    "placeholders": {
+      "speed": {
+      },
+      "speedAvg": {
+      }
+    }
+  },
+  "reannounceInTitle": "下次匯報",
+  "lastSeenCompleteTitle": "最後完整可見"
 }

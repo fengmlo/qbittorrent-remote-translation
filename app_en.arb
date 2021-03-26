@@ -110,7 +110,7 @@
   },
   "savePathTitle": "Save Path",
   "createDateTitle": "Created On",
-  "creatorTitle": "Creator",
+  "creatorTitle": "Created By",
   "transfer": "Transfer",
   "totalDownloadedTitle": "Downloaded",
   "totalUploadedTitle": "Uploaded",
@@ -129,7 +129,7 @@
   "customize": "Customize",
   "minuteHint": "minutes",
   "dates": "Dates",
-  "addedDateTitle": "Added",
+  "addedDateTitle": "Added On",
   "completedDateTitle": "Completed",
   "elapsedDateTitle": "Elapsed",
   "timeElapsed": "Time Elapsed",
@@ -338,5 +338,62 @@
   "newFeedNameHint": "New feed name",
   "rememberDownloadSetting": "Remember download Setting",
   "rememberDownloadSettingOnSubtitle": "Remember the options in the download dialog",
-  "rememberDownloadSettingOffSubtitle": "Don’t remember the options in the download dialog"
+  "rememberDownloadSettingOffSubtitle": "Don’t remember the options in the download dialog",
+  "piecesTitle": "Pieces",
+  "piecesInfo": "{piecesNum} × {pieceSize} (have {pieceHave})",
+  "@piecesInfo": {
+    "placeholders": {
+      "piecesNum": {
+      },
+      "pieceSize": {
+        "type": "String"
+      },
+      "pieceHave": {
+      }
+    }
+  },
+  "completedOnTitle": "Completed On",
+  "createdOnTitle": "Created On",
+  "torrentHashTitle": "Torrent Hash",
+  "commentTitle": "Comment",
+  "timeActiveTitle": "Time Active",
+  "connectionsTitle": "Connections",
+  "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
+  "@connectionsInfo": {
+    "placeholders": {
+      "connectionsNum": {
+      },
+      "connectionsLimit": {
+      }
+    }
+  },
+  "transferInfo": "{transferred} ({transferredInSession} this session)",
+  "@transferInfo": {
+    "placeholders": {
+      "transferred": {
+      },
+      "transferredInSession": {
+      }
+    }
+  },
+  "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} total)",
+  "@seedsOrPeersInfo": {
+    "placeholders": {
+      "seedsOrPeers": {
+      },
+      "totalSeedsOrPeers": {
+      }
+    }
+  },
+  "speedInfo": "{speed} ({speedAvg} avg.)",
+  "@speedInfo": {
+    "placeholders": {
+      "speed": {
+      },
+      "speedAvg": {
+      }
+    }
+  },
+  "reannounceInTitle": "Reannounce In",
+  "lastSeenCompleteTitle": "Last Seen Complete"
 }
