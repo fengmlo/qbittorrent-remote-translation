@@ -133,8 +133,8 @@
   "completedDateTitle": "Завершен",
   "elapsedDateTitle": "Активен",
   "timeElapsed": "Прошедшее время",
-  "downLoadTimeTitle": "Загрузка",
-  "seedingTimeTitle": "Раздача",
+  "downLoadTimeTitle": "Время загрузки",
+  "seedingTimeTitle": "Время раздачи",
   "etaTitle": "Осталось времени",
   "noPeersTips": "Нет пиров",
   "client": "Клиент",
@@ -353,7 +353,7 @@
     }
   },
   "completedOnTitle": "Дата завершения",
-  "createdOnTitle": "Создав в",
+  "createdOnTitle": "Создан в",
   "torrentHashTitle": "Хеш торрента",
   "commentTitle": "Комментарий",
   "timeActiveTitle": "Активен",
@@ -395,5 +395,15 @@
     }
   },
   "reannounceInTitle": "Следующий анонс",
-  "lastSeenCompleteTitle": "Замечен целиком"
+  "lastSeenCompleteTitle": "Замечен целиком",
+  "byte": "Б",
+  "kib": "КБ",
+  "mib": "МБ",
+  "gib": "ГБ",
+  "tib": "ТБ",
+  "bytePerSec": "Б/с",
+  "kibPerSec": "КБ/с",
+  "mibPerSec": "МБ/с",
+  "gibPerSec": "ГБ/с",
+  "tibPerSec": "ТБ/с"
 }
