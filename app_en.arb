@@ -395,5 +395,15 @@
     }
   },
   "reannounceInTitle": "Reannounce In",
-  "lastSeenCompleteTitle": "Last Seen Complete"
+  "lastSeenCompleteTitle": "Last Seen Complete",
+  "byte": "B",
+  "kib": "KB",
+  "mib": "MB",
+  "gib": "GB",
+  "tib": "TB",
+  "bytePerSec": "B/s",
+  "kibPerSec": "KB/s",
+  "mibPerSec": "MB/s",
+  "gibPerSec": "GB/s",
+  "tibPerSec": "TB/s"
 }

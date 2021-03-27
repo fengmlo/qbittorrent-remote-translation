@@ -392,5 +392,15 @@
     }
   },
   "reannounceInTitle": "下次汇报",
-  "lastSeenCompleteTitle": "最后完整可见"
+  "lastSeenCompleteTitle": "最后完整可见",
+  "byte": "B",
+  "kib": "KB",
+  "mib": "MB",
+  "gib": "GB",
+  "tib": "TB",
+  "bytePerSec": "B/s",
+  "kibPerSec": "KB/s",
+  "mibPerSec": "MB/s",
+  "gibPerSec": "GB/s",
+  "tibPerSec": "TB/s"
 }

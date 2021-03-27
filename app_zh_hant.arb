@@ -392,5 +392,15 @@
     }
   },
   "reannounceInTitle": "下次匯報",
-  "lastSeenCompleteTitle": "最後完整可見"
+  "lastSeenCompleteTitle": "最後完整可見",
+  "byte": "B",
+  "kib": "KB",
+  "mib": "MB",
+  "gib": "GB",
+  "tib": "TB",
+  "bytePerSec": "B/s",
+  "kibPerSec": "KB/s",
+  "mibPerSec": "MB/s",
+  "gibPerSec": "GB/s",
+  "tibPerSec": "TB/s"
 }
