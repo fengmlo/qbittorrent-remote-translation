@@ -34,4 +34,4 @@ The format is a key-value pair separated by a colon. The key on the left does no
 4. Key-value pairs starting with @ do not need to be translated.
 
 ## Translator
-- русский: Alexey
+- Pусский: Alexey
