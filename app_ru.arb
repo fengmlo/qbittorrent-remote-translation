@@ -405,5 +405,6 @@
   "kibPerSec": "КБ/с",
   "mibPerSec": "МБ/с",
   "gibPerSec": "ГБ/с",
-  "tibPerSec": "ТБ/с"
+  "tibPerSec": "ТБ/с",
+  "remaining": "Осталось"
 }
