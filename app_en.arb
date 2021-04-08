@@ -406,5 +406,21 @@
   "mibPerSec": "MB/s",
   "gibPerSec": "GB/s",
   "tibPerSec": "TB/s",
-  "remaining": "Remaining"
+  "remaining": "Remaining",
+  "searchNewTorrentHint": "Search",
+  "searchEngine": "Search engine",
+  "searchOption": "Search option",
+  "searchPlugin": "Plugin",
+  "onlyEnabled": "Only enabled",
+  "allPlugins": "All plugins",
+  "allCategories": "All categories",
+  "categoryAnime": "Anime",
+  "categoryBooks": "Books",
+  "categoryGames": "Games",
+  "categoryMovies": "Movies",
+  "categoryMusic": "Music",
+  "categorySoftware": "Software",
+  "categoryTv": "TV shows"
+
+
 }
