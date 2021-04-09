@@ -403,5 +403,15 @@
   "mibPerSec": "MB/s",
   "gibPerSec": "GB/s",
   "tibPerSec": "TB/s",
-  "remaining": "剩餘"
+  "remaining": "剩餘",
+  "resumeAll": "全部恢復",
+  "pauseAll": "全部暫停",
+  "sort": "排序",
+  "addNewTorrent": "添加新種子",
+  "addFromLink": "從鏈接添加",
+  "addFromFile": "從文件添加",
+  "toggleSpeedLimit": "切換速度限制",
+  "toggleSelectAll": "切換全選",
+  "save": "保存",
+  "toggleVisibility": "切換可見性"
 }

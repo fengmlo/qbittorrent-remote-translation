@@ -406,5 +406,15 @@
   "mibPerSec": "MB/s",
   "gibPerSec": "GB/s",
   "tibPerSec": "TB/s",
-  "remaining": "Remaining"
+  "remaining": "Remaining",
+  "resumeAll": "Resume all",
+  "pauseAll": "Pause all",
+  "sort": "Sort",
+  "addNewTorrent": "Add new torrent",
+  "addFromLink": "Add from link",
+  "addFromFile": "Add from file",
+  "toggleSpeedLimit": "Toggle speed limit",
+  "toggleSelectAll": "Toggle select all",
+  "save": "Save",
+  "toggleVisibility": "Toggle visibility"
 }
