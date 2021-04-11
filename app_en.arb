@@ -426,5 +426,7 @@
   "uninstallPlugin": "Uninstall plugin",
   "installPluginHint": "Url or local directory",
   "url": "Url",
-  "uninstallPluginMessage": "Are you sure you want to uninstall this plugin?"
+  "uninstallPluginMessage": "Are you sure you want to uninstall this plugin?",
+  "stopSearch": "Stop search",
+  "manageSearchPlugins": "Manage search plugins"
 }
