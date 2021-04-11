@@ -423,5 +423,7 @@
   "uninstallPlugin": "卸载插件",
   "installPluginHint": " Url或本地目录",
   "url": "Url",
-  "uninstallPluginMessage": "确定要卸载此插件吗？"
+  "uninstallPluginMessage": "确定要卸载此插件吗？",
+  "stopSearch": "停止搜索",
+  "manageSearchPlugins": "管理搜索插件"
 }
