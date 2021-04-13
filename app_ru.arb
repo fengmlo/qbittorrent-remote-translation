@@ -406,5 +406,15 @@
   "mibPerSec": "МБ/с",
   "gibPerSec": "ГБ/с",
   "tibPerSec": "ТБ/с",
-  "remaining": "Осталось"
+  "remaining": "Осталось",
+  "resumeAll": "Возобновить все",
+  "pauseAll": "Остановить все",
+  "sort": "Сортировать",
+  "addNewTorrent": "Добавить новую загрузку",
+  "addFromLink": "Через ссылку на торрент",
+  "addFromFile": "Через торрент-файл",
+  "toggleSpeedLimit": "Ограничения скорости",
+  "toggleSelectAll": "Выбрать все",
+  "save": "Сохранить",
+  "toggleVisibility": "Видимость"
 }
