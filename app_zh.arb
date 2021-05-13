@@ -441,5 +441,6 @@
   "enableRssOffSubtitle": "禁用RSS管理功能",
   "enableSearch": "启用搜索功能",
   "enableSearchOnSubtitle": "启用远程搜索。警告：从远端搜索引擎下载种子时，请确保遵守您所在国家/地区的版权法。",
-  "enableSearchOffSubtitle": "禁用远程搜索。警告：从远端搜索引擎下载种子时，请确保遵守您所在国家/地区的版权法。"
+  "enableSearchOffSubtitle": "禁用远程搜索。警告：从远端搜索引擎下载种子时，请确保遵守您所在国家/地区的版权法。",
+  "uncategorized": "未分类"
 }

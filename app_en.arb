@@ -444,5 +444,6 @@
   "enableRssOffSubtitle": "Disable RSS management",
   "enableSearch": "Enable search",
   "enableSearchOnSubtitle": "Enable remote search. Warning: Be sure to comply with your country's copyright laws when downloading torrents from your search engines.",
-  "enableSearchOffSubtitle": "Disable remote search. Warning: Be sure to comply with your country's copyright laws when downloading torrents from your search engines."
+  "enableSearchOffSubtitle": "Disable remote search. Warning: Be sure to comply with your country's copyright laws when downloading torrents from your search engines.",
+  "uncategorized": "Uncategorized"
 }
