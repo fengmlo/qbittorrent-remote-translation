@@ -435,5 +435,11 @@
   "url": "Url",
   "uninstallPluginMessage": "確定要卸載此插件嗎？",
   "stopSearch": "停止搜索",
-  "manageSearchPlugins": "管理搜索插件"
+  "manageSearchPlugins": "管理搜索插件",
+  "enableRss": "啟用RSS",
+  "enableRssOnSubtitle": "啟用RSS管理功能",
+  "enableRssOffSubtitle": "禁用RSS管理功能",
+  "enableSearch": "啟用搜索功能",
+  "enableSearchOnSubtitle": "啟用遠程搜索。警告：從遠端搜索引擎下載種子時，請確保遵守您所在國家/地區的版權法。",
+  "enableSearchOffSubtitle": "禁用遠程搜索。警告：從遠端搜索引擎下載種子時，請確保遵守您所在國家/地區的版權法。"
 }

@@ -438,5 +438,11 @@
   "url": "Url",
   "uninstallPluginMessage": "Are you sure you want to uninstall this plugin?",
   "stopSearch": "Stop search",
-  "manageSearchPlugins": "Manage search plugins"
+  "manageSearchPlugins": "Manage search plugins",
+  "enableRss": "Enable RSS",
+  "enableRssOnSubtitle": "Enable RSS management",
+  "enableRssOffSubtitle": "Disable RSS management",
+  "enableSearch": "Enable search",
+  "enableSearchOnSubtitle": "Enable remote search. Warning: Be sure to comply with your country's copyright laws when downloading torrents from your search engines.",
+  "enableSearchOffSubtitle": "Disable remote search. Warning: Be sure to comply with your country's copyright laws when downloading torrents from your search engines."
 }
