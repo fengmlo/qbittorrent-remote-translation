@@ -442,5 +442,17 @@
   "enableSearch": "启用搜索功能",
   "enableSearchOnSubtitle": "启用远程搜索。警告：从远端搜索引擎下载种子时，请确保遵守您所在国家/地区的版权法。",
   "enableSearchOffSubtitle": "禁用远程搜索。警告：从远端搜索引擎下载种子时，请确保遵守您所在国家/地区的版权法。",
-  "uncategorized": "未分类"
+  "uncategorized": "未分类",
+  "allTimeUpload": "历史上传",
+  "allTimeDownload": "历史下载",
+  "allTimeShareRatio": "历史分享率",
+  "sessionWaste": "本次会话丢弃",
+  "connectedPeers": "连接用户",
+  "readCacheHits": "读缓存命中率",
+  "totalBufferSize": "总缓冲大小",
+  "writeCacheOverload": "写入缓存超负荷",
+  "readCacheOverload": "读取缓存超负荷",
+  "queuedIoJobs": "队列的 I/O 任务",
+  "averageTimeInQueue": "在队列的平均时间",
+  "totalQueuedSize": "总队列大小"
 }

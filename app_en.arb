@@ -445,5 +445,17 @@
   "enableSearch": "Enable search",
   "enableSearchOnSubtitle": "Enable remote search. Warning: Be sure to comply with your country's copyright laws when downloading torrents from your search engines.",
   "enableSearchOffSubtitle": "Disable remote search. Warning: Be sure to comply with your country's copyright laws when downloading torrents from your search engines.",
-  "uncategorized": "Uncategorized"
+  "uncategorized": "Uncategorized",
+  "allTimeUpload": "All-time upload",
+  "allTimeDownload": "All-time download",
+  "allTimeShareRatio": "All-time share ratio",
+  "sessionWaste": "Session waste",
+  "connectedPeers": "Connected peers",
+  "readCacheHits": "Read cache hits",
+  "totalBufferSize": "Total buffer size",
+  "writeCacheOverload": "Write cache overload",
+  "readCacheOverload": "Read cache overload",
+  "queuedIoJobs": "Queued I/O jobs",
+  "averageTimeInQueue": "Average time in queue",
+  "totalQueuedSize": "Total queued size"
 }
