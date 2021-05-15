@@ -454,5 +454,8 @@
   "readCacheOverload": "讀取緩存超負荷",
   "queuedIoJobs": "隊列的 I/O 任務",
   "averageTimeInQueue": "在隊列的平均時間",
-  "totalQueuedSize": "總隊列大小"
+  "totalQueuedSize": "總隊列大小",
+  "searchHistory": "搜索歷史",
+  "noSearchHistory": "沒有搜索歷史",
+  "clearSearchHistory": "清空搜索歷史"
 }

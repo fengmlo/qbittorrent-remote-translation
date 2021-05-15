@@ -457,5 +457,8 @@
   "readCacheOverload": "Read cache overload",
   "queuedIoJobs": "Queued I/O jobs",
   "averageTimeInQueue": "Average time in queue",
-  "totalQueuedSize": "Total queued size"
+  "totalQueuedSize": "Total queued size",
+  "searchHistory": "Search history",
+  "noSearchHistory": "No search history",
+  "clearSearchHistory": "Clear search history"
 }
