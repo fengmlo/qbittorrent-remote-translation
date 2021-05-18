@@ -1,0 +1,464 @@
+{
+  "clickToAddServer": "Klikni pro přidání serveru",
+  "selectMode": "Vybrat",
+  "selectTorrentCount": "{count,plural, =1{{count} torrent} <4{{count} torrenty} other{{count} torrentů}}",
+  "@selectTorrentCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "listEmpty": "Žádný Torrent",
+  "connectTimeout": "Časový limit připojení vypršel",
+  "serverError": "Error serveru",
+  "connectError": "Síťové připojení selhalo",
+  "rename": "Přejmenovat",
+  "newNameHint": "Nové jméno",
+  "changeSavePath": "Změnit cestu pro uložení",
+  "newSavePathHint": "Nová cesta pro uložení",
+  "addedOn": "Přidáno",
+  "name": "Název",
+  "size": "Velikost",
+  "state": "Stav",
+  "dlSpeed": "Rychlost stahování",
+  "upSpeed": "Rychlost odesílání",
+  "eta": "Odh. čas",
+  "ratio": "Ratio",
+  "torrentLinkLabel": "URL nebo Magnet link",
+  "torrentFileLabel": "Torrent soubor",
+  "torrentLinkHint": "http://, https://, magnety: a bc://bt/ linky, pouze jeden odkaz na řádek",
+  "autoTmm": "Automatická správa torrentu",
+  "savePath": "Cesta pro uložení",
+  "fullSetting": "Další nastavení",
+  "cancel": "ZRUŠIT",
+  "confirm": "POTVRDIT",
+  "noLinkTips": "Zadejte torrent link",
+  "category": "Kategorie",
+  "cookie": "Cookie",
+  "renameTorrent": "Přejmenovat torrent",
+  "limitDownloadSpeed": "Limit rychlosti stahování",
+  "limitUploadSpeed": "Limit rychlosti odesílání",
+  "autoStartDownload": "Spustit torrent",
+  "keepTopLevelFolder": "Ponechat složku nejvyšší úrovně",
+  "skipHashCheck": "Přeskočit kontrolu hashe",
+  "downloadInSequentialOrder": "Stáhnout v sekvenčním pořadí",
+  "downloadFirstAndLastPiecesFirst": "Nejprve se stáhne první a poslední část",
+  "deleteTorrentDialogTittle": "Smazat označené torrenty",
+  "deleteTorrentDialogMessage": "{count,plural, =1{Opravdu chcete smazat tento {count} torrent?} other{Opravdu chcete smazat tyto {count} torrenty?}}",
+  "@deleteTorrentDialogMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "alsoDeleteFile": "Odstranit i soubory",
+  "noServer": "Žádný server",
+  "addServer": "Přidat server",
+  "manageServer": "Spravovat servery",
+  "appSetting": "Nastavení",
+  "setCategoryDialogTittle": "Nastavit kategorii",
+  "editCategory": "Upravit kategorii",
+  "downloadedInHomeList": "{completed} (Celková velikost: {totalSize})",
+  "@downloadedInHomeList": {
+    "placeholders": {
+      "completed": {
+        "type": "String"
+      },
+      "totalSize": {
+        "type": "String"
+      }
+    }
+  },
+  "uploadedInHomeList": "{uploaded} (ratio: {ratio})",
+  "@uploadedInHomeList": {
+    "placeholders": {
+      "uploaded": {
+        "type": "String"
+      },
+      "ratio": {
+        "type": "String"
+      }
+    }
+  },
+  "unknown": "Neznámá",
+  "addCategory": "Přidat kategorii",
+  "addCategoryHint": "Název kategorie",
+  "addCategorySavePathHint": "Ve výchozím nastavení prázdné",
+  "manageCategory": "Spravovat kategorie",
+  "deleteCategoryMessage": "Opravdu chcete smazat tuto kategorii?",
+  "deleteSuccessTips": "Úspěšně smazáno",
+  "addSuccessTips": "Úspěšně přidáno",
+  "operationSuccessTips": "Operace byla úspěšná",
+  "info": "Info",
+  "files": "Soubory",
+  "trackers": "Trackery",
+  "peers": "Protějšky",
+  "torrentInformation": "Informace o torrentu",
+  "totalSizeTitle": "Celková velikost",
+  "totalSizeInfo": "{totalSize} ({piecesNum} částí z {pieceSize})",
+  "@totalSizeInfo": {
+    "placeholders": {
+      "totalSize": {
+        "type": "String"
+      },
+      "piecesNum": {
+      },
+      "pieceSize": {
+        "type": "String"
+      }
+    }
+  },
+  "savePathTitle": "Uložit do",
+  "createDateTitle": "Vytvořeno",
+  "creatorTitle": "Vytvořil",
+  "transfer": "Přenos",
+  "totalDownloadedTitle": "Staženo",
+  "totalUploadedTitle": "Odesláno",
+  "totalWastedTitle": "Zahozeno",
+  "averageDownloadSpeedTitle": "Prům. rychl. stah.",
+  "averageUploadSpeedTitle": "Prům. rychl. odes.",
+  "shareRatioTitle": "Ratio",
+  "optionTitle": "Možnost",
+  "priorityTitle": "Priorita",
+  "downloadSpeedLimit": "Limit stahování",
+  "upSpeedLimit": "Limit odesílání",
+  "ratioLimit": "Limit ratia",
+  "seedingTimeLimit": "Limit doby seedování",
+  "useGlobalSetting": "Globálně",
+  "noLimit": "Bez limitu",
+  "customize": "Customize",
+  "minuteHint": "minuty",
+  "dates": "Data",
+  "addedDateTitle": "Přidáno",
+  "completedDateTitle": "Dokončeno",
+  "elapsedDateTitle": "Uplynulo",
+  "timeElapsed": "Uplynulý čas",
+  "downLoadTimeTitle": "Stahuji",
+  "seedingTimeTitle": "Seeduji",
+  "etaTitle": "Odh. čas",
+  "noPeersTips": "Žádné protějšky",
+  "client": "Klient",
+  "connection": "Připojení",
+  "flags": "Vlajky",
+  "downloaded": "Staženo",
+  "uploaded": "Odesláno",
+  "progress": "Průběh",
+  "relevance": "Důležitost",
+  "tierInfo": "Tier {tier}",
+  "@tierInfo": {
+    "placeholders": {
+      "tier": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Stav",
+  "peersNumTitle": "Protějšky",
+  "seedsNumTitle": "Seedy",
+  "leechesNumTitle": "Leeches",
+  "downloadedNumTitle": "Staženo",
+  "messageTitle": "Zpráva",
+  "disabledStatus": "Vypnuto",
+  "notContactedStatus": "Dosud nekontaktován",
+  "workingStatus": "Funkční",
+  "updatingStatus": "Aktualizuji",
+  "notWorkingStatus": "Nefunkční",
+  "editServer": "Upravit server",
+  "serverName": "Název serveru ",
+  "host": "Název hostitele nebo IP",
+  "port": "Port",
+  "path": "Cesta",
+  "pathHint": "Ve výchozím nastavení prázdné",
+  "trustCertificates": "Důvěřovat SSL certifikátům podepsaných sám sebou",
+  "userName": "Uživatelské jméno",
+  "password": "Heslo",
+  "testServer": "Test",
+  "serverAlreadyExistsTips": "Server již existuje",
+  "inputServerNameTips": "Zadejte název serveru",
+  "inputHostTips": "Zadejte název hostitele nebo IP adresu",
+  "inputPortTips": "Zadejte port",
+  "inputUserNameTips": "Zadejte uživ. jméno",
+  "inputPasswordTips": "Zadejte heslo",
+  "configNotSaveDialogTitle": "Neuloženo",
+  "configNotSaveDialogMessage": "Konfigurace ještě nebyla uložena. Opravdu ji chcete ukončit?",
+  "deleteServerDialogTitle": "Odstranit server",
+  "deleteServerDialogMessage": "Opravdu chcete smazat tento server?",
+  "testServerSuccessTips": "Test byl úspěšný",
+  "testServerFailTips": "Test selhal",
+  "serverPreferences": "Předvolby serveru",
+  "globalSpeedLimits": "Globální limity rychlosti",
+  "alternativeSpeedLimits": "Alternativní limity rychlosti",
+  "saveSuccessTips": "Uloženo",
+  "refreshInterval": "Interval obnovení",
+  "refreshIntervalInfo": "{interval,plural, =1{{interval} sek} other{{interval} sek}}",
+  "@refreshIntervalInfo": {
+    "placeholders": {
+      "interval": {
+      }
+    }
+  },
+  "preferences": "Předvolby",
+  "updateInterval": "Interval aktualizace",
+  "updateIntervalSubtitle": "Interval aktualizace seznamu torrentů",
+  "servers": "Servery",
+  "serversSubtitle": "Přidat nebo odebrat servery",
+  "autoManageTorrent": "Auto správa torrentu",
+  "autoManageTorrentOnSubtitle": "Při přidávání torrentů je ve výchozím nastavení zaškrtnuta možnost „Automatická správa torrentu“",
+  "autoManageTorrentOffSubtitle": "Při přidávání torrentů zrušte zaškrtnutí možnosti „Automatická správa torrentu“",
+  "showNationalFlag": "Státní vlajka",
+  "showNationalFlagOnSubtitle": "Zobrazovat vlajku v seznamu protějšků",
+  "showNationalFlagOffSubtitle": "Zobrazovat název země v seznamu protějšků",
+  "expandFileList": "Rozbalit seznam souborů",
+  "expandFileListOnSubtitle": "Seznam souborů je ve výchozím nastavení rozšířen",
+  "expandFileListOffSubtitle": "Seznam souborů je ve výchozím nastavení sbalen",
+  "switchServerWhenAddTorrent": "Přepnout server při přidání torrentu",
+  "switchServerWhenAddTorrentOnSubtitle": "Dialogové okno „Přidat torrent“ může přepnout server",
+  "switchServerWhenAddTorrentOffSubtitle": "Dialogové okno „Přidat torrent“ nemůže přepnout server",
+  "version": "Verze",
+  "formatDay": "d",
+  "formatHour": "h",
+  "formatMinute": "m",
+  "formatSecond": "s",
+  "filterAll": "Všechny",
+  "filterActive": "Aktivní",
+  "filterDownloading": "Stahované",
+  "filterSeeding": "Seedované",
+  "filterPaused": "Pozastavené",
+  "filterCompleted": "Dokončené",
+  "actionPause": "Pozastavit",
+  "actionResume": "Obnovit",
+  "actionCopyMagnetLink": "Kopírovat magnet link",
+  "actionForceRecheck": "Vynutit překontrolování",
+  "actionForceReannounce": "Vynutit oznámení",
+  "actionForceStart": "Vynutit start",
+  "actionRename": "Přejmenovat",
+  "actionSetSavePath": "Nastavit cestu uložení",
+  "actionSetCategory": "Nastavit kategorii",
+  "actionLimitSpeed": "Omezit stahování",
+  "limitSpeedDialogTittle": "Omezení stahování",
+  "actionLimitShare": "Omezit odesílání",
+  "limitShareDialogTittle": "Omezení odesílání",
+  "actionPriority": "Priorita",
+  "actionPriorityIncrease": "Zvýšit prioritu",
+  "actionPriorityDecrease": "Snížit prioritu",
+  "actionPriorityMaximal": "Nejvyšší priorita",
+  "actionPriorityMinimal": "Nejnižší priorita",
+  "actionToggleSequentialDownload": "Přepnout stahování souborů v sekvenčním pořadí",
+  "actionToggleFirstOrLastPiecePriority": "Přepnout stahování první a poslední část",
+  "actionSuperSeeding": "Mód super seedování",
+  "actionAutomaticTorrentManagement": "Automatická správa torrentu",
+  "darkMode": "Noční režim",
+  "addServerFirstTips": "Nejprve přidejte server",
+  "copiedToClipboardTips": "Zkopírováno do schránky",
+  "noMagnetLinkTips": "Tento torrent nemá žádný magnet link",
+  "darkModeFollowSystem": "Noční režim dle nastavení systému",
+  "darkModeFollowSystemOnTips": "Aplikace používá nořní režim, když ho používá systém",
+  "darkModeFollowSystemOffTips": "Aplikace používá nezávislé nastavení",
+  "defaultStr": "Výchozí",
+  "ipAddress": "IP",
+  "country": "Země",
+  "upload": "Odesílat",
+  "download": "Stahovat",
+  "superSeeding": "Mód super seedování",
+  "forceStart": "Vynutit start",
+  "noCategoryTips": "Žádná kategorie",
+  "serverInfoDialogTittle": "Info o serveru",
+  "apiVersion": "Verze API",
+  "applicationVersion": "Verze aplikace",
+  "buildInfo": "Informace o buildu",
+  "freeSpace": "Volné místo",
+  "dht": "DHT",
+  "nodes": "Uzlů",
+  "queueing": "Řazení",
+  "queueingTrue": "Zapnuto",
+  "queueingFalse": "Vypnuto",
+  "addNewPeers": "Přidat protějšky",
+  "copyPeer": "Zkopírovat IP:port",
+  "banPeer": "Zablokovat protějšek",
+  "inputPeersHint": "Formát: IPv4:port / [IPv6]:port, jedna IP na řádek",
+  "noInputPeersTips": "Zadejte protějšky",
+  "addNewTrackers": "Přidat trackery",
+  "copyTracker": "Zkopírovat URL trackeru",
+  "editTracker": "Upravit URL trackeru",
+  "removeTracker": "Odebrat tracker",
+  "editUrlTitle": "Upravit URL",
+  "editUrlHint": "Nová URL",
+  "inputTrackersHint": "Seznam trackerů k přidání (jeden na řádek)",
+  "noInputTrackersTips": "Zadejte trackery",
+  "doNotDownload": "Nestahovat",
+  "normalPriority": "Normalní priorita",
+  "highPriority": "Vysoká priorita",
+  "maximalPriority": "Nejvyšší priorita",
+  "copyFileName": "Zkopírovat název souboru",
+  "bestApiTips": "Nejlepší kompatibilita s verzí API 2.6.1 a výše",
+  "searchHint": "Filtrovat aktuální seznam",
+  "server": "Server",
+  "contentLayout": "Rozložení obsahu",
+  "contentLayoutOriginal": "Originální",
+  "contentLayoutSubfolder": "Podsložka",
+  "contentLayoutNoSubfolder": "Bez podsložky",
+  "rss": "RSS",
+  "date": "Datum",
+  "downloadTorrent": "Stáhnout torrent",
+  "openUrl": "Otevřít odkaz",
+  "cannotOpenUrlTips": "Nelze spustit {url}",
+  "@cannotOpenUrlTips": {
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "unread": "Nezobrazeno",
+  "emptyList": "Prázdný seznam",
+  "selectedItemCount": "{count,plural, =1{{count} položka} <4other{{count} položky} {{count} položek}}",
+  "@selectedItemCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "newSubscription": "Nový odběr",
+  "newSubscriptionTitle": "Vložte odkaz RSS feedu",
+  "feedUrlHint": "Odkaz feedu",
+  "updateSuccess": "Aktualizováno",
+  "autoUpdateRss": "Auto aktualizace RSS",
+  "autoUpdateRssOnSubtitle": "Auto aktualizace položky RSS, při otevření RSS stránky",
+  "autoUpdateRssOffSubtitle": "Uživatel klikne pro aktualizaci",
+  "fastStartDownload": "Rychlé zahájení stahování",
+  "fastStartDownloadOnSubtitle": "Zahájit stahování bez zobrazení dialogového okna stahování",
+  "fastStartDownloadOffSubtitle": "Vždy zobrazit dialogové okno pro stažení",
+  "translator": "Překladatel",
+  "update": "Aktualizovat",
+  "updateAll": "Aktualizovat vše",
+  "markItemsRead": "Označ jako přečtené",
+  "copyFeedUrl": "Kopírovat odkaz feedů",
+  "delete": "Odstranit",
+  "deleteRssDialogMessage": "Určitě chcete smazar označené RSS feedy?",
+  "newFeedNameHint": "Nový název feedu",
+  "rememberDownloadSetting": "Zapamatovat si nastavení stahování",
+  "rememberDownloadSettingOnSubtitle": "Zapamatovat si možnosti v dialogovém okně stahování",
+  "rememberDownloadSettingOffSubtitle": "Nezapamatovat si možnosti v dialogovém okně stahování",
+  "piecesTitle": "Kousků",
+  "piecesInfo": "{piecesNum} × {pieceSize} (z nichž jsou {pieceHave})",
+  "@piecesInfo": {
+    "placeholders": {
+      "piecesNum": {
+      },
+      "pieceSize": {
+        "type": "String"
+      },
+      "pieceHave": {
+      }
+    }
+  },
+  "completedOnTitle": "Dokončeno",
+  "createdOnTitle": "Vytvořeno",
+  "torrentHashTitle": "Hash torrentu",
+  "commentTitle": "Komentář",
+  "timeActiveTitle": "Aktivní po dobu",
+  "connectionsTitle": "Spojení",
+  "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
+  "@connectionsInfo": {
+    "placeholders": {
+      "connectionsNum": {
+      },
+      "connectionsLimit": {
+      }
+    }
+  },
+  "transferInfo": "{transferred} ({transferredInSession} toto sezení)",
+  "@transferInfo": {
+    "placeholders": {
+      "transferred": {
+      },
+      "transferredInSession": {
+      }
+    }
+  },
+  "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} celkem)",
+  "@seedsOrPeersInfo": {
+    "placeholders": {
+      "seedsOrPeers": {
+      },
+      "totalSeedsOrPeers": {
+      }
+    }
+  },
+  "speedInfo": "{speed} ({speedAvg} prům.)",
+  "@speedInfo": {
+    "placeholders": {
+      "speed": {
+      },
+      "speedAvg": {
+      }
+    }
+  },
+  "reannounceInTitle": "Znovu-oznámit za",
+  "lastSeenCompleteTitle": "Poslední komplet zdroj",
+  "byte": "B",
+  "kib": "KB",
+  "mib": "MB",
+  "gib": "GB",
+  "tib": "TB",
+  "bytePerSec": "B/s",
+  "kibPerSec": "KB/s",
+  "mibPerSec": "MB/s",
+  "gibPerSec": "GB/s",
+  "tibPerSec": "TB/s",
+  "remaining": "Zbývající",
+  "resumeAll": "Obnovit vše",
+  "pauseAll": "Pozastavit vše",
+  "sort": "Třídit",
+  "addNewTorrent": "Přidat nový torrent",
+  "addFromLink": "Přidat z odkazu",
+  "addFromFile": "Přidat ze souboru",
+  "toggleSpeedLimit": "Přepnout limit rychlosti",
+  "toggleSelectAll": "Vybrat vše",
+  "save": "Uložit",
+  "toggleVisibility": "Přepnout viditelnost",
+  "searchNewTorrentHint": "Vyhledat",
+  "searchEngine": "Vyhledávač",
+  "searchOption": "Možnost hledání",
+  "searchPlugin": "Plugin",
+  "onlyEnabled": "Pouze povolené",
+  "allPlugins": "Všechny pluginy",
+  "allCategories": "Všechny kategorie",
+  "categoryAnime": "Anime",
+  "categoryBooks": "Knihy",
+  "categoryGames": "Hry",
+  "categoryMovies": "Filmy",
+  "categoryMusic": "Hudba",
+  "categorySoftware": "Software",
+  "categoryTv": "Seriály",
+  "searchPlugins": "Vyhledávací pluginy",
+  "installPlugin": "Nainstalovat plugin",
+  "uninstallPlugin": "Odinstalovat plugin",
+  "installPluginHint": "Odkaz nebo místní adresář",
+  "url": "Odkaz",
+  "uninstallPluginMessage": "Opravdu chcete odinstalovat tento plugin?",
+  "stopSearch": "Ukončit vyhledávání",
+  "manageSearchPlugins": "Spravujte vyhledávací pluginy",
+  "enableRss": "Zapnout RSS",
+  "enableRssOnSubtitle": "Zapnout správu RSS",
+  "enableRssOffSubtitle": "Vypnout správu RSS",
+  "enableSearch": "Zapnout vyhledávání",
+  "enableSearchOnSubtitle": "Povolit vzdálené vyhledávání. VAROVÁNÍ: Při stahování torrentů z vyhledávačů dodržujte autorská práva vaší země.",
+  "enableSearchOffSubtitle": "Zakázat vzdálené vyhledávání. VAROVÁNÍ: Při stahování torrentů z vyhledávačů dodržujte autorská práva vaší země.",
+  "uncategorized": "Nezařazeno",
+  "allTimeUpload": "Celkově odesláno",
+  "allTimeDownload": "Celkově staženo",
+  "allTimeShareRatio": "Celkový poměr sdílení",
+  "sessionWaste": "Zahozeno od spuštění",
+  "connectedPeers": "Připojené protějšky",
+  "readCacheHits": "Přístupy do cache pro čtení",
+  "totalBufferSize": "Celková velikost vyrovnávací paměti",
+  "writeCacheOverload": "Přeplnění cache pro zápis",
+  "readCacheOverload": "Přetížení cache pro čtení",
+  "queuedIoJobs": "I/O úkoly ve frontě",
+  "averageTimeInQueue": "Průměrná doba ve frontě",
+  "totalQueuedSize": "Celková velikost fronty",
+  "searchHistory": "Historie vyhledávání",
+  "noSearchHistory": "Žádné historie vyhledávání",
+  "clearSearchHistory": "Vymazat historii vyhledávání"
+}
