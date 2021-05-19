@@ -1,7 +1,7 @@
 {
   "clickToAddServer": "Klikni pro přidání serveru",
   "selectMode": "Vybrat",
-  "selectTorrentCount": "{count,plural, =1{{count} torrent} <4{{count} torrenty} other{{count} torrentů}}",
+  "selectTorrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentů}}",
   "@selectTorrentCount": {
     "placeholders": {
       "count": {
@@ -44,7 +44,7 @@
   "downloadInSequentialOrder": "Stáhnout v sekvenčním pořadí",
   "downloadFirstAndLastPiecesFirst": "Nejprve se stáhne první a poslední část",
   "deleteTorrentDialogTittle": "Smazat označené torrenty",
-  "deleteTorrentDialogMessage": "{count,plural, =1{Opravdu chcete smazat tento {count} torrent?} other{Opravdu chcete smazat tyto {count} torrenty?}}",
+  "deleteTorrentDialogMessage": "{count,plural, =1{Opravdu chcete smazat tento {count} torrent?} few{Opravdu chcete smazat tyto {count} torrenty?} other{Opravdu chcete smazat těchto {count} torrentů?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
       "count": {
@@ -311,7 +311,7 @@
   },
   "unread": "Nezobrazeno",
   "emptyList": "Prázdný seznam",
-  "selectedItemCount": "{count,plural, =1{{count} položka} <4other{{count} položky} {{count} položek}}",
+  "selectedItemCount": "{count,plural, =1{{count} položka} few{{count} položky} other{{count} položek}}",
   "@selectedItemCount": {
     "placeholders": {
       "count": {
