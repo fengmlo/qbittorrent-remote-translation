@@ -1,7 +1,7 @@
 {
   "clickToAddServer": "Нажмите, чтобы добавить сервер",
   "selectMode": "Выбрать",
-  "selectTorrentCount": "{count,plural, =1{{count} торрент} other{{count} торрента(ов)}}",
+  "selectTorrentCount": "{count,plural, =1{{count} торрент} few{{count} торрента} many{{count} торрентов} other{{count} торрентов}}",
   "@selectTorrentCount": {
     "placeholders": {
       "count": {
@@ -44,7 +44,7 @@
   "downloadInSequentialOrder": "Загружать последовательно",
   "downloadFirstAndLastPiecesFirst": "Загружать с первой и последней части",
   "deleteTorrentDialogTittle": "Удалить торренты",
-  "deleteTorrentDialogMessage": "{count,plural, =1{Вы точно хотите удалить {count} торрент?} other{Вы точно хотите удалить {count} торрента(ов)?}}",
+  "deleteTorrentDialogMessage": "{count,plural, =1{Вы точно хотите удалить {count} торрент?} few{Вы точно хотите удалить {count} торрента?} many{Вы точно хотите удалить {count} торрентов?} other{Вы точно хотите удалить {count} торрентов?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
       "count": {
@@ -190,7 +190,7 @@
   "alternativeSpeedLimits": "Альтернативные ограничения скорости",
   "saveSuccessTips": "Сохранено",
   "refreshInterval": "Время обновления",
-  "refreshIntervalInfo": "{interval,plural, =1{{interval} секунда} other{{interval} секунд(ы)}}",
+  "refreshIntervalInfo": "{interval,plural, =1{{interval} секунда} few{{interval} секунды} many{{interval} секунд} other{{interval} секунд}}",
   "@refreshIntervalInfo": {
     "placeholders": {
       "interval": {
@@ -311,7 +311,7 @@
   },
   "unread": "Непрочитанные",
   "emptyList": "Список пуст",
-  "selectedItemCount": "{count,plural, =1{{count} элемент} other{{count} элемента(ов)}}",
+  "selectedItemCount": "{count,plural, =1{{count} элемент} few{{count} элемента} many{{count} элементов} other{{count} элементов}}",
   "@selectedItemCount": {
     "placeholders": {
       "count": {
@@ -443,8 +443,8 @@
   "enableRssOnSubtitle": "Включить менеджер RSS-каналов",
   "enableRssOffSubtitle": "Выключить менеджер RSS-каналов",
   "enableSearch": "Поиск торрентов (иконка в боковом меню)",
-  "enableSearchOnSubtitle": "Включить поиск торрентов. Предупреждение: Обязательно соблюдайте законы об авторских правах вашей страны при загрузке торрентов из поисковых систем.",
-  "enableSearchOffSubtitle": "Выключить поиск торрентов. Предупреждение: Обязательно соблюдайте законы об авторских правах вашей страны при загрузке торрентов из поисковых систем.",
+  "enableSearchOnSubtitle": "Включить поиск торрентов. Предупреждение: Обязательно соблюдайте законы об авторских правах вашей страны при загрузке торрентов из поисковых систем",
+  "enableSearchOffSubtitle": "Выключить поиск торрентов. Предупреждение: Обязательно соблюдайте законы об авторских правах вашей страны при загрузке торрентов из поисковых систем",
   "uncategorized": "Без категории",
   "allTimeUpload": "Всего отдано",
   "allTimeDownload": "Всего загружено",
