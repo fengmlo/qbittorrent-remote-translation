@@ -460,5 +460,11 @@
   "clearSearchHistory": "清空搜索歷史",
   "deleteFilesByDefault": "默認刪除文件",
   "deleteFilesByDefaultOnSubtitle": "刪除種子時默認刪除文件",
-  "deleteFilesByDefaultOffSubtitle": "刪除種子時默認不刪除文件"
+  "deleteFilesByDefaultOffSubtitle": "刪除種子時默認不刪除文件",
+  "filterInactive": "空閒",
+  "filterResumed": "恢復",
+  "filterStalled": "暫停",
+  "filterStalledUploading": "上傳已暫停",
+  "filterStalledDownloading": "下載已暫停",
+  "filterErrored": "錯誤"
 }

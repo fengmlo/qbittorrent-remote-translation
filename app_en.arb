@@ -463,5 +463,11 @@
   "clearSearchHistory": "Clear search history",
   "deleteFilesByDefault": "Delete files by default",
   "deleteFilesByDefaultOnSubtitle": "Delete files by default when deleting torrent",
-  "deleteFilesByDefaultOffSubtitle": "Do not delete files by default when deleting torrent"
+  "deleteFilesByDefaultOffSubtitle": "Do not delete files by default when deleting torrent",
+  "filterInactive": "Inactive",
+  "filterResumed": "Resumed",
+  "filterStalled": "Stalled",
+  "filterStalledUploading": "Stalled Uploading",
+  "filterStalledDownloading": "Stalled Downloading",
+  "filterErrored": "Errored"
 }
