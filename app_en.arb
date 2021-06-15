@@ -460,5 +460,8 @@
   "totalQueuedSize": "Total queued size",
   "searchHistory": "Search history",
   "noSearchHistory": "No search history",
-  "clearSearchHistory": "Clear search history"
+  "clearSearchHistory": "Clear search history",
+  "deleteFilesByDefault": "Delete files by default",
+  "deleteFilesByDefaultOnSubtitle": "Delete files by default when deleting torrent",
+  "deleteFilesByDefaultOffSubtitle": "Do not delete files by default when deleting torrent"
 }

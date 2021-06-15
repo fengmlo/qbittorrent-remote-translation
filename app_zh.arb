@@ -457,5 +457,8 @@
   "totalQueuedSize": "总队列大小",
   "searchHistory": "搜索历史",
   "noSearchHistory": "没有搜索历史",
-  "clearSearchHistory": "清空搜索历史"
+  "clearSearchHistory": "清空搜索历史",
+  "deleteFilesByDefault": "默认删除文件",
+  "deleteFilesByDefaultOnSubtitle": "删除种子时默认删除文件",
+  "deleteFilesByDefaultOffSubtitle": "删除种子时默认不删除文件"
 }
