@@ -466,5 +466,7 @@
   "filterStalled": "暫停",
   "filterStalledUploading": "上傳已暫停",
   "filterStalledDownloading": "下載已暫停",
-  "filterErrored": "錯誤"
+  "filterErrored": "錯誤",
+  "statusFilters": "狀態過濾",
+  "statusFiltersSubtitle": "選擇要顯示的狀態過濾項"
 }

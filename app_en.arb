@@ -469,5 +469,7 @@
   "filterStalled": "Stalled",
   "filterStalledUploading": "Stalled Uploading",
   "filterStalledDownloading": "Stalled Downloading",
-  "filterErrored": "Errored"
+  "filterErrored": "Errored",
+  "statusFilters": "Status filters",
+  "statusFiltersSubtitle": "Choose which status filters to display"
 }

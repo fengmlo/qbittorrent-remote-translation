@@ -466,5 +466,7 @@
   "filterStalled": "暂停",
   "filterStalledUploading": "上传已暂停",
   "filterStalledDownloading": "下载已暂停",
-  "filterErrored": "错误"
+  "filterErrored": "错误",
+  "statusFilters": "状态筛选",
+  "statusFiltersSubtitle": "选择要显示的状态筛选项"
 }
