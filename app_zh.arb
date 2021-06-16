@@ -468,5 +468,14 @@
   "filterStalledDownloading": "下载已暂停",
   "filterErrored": "错误",
   "statusFilters": "状态筛选",
-  "statusFiltersSubtitle": "选择要显示的状态筛选项"
+  "statusFiltersSubtitle": "选择要显示的状态筛选项",
+  "downloadingMetadata": "下载元数据",
+  "forcedDl": "[F] 下载",
+  "forcedUp": "[F] 做种",
+  "queued": "排队",
+  "checking": "校验",
+  "queuedForChecking": "排队等待校验",
+  "checkingResumeData": "校验恢复数据",
+  "moving": "移动中",
+  "missingFiles": "丢失文件"
 }

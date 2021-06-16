@@ -468,5 +468,14 @@
   "filterStalledDownloading": "下載已暫停",
   "filterErrored": "錯誤",
   "statusFilters": "狀態過濾",
-  "statusFiltersSubtitle": "選擇要顯示的狀態過濾項"
+  "statusFiltersSubtitle": "選擇要顯示的狀態過濾項",
+  "downloadingMetadata": "下載元數據",
+  "forcedDl": "[F] 下載",
+  "forcedUp": "[F] 做種",
+  "queued": "排隊",
+  "checking": "校驗",
+  "queuedForChecking": "排隊等待校驗",
+  "checkingResumeData": "校驗恢復數據",
+  "moving": "移動中",
+  "missingFiles": "丟失文件"
 }

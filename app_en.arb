@@ -471,5 +471,14 @@
   "filterStalledDownloading": "Stalled Downloading",
   "filterErrored": "Errored",
   "statusFilters": "Status filters",
-  "statusFiltersSubtitle": "Choose which status filters to display"
+  "statusFiltersSubtitle": "Choose which status filters to display",
+  "downloadingMetadata": "Downloading metadata",
+  "forcedDl": "[F] Downloading",
+  "forcedUp": "[F] Seeding",
+  "queued": "Queued",
+  "checking": "Checking",
+  "queuedForChecking": "Queued for checking",
+  "checkingResumeData": "Checking resume data",
+  "moving": "Moving",
+  "missingFiles": "Missing Files"
 }
