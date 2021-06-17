@@ -477,5 +477,6 @@
   "queuedForChecking": "排隊等待校驗",
   "checkingResumeData": "校驗恢復數據",
   "moving": "移動中",
-  "missingFiles": "丟失文件"
+  "missingFiles": "丟失文件",
+  "formatYear": "年"
 }

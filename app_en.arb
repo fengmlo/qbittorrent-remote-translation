@@ -480,5 +480,6 @@
   "queuedForChecking": "Queued for checking",
   "checkingResumeData": "Checking resume data",
   "moving": "Moving",
-  "missingFiles": "Missing Files"
+  "missingFiles": "Missing Files",
+  "formatYear": "y"
 }
