@@ -478,5 +478,8 @@
   "checkingResumeData": "校验恢复数据",
   "moving": "移动中",
   "missingFiles": "丢失文件",
-  "formatYear": "年"
+  "formatYear": "年",
+  "useStatusIcon": "使用新的种子列表图标",
+  "useStatusIconOnSubtitle": "种子列表使用不同图标来区分种子状态",
+  "useStatusIconOffSubtitle": "种子列表使用默认图标"
 }

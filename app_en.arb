@@ -481,5 +481,8 @@
   "checkingResumeData": "Checking resume data",
   "moving": "Moving",
   "missingFiles": "Missing Files",
-  "formatYear": "y"
+  "formatYear": "y",
+  "useStatusIcon": "Use new icons in torrent list",
+  "useStatusIconOnSubtitle": "Use different icons in the torrent list to distinguish the status of the torrent",
+  "useStatusIconOffSubtitle": "Use the default icons in the torrent list"
 }

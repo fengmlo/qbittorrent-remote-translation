@@ -478,5 +478,8 @@
   "checkingResumeData": "校驗恢復數據",
   "moving": "移動中",
   "missingFiles": "丟失文件",
-  "formatYear": "年"
+  "formatYear": "年",
+  "useStatusIcon": "使用新的種子列表圖標",
+  "useStatusIconOnSubtitle": "種子列表使用不同圖標來區分種子狀態",
+  "useStatusIconOffSubtitle": "種子列表使用默認圖標"
 }
