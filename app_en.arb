@@ -484,5 +484,8 @@
   "formatYear": "y",
   "useStatusIcon": "Use new icons in torrent list",
   "useStatusIconOnSubtitle": "Use different icons in the torrent list to distinguish the status of the torrent",
-  "useStatusIconOffSubtitle": "Use the default icons in the torrent list"
+  "useStatusIconOffSubtitle": "Use the default icons in the torrent list",
+  "showSearchOnAdd": "Show search on \"Add\" button",
+  "showSearchOnAddOnSubtitle": "Show search on \"Add\" button, instead of in drawer",
+  "showSearchOnAddOffSubtitle": "Show search on drawer"
 }

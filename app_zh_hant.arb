@@ -481,5 +481,8 @@
   "formatYear": "年",
   "useStatusIcon": "使用新的種子列表圖標",
   "useStatusIconOnSubtitle": "種子列表使用不同圖標來區分種子狀態",
-  "useStatusIconOffSubtitle": "種子列表使用默認圖標"
+  "useStatusIconOffSubtitle": "種子列表使用默認圖標",
+  "showSearchOnAdd": "在\"添加\" 按鈕上顯示搜索",
+  "showSearchOnAddOnSubtitle": "在\"添加\" 按鈕上顯示搜索，而不是在側邊欄裡",
+  "showSearchOnAddOffSubtitle": "在側邊欄裡顯示搜索"
 }

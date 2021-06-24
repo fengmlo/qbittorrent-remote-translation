@@ -481,5 +481,8 @@
   "formatYear": "年",
   "useStatusIcon": "使用新的种子列表图标",
   "useStatusIconOnSubtitle": "种子列表使用不同图标来区分种子状态",
-  "useStatusIconOffSubtitle": "种子列表使用默认图标"
+  "useStatusIconOffSubtitle": "种子列表使用默认图标",
+  "showSearchOnAdd": "在\"添加\" 按钮上显示搜索",
+  "showSearchOnAddOnSubtitle": "在\"添加\" 按钮上显示搜索，而不是在侧边栏里",
+  "showSearchOnAddOffSubtitle": "在侧边栏里显示搜索"
 }
