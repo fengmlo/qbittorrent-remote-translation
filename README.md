@@ -36,3 +36,4 @@ The format is a key-value pair separated by a colon. The key on the left does no
 ## Translator
 - Pусский: Alexey
 - Čeština: Tomini
+- Italiano: Renato

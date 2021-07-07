@@ -16,6 +16,7 @@ jobs:
   build:
     # This job will run on ubuntu virtual machine
     runs-on: ubuntu-latest
+    if: github.repository == 'fengmlo/qbittorrent-remote-translation'
     steps:
 
     - uses: actions/checkout@v2
@@ -65,7 +66,7 @@ jobs:
       with:
         channel: 'stable' # 'dev', 'alpha', default to: 'stable'
         # flutter-version: '1.12.x' # you can also specify exact version of flutter
-        flutter-version: 2.0.6
+        flutter-version: 2.2.3
 
     #- run: git submodule init
     #- run: git submodule update
