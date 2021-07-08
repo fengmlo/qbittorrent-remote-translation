@@ -124,7 +124,7 @@
   "upSpeedLimit": "Ограничение отдачи",
   "ratioLimit": "Ограничение рейтинга",
   "seedingTimeLimit": "Ограничение по времени раздачи",
-  "useGlobalSetting": "Глобально",
+  "useGlobalSetting": "Общие",
   "noLimit": "Без ограничений",
   "customize": "Настроить",
   "minuteHint": "в минутах",
@@ -186,8 +186,8 @@
   "testServerSuccessTips": "Проверка пройдена",
   "testServerFailTips": "Проверка не пройдена",
   "serverPreferences": "Настройки сервера",
-  "globalSpeedLimits": "Глобальные ограничения скорости",
-  "alternativeSpeedLimits": "Альтернативные ограничения скорости",
+  "globalSpeedLimits": "Общие ограничения скорости",
+  "alternativeSpeedLimits": "Особые ограничения скорости",
   "saveSuccessTips": "Сохранено",
   "refreshInterval": "Время обновления",
   "refreshIntervalInfo": "{interval,plural, =1{{interval} секунда} few{{interval} секунды} many{{interval} секунд} other{{interval} секунд}}",
@@ -484,5 +484,8 @@
   "formatYear": "г",
   "useStatusIcon": "Иконки статуса в списке торрентов",
   "useStatusIconOnSubtitle": "Использовать разные иконки, чтобы отличать состояние торрента",
-  "useStatusIconOffSubtitle": "Использовать иконки по умолчанию"
+  "useStatusIconOffSubtitle": "Использовать иконки по умолчанию",
+  "showSearchOnAdd": "Расположение кнопки поиска торрентов",
+  "showSearchOnAddOnSubtitle": "Показывать на кнопке \"Добавить новую загрузку\", а не боковом меню",
+  "showSearchOnAddOffSubtitle": "Показывать в боковом меню"
 }
