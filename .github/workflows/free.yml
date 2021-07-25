@@ -1,4 +1,4 @@
-name: Build Pro
+name: Build Free
 
 # This workflow is triggered on pushes to the repository.
 
@@ -21,17 +21,17 @@ jobs:
 
     - uses: actions/checkout@v2
       with:
-        repository: fengmlo/qb_remote
+        repository: fengmlo/qb_remote_free
         token: ${{ secrets.access_token }} # `GitHub_PAT` is a secret that contains your PAT
         #path: my-tools
-        ref: master
+        ref: free
         fetch-depth: 0
         submodules: 'recursive'
 
     - run: |
         git pull
         #echo $(git log --branches --remotes=origin)
-        git checkout $(git log --branches --remotes=origin -1 --pretty=format:'%D' | sed 's/.*, //g')
+        git checkout free
         git submodule update --remote
     # - run: git submodule update --init --recursive
     # - name: Checkout submodules # checkout rest

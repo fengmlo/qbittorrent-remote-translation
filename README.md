@@ -37,3 +37,4 @@ The format is a key-value pair separated by a colon. The key on the left does no
 - Pусский: Alexey
 - Čeština: Tomini
 - Italiano: Renato
+- Svenska: mikaeldui
