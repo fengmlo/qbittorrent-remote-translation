@@ -55,6 +55,12 @@ jobs:
       with:
         filePath: ${{ github.workspace }}/android/key.properties
         encodedString: ${{ secrets.KEY_PROPERTIES }}
+        
+    - name: Get admob properties
+      uses: RollyPeres/base64-to-path@v1
+      with:
+        filePath: ${{ github.workspace }}/android/adMob.properties
+        encodedString: ${{ secrets.ADMOB_ID }}
 
     # Setup Java environment in order to build the Android app.
     - uses: actions/setup-java@v1
