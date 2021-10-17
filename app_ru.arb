@@ -487,5 +487,19 @@
   "useStatusIconOffSubtitle": "Использовать иконки по умолчанию",
   "showSearchOnAdd": "Расположение иконки поиска торрентов",
   "showSearchOnAddOnSubtitle": "Показывать при нажатии на кнопку \"Добавить новую загрузку\"",
-  "showSearchOnAddOffSubtitle": "Показывать в боковом меню"
+  "showSearchOnAddOffSubtitle": "Показывать в боковом меню",
+  "searchIn": "Поиск",
+  "everywhere": "Везде",
+  "torrentNamesOnly": "В именах торрентов",
+  "filter": "Фильтр",
+  "filterResult": "Результаты (показано {filterResult} из {totalResult})",
+  "@filterResult": {
+    "placeholders": {
+      "filterResult": {
+      },
+      "totalResult": {
+      }
+    }
+  },
+  "clearInput": "Очистить ввод"
 }
