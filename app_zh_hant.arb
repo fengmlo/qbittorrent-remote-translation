@@ -484,5 +484,19 @@
   "useStatusIconOffSubtitle": "種子列表使用默認圖標",
   "showSearchOnAdd": "在\"添加\" 按鈕上顯示搜索",
   "showSearchOnAddOnSubtitle": "在\"添加\" 按鈕上顯示搜索，而不是在側邊欄裡",
-  "showSearchOnAddOffSubtitle": "在側邊欄裡顯示搜索"
+  "showSearchOnAddOffSubtitle": "在側邊欄裡顯示搜索",
+  "searchIn": "在以下位置搜索",
+  "everywhere": "任意位置",
+  "torrentNamesOnly": "僅Torrent名稱",
+  "filter": "過濾器",
+  "filterResult": "結果 (顯示 {filterResult} ，總計 {totalResult})",
+  "@filterResult": {
+    "placeholders": {
+      "filterResult": {
+      },
+      "totalResult": {
+      }
+    }
+  },
+  "clearInput": "清空輸入"
 }

@@ -487,5 +487,19 @@
   "useStatusIconOffSubtitle": "Use the default icons in the torrent list",
   "showSearchOnAdd": "Show search on \"Add\" button",
   "showSearchOnAddOnSubtitle": "Show search on \"Add\" button, instead of in drawer",
-  "showSearchOnAddOffSubtitle": "Show search on drawer"
+  "showSearchOnAddOffSubtitle": "Show search on drawer",
+  "searchIn": "Search in",
+  "everywhere": "Everywhere",
+  "torrentNamesOnly": "Torrent names only",
+  "filter": "Filter",
+  "filterResult": "Results (showing {filterResult} out of {totalResult})",
+  "@filterResult": {
+    "placeholders": {
+      "filterResult": {
+      },
+      "totalResult": {
+      }
+    }
+  },
+  "clearInput": "Clear input"
 }

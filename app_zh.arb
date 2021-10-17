@@ -484,5 +484,19 @@
   "useStatusIconOffSubtitle": "种子列表使用默认图标",
   "showSearchOnAdd": "在\"添加\" 按钮上显示搜索",
   "showSearchOnAddOnSubtitle": "在\"添加\" 按钮上显示搜索，而不是在侧边栏里",
-  "showSearchOnAddOffSubtitle": "在侧边栏里显示搜索"
+  "showSearchOnAddOffSubtitle": "在侧边栏里显示搜索",
+  "searchIn": "在以下位置搜索",
+  "everywhere": "任意位置",
+  "torrentNamesOnly": "仅Torrent名称",
+  "filter": "过滤器",
+  "filterResult": "结果 (显示 {filterResult} ，总计 {totalResult})",
+  "@filterResult": {
+    "placeholders": {
+      "filterResult": {
+      },
+      "totalResult": {
+      }
+    }
+  },
+  "clearInput": "清空输入"
 }
