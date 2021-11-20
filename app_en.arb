@@ -502,5 +502,7 @@
     }
   },
   "clearInput": "Clear input",
-  "millisecond": "ms"
+  "millisecond": "ms",
+  "copy": "Copy",
+  "magnetLink": "Magnet link"
 }

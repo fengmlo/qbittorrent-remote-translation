@@ -499,5 +499,7 @@
     }
   },
   "clearInput": "清空输入",
-  "millisecond": "ms"
+  "millisecond": "ms",
+  "copy": "复制",
+  "magnetLink": "磁力链接"
 }
