@@ -501,5 +501,6 @@
       }
     }
   },
-  "clearInput": "Clear input"
+  "clearInput": "Clear input",
+  "millisecond": "ms"
 }

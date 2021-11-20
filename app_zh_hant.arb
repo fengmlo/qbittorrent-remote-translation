@@ -498,5 +498,6 @@
       }
     }
   },
-  "clearInput": "清空輸入"
+  "clearInput": "清空輸入",
+  "millisecond": "ms"
 }
