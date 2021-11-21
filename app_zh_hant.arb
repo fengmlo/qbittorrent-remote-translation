@@ -501,5 +501,8 @@
   "clearInput": "清空輸入",
   "millisecond": "ms",
   "copy": "複製",
-  "magnetLink": "磁力鏈接"
+  "magnetLink": "磁力鏈接",
+  "useTransparentNaviBar": "使用透明導航欄",
+  "useTransparentNaviBarOnSubtitle": "讓導航欄透明，在部分設備上沒有效果",
+  "useTransparentNaviBarOffSubtitle": "使用默認設置"
 }

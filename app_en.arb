@@ -504,5 +504,8 @@
   "clearInput": "Clear input",
   "millisecond": "ms",
   "copy": "Copy",
-  "magnetLink": "Magnet link"
+  "magnetLink": "Magnet link",
+  "useTransparentNaviBar": "Use transparent navigation bar",
+  "useTransparentNaviBarOnSubtitle": "Make android navigation bar transparent，no effect on some devices",
+  "useTransparentNaviBarOffSubtitle": "Use default setting"
 }
