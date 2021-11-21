@@ -487,5 +487,25 @@
   "useStatusIconOffSubtitle": "Usa le icone predefinite nell'elenco dei torrent",
   "showSearchOnAdd": "Mostra ricerca sul pulsante \"Aggiungi\"",
   "showSearchOnAddOnSubtitle": "Mostra sul pulsante \"Aggiungi\", invece che nel cassetto",
-  "showSearchOnAddOffSubtitle": "Mostra ricerca nel cassetto"
+  "showSearchOnAddOffSubtitle": "Mostra ricerca nel cassetto",
+  "searchIn": "Ricerca in",
+  "everywhere": "Ovunque",
+  "torrentNamesOnly": "Solo nomi Torrent",
+  "filter": "Filtra",
+  "filterResult": "Resultati (Mostrando {filterResult} di {totalResult})",
+  "@filterResult": {
+    "placeholders": {
+      "filterResult": {
+      },
+      "totalResult": {
+      }
+    }
+  },
+  "clearInput": "Cancella input",
+  "millisecond": "ms",
+  "copy": "Copia",
+  "magnetLink": "Magnet link",
+  "useTransparentNaviBar": "Usa la barra di navigazione trasparente",
+  "useTransparentNaviBarOnSubtitle": "Rendi trasparente la barra di navigazione di Android (nessun effetto su alcuni dispositivi)",
+  "useTransparentNaviBarOffSubtitle": "Usa l'impostazione predefinita"
 }
