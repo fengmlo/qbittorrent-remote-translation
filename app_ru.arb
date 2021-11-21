@@ -504,5 +504,8 @@
   "clearInput": "Очистить ввод",
   "millisecond": "мсек",
   "copy": "Копировать",
-  "magnetLink": "Магнет-ссылка"
+  "magnetLink": "Магнет-ссылка",
+  "useTransparentNaviBar": "Прозрачная панель навигации",
+  "useTransparentNaviBarOnSubtitle": "Сделать панель навигации прозрачной (работает не на всех устройствах)",
+  "useTransparentNaviBarOffSubtitle": "По умолчанию (как в системе)"
 }
