@@ -507,5 +507,9 @@
   "magnetLink": "Магнет-ссылка",
   "useTransparentNaviBar": "Прозрачная панель навигации",
   "useTransparentNaviBarOnSubtitle": "Сделать панель навигации прозрачной (работает не на всех устройствах)",
-  "useTransparentNaviBarOffSubtitle": "По умолчанию (как в системе)"
+  "useTransparentNaviBarOffSubtitle": "По умолчанию (как в системе)",
+  "notifyWhenDownloadComplete": "Уведомление о завершении загрузки",
+  "notifyWhenDownloadCompleteSubtitle": "Будет продолжать обновлять список торрентов в фоновом режиме",
+  "backgroundRefreshInterval": "Интервал фонового обновления",
+  "backgroundRefreshIntervalSubtitle": "Интервал фонового обновления списка торрентов"
 }
