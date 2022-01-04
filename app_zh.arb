@@ -504,5 +504,9 @@
   "magnetLink": "磁力链接",
   "useTransparentNaviBar": "使用透明导航栏",
   "useTransparentNaviBarOnSubtitle": "让导航栏透明，在部分设备上没有效果",
-  "useTransparentNaviBarOffSubtitle": "使用默认设置"
+  "useTransparentNaviBarOffSubtitle": "使用默认设置",
+  "notifyWhenDownloadComplete": "下载完成时通知",
+  "notifyWhenDownloadCompleteSubtitle": "会在后台持续刷新列表",
+  "backgroundRefreshInterval": "后台刷新间隔",
+  "backgroundRefreshIntervalSubtitle": "后台种子列表刷新间隔"
 }

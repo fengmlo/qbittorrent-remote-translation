@@ -507,5 +507,9 @@
   "magnetLink": "Magnet link",
   "useTransparentNaviBar": "Use transparent navigation bar",
   "useTransparentNaviBarOnSubtitle": "Make android navigation bar transparent，no effect on some devices",
-  "useTransparentNaviBarOffSubtitle": "Use default setting"
+  "useTransparentNaviBarOffSubtitle": "Use default setting",
+  "notifyWhenDownloadComplete": "Notify when download complete",
+  "notifyWhenDownloadCompleteSubtitle": "Will continue to refresh the torrent list in the background",
+  "backgroundRefreshInterval": "Background refresh interval",
+  "backgroundRefreshIntervalSubtitle": "Background torrent list update Interval"
 }
