@@ -487,5 +487,25 @@
   "useStatusIconOffSubtitle": "Använd standardikoner i torrentlistan",
   "showSearchOnAdd": "Visa sök på \"Lägg till\"-knappen",
   "showSearchOnAddOnSubtitle": "Visa sök på \"Lägg till\"-knappen, istället för i lådan",
-  "showSearchOnAddOffSubtitle": "Visa sök i lådan"
+  "showSearchOnAddOffSubtitle": "Visa sök i lådan",
+  "searchIn": "Sök i",
+  "everywhere": "Överallt",
+  "torrentNamesOnly": "Torrentnamn endast",
+  "filter": "Filtrera",
+  "filterResult": "Resultat (visar {filterResult} av {totalResult})",
+  "@filterResult": {
+    "placeholders": {
+      "filterResult": {
+      },
+      "totalResult": {
+      }
+    }
+  },
+  "clearInput": "Rensa inmatning",
+  "millisecond": "ms",
+  "copy": "Kopiera",
+  "magnetLink": "Magnetlänk",
+  "useTransparentNaviBar": "Använd genomskinlig navigationlist",
+  "useTransparentNaviBarOnSubtitle": "Gör Android's navigationslist genomskinlignt，gör inget på vissa enheter",
+  "useTransparentNaviBarOffSubtitle": "Använd standardinställning"
 }
