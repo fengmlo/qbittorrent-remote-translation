@@ -511,5 +511,7 @@
   "notifyWhenDownloadComplete": "Notify when download complete",
   "notifyWhenDownloadCompleteSubtitle": "Will continue to refresh the torrent list in the background",
   "backgroundRefreshInterval": "Background refresh interval",
-  "backgroundRefreshIntervalSubtitle": "Background torrent list update Interval"
+  "backgroundRefreshIntervalSubtitle": "Background torrent list update Interval",
+  "backgroundServiceNotice": "Background refresh service is running",
+  "downloadComplete": "Download completed"
 }

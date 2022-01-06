@@ -508,5 +508,7 @@
   "notifyWhenDownloadComplete": "下载完成时通知",
   "notifyWhenDownloadCompleteSubtitle": "会在后台持续刷新列表",
   "backgroundRefreshInterval": "后台刷新间隔",
-  "backgroundRefreshIntervalSubtitle": "后台种子列表刷新间隔"
+  "backgroundRefreshIntervalSubtitle": "后台种子列表刷新间隔",
+  "backgroundServiceNotice": "后台刷新服务正在运行",
+  "downloadComplete": "下载完成"
 }
