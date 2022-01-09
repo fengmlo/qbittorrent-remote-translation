@@ -512,6 +512,6 @@
   "notifyWhenDownloadCompleteSubtitle": "Будет продолжать обновлять список торрентов в фоновом режиме",
   "backgroundRefreshInterval": "Интервал фонового обновления",
   "backgroundRefreshIntervalSubtitle": "Интервал фонового обновления списка торрентов",
-  "backgroundServiceNotice": "Запущена фоновая служба уведомления о загрузках",
+  "backgroundServiceNotice": "Запущена фоновая служба уведомлений",
   "downloadComplete": "Загрузка завершена"
 }
