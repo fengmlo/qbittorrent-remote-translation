@@ -510,5 +510,8 @@
   "backgroundRefreshInterval": "後台刷新間隔",
   "backgroundRefreshIntervalSubtitle": "後台種子列表刷新間隔",
   "backgroundServiceNotice": "後台刷新服務正在運行",
-  "downloadComplete": "下載完成"
+  "downloadComplete": "下載完成",
+  "backgroundServiceName": "後台刷新服務",
+  "loginFailed": "登錄失敗",
+  "addTorrentFailed": "添加種子失敗"
 }

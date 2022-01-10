@@ -513,5 +513,8 @@
   "backgroundRefreshInterval": "Background refresh interval",
   "backgroundRefreshIntervalSubtitle": "Background torrent list update Interval",
   "backgroundServiceNotice": "Background refresh service is running",
-  "downloadComplete": "Download completed"
+  "downloadComplete": "Download completed",
+  "backgroundServiceName": "Background refresh service",
+  "loginFailed": "Login failed",
+  "addTorrentFailed": "Add torrent failed"
 }
