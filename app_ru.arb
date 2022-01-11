@@ -513,5 +513,8 @@
   "backgroundRefreshInterval": "Интервал фонового обновления",
   "backgroundRefreshIntervalSubtitle": "Интервал фонового обновления списка торрентов",
   "backgroundServiceNotice": "Запущена фоновая служба уведомлений",
-  "downloadComplete": "Загрузка завершена"
+  "downloadComplete": "Загрузка завершена",
+  "backgroundServiceName": "Фоновая служба уведомлений",
+  "loginFailed": "Не удалось войти",
+  "addTorrentFailed": "Не удалось добавить торрент"
 }
