@@ -507,5 +507,14 @@
   "magnetLink": "Magnet link",
   "useTransparentNaviBar": "Usa la barra di navigazione trasparente",
   "useTransparentNaviBarOnSubtitle": "Rendi trasparente la barra di navigazione di Android (nessun effetto su alcuni dispositivi)",
-  "useTransparentNaviBarOffSubtitle": "Usa l'impostazione predefinita"
+  "useTransparentNaviBarOffSubtitle": "Usa l'impostazione predefinita",
+  "notifyWhenDownloadComplete": "Notifica quando il download è completato",
+  "notifyWhenDownloadCompleteSubtitle": "Continuerà ad aggiornare l'elenco dei torrent in background",
+  "backgroundRefreshInterval": "Intervallo di aggiornamento in Background",
+  "backgroundRefreshIntervalSubtitle": "Intervallo di aggiornamento elenco dei torrent in background",
+  "backgroundServiceNotice": "Il servizio di aggiornamento in background è in esecuzione",
+  "downloadComplete": "Download completato",
+  "backgroundServiceName": "Servizio di aggiornamento in background",
+  "loginFailed": "Accesso fallito",
+  "addTorrentFailed": "Aggiunta torrent non riuscito"
 }
