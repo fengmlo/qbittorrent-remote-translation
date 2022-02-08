@@ -513,5 +513,7 @@
   "downloadComplete": "下载完成",
   "backgroundServiceName": "后台刷新服务",
   "loginFailed": "登录失败",
-  "addTorrentFailed": "添加种子失败"
+  "addTorrentFailed": "添加种子失败",
+  "resumeAllTorrentsTips": "确定开始所有种子吗？",
+  "pauseAllTorrentsTips": "确定暂停所有种子吗？"
 }
