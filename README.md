@@ -38,3 +38,4 @@ The format is a key-value pair separated by a colon. The key on the left does no
 - Čeština: Tomini
 - Italiano: Renato
 - Svenska: mikaeldui
+- Polskie: Marcin Głowacki
