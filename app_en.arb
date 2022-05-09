@@ -521,5 +521,7 @@
   "search": "Search",
   "appearance": "Appearance",
   "advanced": "Advanced",
-  "about": "About"
+  "about": "About",
+  "resumeAllTorrentsTips": "Are you sure you want to resume all torrents?",
+  "pauseAllTorrentsTips": "Are you sure you want to pause all torrents?"
 }

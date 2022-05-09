@@ -518,5 +518,7 @@
   "search": "搜索",
   "appearance": "外观",
   "advanced": "高级",
-  "about": "关于"
+  "about": "关于",
+  "resumeAllTorrentsTips": "确定开始所有种子吗？",
+  "pauseAllTorrentsTips": "确定暂停所有种子吗？"
 }
