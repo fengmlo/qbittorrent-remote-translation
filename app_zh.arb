@@ -520,5 +520,7 @@
   "advanced": "高级",
   "about": "关于",
   "resumeAllTorrentsTips": "确定开始所有种子吗？",
-  "pauseAllTorrentsTips": "确定暂停所有种子吗？"
+  "pauseAllTorrentsTips": "确定暂停所有种子吗？",
+  "serverPushTitle": "服务器推送(实验性功能)",
+  "serverPushSubtitle": "下载完成时通知使用服务器推送"
 }

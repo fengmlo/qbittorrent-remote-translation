@@ -519,6 +519,8 @@
   "appearance": "外觀",
   "advanced": "高級",
   "about": "關於",
-  "resumeAllTorrentsTips": "确定开始所有种子吗？",
-  "pauseAllTorrentsTips": "确定暂停所有种子吗？"
+  "resumeAllTorrentsTips": "確定開始所有種子嗎？",
+  "pauseAllTorrentsTips": "確定暫停所有種子嗎？",
+  "serverPushTitle": "服務器推送(實驗性功能)",
+  "serverPushSubtitle": "下載完成時通知使用服務器推送"
 }
