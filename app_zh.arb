@@ -513,5 +513,10 @@
   "downloadComplete": "下载完成",
   "backgroundServiceName": "后台刷新服务",
   "loginFailed": "登录失败",
-  "addTorrentFailed": "添加种子失败"
+  "addTorrentFailed": "添加种子失败",
+  "notification": "通知",
+  "search": "搜索",
+  "appearance": "外观",
+  "advanced": "高级",
+  "about": "关于"
 }

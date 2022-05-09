@@ -516,5 +516,10 @@
   "downloadComplete": "Download completed",
   "backgroundServiceName": "Background refresh service",
   "loginFailed": "Login failed",
-  "addTorrentFailed": "Add torrent failed"
+  "addTorrentFailed": "Add torrent failed",
+  "notification": "Notification",
+  "search": "Search",
+  "appearance": "Appearance",
+  "advanced": "Advanced",
+  "about": "About"
 }
