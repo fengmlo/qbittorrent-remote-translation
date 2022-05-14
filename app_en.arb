@@ -523,5 +523,15 @@
   "advanced": "Advanced",
   "about": "About",
   "resumeAllTorrentsTips": "Are you sure you want to resume all torrents?",
-  "pauseAllTorrentsTips": "Are you sure you want to pause all torrents?"
+  "pauseAllTorrentsTips": "Are you sure you want to pause all torrents?",
+  "backupOrRestore": "Backup/Restore",
+  "backupConfig": "Backup Configuration",
+  "backupConfigSubtitle": "Backup selected configuration to file",
+  "restoreConfig": "Restore configuration",
+  "restoreConfigSubtitle": "Restore configuration from file",
+  "chooseFilePath": "Choose file path",
+  "backupSuccess": "Backup succeeded",
+  "backupFailed": "Backup failed",
+  "restoreSuccess": "Restore success, please restart app",
+  "restoreFailed": "Restore failed"
 }

@@ -520,5 +520,15 @@
   "advanced": "高级",
   "about": "关于",
   "resumeAllTorrentsTips": "确定开始所有种子吗？",
-  "pauseAllTorrentsTips": "确定暂停所有种子吗？"
+  "pauseAllTorrentsTips": "确定暂停所有种子吗？",
+  "backupOrRestore": "备份/恢复",
+  "backupConfig": "备份配置",
+  "backupConfigSubtitle": "将选择的配置备份到文件",
+  "restoreConfig": "恢复配置",
+  "restoreConfigSubtitle": "从文件恢复配置",
+  "chooseFilePath": "选择文件路径",
+  "backupSuccess": "备份成功",
+  "backupFailed": "备份失败",
+  "restoreSuccess": "恢复成功，请重启应用",
+  "restoreFailed": "恢复失败"
 }
