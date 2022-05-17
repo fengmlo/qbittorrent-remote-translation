@@ -516,5 +516,22 @@
   "downloadComplete": "Download completato",
   "backgroundServiceName": "Servizio di aggiornamento in background",
   "loginFailed": "Accesso fallito",
-  "addTorrentFailed": "Aggiunta torrent non riuscito"
+  "addTorrentFailed": "Aggiunta torrent non riuscito",
+  "notification": "Notifica",
+  "search": "Ricerca",
+  "appearance": "Aspetto",
+  "advanced": "Avanzate",
+  "about": "Informazioni",
+  "resumeAllTorrentsTips": "Sei sicuro di voler riprendere tutti i torrent?",
+  "pauseAllTorrentsTips": "Sei sicuro di voler mettere in pausa tutti i torrent?",
+  "backupOrRestore": "Salva/Ripristina",
+  "backupConfig": "Configurazione backup",
+  "backupConfigSubtitle": "Eseguire il backup della configurazione selezionata su file",
+  "restoreConfig": "Ripristina configurazione",
+  "restoreConfigSubtitle": "Ripristina configurazione da file",
+  "chooseFilePath": "Scegli il percorso del file",
+  "backupSuccess": "Backup riuscito",
+  "backupFailed": "Backup fallito",
+  "restoreSuccess": "Ripristino riuscito, riavvia l'app",
+  "restoreFailed": "Ripristino non riuscito"
 }
