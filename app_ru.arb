@@ -516,5 +516,22 @@
   "downloadComplete": "Загрузка завершена",
   "backgroundServiceName": "Фоновая служба уведомлений",
   "loginFailed": "Не удалось войти",
-  "addTorrentFailed": "Не удалось добавить торрент"
+  "addTorrentFailed": "Не удалось добавить торрент",
+  "notification": "Уведомления",
+  "search": "Поиск",
+  "appearance": "Внешний вид",
+  "advanced": "Дополнительно",
+  "about": "О приложении",
+  "resumeAllTorrentsTips": "Вы точно хотите возобновить все торренты?",
+  "pauseAllTorrentsTips": "Вы точно хотите остановить все торренты?",
+  "backupOrRestore": "Резервное копирование и восстановление",
+  "backupConfig": "Создать",
+  "backupConfigSubtitle": "Сохранить выбранные настройки в файл",
+  "restoreConfig": "Восстановить",
+  "restoreConfigSubtitle": "Восстановить выбранные настройки из файла",
+  "chooseFilePath": "Выбрать папку сохранения",
+  "backupSuccess": "Резервное копирование завершено",
+  "backupFailed": "Ошибка резервного копирования",
+  "restoreSuccess": "Восстановление завершено, пожалуйста, перезапустите приложение",
+  "restoreFailed": "Ошибка восстановления"
 }

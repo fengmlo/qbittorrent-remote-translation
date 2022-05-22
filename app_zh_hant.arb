@@ -521,6 +521,16 @@
   "about": "關於",
   "resumeAllTorrentsTips": "確定開始所有種子嗎？",
   "pauseAllTorrentsTips": "確定暫停所有種子嗎？",
+  "backupOrRestore": "備份/恢復",
+  "backupConfig": "備份配置",
+  "backupConfigSubtitle": "將選擇的配置備份到文件",
+  "restoreConfig": "恢復配置",
+  "restoreConfigSubtitle": "從文件恢復配置",
+  "chooseFilePath": "選擇文件路徑",
+  "backupSuccess": "備份成功",
+  "backupFailed": "備份失敗",
+  "restoreSuccess": "恢復成功，請重啟應用",
+  "restoreFailed": "恢復失敗",
   "serverPushTitle": "服務器推送(實驗性功能)",
   "serverPushSubtitle": "下載完成時通知使用服務器推送"
 }
