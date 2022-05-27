@@ -532,5 +532,20 @@
   "restoreSuccess": "恢復成功，請重啟應用",
   "restoreFailed": "恢復失敗",
   "serverPushTitle": "服務器推送(實驗性功能)",
-  "serverPushSubtitle": "下載完成時通知使用服務器推送"
+  "serverPushSubtitle": "下載完成時通知使用服務器推送",
+  "generateOrInputUser": "沒有用戶，你可以[創建]用戶或[輸入]現有用戶",
+  "inputUser": "輸入用戶",
+  "inputUserHint": "輸入現有用戶",
+  "logout": "註銷",
+  "retry": "重試",
+  "getTokenFailed": "無法獲取設備信息",
+  "generatingUser": "生成用戶",
+  "generateUserSuccess": "生成用戶成功",
+  "generateUserFailed": "生成用戶失敗",
+  "unregisterUserSuccess": "註銷用戶成功",
+  "unregisterUserFailed": "註銷用戶失敗",
+  "bindingUser": "綁定用戶",
+  "bindingUserSuccess": "綁定用戶成功",
+  "bindingUserFailed": "綁定用戶失敗",
+  "notInputUserTips": "請輸入現有用戶"
 }

@@ -532,5 +532,20 @@
   "restoreSuccess": "恢复成功，请重启应用",
   "restoreFailed": "恢复失败",
   "serverPushTitle": "服务器推送(实验性功能)",
-  "serverPushSubtitle": "下载完成时通知使用服务器推送"
+  "serverPushSubtitle": "下载完成时通知使用服务器推送",
+  "generateOrInputUser": "没有用户，你可以[创建]用户或[输入]现有用户",
+  "inputUser": "输入用户",
+  "inputUserHint": "输入现有用户",
+  "logout": "注销",
+  "retry": "重试",
+  "getTokenFailed": "无法获取设备信息",
+  "generatingUser": "生成用户",
+  "generateUserSuccess": "生成用户成功",
+  "generateUserFailed": "生成用户失败",
+  "unregisterUserSuccess": "注销用户成功",
+  "unregisterUserFailed": "注销用户失败",
+  "bindingUser": "绑定用户",
+  "bindingUserSuccess": "绑定用户成功",
+  "bindingUserFailed": "绑定用户失败",
+  "notInputUserTips": "请输入现有用户"
 }
