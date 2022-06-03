@@ -536,7 +536,8 @@
   "generateOrInputUser": "沒有用戶，你可以[創建]用戶或[輸入]現有用戶",
   "inputUser": "輸入用戶",
   "inputUserHint": "輸入現有用戶",
-  "logout": "註銷",
+  "unregister": "註銷",
+  "unregisterMessage": "您確定要註銷嗎？這會將當前設備從你的設備列表中移除，如果這是您的最後一台設備，那麼您的用戶將被註銷",
   "retry": "重試",
   "getTokenFailed": "無法獲取設備信息",
   "generatingUser": "生成用戶",
@@ -547,5 +548,6 @@
   "bindingUser": "綁定用戶",
   "bindingUserSuccess": "綁定用戶成功",
   "bindingUserFailed": "綁定用戶失敗",
-  "notInputUserTips": "請輸入現有用戶"
+  "notInputUserTips": "請輸入現有用戶",
+  "howToUseServerPush": "如何使用"
 }

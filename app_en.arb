@@ -539,7 +539,8 @@
   "generateOrInputUser": "No user, you can [create] a user or [input] an existing user",
   "inputUser": "Input user",
   "inputUserHint": "Input an existing user",
-  "logout": "Logout",
+  "unregister": "Unregister",
+  "unregisterMessage": "Are you sure you want to unregister? This will remove the current device from your device list, if this is your last device then your user will be deleted",
   "retry": "Retry",
   "getTokenFailed": "Can not get device info",
   "generatingUser": "Generating user",
@@ -550,5 +551,6 @@
   "bindingUser": "Binding user",
   "bindingUserSuccess": "Binding user success",
   "bindingUserFailed": "Binding user failed",
-  "notInputUserTips": "Please input an existing user"
+  "notInputUserTips": "Please input an existing user",
+  "howToUseServerPush": "How to use"
 }
