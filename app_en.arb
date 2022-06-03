@@ -546,6 +546,7 @@
   "generatingUser": "Generating user",
   "generateUserSuccess": "Generate user success",
   "generateUserFailed": "Generate user failed",
+  "unregistering": "Unregistering",
   "unregisterUserSuccess": "Unregister user success",
   "unregisterUserFailed": "Unregister user failed",
   "bindingUser": "Binding user",
