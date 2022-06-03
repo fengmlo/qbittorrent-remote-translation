@@ -516,5 +516,22 @@
   "downloadComplete": "Pobieranie ukończone",
   "backgroundServiceName": "Usługa odświeżania w tle",
   "loginFailed": "Logowanie nie powiodło się",
-  "addTorrentFailed": "Dodawanie torrenta nie powiodło się"
+  "addTorrentFailed": "Dodawanie torrenta nie powiodło się",
+  "notification": "Powiadomienie",
+  "search": "Szukaj",
+  "appearance": "Wygląd",
+  "advanced": "Zaawansowane",
+  "about": "O aplikacji",
+  "resumeAllTorrentsTips": "Czy na pewno chcesz wznowić wszystkie torrenty?",
+  "pauseAllTorrentsTips": "Czy na pewno chcesz wstrzymać wszystkie torrenty?",
+  "backupOrRestore": "Kopia zapasowa/Przywracanie",
+  "backupConfig": "Konfiguracja kopii zapasowej",
+  "backupConfigSubtitle": "Utwórz kopię zapasową wybranej konfiguracji do pliku",
+  "restoreConfig": "Przywróć konfigurację",
+  "restoreConfigSubtitle": "Przywróć konfigurację z pliku",
+  "chooseFilePath": "Wybierz ścieżkę pliku",
+  "backupSuccess": "Tworzenie kopii zapasowej powiodło się",
+  "backupFailed": "Tworzenie kopii zapasowej nie powiodło się",
+  "restoreSuccess": "Przywracanie powiodło się, uruchom ponownie aplikację",
+  "restoreFailed": "Przywracanie nie powiodło się"
 }
