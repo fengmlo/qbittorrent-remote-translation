@@ -13,7 +13,7 @@ Server Push в настоящее время является экспериме
 1. Создайте пользователя в приложении qBittorrent Remote
 2. Скопируйте имя созданного пользователя. Откройте веб-интерфейс сервера qBittorrent, нажмите "Настройки", найдите пункт "Запустить внешнюю программу по окончании загрузки торрента" и заполните поле следующим содержимым:
    - Для пользователей приложения qBittorrent Remote: `curl --form-string "message=%N download complete" "https://qbpush.baiye.us/api/v1/push/имя-пользователя"`
-   - Для пользователей приложения qBittorrent Remote Lite: `curl --form-string "message=%N download complete" "https://qbpushlite.baiye.us/api/v1/push/имя-пользователя`
+   - Для пользователей приложения qBittorrent Remote Lite: `curl --form-string "message=%N download complete" "https://qbpushlite.baiye.us/api/v1/push/имя-пользователя"`
 4. Нажмите "Сохранить"
 
 Настройка завершена!
