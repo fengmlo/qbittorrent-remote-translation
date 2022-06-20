@@ -11,6 +11,6 @@
 
 如果你确定满足以上前提，那么我们继续以下步骤：
 1. 在App上生成一个用户
-2. 复制生成的用户，打开qBittorrent webUI，点击“设置”，在“Torrent完成时运行外部程序”填入 `curl --form-string "message=%N 下载完成" "https://qbpush.baiye.us/api/v1/push/你的用户` (qBittorrent Remote Lite 版用户填入 `curl --form-string "message=%N 下载完成" "https://qbpushlite.baiye.us/api/v1/push/你的用户` )，点击“保存”
+2. 复制生成的用户，打开qBittorrent webUI，点击“设置”，在“Torrent完成时运行外部程序”填入 `curl --form-string "message=%N 下载完成" "https://qbpush.baiye.us/api/v1/push/你的用户"` (qBittorrent Remote Lite 版用户填入 `curl --form-string "message=%N 下载完成" "https://qbpushlite.baiye.us/api/v1/push/你的用户"` )，点击“保存”
 
 大功告成！
