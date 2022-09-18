@@ -1,5 +1,5 @@
 {
-  "clickToAddServer": "Click to add server",
+  "clickToAddServer": "Click to add a server",
   "selectMode": "Select",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
@@ -52,8 +52,8 @@
     }
   },
   "alsoDeleteFile": "Delete files",
-  "noServer": "No Server",
-  "addServer": "Add Server",
+  "noServer": "No Added Server",
+  "addServer": "Add New Server",
   "manageServer": "Manage Servers",
   "appSetting": "Setting",
   "setCategoryDialogTittle": "Set Category",
@@ -248,7 +248,7 @@
   "actionSuperSeeding": "Super Seeding Mode",
   "actionAutomaticTorrentManagement": "Automatic Torrent Management",
   "darkMode": "Night Mode",
-  "addServerFirstTips": "Please add server first",
+  "addServerFirstTips": "Please add a server first",
   "copiedToClipboardTips": "Copied to clipboard",
   "noMagnetLinkTips": "This torrent has no magnet link",
   "darkModeFollowSystem": "Night mode follow system",
@@ -534,8 +534,8 @@
   "backupFailed": "Backup failed",
   "restoreSuccess": "Restore success, please restart app",
   "restoreFailed": "Restore failed",
-  "serverPushTitle": "Server Push (Experimental)",
-  "serverPushSubtitle": "Notify when download complete using server push",
+  "serverPushTitle": "Push Notification(Experimental)",
+  "serverPushSubtitle": "Notify when download complete using push notification",
   "generateOrInputUser": "No user, you can [create] a user or [input] an existing user",
   "inputUser": "Input user",
   "inputUserHint": "Input an existing user",
