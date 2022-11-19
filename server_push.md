@@ -14,6 +14,6 @@ Necessary prerequisites:
 
 If you are sure that the above prerequisites are met, then we continue with the following steps:
 1. Generate a user on the App
-2. Copy the generated user, open the qBittorrent webUI, click "Settings", and fill in `curl --form-string "message=%N download complete" "https://qbpush.baiye.us/api/v1/push/your-user"` (for qBittorrent Remote Lite users, fill in `curl --form-string "message=%N download complete" "https://qbpushlite.baiye.us/api/v1/push/your-user"`) in "Run external program on torrent completion", click "Save"
+2. Copy the generated user, open the qBittorrent webUI, click "Settings", and fill in `curl --form-string "message=%N download complete" "https://qbpush.fengmlo.com/api/v1/push/your-user"` (for qBittorrent Remote Lite users, fill in `curl --form-string "message=%N download complete" "https://qbpushlite.fengmlo.com/api/v1/push/your-user"`) in "Run external program on torrent completion", click "Save"
 
 You're done!

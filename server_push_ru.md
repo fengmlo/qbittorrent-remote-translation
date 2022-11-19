@@ -12,11 +12,11 @@ Server Push в настоящее время является экспериме
 Если вы уверены что вышеперечисленные условия выполнены, то перейдем к следующим шагам:
 1. Создайте пользователя в приложении qBittorrent Remote
 2. Скопируйте имя созданного пользователя. Откройте веб-интерфейс сервера qBittorrent, нажмите `Настройки`, найдите пункт `Запустить внешнюю программу по окончании загрузки торрента` и заполните поле следующим содержимым:
-   - Для пользователей приложения qBittorrent Remote: `curl --form-string "message=Загрука %N завершена!" "https://qbpush.baiye.us/api/v1/push/имя-пользователя"`
-   - Для пользователей приложения qBittorrent Remote Lite: `curl --form-string "message=Загрука %N завершена!" "https://qbpushlite.baiye.us/api/v1/push/имя-пользователя"`
+   - Для пользователей приложения qBittorrent Remote: `curl --form-string "message=Загрука %N завершена!" "https://qbpush.fengmlo.com/api/v1/push/имя-пользователя"`
+   - Для пользователей приложения qBittorrent Remote Lite: `curl --form-string "message=Загрука %N завершена!" "https://qbpushlite.fengmlo.com/api/v1/push/имя-пользователя"`
 3. Кто использует сервер qBittorrent на Windows, вы заметите тест присылаемого уведомления такого типа `�������`. Вам надо заполнить пункт `Запустить внешнюю программу по окончании загрузки торрента` следующим содержимым:
-   - Для пользователей приложения qBittorrent Remote: `curl -X POST -H "Content-Type: application/x-www-form-urlencoded; charset=windows-1251" -d "message=Загрузка %N завершена!" "https://qbpush.baiye.us/api/v1/push/имя-пользователя"`
-   - Для пользователей приложения qBittorrent Remote Lite: `curl -X POST -H "Content-Type: application/x-www-form-urlencoded; charset=windows-1251" -d "message=Загрузка %N завершена!" "https://qbpushlite.baiye.us/api/v1/push/имя-пользователя"`
+   - Для пользователей приложения qBittorrent Remote: `curl -X POST -H "Content-Type: application/x-www-form-urlencoded; charset=windows-1251" -d "message=Загрузка %N завершена!" "https://qbpush.fengmlo.com/api/v1/push/имя-пользователя"`
+   - Для пользователей приложения qBittorrent Remote Lite: `curl -X POST -H "Content-Type: application/x-www-form-urlencoded; charset=windows-1251" -d "message=Загрузка %N завершена!" "https://qbpushlite.fengmlo.com/api/v1/push/имя-пользователя"`
 4. Нажмите "Сохранить"
 
 Настройка завершена!
