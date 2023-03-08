@@ -550,5 +550,6 @@
   "bindingUserSuccess": "綁定用戶成功",
   "bindingUserFailed": "綁定用戶失敗",
   "notInputUserTips": "請輸入現有用戶",
-  "howToUseServerPush": "如何使用"
+  "howToUseServerPush": "如何使用",
+  "backToHomepage": "返回首頁"
 }

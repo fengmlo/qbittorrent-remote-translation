@@ -553,5 +553,6 @@
   "bindingUserSuccess": "Binding user success",
   "bindingUserFailed": "Binding user failed",
   "notInputUserTips": "Please input an existing user",
-  "howToUseServerPush": "How to use"
+  "howToUseServerPush": "How to use",
+  "backToHomepage": "Back to homepage"
 }
