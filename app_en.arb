@@ -555,5 +555,7 @@
   "notInputUserTips": "Please input an existing user",
   "howToUseServerPush": "How to use",
   "backToHomepage": "Back to homepage",
-  "none": "None"
+  "none": "None",
+  "theme": "Theme",
+  "themeSubtitle": "Choose app theme color"
 }

@@ -552,5 +552,7 @@
   "notInputUserTips": "请输入现有用户",
   "howToUseServerPush": "如何使用",
   "backToHomepage": "返回首页",
-  "none": "无"
+  "none": "无",
+  "theme": "主题",
+  "themeSubtitle": "选择主题色"
 }
