@@ -551,5 +551,6 @@
   "bindingUserFailed": "绑定用户失败",
   "notInputUserTips": "请输入现有用户",
   "howToUseServerPush": "如何使用",
-  "backToHomepage": "返回首页"
+  "backToHomepage": "返回首页",
+  "none": "无"
 }
