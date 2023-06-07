@@ -473,7 +473,7 @@
   "forcedDl": "[F] 下載",
   "forcedUp": "[F] 做種",
   "queued": "排隊",
-  "checking": "校驗",
+  "checking": "校驗中",
   "queuedForChecking": "排隊等待校驗",
   "checkingResumeData": "校驗恢復數據",
   "moving": "移動中",
