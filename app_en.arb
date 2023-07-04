@@ -557,5 +557,12 @@
   "backToHomepage": "Back to homepage",
   "none": "None",
   "theme": "Theme",
-  "themeSubtitle": "Choose app theme color"
+  "themeSubtitle": "Choose app theme color",
+  "userStatistics": "User statistics",
+  "cacheStatistics": "Cache statistics",
+  "performanceStatistics": "Performance statistics",
+  "serverLog": "Server log",
+  "viewServerLog": "View Server log",
+  "noMoreData": "No more data",
+  "loadFailed": "Load failed"
 }

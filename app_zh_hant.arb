@@ -554,5 +554,12 @@
   "backToHomepage": "返回首頁",
   "none": "無",
   "theme": "主題",
-  "themeSubtitle": "選擇主題色"
+  "themeSubtitle": "選擇主題色",
+  "userStatistics": "用戶統計",
+  "cacheStatistics": "緩存統計",
+  "performanceStatistics": "性能統計",
+  "serverLog": "服務器日誌",
+  "viewServerLog": "查看服務器日誌",
+  "noMoreData": "沒有更多數據了",
+  "loadFailed": "加載失敗"
 }

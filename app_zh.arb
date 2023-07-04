@@ -554,5 +554,12 @@
   "backToHomepage": "返回首页",
   "none": "无",
   "theme": "主题",
-  "themeSubtitle": "选择主题色"
+  "themeSubtitle": "选择主题色",
+  "userStatistics": "用户统计",
+  "cacheStatistics": "缓存统计",
+  "performanceStatistics": "性能统计",
+  "serverLog": "服务器日志",
+  "viewServerLog": "查看服务器日志",
+  "noMoreData": "没有更多数据了",
+  "loadFailed": "加载失败"
 }
