@@ -564,5 +564,13 @@
   "serverLog": "Server log",
   "viewServerLog": "View Server log",
   "noMoreData": "No more data",
-  "loadFailed": "Load failed"
+  "loadFailed": "Load failed",
+  "actionExportTorrent": "Export .torrent",
+  "torrentExported": "{count,plural, =1{{count} .torrent file} other{{count} .torrent files}} exported to the Download folder",
+  "@torrentExported": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  }
 }

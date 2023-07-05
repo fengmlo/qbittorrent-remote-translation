@@ -561,5 +561,13 @@
   "serverLog": "服務器日誌",
   "viewServerLog": "查看服務器日誌",
   "noMoreData": "沒有更多數據了",
-  "loadFailed": "加載失敗"
+  "loadFailed": "加載失敗",
+  "actionExportTorrent": "導出.torrent",
+  "torrentExported": "{count}個.torrent文件已導出到Download文件夾",
+  "@torrentExported": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  }
 }
