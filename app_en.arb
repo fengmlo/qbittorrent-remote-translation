@@ -572,5 +572,7 @@
       "count": {
       }
     }
-  }
+  },
+  "amoledThemeTitle": "AMOLED theme",
+  "amoledThemeSubtitle": "Darker background in Night mode"
 }
