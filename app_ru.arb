@@ -554,4 +554,23 @@
   "bindingUserFailed": "Ошибка привязки пользователя",
   "notInputUserTips": "Пожалуйста, введите существующего пользователя",
   "howToUseServerPush": "Как пользоваться"
+  "backToHomepage": "Вернуться на главную страницу",
+  "none": "Без категории",
+  "theme": "Тема",
+  "themeSubtitle": "Выбрать цвет темы приложения",
+  "userStatistics": "Статистика пользователя",
+  "cacheStatistics": "Статистика кэша",
+  "performanceStatistics": "Статистика производительности",
+  "serverLog": "Логи сервера",
+  "viewServerLog": "Просмотр логов сервера",
+  "noMoreData": "Нет данных",
+  "loadFailed": "Ошибка загрузки",
+  "actionExportTorrent": "Экспорт .torrent файлов",
+  "torrentExported": "{count,plural, =1{{count} .torrent файл} few{{count} .torrent файла} many{{count} .torrent файлов} other{{count} .torrent файлов}} экспортирован(о) в папку Download",
+  "@torrentExported": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  }
 }
