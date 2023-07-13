@@ -553,7 +553,7 @@
   "bindingUserSuccess": "Привязка пользователя завершена",
   "bindingUserFailed": "Ошибка привязки пользователя",
   "notInputUserTips": "Пожалуйста, введите существующего пользователя",
-  "howToUseServerPush": "Как пользоваться"
+  "howToUseServerPush": "Как пользоваться",
   "backToHomepage": "Вернуться на главную страницу",
   "none": "Без категории",
   "theme": "Тема",
