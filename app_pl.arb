@@ -553,5 +553,24 @@
   "bindingUserSuccess": "Wiązanie użytkownika powiodło się",
   "bindingUserFailed": "Wiązanie użytkownika nie powiodło się",
   "notInputUserTips": "Wpisz istniejącego użytkownika",
-  "howToUseServerPush": "Jak używać"
+  "howToUseServerPush": "Jak używać",
+  "backToHomepage": "Powrót do strony głównej",
+  "none": "Bez kategorii",
+  "theme": "Motyw",
+  "themeSubtitle": "Wybierz kolor motywu aplikacji",
+  "userStatistics": "Statystyki użytkownika",
+  "cacheStatistics": "Statystyki pamięci podręcznej",
+  "performanceStatistics": "Statystyki wydajności",
+  "serverLog": "Dziennik logów serwera",
+  "viewServerLog": "Wyświetl dziennik logów serwera",
+  "noMoreData": "Brak danych",
+  "loadFailed": "Ładowanie nie powiodło się",
+  "actionExportTorrent": "Eksportuj .torrent",
+  "torrentExported": "{count,plural, =1{{count} plik .torrent} other{{count} pliki/ów .torrent}} wyeksportowano do folderu Pobrane",
+  "@torrentExported": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  }
 }
