@@ -575,6 +575,7 @@
   },
   "amoledThemeTitle": "AMOLED theme",
   "amoledThemeSubtitle": "Darker background in Night mode",
-  "allFilters":"All filters",
-  "inUse":"In use"
+  "allFilters": "All filters",
+  "inUse": "In use",
+  "addNew": "Add new"
 }

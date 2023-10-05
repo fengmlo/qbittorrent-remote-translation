@@ -572,6 +572,7 @@
   },
   "amoledThemeTitle": "AMOLED主題",
   "amoledThemeSubtitle": "更暗的夜間模式背景",
-  "allFilters":"全部過濾器",
-  "inUse":"使用中"
+  "allFilters": "全部過濾器",
+  "inUse": "使用中",
+  "addNew": "新增"
 }
