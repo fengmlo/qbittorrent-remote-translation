@@ -572,5 +572,10 @@
       "count": {
       }
     }
-  }
+  },
+  "amoledThemeTitle": "Тема AMOLED",
+  "amoledThemeSubtitle": "Более темный фон в ночном режиме",
+  "allFilters": "Все фильтры",
+  "inUse": "Используется",
+  "addNew": "Добавить новый"
 }
