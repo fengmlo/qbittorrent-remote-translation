@@ -574,5 +574,7 @@
   "amoledThemeSubtitle": "更暗的夜間模式背景",
   "allFilters": "全部過濾器",
   "inUse": "使用中",
-  "addNew": "新增"
+  "addNew": "新增",
+  "tags": "標籤",
+  "unTagged": "未標籤"
 }

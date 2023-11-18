@@ -577,5 +577,7 @@
   "amoledThemeSubtitle": "Darker background in Night mode",
   "allFilters": "All filters",
   "inUse": "In use",
-  "addNew": "Add new"
+  "addNew": "Add new",
+  "tags": "Tags",
+  "untagged": "Untagged"
 }

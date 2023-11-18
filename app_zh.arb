@@ -574,5 +574,7 @@
   "amoledThemeSubtitle": "更暗的夜间模式背景",
   "allFilters": "全部过滤器",
   "inUse": "使用中",
-  "addNew": "新增"
+  "addNew": "新增",
+  "tags": "标签",
+  "untagged": "无标签"
 }
