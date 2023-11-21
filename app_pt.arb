@@ -553,5 +553,31 @@
   "bindingUserSuccess": "Vinculado com sucesso o usuário",
   "bindingUserFailed": "Falha ao vincular usuário",
   "notInputUserTips": "Insira um usuário existente",
-  "howToUseServerPush": "Como usar"
+  "howToUseServerPush": "Como usar",
+  "backToHomepage": "Voltar para a página inicial",
+  "none": "Nenhum",
+  "theme": "Tema",
+  "themeSubtitle": "Escolha a cor do tema do aplicativo",
+  "userStatistics": "Estatísticas do usuário",
+  "cacheStatistics": "Estatísticas do cache",
+  "performanceStatistics": "Estatísticas de desempenho",
+  "serverLog": "Log do servidor",
+  "viewServerLog": "Visualizar log do servidor",
+  "noMoreData": "Não há mais dados",
+  "loadFailed": "Falha ao carregar",
+  "actionExportTorrent": "Exportar .torrent",
+  "torrentExported": "{count,plural, =1{{count} arquivo .torrent} other{{count} arquivos .torrent}} exportados para a pasta Download",
+  "@torrentExported": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "amoledThemeTitle": "Tema AMOLED",
+  "amoledThemeSubtitle": "Fundo mais escuro no modo noturno",
+  "allFilters": "Todos os filtros",
+  "inUse": "Em uso",
+  "addNew": "Adicionar novo",
+  "tags": "Tags",
+  "untagged": "Não marcado"
 }

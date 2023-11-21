@@ -572,5 +572,12 @@
       "count": {
       }
     }
-  }
+  },
+  "amoledThemeTitle": "Motyw AMOLED",
+  "amoledThemeSubtitle": "Ciemniejsze tło w trybie nocnym",
+  "allFilters": "Wszystkie filtry",
+  "inUse": "W użyciu",
+  "addNew": "Dodaj nowy",
+  "tags": "Tagi",
+  "untagged": "Nieoznaczone"
 }
