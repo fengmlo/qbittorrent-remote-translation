@@ -579,5 +579,6 @@
   "inUse": "In use",
   "addNew": "Add new",
   "tags": "Tags",
-  "untagged": "Untagged"
+  "untagged": "Untagged",
+  "manageTags": "Manage tags"
 }

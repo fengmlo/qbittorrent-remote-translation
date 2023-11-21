@@ -576,5 +576,6 @@
   "inUse": "使用中",
   "addNew": "新增",
   "tags": "标签",
-  "untagged": "无标签"
+  "untagged": "无标签",
+  "manageTags": "管理标签"
 }
