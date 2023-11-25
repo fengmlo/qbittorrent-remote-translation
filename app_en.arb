@@ -580,5 +580,6 @@
   "addNew": "Add new",
   "tags": "Tags",
   "untagged": "Untagged",
-  "manageTags": "Manage tags"
+  "manageTags": "Manage tags",
+  "setTags": "Set Tags"
 }

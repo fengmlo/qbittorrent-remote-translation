@@ -577,5 +577,6 @@
   "addNew": "新增",
   "tags": "标签",
   "untagged": "无标签",
-  "manageTags": "管理标签"
+  "manageTags": "管理标签",
+  "setTags": "设置标签"
 }
