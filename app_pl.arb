@@ -579,5 +579,7 @@
   "inUse": "W użyciu",
   "addNew": "Dodaj nowy",
   "tags": "Tagi",
-  "untagged": "Nieoznaczone"
+  "untagged": "Nieoznaczone",
+  "manageTags": "Zarządzaj tagami",
+  "setTags": "Ustaw tagi"
 }

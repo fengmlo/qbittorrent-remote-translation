@@ -579,5 +579,7 @@
   "inUse": "Em uso",
   "addNew": "Adicionar novo",
   "tags": "Tags",
-  "untagged": "Não marcado"
+  "untagged": "Não marcado",
+  "manageTags": "Gerenciar tags",
+  "setTags": "Definir tags"
 }

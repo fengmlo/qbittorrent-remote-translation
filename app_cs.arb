@@ -579,5 +579,7 @@
   "inUse": "V použití",
   "addNew": "Přidat nový",
   "tags": "Štítky",
-  "untagged": "Neoznačené"
+  "untagged": "Neoznačené",
+  "manageTags": "Spravovat štítky",
+  "setTags": "Nastavit štítky"
 }

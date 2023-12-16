@@ -579,5 +579,7 @@
   "inUse": "I bruk",
   "addNew": "Lägg till ny",
   "tags": "Taggar",
-  "untagged": "Ej taggad"
+  "untagged": "Ej taggad",
+  "manageTags": "Hantera taggar",
+  "setTags": "Ange taggar"
 }
