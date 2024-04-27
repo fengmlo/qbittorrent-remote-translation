@@ -44,7 +44,7 @@
   "downloadInSequentialOrder": "Descargar secuencialmente",
   "downloadFirstAndLastPiecesFirst": "Descargar antes primeras y últimas partes",
   "deleteTorrentDialogTittle": "Eliminar torrent(s) seleccionado(s)",
-  "deleteTorrentDialogMessage": "{count,plural, =1{¿Estás seguro de querer eliminar los {count} torrent(s) seleccionados?} other{¿Estás seguro de querer eliminar los {count} torrent(s) seleccionados?}}",
+  "deleteTorrentDialogMessage": "{count,plural, =1{¿Seguro que quieres eliminar los {count} torrent(s) seleccionados?} other{¿Seguro que quieres eliminar los {count} torrent(s) seleccionados?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
       "count": {
@@ -85,7 +85,7 @@
   "addCategoryHint": "Nombre de categoría",
   "addCategorySavePathHint": "En blanco por defecto",
   "manageCategory": "Gestionar categorías",
-  "deleteCategoryMessage": "¿Estás seguro de querer eliminar esta categoría?",
+  "deleteCategoryMessage": "¿Seguro que quieres eliminar esta categoría?",
   "deleteSuccessTips": "Eliminada con éxito",
   "addSuccessTips": "Añadida con éxito",
   "operationSuccessTips": "Éxito",
@@ -180,7 +180,7 @@
   "inputUserNameTips": "Escribe el nombre de usuario",
   "inputPasswordTips": "Escribe la contraseña ",
   "configNotSaveDialogTitle": "No guardado",
-  "configNotSaveDialogMessage": "La configuración aún no ha sido guardada. ¿Estás seguro de que quieres salir?",
+  "configNotSaveDialogMessage": "La configuración aún no ha sido guardada. ¿Seguro que quieres salir?",
   "deleteServerDialogTitle": "Eliminar servidor",
   "deleteServerDialogMessage": "¿Seguro que quieres eliminar este servidor?",
   "testServerSuccessTips": "Prueba exitosa",
@@ -212,8 +212,8 @@
   "expandFileListOnSubtitle": "Lista de archivos expandida por defecto",
   "expandFileListOffSubtitle": "Lista de archivos colapsada por defecto",
   "switchServerWhenAddTorrent": "Cambiar servidor al añadir torrent",
-  "switchServerWhenAddTorrentOnSubtitle": "El diálogo para añadir torrent puede cambiar de servidor",
-  "switchServerWhenAddTorrentOffSubtitle": "El diálogo para añadir torrent no puede cambiar de servidor",
+  "switchServerWhenAddTorrentOnSubtitle": "El diálogo para añadir un torrent puede cambiar de servidor",
+  "switchServerWhenAddTorrentOffSubtitle": "El diálogo para añadir un torrent no puede cambiar de servidor",
   "version": "Versión",
   "formatDay": "d",
   "formatHour": "h",
@@ -270,8 +270,8 @@
   "dht": "DHT",
   "nodes": "Nodos",
   "queueing": "En cola",
-  "queueingTrue": "True",
-  "queueingFalse": "False",
+  "queueingTrue": "Cierto",
+  "queueingFalse": "Falso",
   "addNewPeers": "Añadir más pares",
   "copyPeer": "Copiar IP:puerto",
   "banPeer": "Bloquear par para siempre",
@@ -385,7 +385,7 @@
       }
     }
   },
-  "speedInfo": "{speed} ({speedAvg} avg.)",
+  "speedInfo": "{speed} ({speedAvg} media)",
   "@speedInfo": {
     "placeholders": {
       "speed": {
@@ -466,7 +466,7 @@
   "deleteFilesByDefaultOffSubtitle": "No eliminar archivos por defecto al eliminar un torrent",
   "filterInactive": "Inactivos",
   "filterResumed": "Reanudados",
-  "filterStalled": "Detenido",
+  "filterStalled": "Detenidos",
   "filterStalledUploading": "Subida detenida",
   "filterStalledDownloading": "Descarga detenida",
   "filterErrored": "Con error(es)",
@@ -485,8 +485,8 @@
   "useStatusIcon": "Usar iconos nuevos para la lista de torrents",
   "useStatusIconOnSubtitle": "Usar iconos diferentes en la lista de torrents para distinguir el estado del torrent",
   "useStatusIconOffSubtitle": "Usar los iconos por defecto en la lista de torrents",
-  "showSearchOnAdd": "Mostrar búsqueda en el botón \"Add\"",
-  "showSearchOnAddOnSubtitle": "Mostrar búsqueda en el botón \"Add\", en lugar del panel",
+  "showSearchOnAdd": "Mostrar búsqueda en el botón \"Añadir\"",
+  "showSearchOnAddOnSubtitle": "Mostrar búsqueda en el botón \"Añadir\", en lugar del panel",
   "showSearchOnAddOffSubtitle": "Mostrar búsqueda en el panel",
   "searchIn": "Buscar en",
   "everywhere": "Todos lados",
