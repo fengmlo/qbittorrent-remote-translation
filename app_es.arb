@@ -26,7 +26,7 @@
   "ratio": "Ratio",
   "torrentLinkLabel": "URLs o enlaces magnet",
   "torrentFileLabel": "Archivo torrent",
-  "torrentLinkHint": "Enlaces http://, https://, magnet: y bc://bt/, solo un enlace por línea ",
+  "torrentLinkHint": "Enlaces http://, https://, magnet: y bc://bt/, solo un enlace por línea",
   "autoTmm": "Modo de autoadministración de torrents",
   "savePath": "Ruta de guardado",
   "fullSetting": "Más opciones",
@@ -95,7 +95,7 @@
   "peers": "Pares",
   "torrentInformation": "Información del torrent",
   "totalSizeTitle": "Tamaño total",
-  "totalSizeInfo": "{totalSize} ({piecesNum} pieces of {pieceSize})",
+  "totalSizeInfo": "{totalSize} ({piecesNum} piezas de {pieceSize})",
   "@totalSizeInfo": {
     "placeholders": {
       "totalSize": {
@@ -287,8 +287,8 @@
   "noInputTrackersTips": "Introduce trackers",
   "doNotDownload": "No descargar",
   "normalPriority": "Prioridad normal",
-  "highPriority": "Alta prioridad",
-  "maximalPriority": "Máxima prioridad",
+  "highPriority": "Prioridad alta",
+  "maximalPriority": "Prioridad máxima",
   "copyFileName": "Copiar nombre de archivo",
   "bestApiTips": "Consigue la mejor experiencia con la API 2.6.1 y superiores",
   "searchHint": "Filtrar lista actual",
@@ -340,7 +340,7 @@
   "rememberDownloadSettingOnSubtitle": "Recordar las opciones del cuadro de diálogo",
   "rememberDownloadSettingOffSubtitle": "No recordar las opciones del cuadro de diálogo",
   "piecesTitle": "Piezas",
-  "piecesInfo": "{piecesNum} × {pieceSize} (have {pieceHave})",
+  "piecesInfo": "{piecesNum} × {pieceSize} (tiene {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
       "piecesNum": {
@@ -358,7 +358,7 @@
   "commentTitle": "Comentario",
   "timeActiveTitle": "Tiempo activo",
   "connectionsTitle": "Conexiones",
-  "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
+  "connectionsInfo": "{connectionsNum} ({connectionsLimit} máx)",
   "@connectionsInfo": {
     "placeholders": {
       "connectionsNum": {
@@ -479,7 +479,7 @@
   "checking": "Comprobación",
   "queuedForChecking": "En cola para comprobar",
   "checkingResumeData": "Comprobando datos de reanudación",
-  "moving": "Movendo",
+  "moving": "Moviendo",
   "missingFiles": "Archivos faltantes",
   "formatYear": "a",
   "useStatusIcon": "Usar iconos nuevos para la lista de torrents",
@@ -517,7 +517,7 @@
   "backgroundServiceName": "Servicio de actualización de fondo",
   "loginFailed": "Inicio de sesión fallido",
   "addTorrentFailed": "No se pudo añadir el torrent",
-  "notification": "Notificación",
+  "notification": "Notificaciones",
   "search": "Búsqueda",
   "appearance": "Aspecto",
   "advanced": "Avanzado",
@@ -544,7 +544,7 @@
   "retry": "Reintentar",
   "getTokenFailed": "No se pudo obtener la información",
   "generatingUser": "Generando usuario",
-  "generateUserSuccess": "Generación de usuario completa",
+  "generateUserSuccess": "Generación de usuario exitosa",
   "generateUserFailed": "Generación de usuario fallida",
   "unregistering": "Quitando",
   "unregisterUserSuccess": "Usuario quitado exitosamente",
@@ -566,14 +566,14 @@
   "noMoreData": "Sin más datos",
   "loadFailed": "Carga fallida",
   "actionExportTorrent": "Exportar .torrent",
-  "torrentExported": "{count,plural, =1{{count} archivo .torrent } other{{count} .torrent files}} exportado en la carpeta de descargas",
+  "torrentExported": "{count,plural, =1{{count} file .torrent } other{{count} .torrent files}} exportado en la carpeta de descargas",
   "@torrentExported": {
     "placeholders": {
       "count": {
       }
     }
   },
-  "amoledThemeTitle": "Tema para AMOLED",
+  "amoledThemeTitle": "Tema AMOLED",
   "amoledThemeSubtitle": "Fondo más oscuro en modo noche",
   "allFilters": "Todos los filtros",
   "inUse": "En uso",
