@@ -219,7 +219,7 @@
   "formatHour": "h",
   "formatMinute": "m",
   "formatSecond": "s",
-  "filterAll": "All",
+  "filterAll": "Todo",
   "filterActive": "Activos",
   "filterDownloading": "Descargando",
   "filterSeeding": "Sembrando",
