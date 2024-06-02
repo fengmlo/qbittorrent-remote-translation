@@ -597,5 +597,8 @@
   "inputKeyAndValueTips": "Please enter a key and value",
   "pasteToKey": "Paste to key",
   "pasteToValue": "Paste to value",
-  "deleteHeaderTips": "Are you sure?"
+  "deleteHeaderTips": "Are you sure?",
+  "copyHeadersTips": "or [copy all headers] from another server",
+  "noServerToCopyTips": "No custom headers from other servers to copy from",
+  "copyFromTitle": "Copy from"
 }
