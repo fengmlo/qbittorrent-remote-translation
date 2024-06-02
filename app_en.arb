@@ -581,5 +581,21 @@
   "tags": "Tags",
   "untagged": "Untagged",
   "manageTags": "Manage tags",
-  "setTags": "Set Tags"
+  "setTags": "Set Tags",
+  "customHeaders": "Custom Headers",
+  "customHeadersSubtitle": "Manage custom headers for this server. Each of the headers you add will be added to every API request.",
+  "noCustomHeaders": "No custom headers",
+  "addNewHeader": "Add new header",
+  "customHeader": "Custom Header",
+  "headerType": "Header type",
+  "custom": "Custom",
+  "cloudflareClientId": "Cloudflare: Client ID",
+  "cloudflareSecret": "Cloudflare: Secret",
+  "headerKey": "Header key",
+  "headerValue": "Header value",
+  "keyExistsTips": "The key already exists",
+  "inputKeyAndValueTips": "Please enter a key and value",
+  "pasteToKey": "Paste to key",
+  "pasteToValue": "Paste to value",
+  "deleteHeaderTips": "Are you sure?"
 }
