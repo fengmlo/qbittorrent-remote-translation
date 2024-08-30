@@ -600,5 +600,6 @@
   "deleteHeaderTips": "Are you sure?",
   "copyHeadersTips": "or [copy all headers] from another server",
   "noServerToCopyTips": "No custom headers from other servers to copy from",
-  "copyFromTitle": "Copy from"
+  "copyFromTitle": "Copy from",
+  "inactiveSeedingTimeLimit": "Inactive "
 }

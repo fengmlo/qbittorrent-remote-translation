@@ -597,5 +597,6 @@
   "deleteHeaderTips": "您确定吗？",
   "copyHeadersTips": "或从另一个服务器[复制所有标头]",
   "noServerToCopyTips": "没有可供复制的其他服务器的自定义标头",
-  "copyFromTitle": "复制自"
+  "copyFromTitle": "复制自",
+  "inactiveSeedingTimeLimit": "不活跃分钟"
 }
