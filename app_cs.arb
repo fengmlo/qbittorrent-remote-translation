@@ -600,5 +600,6 @@
   "deleteHeaderTips": "Jste si jisti?",
   "copyHeadersTips": "nebo [zkopírujte všechny hlavičky] z jiného serveru",
   "noServerToCopyTips": "Žádné vlastní hlavičky z jiných serverů ke kopírování",
-  "copyFromTitle": "Kopírovat z"
+  "copyFromTitle": "Kopírovat z",
+  "inactiveSeedingTimeLimit": "Časový limit neaktivního seedování"
 }

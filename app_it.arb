@@ -600,5 +600,6 @@
   "deleteHeaderTips": "Sei sicuro?",
   "copyHeadersTips": "o [copia tutte le intestazioni] da un altro server",
   "noServerToCopyTips": "Nessuna intestazione personalizzata da altri server da copiare",
-  "copyFromTitle": "Copia da"
+  "copyFromTitle": "Copia da",
+  "inactiveSeedingTimeLimit": "Limite di tempo di seeding inattivo"
 }

@@ -600,5 +600,6 @@
   "deleteHeaderTips": "Jesteś pewny?",
   "copyHeadersTips": "lub [skopiuj wszystkie nagłówki] z innego serwera",
   "noServerToCopyTips": "Brak niestandardowych nagłówków z innych serwerów do skopiowania",
-  "copyFromTitle": "Kopiuj z"
+  "copyFromTitle": "Kopiuj z",
+  "inactiveSeedingTimeLimit": "Limit czasu nieaktywnego seedowania"
 }

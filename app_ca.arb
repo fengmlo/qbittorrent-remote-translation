@@ -600,5 +600,6 @@
   "deleteHeaderTips": "Estàs segur?",
   "copyHeadersTips": "o [copia totes les capçaleres] d'un altre servidor",
   "noServerToCopyTips": "No hi ha capçaleres personalitzades d'altres servidors per copiar",
-  "copyFromTitle": "Copia de"
+  "copyFromTitle": "Copia de",
+  "inactiveSeedingTimeLimit": "Límit de temps de sembra inactiva"
 }

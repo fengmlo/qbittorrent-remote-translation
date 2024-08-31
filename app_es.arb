@@ -600,5 +600,6 @@
   "deleteHeaderTips": "¿Estás seguro?",
   "copyHeadersTips": "o [copiar todos los encabezados] de otro servidor",
   "noServerToCopyTips": "No hay encabezados personalizados de otros servidores para copiar",
-  "copyFromTitle": "Copiar de"
+  "copyFromTitle": "Copiar de",
+  "inactiveSeedingTimeLimit": "Límite de tiempo de siembra inactiva"
 }

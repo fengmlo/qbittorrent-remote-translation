@@ -600,5 +600,6 @@
   "deleteHeaderTips": "Är du säker?",
   "copyHeadersTips": "eller [kopiera alla rubriker] från en annan server",
   "noServerToCopyTips": "Inga anpassade rubriker från andra servrar att kopiera",
-  "copyFromTitle": "Kopiera från"
+  "copyFromTitle": "Kopiera från",
+  "inactiveSeedingTimeLimit": "Inaktiv seedningstidsgräns"
 }

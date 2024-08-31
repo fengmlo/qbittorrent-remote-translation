@@ -600,5 +600,6 @@
   "deleteHeaderTips": "Вы уверены?",
   "copyHeadersTips": "или [скопировать все заголовки] с другого сервера",
   "noServerToCopyTips": "Нет пользовательских заголовков с других серверов для копирования",
-  "copyFromTitle": "Копировать из"
+  "copyFromTitle": "Копировать из",
+  "inactiveSeedingTimeLimit": "Лимит времени неактивного раздачи"
 }
