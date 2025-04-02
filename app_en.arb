@@ -601,5 +601,15 @@
   "copyHeadersTips": "or [copy all headers] from another server",
   "noServerToCopyTips": "No custom headers from other servers to copy from",
   "copyFromTitle": "Copy from",
-  "inactiveSeedingTimeLimit": "Inactive seeding time limit"
+  "inactiveSeedingTimeLimit": "Inactive seeding time limit",
+  "sessionDownload": "Session Download",
+  "sessionUpload": "Session Upload",
+  "localNetwork": "Local Network",
+  "requireLocationPermission": "Location Permission Required",
+  "requireLocationPermissionMessage": "Location permission is required to get wifi ssid. Please enable location permission in the app settings.",
+  "wifiSsid": "Wifi SSID",
+  "disableAuthentication": "Disable authentication",
+  "deleteLocalNetworkConfig": "Delete local network config",
+  "deleteLocalNetworkConfigMessage": "Are you sure you want to delete the local network config?",
+  "noLocalNetworkConfig": "No local network config"
 }
