@@ -608,5 +608,9 @@
   "disableAuthentication": "禁用身份驗證",
   "deleteLocalNetworkConfig": "刪除本地網絡配置",
   "deleteLocalNetworkConfigMessage": "您確定要刪除本地網絡配置嗎？",
-  "noLocalNetworkConfig": "無本地網絡配置"
+  "noLocalNetworkConfig": "無本地網絡配置",
+  "notificationPermissionDenied": "通知權限被拒絕",
+  "permissionRequired": "需要權限",
+  "notificationPermissionRequired": "需要通知權限來顯示通知，請在系統設置中開啟通知權限",
+  "goToSettings": "前往設置"
 }

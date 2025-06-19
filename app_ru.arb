@@ -611,5 +611,9 @@
   "disableAuthentication": "Отключить аутентификацию",
   "deleteLocalNetworkConfig": "Удалить конфигурацию локальной сети",
   "deleteLocalNetworkConfigMessage": "Вы уверены, что хотите удалить конфигурацию локальной сети?",
-  "noLocalNetworkConfig": "Нет конфигурации локальной сети"
+  "noLocalNetworkConfig": "Нет конфигурации локальной сети",
+  "notificationPermissionDenied": "Разрешение на уведомления отклонено",
+  "permissionRequired": "Требуется Разрешение",
+  "notificationPermissionRequired": "Разрешение на уведомления необходимо для показа уведомлений. Включите разрешение на уведомления в настройках системы",
+  "goToSettings": "Перейти в Настройки"
 }

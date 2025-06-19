@@ -611,5 +611,9 @@
   "disableAuthentication": "Wyłącz uwierzytelnianie",
   "deleteLocalNetworkConfig": "Usuń konfigurację sieci lokalnej",
   "deleteLocalNetworkConfigMessage": "Czy na pewno chcesz usunąć konfigurację sieci lokalnej?",
-  "noLocalNetworkConfig": "Brak konfiguracji sieci lokalnej"
+  "noLocalNetworkConfig": "Brak konfiguracji sieci lokalnej",
+  "notificationPermissionDenied": "Odmówiono zgody na powiadomienia",
+  "permissionRequired": "Wymagana Zgoda",
+  "notificationPermissionRequired": "Zgoda na powiadomienia jest wymagana do wyświetlania powiadomień. Włącz zgodę na powiadomienia w ustawieniach systemu",
+  "goToSettings": "Przejdź do Ustawień"
 }

@@ -611,5 +611,9 @@
   "disableAuthentication": "Вимкнути автентифікацію",
   "deleteLocalNetworkConfig": "Видалити конфігурацію локальної мережі",
   "deleteLocalNetworkConfigMessage": "Ви впевнені, що хочете видалити конфігурацію локальної мережі?",
-  "noLocalNetworkConfig": "Немає конфігурації локальної мережі"
+  "noLocalNetworkConfig": "Немає конфігурації локальної мережі",
+  "notificationPermissionDenied": "Дозвіл на сповіщення відхилено",
+  "permissionRequired": "Потрібен Дозвіл",
+  "notificationPermissionRequired": "Дозвіл на сповіщення потрібен для показу сповіщень. Будь ласка, увімкніть дозвіл на сповіщення в системних налаштуваннях",
+  "goToSettings": "Перейти до Налаштувань"
 }

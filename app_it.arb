@@ -611,5 +611,9 @@
   "disableAuthentication": "Disabilita autenticazione",
   "deleteLocalNetworkConfig": "Elimina configurazione rete locale",
   "deleteLocalNetworkConfigMessage": "Sei sicuro di voler eliminare la configurazione della rete locale?",
-  "noLocalNetworkConfig": "Nessuna configurazione di rete locale"
+  "noLocalNetworkConfig": "Nessuna configurazione di rete locale",
+  "notificationPermissionDenied": "Permesso di notifica negato",
+  "permissionRequired": "Permesso Richiesto",
+  "notificationPermissionRequired": "È richiesto il permesso di notifica per mostrare le notifiche. Abilita il permesso di notifica nelle impostazioni di sistema",
+  "goToSettings": "Vai alle Impostazioni"
 }
