@@ -601,5 +601,15 @@
   "copyHeadersTips": "або [копіювати всі заголовки] з іншого сервера",
   "noServerToCopyTips": "Немає користувацьких заголовків з інших серверів для копіювання",
   "copyFromTitle": "Копіювати з",
-  "inactiveSeedingTimeLimit": "Обмеження часу неактивної роздачі"
+  "inactiveSeedingTimeLimit": "Обмеження часу неактивної роздачі",
+  "sessionDownload": "Завантаження за сесію",
+  "sessionUpload": "Віддача за сесію",
+  "localNetwork": "Локальна мережа",
+  "requireLocationPermission": "Потрібен дозвіл на доступ до місцезнаходження",
+  "requireLocationPermissionMessage": "Для отримання SSID Wi-Fi потрібен дозвіл на доступ до місцезнаходження. Увімкніть дозвіл на доступ до місцезнаходження в налаштуваннях програми.",
+  "wifiSsid": "SSID Wi-Fi",
+  "disableAuthentication": "Вимкнути автентифікацію",
+  "deleteLocalNetworkConfig": "Видалити конфігурацію локальної мережі",
+  "deleteLocalNetworkConfigMessage": "Ви впевнені, що хочете видалити конфігурацію локальної мережі?",
+  "noLocalNetworkConfig": "Немає конфігурації локальної мережі"
 }

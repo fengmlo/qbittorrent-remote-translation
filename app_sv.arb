@@ -601,5 +601,15 @@
   "copyHeadersTips": "eller [kopiera alla rubriker] från en annan server",
   "noServerToCopyTips": "Inga anpassade rubriker från andra servrar att kopiera",
   "copyFromTitle": "Kopiera från",
-  "inactiveSeedingTimeLimit": "Inaktiv seedningstidsgräns"
+  "inactiveSeedingTimeLimit": "Inaktiv seedningstidsgräns",
+  "sessionDownload": "Sessionsnedladdning",
+  "sessionUpload": "Sessionsuppladdning",
+  "localNetwork": "Lokalt nätverk",
+  "requireLocationPermission": "Platsbehörighet krävs",
+  "requireLocationPermissionMessage": "Platsbehörighet krävs för att hämta wifi-SSID. Aktivera platsbehörighet i appinställningarna.",
+  "wifiSsid": "Wifi-SSID",
+  "disableAuthentication": "Inaktivera autentisering",
+  "deleteLocalNetworkConfig": "Ta bort konfiguration för lokalt nätverk",
+  "deleteLocalNetworkConfigMessage": "Är du säker på att du vill ta bort konfigurationen för det lokala nätverket?",
+  "noLocalNetworkConfig": "Ingen konfiguration för lokalt nätverk"
 }

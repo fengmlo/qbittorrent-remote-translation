@@ -601,5 +601,15 @@
   "copyHeadersTips": "o [copiar todos los encabezados] de otro servidor",
   "noServerToCopyTips": "No hay encabezados personalizados de otros servidores para copiar",
   "copyFromTitle": "Copiar de",
-  "inactiveSeedingTimeLimit": "Límite de tiempo de siembra inactiva"
+  "inactiveSeedingTimeLimit": "Límite de tiempo de siembra inactiva",
+  "sessionDownload": "Descarga de la sesión",
+  "sessionUpload": "Subida de la sesión",
+  "localNetwork": "Red local",
+  "requireLocationPermission": "Se requiere permiso de ubicación",
+  "requireLocationPermissionMessage": "Se requiere permiso de ubicación para obtener el SSID del wifi. Habilita el permiso de ubicación en los ajustes de la aplicación.",
+  "wifiSsid": "SSID Wifi",
+  "disableAuthentication": "Desactivar autenticación",
+  "deleteLocalNetworkConfig": "Eliminar configuración de red local",
+  "deleteLocalNetworkConfigMessage": "¿Seguro que quieres eliminar la configuración de red local?",
+  "noLocalNetworkConfig": "No hay configuración de red local"
 }

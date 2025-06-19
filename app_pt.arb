@@ -601,5 +601,15 @@
   "copyHeadersTips": "lub [skopiuj wszystkie nagłówki] z innego serwera",
   "noServerToCopyTips": "Brak niestandardowych nagłówków z innych serwerów do skopiowania",
   "copyFromTitle": "Kopiuj z",
-  "inactiveSeedingTimeLimit": "Limite de tempo de semeadura inativa"
+  "inactiveSeedingTimeLimit": "Limite de tempo de semeadura inativa",
+  "sessionDownload": "Download da Sessão",
+  "sessionUpload": "Upload da Sessão",
+  "localNetwork": "Rede Local",
+  "requireLocationPermission": "Permissão de Localização Necessária",
+  "requireLocationPermissionMessage": "A permissão de localização é necessária para obter o SSID do wifi. Ative a permissão de localização nas configurações do aplicativo.",
+  "wifiSsid": "SSID do Wifi",
+  "disableAuthentication": "Desativar autenticação",
+  "deleteLocalNetworkConfig": "Excluir configuração de rede local",
+  "deleteLocalNetworkConfigMessage": "Tem certeza de que deseja excluir a configuração da rede local?",
+  "noLocalNetworkConfig": "Nenhuma configuração de rede local"
 }

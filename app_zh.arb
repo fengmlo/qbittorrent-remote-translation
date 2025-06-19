@@ -598,5 +598,15 @@
   "copyHeadersTips": "或从另一个服务器[复制所有标头]",
   "noServerToCopyTips": "没有可供复制的其他服务器的自定义标头",
   "copyFromTitle": "复制自",
-  "inactiveSeedingTimeLimit": "不活跃做种时间限制"
+  "inactiveSeedingTimeLimit": "不活跃做种时间限制",
+  "sessionDownload": "本次会话下载",
+  "sessionUpload": "本次会话上传",
+  "localNetwork": "本地网络",
+  "requireLocationPermission": "需要位置权限",
+  "requireLocationPermissionMessage": "需要位置权限才能获取Wi-Fi SSID。请在应用设置中打开位置权限",
+  "wifiSsid": "Wi-Fi SSID",
+  "disableAuthentication": "禁用身份验证",
+  "deleteLocalNetworkConfig": "删除本地网络配置",
+  "deleteLocalNetworkConfigMessage": "你确定要删除本地网络配置吗？",
+  "noLocalNetworkConfig": "无本地网络配置"
 }

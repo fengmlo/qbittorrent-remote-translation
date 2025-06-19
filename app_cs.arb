@@ -601,5 +601,15 @@
   "copyHeadersTips": "nebo [zkopírujte všechny hlavičky] z jiného serveru",
   "noServerToCopyTips": "Žádné vlastní hlavičky z jiných serverů ke kopírování",
   "copyFromTitle": "Kopírovat z",
-  "inactiveSeedingTimeLimit": "Časový limit neaktivního seedování"
+  "inactiveSeedingTimeLimit": "Časový limit neaktivního seedování",
+  "sessionDownload": "Staženo v relaci",
+  "sessionUpload": "Odesláno v relaci",
+  "localNetwork": "Místní síť",
+  "requireLocationPermission": "Je vyžadováno oprávnění k poloze",
+  "requireLocationPermissionMessage": "K získání SSID wifi je vyžadováno oprávnění k poloze. Povolte prosím oprávnění k poloze v nastavení aplikace.",
+  "wifiSsid": "Wifi SSID",
+  "disableAuthentication": "Zakázat ověřování",
+  "deleteLocalNetworkConfig": "Odstranit konfiguraci místní sítě",
+  "deleteLocalNetworkConfigMessage": "Opravdu chcete odstranit konfiguraci místní sítě?",
+  "noLocalNetworkConfig": "Žádná konfigurace místní sítě"
 }

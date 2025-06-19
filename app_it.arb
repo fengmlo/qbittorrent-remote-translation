@@ -601,5 +601,15 @@
   "copyHeadersTips": "o [copia tutte le intestazioni] da un altro server",
   "noServerToCopyTips": "Nessuna intestazione personalizzata da altri server da copiare",
   "copyFromTitle": "Copia da",
-  "inactiveSeedingTimeLimit": "Limite di tempo di seeding inattivo"
+  "inactiveSeedingTimeLimit": "Limite di tempo di seeding inattivo",
+  "sessionDownload": "Download della sessione",
+  "sessionUpload": "Upload della sessione",
+  "localNetwork": "Rete locale",
+  "requireLocationPermission": "Permesso di localizzazione richiesto",
+  "requireLocationPermissionMessage": "Il permesso di localizzazione è necessario per ottenere il SSID wifi. Abilita il permesso di localizzazione nelle impostazioni dell'app.",
+  "wifiSsid": "SSID Wifi",
+  "disableAuthentication": "Disabilita autenticazione",
+  "deleteLocalNetworkConfig": "Elimina configurazione rete locale",
+  "deleteLocalNetworkConfigMessage": "Sei sicuro di voler eliminare la configurazione della rete locale?",
+  "noLocalNetworkConfig": "Nessuna configurazione di rete locale"
 }

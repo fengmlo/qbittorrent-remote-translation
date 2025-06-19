@@ -72,7 +72,7 @@ jobs:
       with:
         channel: 'stable' # 'dev', 'alpha', default to: 'stable'
         # flutter-version: '1.12.x' # you can also specify exact version of flutter
-        flutter-version: 3.19.6
+        flutter-version: 3.27.4
 
     #- run: git submodule init
     #- run: git submodule update

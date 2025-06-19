@@ -601,5 +601,15 @@
   "copyHeadersTips": "o [copia totes les capçaleres] d'un altre servidor",
   "noServerToCopyTips": "No hi ha capçaleres personalitzades d'altres servidors per copiar",
   "copyFromTitle": "Copia de",
-  "inactiveSeedingTimeLimit": "Límit de temps de sembra inactiva"
+  "inactiveSeedingTimeLimit": "Límit de temps de sembra inactiva",
+  "sessionDownload": "Descàrrega de la sessió",
+  "sessionUpload": "Pujada de la sessió",
+  "localNetwork": "Xarxa local",
+  "requireLocationPermission": "Es requereix permís d'ubicació",
+  "requireLocationPermissionMessage": "Es requereix permís d'ubicació per obtenir el SSID de la Wi-Fi. Habilita el permís d'ubicació a la configuració de l'aplicació.",
+  "wifiSsid": "SSID de la Wi-Fi",
+  "disableAuthentication": "Desactivar autenticació",
+  "deleteLocalNetworkConfig": "Eliminar configuració de la xarxa local",
+  "deleteLocalNetworkConfigMessage": "Estàs segur que vols eliminar la configuració de la xarxa local?",
+  "noLocalNetworkConfig": "No hi ha configuració de xarxa local"
 }

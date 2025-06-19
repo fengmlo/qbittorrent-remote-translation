@@ -601,5 +601,15 @@
   "copyHeadersTips": "или [скопировать все заголовки] с другого сервера",
   "noServerToCopyTips": "Нет пользовательских заголовков с других серверов для копирования",
   "copyFromTitle": "Копировать из",
-  "inactiveSeedingTimeLimit": "Неактивен"
+  "inactiveSeedingTimeLimit": "Неактивен",
+  "sessionDownload": "Загрузка за сессию",
+  "sessionUpload": "Отдача за сессию",
+  "localNetwork": "Локальная сеть",
+  "requireLocationPermission": "Требуется разрешение на определение местоположения",
+  "requireLocationPermissionMessage": "Для получения SSID Wi-Fi требуется разрешение на определение местоположения. Включите разрешение на определение местоположения в настройках приложения.",
+  "wifiSsid": "SSID Wi-Fi",
+  "disableAuthentication": "Отключить аутентификацию",
+  "deleteLocalNetworkConfig": "Удалить конфигурацию локальной сети",
+  "deleteLocalNetworkConfigMessage": "Вы уверены, что хотите удалить конфигурацию локальной сети?",
+  "noLocalNetworkConfig": "Нет конфигурации локальной сети"
 }

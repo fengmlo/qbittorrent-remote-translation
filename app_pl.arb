@@ -601,5 +601,15 @@
   "copyHeadersTips": "lub [skopiuj wszystkie nagłówki] z innego serwera",
   "noServerToCopyTips": "Brak niestandardowych nagłówków z innych serwerów do skopiowania",
   "copyFromTitle": "Kopiuj z",
-  "inactiveSeedingTimeLimit": "Limit czasu nieaktywnego seedowania"
+  "inactiveSeedingTimeLimit": "Limit czasu nieaktywnego seedowania",
+  "sessionDownload": "Pobieranie sesji",
+  "sessionUpload": "Wysyłanie sesji",
+  "localNetwork": "Sieć lokalna",
+  "requireLocationPermission": "Wymagana zgoda na lokalizację",
+  "requireLocationPermissionMessage": "Zgoda na lokalizację jest wymagana do uzyskania identyfikatora SSID Wi-Fi. Włącz zgodę na lokalizację w ustawieniach aplikacji.",
+  "wifiSsid": "SSID Wi-Fi",
+  "disableAuthentication": "Wyłącz uwierzytelnianie",
+  "deleteLocalNetworkConfig": "Usuń konfigurację sieci lokalnej",
+  "deleteLocalNetworkConfigMessage": "Czy na pewno chcesz usunąć konfigurację sieci lokalnej?",
+  "noLocalNetworkConfig": "Brak konfiguracji sieci lokalnej"
 }

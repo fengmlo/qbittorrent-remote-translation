@@ -598,5 +598,15 @@
   "copyHeadersTips": "或從另一伺服器[複製所有標頭]",
   "noServerToCopyTips": "沒有可供複製的其他伺服器的自訂標頭",
   "copyFromTitle": "複製自",
-  "inactiveSeedingTimeLimit": "未活動的做種時間限制"
+  "inactiveSeedingTimeLimit": "未活動的做種時間限制",
+  "sessionDownload": "本次會話下載量",
+  "sessionUpload": "本次會話上傳量",
+  "localNetwork": "本地網絡",
+  "requireLocationPermission": "需要位置權限",
+  "requireLocationPermissionMessage": "需要位置權限才能獲取wifi ssid。請在應用設置中啟用位置權限。",
+  "wifiSsid": "Wi-Fi SSID",
+  "disableAuthentication": "禁用身份驗證",
+  "deleteLocalNetworkConfig": "刪除本地網絡配置",
+  "deleteLocalNetworkConfigMessage": "您確定要刪除本地網絡配置嗎？",
+  "noLocalNetworkConfig": "無本地網絡配置"
 }
