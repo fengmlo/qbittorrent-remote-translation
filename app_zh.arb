@@ -612,5 +612,7 @@
   "notificationPermissionDenied": "通知权限被拒绝",
   "permissionRequired": "需要权限",
   "notificationPermissionRequired": "需要通知权限来显示通知，请在系统设置中开启通知权限",
-  "goToSettings": "去设置"
+  "goToSettings": "去设置",
+  "running": "运行中",
+  "stopped": "已停止"
 }

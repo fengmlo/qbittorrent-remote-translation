@@ -615,5 +615,7 @@
   "notificationPermissionDenied": "Meddelandebehörighet nekad",
   "permissionRequired": "Behörighet Krävs",
   "notificationPermissionRequired": "Meddelandebehörighet krävs för att visa meddelanden. Aktivera meddelandebehörighet i systeminställningarna",
-  "goToSettings": "Gå till Inställningar"
+  "goToSettings": "Gå till Inställningar",
+  "running": "Körs",
+  "stopped": "Stoppad"
 }

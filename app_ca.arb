@@ -611,5 +611,7 @@
   "disableAuthentication": "Desactivar autenticació",
   "deleteLocalNetworkConfig": "Eliminar configuració de la xarxa local",
   "deleteLocalNetworkConfigMessage": "Estàs segur que vols eliminar la configuració de la xarxa local?",
-  "noLocalNetworkConfig": "No hi ha configuració de xarxa local"
+  "noLocalNetworkConfig": "No hi ha configuració de xarxa local",
+  "running": "En execució",
+  "stopped": "Aturat"
 }

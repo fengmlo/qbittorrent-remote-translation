@@ -611,5 +611,7 @@
   "disableAuthentication": "Zakázat ověřování",
   "deleteLocalNetworkConfig": "Odstranit konfiguraci místní sítě",
   "deleteLocalNetworkConfigMessage": "Opravdu chcete odstranit konfiguraci místní sítě?",
-  "noLocalNetworkConfig": "Žádná konfigurace místní sítě"
+  "noLocalNetworkConfig": "Žádná konfigurace místní sítě",
+  "running": "Běží",
+  "stopped": "Zastaveno"
 }

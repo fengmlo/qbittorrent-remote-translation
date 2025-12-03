@@ -615,5 +615,7 @@
   "notificationPermissionDenied": "Odmówiono zgody na powiadomienia",
   "permissionRequired": "Wymagana Zgoda",
   "notificationPermissionRequired": "Zgoda na powiadomienia jest wymagana do wyświetlania powiadomień. Włącz zgodę na powiadomienia w ustawieniach systemu",
-  "goToSettings": "Przejdź do Ustawień"
+  "goToSettings": "Przejdź do Ustawień",
+  "running": "Uruchomiony",
+  "stopped": "Zatrzymany"
 }

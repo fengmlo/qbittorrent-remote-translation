@@ -615,5 +615,7 @@
   "notificationPermissionDenied": "Notification permission denied",
   "permissionRequired": "Permission Required",
   "notificationPermissionRequired": "Notification permission is required to show notificacions. Please enable notification permission in system settings",
-  "goToSettings": "Go to Settings"
+  "goToSettings": "Go to Settings",
+  "running": "Running",
+  "stopped": "Stopped"
 }
