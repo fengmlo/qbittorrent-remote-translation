@@ -617,5 +617,6 @@
   "notificationPermissionRequired": "Notification permission is required to show notificacions. Please enable notification permission in system settings",
   "goToSettings": "Go to Settings",
   "running": "Running",
-  "stopped": "Stopped"
+  "stopped": "Stopped",
+  "infoHashV2": "Info Hash V2"
 }

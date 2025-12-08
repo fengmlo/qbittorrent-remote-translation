@@ -617,5 +617,6 @@
   "notificationPermissionRequired": "Zgoda na powiadomienia jest wymagana do wyświetlania powiadomień. Włącz zgodę na powiadomienia w ustawieniach systemu",
   "goToSettings": "Przejdź do Ustawień",
   "running": "Uruchomiony",
-  "stopped": "Zatrzymany"
+  "stopped": "Zatrzymany",
+  "infoHashV2": "Info hash V2"
 }

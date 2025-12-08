@@ -614,5 +614,6 @@
   "notificationPermissionRequired": "需要通知权限来显示通知，请在系统设置中开启通知权限",
   "goToSettings": "去设置",
   "running": "运行中",
-  "stopped": "已停止"
+  "stopped": "已停止",
+  "infoHashV2": "信息哈希值V2"
 }

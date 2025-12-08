@@ -617,5 +617,6 @@
   "notificationPermissionRequired": "A permissão de notificação é necessária para mostrar notificações. Ative a permissão de notificação nas configurações do sistema",
   "goToSettings": "Ir para Configurações",
   "running": "Executando",
-  "stopped": "Parado"
+  "stopped": "Parado",
+  "infoHashV2": "Hash de informações V2"
 }

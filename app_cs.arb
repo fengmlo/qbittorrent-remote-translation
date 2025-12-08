@@ -613,5 +613,6 @@
   "deleteLocalNetworkConfigMessage": "Opravdu chcete odstranit konfiguraci místní sítě?",
   "noLocalNetworkConfig": "Žádná konfigurace místní sítě",
   "running": "Běží",
-  "stopped": "Zastaveno"
+  "stopped": "Zastaveno",
+  "infoHashV2": "Info hash V2"
 }

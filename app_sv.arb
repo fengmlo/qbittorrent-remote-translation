@@ -617,5 +617,6 @@
   "notificationPermissionRequired": "Meddelandebehörighet krävs för att visa meddelanden. Aktivera meddelandebehörighet i systeminställningarna",
   "goToSettings": "Gå till Inställningar",
   "running": "Körs",
-  "stopped": "Stoppad"
+  "stopped": "Stoppad",
+  "infoHashV2": "Infohash V2"
 }

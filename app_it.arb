@@ -617,5 +617,6 @@
   "notificationPermissionRequired": "È richiesto il permesso di notifica per mostrare le notifiche. Abilita il permesso di notifica nelle impostazioni di sistema",
   "goToSettings": "Vai alle Impostazioni",
   "running": "In esecuzione",
-  "stopped": "Fermato"
+  "stopped": "Fermato",
+  "infoHashV2": "Hash info V2"
 }
