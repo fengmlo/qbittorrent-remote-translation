@@ -536,7 +536,7 @@
   "restoreFailed": "Restauració errònia",
   "serverPushTitle": "Notificacions push (experimental)",
   "serverPushSubtitle": "Notificar baixades completes utilitzant notificacions push",
-  "generateOrInputUser": "Sense usuari, pots crear-ne un o introduir-ne un d'existent",
+  "generateOrInputUser": "Sense usuari, pots [crear-ne] un o [introduir-ne] un d'existent",
   "inputUser": "Introdueix un usuari",
   "inputUserHint": "Introdueix un usuari existent",
   "unregister": "Esborrar",

@@ -536,7 +536,7 @@
   "restoreFailed": "Restauración fallida",
   "serverPushTitle": "Notificaciones push (experimental)",
   "serverPushSubtitle": "Notificar descargas completas usando notificaciones push",
-  "generateOrInputUser": "Sin usuario, puedes crear uno o introducir uno existente",
+  "generateOrInputUser": "Sin usuario, puedes [crear] uno o [introducir] uno existente",
   "inputUser": "Introduce un usuario",
   "inputUserHint": "Introduce un usuario existente",
   "unregister": "Quitar",
