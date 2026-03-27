@@ -4,7 +4,7 @@ La notification push serveur permet d'envoyer directement une alerte sur votre t
 **Remarque** :
 La notification push serveur est actuellement une fonctionnalité expérimentale et son bon fonctionnement n'est pas garanti, en particulier si vous vous trouvez dans une région où l'accès à Google est limité ou instable.
 
-## Comment utiliser
+## Mode d'emploi
 Prérequis nécessaires :
 1. Vous pouvez accéder à Google sans problème depuis votre région (car le service de push fourni par Firebase est utilisé)
 2. L'environnement d'exécution de votre serveur qBittorrent dispose d'un programme capable d'accéder au réseau, tel que curl. Si votre système ne l'a pas, il est recommandé d'installer [curl](https://curl.se/). Les étapes suivantes utilisent curl comme exemple.
