@@ -601,7 +601,7 @@
   "copyHeadersTips": "ou [copier tous les en-têtes] depuis un autre serveur",
   "noServerToCopyTips": "Aucun en-tête personnalisé à copier depuis d'autres serveurs",
   "copyFromTitle": "Copier depuis",
-  "inactiveSeedingTimeLimit": "Limite de durée de partage inactif"
+  "inactiveSeedingTimeLimit": "Limite de durée de partage inactif",
   "sessionDownload": "Téléchargement de session",
   "sessionUpload": "Envoi de session",
   "localNetwork": "Réseau local",
