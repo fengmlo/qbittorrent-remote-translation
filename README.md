@@ -42,3 +42,4 @@ The format is a key-value pair separated by a colon. The key on the left does no
 - Português(Brasil): Wellington Silva
 - Español: Jordi Sunyer Miàs
 - Català: Jordi Sunyer Miàs
+- Français: Flop

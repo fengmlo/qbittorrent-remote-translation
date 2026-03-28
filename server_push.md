@@ -2,6 +2,7 @@
 [Italiano](server_push_it.md)
 [Русский](server_push_ru.md)
 [Українська](server_push_ua.md)
+[Français](server_push_fr.md)
 # Server push (experimental feature)
 Server push is the function of pushing messages directly to the mobile phone when the torrent download is complete. It doesn't require the mobile App to keep refreshing the torrent list in the background, just set "Run external program on torrent completion" on your qBittorrent server.
 
