@@ -614,5 +614,11 @@
   "noLocalNetworkConfig": "Žádná konfigurace místní sítě",
   "running": "Běží",
   "stopped": "Zastaveno",
-  "infoHashV2": "Info hash V2"
+  "infoHashV2": "Info hash V2",
+  "shareLimitAction": "Akce při dosažení limitu",
+  "shareLimitActionDefault": "Výchozí",
+  "shareLimitActionStop": "Zastavit torrent",
+  "shareLimitActionRemove": "Odstranit torrent",
+  "shareLimitActionRemoveWithContent": "Odebrat torrent a jeho obsah",
+  "shareLimitActionEnableSuperSeeding": "Zapnout super seeding pro torrent"
 }

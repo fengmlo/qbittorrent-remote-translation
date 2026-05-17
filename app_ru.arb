@@ -618,5 +618,11 @@
   "goToSettings": "Перейти в Настройки",
   "running": "Выполняется",
   "stopped": "Остановлен",
-  "infoHashV2": "Инфо-хеш V2"
+  "infoHashV2": "Инфо-хеш V2",
+  "shareLimitAction": "Действие по достижении ограничения",
+  "shareLimitActionDefault": "Стандартно",
+  "shareLimitActionStop": "Остановить торрент",
+  "shareLimitActionRemove": "Удалить торрент",
+  "shareLimitActionRemoveWithContent": "Удалить торрент и его содержимое",
+  "shareLimitActionEnableSuperSeeding": "Включить режим суперсида для торрента"
 }

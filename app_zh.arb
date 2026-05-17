@@ -615,5 +615,11 @@
   "goToSettings": "去设置",
   "running": "运行中",
   "stopped": "已停止",
-  "infoHashV2": "信息哈希值V2"
+  "infoHashV2": "信息哈希值V2",
+  "shareLimitAction": "达到限制时采取的操作",
+  "shareLimitActionDefault": "默认",
+  "shareLimitActionStop": "停止种子",
+  "shareLimitActionRemove": "删除种子",
+  "shareLimitActionRemoveWithContent": "删除种子及其内容",
+  "shareLimitActionEnableSuperSeeding": "为种子启用超级做种"
 }

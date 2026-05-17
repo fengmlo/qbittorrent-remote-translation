@@ -614,5 +614,11 @@
   "noLocalNetworkConfig": "No hi ha configuració de xarxa local",
   "running": "En execució",
   "stopped": "Aturat",
-  "infoHashV2": "Hash d'informació V2"
+  "infoHashV2": "Hash d'informació V2",
+  "shareLimitAction": "Acció quan s'arriba al límit",
+  "shareLimitActionDefault": "Per defecte",
+  "shareLimitActionStop": "Interromp el torrent",
+  "shareLimitActionRemove": "Suprimeix el torrent",
+  "shareLimitActionRemoveWithContent": "Suprimeix el torrent i el contingut",
+  "shareLimitActionEnableSuperSeeding": "Habilita la supersembra per al torrent"
 }

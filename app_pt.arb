@@ -618,5 +618,11 @@
   "goToSettings": "Ir para Configurações",
   "running": "Executando",
   "stopped": "Parado",
-  "infoHashV2": "Hash de informações V2"
+  "infoHashV2": "Hash de informações V2",
+  "shareLimitAction": "Ação ao atingir o limite",
+  "shareLimitActionDefault": "Padrão",
+  "shareLimitActionStop": "Parar torrent",
+  "shareLimitActionRemove": "Remover torrent",
+  "shareLimitActionRemoveWithContent": "Remover torrent e seu conteúdo",
+  "shareLimitActionEnableSuperSeeding": "Ativar super semeadura para o torrent"
 }

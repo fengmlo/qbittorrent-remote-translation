@@ -618,5 +618,11 @@
   "goToSettings": "Перейти до Налаштувань",
   "running": "Виконується",
   "stopped": "Зупинено",
-  "infoHashV2": "Інфо-хеш V2"
+  "infoHashV2": "Інфо-хеш V2",
+  "shareLimitAction": "Дія при досягненні ліміту",
+  "shareLimitActionDefault": "Типово",
+  "shareLimitActionStop": "Зупинити торрент",
+  "shareLimitActionRemove": "Видалити торрент",
+  "shareLimitActionRemoveWithContent": "Видаліть торрент і його вміст",
+  "shareLimitActionEnableSuperSeeding": "Увімкнути режим супер-сід для торрента"
 }

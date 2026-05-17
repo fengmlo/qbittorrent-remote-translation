@@ -615,5 +615,11 @@
   "goToSettings": "前往設置",
   "running": "運行中",
   "stopped": "已停止",
-  "infoHashV2": "资讯杂凑值V2"
+  "infoHashV2": "资讯杂凑值V2",
+  "shareLimitAction": "達到限制時要採取的動作",
+  "shareLimitActionDefault": "預設",
+  "shareLimitActionStop": "停止種子",
+  "shareLimitActionRemove": "刪除種子",
+  "shareLimitActionRemoveWithContent": "刪除種子及其內容",
+  "shareLimitActionEnableSuperSeeding": "為種子啟用超級做種"
 }

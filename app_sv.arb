@@ -618,5 +618,11 @@
   "goToSettings": "Gå till Inställningar",
   "running": "Körs",
   "stopped": "Stoppad",
-  "infoHashV2": "Infohash V2"
+  "infoHashV2": "Infohash V2",
+  "shareLimitAction": "Åtgärd när gränsen är nådd",
+  "shareLimitActionDefault": "Standard",
+  "shareLimitActionStop": "Stoppa torrent",
+  "shareLimitActionRemove": "Ta bort torrent",
+  "shareLimitActionRemoveWithContent": "Ta bort torrenten och dess innehåll",
+  "shareLimitActionEnableSuperSeeding": "Aktivera superdistribution för torrent"
 }
