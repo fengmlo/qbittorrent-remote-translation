@@ -620,9 +620,9 @@
   "stopped": "Остановлен",
   "infoHashV2": "Инфо-хеш V2",
   "shareLimitAction": "Действие по достижении ограничения",
-  "shareLimitActionDefault": "Стандартно",
+  "shareLimitActionDefault": "По умолчанию",
   "shareLimitActionStop": "Остановить торрент",
   "shareLimitActionRemove": "Удалить торрент",
-  "shareLimitActionRemoveWithContent": "Удалить торрент и его содержимое",
+  "shareLimitActionRemoveWithContent": "Удалить торрент и его файлы",
   "shareLimitActionEnableSuperSeeding": "Включить режим суперсида для торрента"
 }
