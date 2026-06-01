@@ -172,6 +172,8 @@
   "trustCertificates": "Důvěřovat SSL certifikátům podepsaných sám sebou",
   "userName": "Uživatelské jméno",
   "password": "Heslo",
+  "apiKey": "API klíč",
+  "orSeparator": "NEBO",
   "testServer": "Test",
   "serverAlreadyExistsTips": "Server již existuje",
   "inputServerNameTips": "Zadejte název serveru",

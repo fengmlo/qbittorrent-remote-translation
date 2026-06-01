@@ -172,6 +172,8 @@
   "trustCertificates": "Trust self signed ssl certificates",
   "userName": "UserName",
   "password": "Password",
+  "apiKey": "API Key",
+  "orSeparator": "OR",
   "testServer": "Test",
   "serverAlreadyExistsTips": "Server already exists",
   "inputServerNameTips": "Please input the server name",

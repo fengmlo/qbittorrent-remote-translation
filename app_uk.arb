@@ -172,6 +172,8 @@
   "trustCertificates": "Довіряти самопідписаним SSL сертифікатам",
   "userName": "Ім'я користувача",
   "password": "Пароль",
+  "apiKey": "API-ключ",
+  "orSeparator": "АБО",
   "testServer": "Тест",
   "serverAlreadyExistsTips": "Сервер вже існує",
   "inputServerNameTips": "Будь ласка, введіть назву сервера",

@@ -173,6 +173,8 @@
   "trustCertificates": "信任自簽名的SSL證書",
   "userName": "用戶名",
   "password": "密碼",
+  "apiKey": "API 金鑰",
+  "orSeparator": "或者",
   "testServer": "測試",
   "serverAlreadyExistsTips": "服務器已存在",
   "inputServerNameTips": "請輸入服務器名稱",

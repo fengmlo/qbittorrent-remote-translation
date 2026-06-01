@@ -172,6 +172,8 @@
   "trustCertificates": "Lita på självsignerade SSL-certifikat",
   "userName": "Användarnamn",
   "password": "Lösenord",
+  "apiKey": "API-nyckel",
+  "orSeparator": "ELLER",
   "testServer": "Testa",
   "serverAlreadyExistsTips": "Servern finns redan",
   "inputServerNameTips": "Vänligen skriv in servernamnet",

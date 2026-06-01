@@ -172,6 +172,8 @@
   "trustCertificates": "Confiar en los certificados SSL autofirmados",
   "userName": "Nombre de usuario",
   "password": "Contraseña",
+  "apiKey": "Clave API",
+  "orSeparator": "O",
   "testServer": "Probar",
   "serverAlreadyExistsTips": "El servidor ya existe",
   "inputServerNameTips": "Escribe un nombre de servidor",

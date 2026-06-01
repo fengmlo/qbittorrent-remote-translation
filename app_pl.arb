@@ -172,6 +172,8 @@
   "trustCertificates": "Zaufaj samopodpisanym certyfikatom SSL",
   "userName": "Nazwa użytkownika",
   "password": "Hasło",
+  "apiKey": "Klucz API",
+  "orSeparator": "LUB",
   "testServer": "Test",
   "serverAlreadyExistsTips": "Serwer już istnieje",
   "inputServerNameTips": "Wpisz nazwę serwera",

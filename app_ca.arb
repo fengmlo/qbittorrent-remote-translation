@@ -172,6 +172,8 @@
   "trustCertificates": "Confiar en els certificats SSL autosignats",
   "userName": "Nom d'usuari",
   "password": "Contrasenya",
+  "apiKey": "Clau d'API",
+  "orSeparator": "O",
   "testServer": "Provar",
   "serverAlreadyExistsTips": "El servidor ja existeix",
   "inputServerNameTips": "Escriu un nom de servidor",

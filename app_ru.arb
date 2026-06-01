@@ -172,6 +172,8 @@
   "trustCertificates": "Доверять самоподписанным SSL-сертификатам",
   "userName": "Имя пользователя",
   "password": "Пароль",
+  "apiKey": "Ключ API",
+  "orSeparator": "ИЛИ",
   "testServer": "Проверка сервера",
   "serverAlreadyExistsTips": "Сервер уже существует",
   "inputServerNameTips": "Пожалуйста, введите имя сервера",
