@@ -257,6 +257,9 @@
   "darkModeFollowSystemOnTips": "App uses night mode when the system uses dark mode",
   "darkModeFollowSystemOffTips": "App uses independent settings",
   "defaultStr": "Default",
+  "yesStr": "Yes",
+  "noStr": "No",
+  "incompleteSavePath": "Save path for incomplete torrents",
   "ipAddress": "IP",
   "country": "Country",
   "upload": "Upload",
@@ -283,6 +286,24 @@
   "copyTracker": "Copy tracker url",
   "editTracker": "Edit tracker url",
   "removeTracker": "Remove tracker",
+  "startTorrents": "Start torrents",
+  "stopTorrents": "Stop torrents",
+  "resumeTorrents": "Resume torrents",
+  "pauseTorrents": "Pause torrents",
+  "removeTorrents": "Remove torrents",
+  "addSubcategory": "Add subcategory",
+  "removeCategory": "Remove category",
+  "removeUnusedCategories": "Remove unused categories",
+  "addTag": "Add tag",
+  "removeTag": "Remove tag",
+  "removeUnusedTags": "Remove unused tags",
+  "removeTrackerFromAllMessage": "Are you sure you want to remove tracker \"{host}\" from all torrents?",
+  "@removeTrackerFromAllMessage": {
+    "placeholders": {
+      "host": {
+      }
+    }
+  },
   "editUrlTitle": "Edit url",
   "editUrlHint": "New url",
   "inputTrackersHint": "List of trackers to add (one per line)",
