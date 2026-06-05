@@ -665,5 +665,7 @@
   "applyBatchToUnmodified": "{count,plural, =1{Použít dávkové nastavení na {count} nezměněný torrent} few{Použít dávkové nastavení na {count} nezměněné torrenty} other{Použít dávkové nastavení na {count} nezměněných torrentů}}",
   "batchSettingsAppliedTo": "{count,plural, =1{Dávkové nastavení aplikováno na {count} torrent} few{Dávkové nastavení aplikováno na {count} torrenty} other{Dávkové nastavení aplikováno na {count} torrentů}}",
   "fileSelectionNotApplied": "Přidáno; výběr souborů nebyl použit",
-  "torrentAlreadyExists": "Torrent již existuje"
+  "torrentAlreadyExists": "Torrent již existuje",
+  "torrentExistsOrFailed": "Torrent již existuje nebo jej nelze přidat",
+  "addPartialResult": "Přidáno {added}, {failed} se nezdařilo"
 }

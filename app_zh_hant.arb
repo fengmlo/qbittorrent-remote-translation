@@ -667,5 +667,7 @@
   "applyBatchToUnmodified": "{count,plural, other{將批次設定套用到 {count} 個未修改的種子}}",
   "batchSettingsAppliedTo": "{count,plural, other{批次設定已套用至 {count} 個種子}}",
   "fileSelectionNotApplied": "已新增，但檔案選擇未套用",
-  "torrentAlreadyExists": "種子已存在"
+  "torrentAlreadyExists": "種子已存在",
+  "torrentExistsOrFailed": "種子已存在或無法新增",
+  "addPartialResult": "已新增 {added} 個，{failed} 個失敗"
 }

@@ -665,5 +665,7 @@
   "applyBatchToUnmodified": "{count,plural, =1{Tillämpa batchinställningar på {count} omodifierad torrent} other{Tillämpa batchinställningar på {count} omodifierade torrents}}",
   "batchSettingsAppliedTo": "{count,plural, =1{Batchinställningar tillämpades på {count} torrent} other{Batchinställningar tillämpades på {count} torrents}}",
   "fileSelectionNotApplied": "Tillagd; filval tillämpades inte",
-  "torrentAlreadyExists": "Torrenten finns redan"
+  "torrentAlreadyExists": "Torrenten finns redan",
+  "torrentExistsOrFailed": "Torrenten finns redan eller kunde inte läggas till",
+  "addPartialResult": "{added} tillagda, {failed} misslyckades"
 }

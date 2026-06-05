@@ -665,5 +665,7 @@
   "applyBatchToUnmodified": "{count,plural, =1{Aplica la configuració per lots a {count} torrent no modificat} other{Aplica la configuració per lots a {count} torrents no modificats}}",
   "batchSettingsAppliedTo": "{count,plural, =1{S'ha aplicat la configuració per lots a {count} torrent} other{S'ha aplicat la configuració per lots a {count} torrents}}",
   "fileSelectionNotApplied": "Afegit; la selecció d'arxius no s'ha aplicat",
-  "torrentAlreadyExists": "El torrent ja existeix"
+  "torrentAlreadyExists": "El torrent ja existeix",
+  "torrentExistsOrFailed": "El torrent ja existeix o no s'ha pogut afegir",
+  "addPartialResult": "Afegits {added}, {failed} fallits"
 }

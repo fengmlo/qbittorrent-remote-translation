@@ -674,5 +674,8 @@
   "batchSettingsAppliedTo": "{count,plural, =1{Applied batch settings to {count} torrent} other{Applied batch settings to {count} torrents}}",
   "@batchSettingsAppliedTo": {"placeholders": {"count": {}}},
   "fileSelectionNotApplied": "Added; file selection not applied",
-  "torrentAlreadyExists": "Torrent already exists"
+  "torrentAlreadyExists": "Torrent already exists",
+  "torrentExistsOrFailed": "Torrent already exists or could not be added",
+  "addPartialResult": "Added {added}, {failed} failed",
+  "@addPartialResult": {"placeholders": {"added": {"type": "int"}, "failed": {"type": "int"}}}
 }
