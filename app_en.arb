@@ -259,7 +259,7 @@
   "defaultStr": "Default",
   "yesStr": "Yes",
   "noStr": "No",
-  "incompleteSavePath": "Save path for incomplete torrents",
+  "categoryIncompleteSavePath": "Save path for incomplete torrents",
   "ipAddress": "IP",
   "country": "Country",
   "upload": "Upload",

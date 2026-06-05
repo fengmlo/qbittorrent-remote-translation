@@ -259,7 +259,7 @@
   "defaultStr": "Standard",
   "yesStr": "Ja",
   "noStr": "Nej",
-  "incompleteSavePath": "Sparsökväg för ofullständiga torrenter",
+  "categoryIncompleteSavePath": "Sparsökväg för ofullständiga torrenter",
   "ipAddress": "IP",
   "country": "Land",
   "upload": "Uppladdning",
