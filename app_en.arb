@@ -530,6 +530,7 @@
   "everywhere": "Everywhere",
   "torrentNamesOnly": "Torrent names only",
   "filter": "Filter",
+  "onlyMagnet": "Only magnet results",
   "filterResult": "Results (showing {filterResult} out of {totalResult})",
   "@filterResult": {
     "placeholders": {

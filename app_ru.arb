@@ -516,6 +516,7 @@
   "everywhere": "Везде",
   "torrentNamesOnly": "В именах торрентов",
   "filter": "Фильтр",
+  "onlyMagnet": "Только Магнет-ссылки",
   "filterResult": "Результаты (показано {filterResult} из {totalResult})",
   "@filterResult": {
     "placeholders": {

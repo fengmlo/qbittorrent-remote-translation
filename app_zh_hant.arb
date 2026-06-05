@@ -521,6 +521,7 @@
   "everywhere": "任意位置",
   "torrentNamesOnly": "僅Torrent名稱",
   "filter": "過濾器",
+  "onlyMagnet": "僅磁力鏈接結果",
   "filterResult": "結果 (顯示 {filterResult} ，總計 {totalResult})",
   "@filterResult": {
     "placeholders": {

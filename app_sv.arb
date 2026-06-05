@@ -516,6 +516,7 @@
   "everywhere": "Överallt",
   "torrentNamesOnly": "Torrentnamn endast",
   "filter": "Filtrera",
+  "onlyMagnet": "Endast magnetresultat",
   "filterResult": "Resultat (visar {filterResult} av {totalResult})",
   "@filterResult": {
     "placeholders": {

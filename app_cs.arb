@@ -516,6 +516,7 @@
   "everywhere": "Všude",
   "torrentNamesOnly": "Pouze názvy torrentů",
   "filter": "Filtr",
+  "onlyMagnet": "Pouze výsledky Magnet odkazů",
   "filterResult": "Výsledky (zobrazuje se {filterResult} z celkových {totalResult})",
   "@filterResult": {
     "placeholders": {

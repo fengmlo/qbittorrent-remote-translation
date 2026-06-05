@@ -516,6 +516,7 @@
   "everywhere": "Всюди",
   "torrentNamesOnly": "Тільки в назвах торентів",
   "filter": "Фільтр",
+  "onlyMagnet": "Лише Магнет-посилання",
   "filterResult": "Результати (показано {filterResult} з {totalResult})",
   "@filterResult": {
     "placeholders": {

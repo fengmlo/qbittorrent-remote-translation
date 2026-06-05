@@ -516,6 +516,7 @@
   "everywhere": "Partout",
   "torrentNamesOnly": "Noms des torrents uniquement",
   "filter": "Filtrer",
+  "onlyMagnet": "Résultats magnet uniquement",
   "filterResult": "Résultats ({filterResult} sur {totalResult})",
   "@filterResult": {
     "placeholders": {
