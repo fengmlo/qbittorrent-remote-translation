@@ -379,7 +379,6 @@
   },
   "completedOnTitle": "Дата завершення",
   "createdOnTitle": "Дата створення",
-  "torrentHashTitle": "Хеш торенту",
   "commentTitle": "Коментар",
   "timeActiveTitle": "Активний час",
   "connectionsTitle": "З'єднання",
@@ -653,5 +652,17 @@
   "shareLimitActionStop": "Зупинити торрент",
   "shareLimitActionRemove": "Видалити торрент",
   "shareLimitActionRemoveWithContent": "Видаліть торрент і його вміст",
-  "shareLimitActionEnableSuperSeeding": "Увімкнути режим супер-сід для торрента"
+  "shareLimitActionEnableSuperSeeding": "Увімкнути режим супер-сід для торрента",
+  "selectAll": "Вибрати все",
+  "saveLocationGroup": "Зберегти у",
+  "torrentSettingsGroup": "Налаштування торента",
+  "fetchingMetadata": "Отримання метаданих…",
+  "manageFilesAfterAdding": "Файлами можна буде керувати в подробицях після додавання",
+  "addModeBatch": "Пакетні налаштування",
+  "addModeDetailed": "Індивідуальні налаштування",
+  "infoHashV1": "Інфо-хеш V1",
+  "applyBatchToUnmodified": "{count,plural, =1{Застосувати пакетні налаштування до {count} торента без змін} few{Застосувати пакетні налаштування до {count} торентів без змін} many{Застосувати пакетні налаштування до {count} торентів без змін} other{Застосувати пакетні налаштування до {count} торентів без змін}}",
+  "batchSettingsAppliedTo": "{count,plural, =1{Пакетні налаштування застосовано до {count} торента} few{Пакетні налаштування застосовано до {count} торентів} many{Пакетні налаштування застосовано до {count} торентів} other{Пакетні налаштування застосовано до {count} торентів}}",
+  "fileSelectionNotApplied": "Додано; вибір файлів не застосовано",
+  "torrentAlreadyExists": "Торент уже існує"
 }

@@ -379,7 +379,6 @@
   },
   "completedOnTitle": "Completato il",
   "createdOnTitle": "Creato il",
-  "torrentHashTitle": "Torrent Hash",
   "commentTitle": "Commento",
   "timeActiveTitle": "Tempo attivo",
   "connectionsTitle": "Connessioni",
@@ -653,5 +652,17 @@
   "shareLimitActionStop": "Ferma torrent",
   "shareLimitActionRemove": "Rimuovi torrent",
   "shareLimitActionRemoveWithContent": "Rimuovi torrent e il suo contenuto",
-  "shareLimitActionEnableSuperSeeding": "Abilita super seeding per torrent"
+  "shareLimitActionEnableSuperSeeding": "Abilita super seeding per torrent",
+  "selectAll": "Seleziona tutto",
+  "saveLocationGroup": "Salva in",
+  "torrentSettingsGroup": "Impostazioni torrent",
+  "fetchingMetadata": "Recupero dei metadati…",
+  "manageFilesAfterAdding": "I file possono essere gestiti nei dettagli dopo l'aggiunta",
+  "addModeBatch": "Impostazioni batch",
+  "addModeDetailed": "Impostazioni individuali",
+  "infoHashV1": "Hash info V1",
+  "applyBatchToUnmodified": "{count,plural, =1{Applica impostazioni batch a {count} torrent non modificato} other{Applica impostazioni batch a {count} torrent non modificati}}",
+  "batchSettingsAppliedTo": "{count,plural, =1{Impostazioni batch applicate a {count} torrent} other{Impostazioni batch applicate a {count} torrents}}",
+  "fileSelectionNotApplied": "Aggiunto; selezione dei file non applicata",
+  "torrentAlreadyExists": "Il torrent esiste già"
 }

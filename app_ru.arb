@@ -379,7 +379,6 @@
   },
   "completedOnTitle": "Дата завершения",
   "createdOnTitle": "Создан в",
-  "torrentHashTitle": "Хеш торрента",
   "commentTitle": "Комментарий",
   "timeActiveTitle": "Активен",
   "connectionsTitle": "Соединения",
@@ -654,4 +653,16 @@
   "shareLimitActionRemove": "Удалить торрент",
   "shareLimitActionRemoveWithContent": "Удалить торрент и его файлы",
   "shareLimitActionEnableSuperSeeding": "Включить режим суперсида для торрента"
+  "selectAll": "Выбрать все",
+  "saveLocationGroup": "Путь сохранения",
+  "torrentSettingsGroup": "Настройки торрента",
+  "fetchingMetadata": "Получение метаданных…",
+  "manageFilesAfterAdding": "Файлами можно будет управлять в подробностях после добавления",
+  "addModeBatch": "Пакетные настройки",
+  "addModeDetailed": "Индивидуальные настройки",
+  "infoHashV1": "Инфо-хеш V1",
+  "applyBatchToUnmodified": "{count,plural, =1{Применить пакетные настройки к {count} торренту без изменений} few{Применить пакетные настройки к {count} торрентам без изменений} many{Применить пакетные настройки к {count} торрентам без изменений} other{Применить пакетные настройки к {count} торрентам без изменений}}",
+  "batchSettingsAppliedTo": "{count,plural, =1{Пакетные настройки применены к {count} торренту} few{Пакетные настройки применены к {count} торрентам} many{Пакетные настройки применены к {count} торрентам} other{Пакетные настройки применены к {count} торрентам}}",
+  "fileSelectionNotApplied": "Добавлено; выбор файлов не применён",
+  "torrentAlreadyExists": "Торрент уже существует"
 }

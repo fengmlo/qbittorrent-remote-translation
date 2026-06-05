@@ -331,6 +331,11 @@
   "fetchingMetadata": "Fetching metadata…",
   "manageFilesAfterAdding": "Files can be managed in details after adding",
   "selectAll": "Select all",
+  "addModeBatch": "Batch settings",
+  "addModeDetailed": "Individual settings",
+  "retry": "Retry",
+  "saveLocationGroup": "Save location",
+  "torrentSettingsGroup": "Torrent settings",
   "rss": "RSS",
   "date": "Date",
   "downloadTorrent": "Download torrent",
@@ -388,7 +393,6 @@
   },
   "completedOnTitle": "Completed On",
   "createdOnTitle": "Created On",
-  "torrentHashTitle": "Torrent Hash",
   "commentTitle": "Comment",
   "timeActiveTitle": "Time Active",
   "connectionsTitle": "Connections",
@@ -662,5 +666,12 @@
   "shareLimitActionStop": "Stop torrent",
   "shareLimitActionRemove": "Remove torrent",
   "shareLimitActionRemoveWithContent": "Remove torrent and its content",
-  "shareLimitActionEnableSuperSeeding": "Enable super seeding for torrent"
+  "shareLimitActionEnableSuperSeeding": "Enable super seeding for torrent",
+  "infoHashV1": "Info Hash V1",
+  "applyBatchToUnmodified": "{count,plural, =1{Apply batch settings to {count} unmodified torrent} other{Apply batch settings to {count} unmodified torrents}}",
+  "@applyBatchToUnmodified": {"placeholders": {"count": {}}},
+  "batchSettingsAppliedTo": "{count,plural, =1{Applied batch settings to {count} torrent} other{Applied batch settings to {count} torrents}}",
+  "@batchSettingsAppliedTo": {"placeholders": {"count": {}}},
+  "fileSelectionNotApplied": "Added; file selection not applied",
+  "torrentAlreadyExists": "Torrent already exists"
 }

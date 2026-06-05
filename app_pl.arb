@@ -379,7 +379,6 @@
   },
   "completedOnTitle": "Ukończono",
   "createdOnTitle": "Utworzono",
-  "torrentHashTitle": "Torrent Hash",
   "commentTitle": "Komentarz",
   "timeActiveTitle": "Aktywny przez",
   "connectionsTitle": "Połączenia",
@@ -653,5 +652,17 @@
   "shareLimitActionStop": "Zatrzymaj torrent",
   "shareLimitActionRemove": "Usuń torrent",
   "shareLimitActionRemoveWithContent": "Usuń torrent i jego zawartość",
-  "shareLimitActionEnableSuperSeeding": "Włącz super-seedowanie dla torrenta"
+  "shareLimitActionEnableSuperSeeding": "Włącz super-seedowanie dla torrenta",
+  "selectAll": "Zaznacz wszystko",
+  "saveLocationGroup": "Zapisz w",
+  "torrentSettingsGroup": "Ustawienia torrenta",
+  "fetchingMetadata": "Pobieranie metadanych…",
+  "manageFilesAfterAdding": "Plikami można zarządzać w szczegółach po dodaniu",
+  "addModeBatch": "Ustawienia zbiorcze",
+  "addModeDetailed": "Ustawienia indywidualne",
+  "infoHashV1": "Info hash V1",
+  "applyBatchToUnmodified": "{count,plural, =1{Zastosuj ustawienia zbiorcze do {count} torrenta bez zmian} few{Zastosuj ustawienia zbiorcze do {count} torrentów bez zmian} other{Zastosuj ustawienia zbiorcze do {count} torrentów bez zmian}}",
+  "batchSettingsAppliedTo": "{count,plural, =1{Ustawienia zbiorcze zastosowane do {count} torrenta} few{Ustawienia zbiorcze zastosowane do {count} torrentów} other{Ustawienia zbiorcze zastosowane do {count} torrentów}}",
+  "fileSelectionNotApplied": "Dodano; wybór plików nie został zastosowany",
+  "torrentAlreadyExists": "Torrent już istnieje"
 }

@@ -379,7 +379,6 @@
   },
   "completedOnTitle": "Slutförd",
   "createdOnTitle": "Skapad",
-  "torrentHashTitle": "Torrenthash",
   "commentTitle": "Kommentar",
   "timeActiveTitle": "Tid aktiv",
   "connectionsTitle": "Anslutningar",
@@ -653,5 +652,17 @@
   "shareLimitActionStop": "Stoppa torrent",
   "shareLimitActionRemove": "Ta bort torrent",
   "shareLimitActionRemoveWithContent": "Ta bort torrenten och dess innehåll",
-  "shareLimitActionEnableSuperSeeding": "Aktivera superdistribution för torrent"
+  "shareLimitActionEnableSuperSeeding": "Aktivera superdistribution för torrent",
+  "selectAll": "Markera alla",
+  "saveLocationGroup": "Spara i",
+  "torrentSettingsGroup": "Torrentinställningar",
+  "fetchingMetadata": "Hämtar metadata…",
+  "manageFilesAfterAdding": "Filer kan hanteras i detaljer efter tillägg",
+  "addModeBatch": "Batchinställningar",
+  "addModeDetailed": "Individuella inställningar",
+  "infoHashV1": "Infohash V1",
+  "applyBatchToUnmodified": "{count,plural, =1{Tillämpa batchinställningar på {count} omodifierad torrent} other{Tillämpa batchinställningar på {count} omodifierade torrents}}",
+  "batchSettingsAppliedTo": "{count,plural, =1{Batchinställningar tillämpades på {count} torrent} other{Batchinställningar tillämpades på {count} torrents}}",
+  "fileSelectionNotApplied": "Tillagd; filval tillämpades inte",
+  "torrentAlreadyExists": "Torrenten finns redan"
 }
