@@ -669,5 +669,9 @@
   "fileSelectionNotApplied": "已添加，但文件选择未生效",
   "torrentAlreadyExists": "种子已存在",
   "torrentExistsOrFailed": "种子已存在或无法添加",
-  "addPartialResult": "已添加 {added} 个，{failed} 个失败"
+  "addPartialResult": "已添加 {added} 个，{failed} 个失败",
+  "unlockLockedDesc": "观看一段简短广告即可解锁此功能一段时间。",
+  "unlockWatchAd": "观看广告解锁",
+  "adNotAvailableRetry": "广告暂不可用，请稍后再试",
+  "unlockDailyCapReached": "您已达到今日解锁上限"
 }

@@ -667,5 +667,9 @@
   "fileSelectionNotApplied": "Tillagd; filval tillämpades inte",
   "torrentAlreadyExists": "Torrenten finns redan",
   "torrentExistsOrFailed": "Torrenten finns redan eller kunde inte läggas till",
-  "addPartialResult": "{added} tillagda, {failed} misslyckades"
+  "addPartialResult": "{added} tillagda, {failed} misslyckades",
+  "unlockLockedDesc": "Se en kort annons för att låsa upp denna funktion under en tid.",
+  "unlockWatchAd": "Se annons för att låsa upp",
+  "adNotAvailableRetry": "Annons ej tillgänglig, försök igen senare",
+  "unlockDailyCapReached": "Du har nått dagens gräns för upplåsningar"
 }

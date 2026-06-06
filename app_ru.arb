@@ -667,5 +667,9 @@
   "fileSelectionNotApplied": "Добавлено; выбор файлов не применён",
   "torrentAlreadyExists": "Торрент уже существует",
   "torrentExistsOrFailed": "Торрент уже существует или не удалось его добавить",
-  "addPartialResult": "Добавлено {added}, не удалось {failed}"
+  "addPartialResult": "Добавлено {added}, не удалось {failed}",
+  "unlockLockedDesc": "Посмотрите короткую рекламу, чтобы временно разблокировать эту функцию.",
+  "unlockWatchAd": "Посмотреть рекламу",
+  "adNotAvailableRetry": "Реклама недоступна, попробуйте позже",
+  "unlockDailyCapReached": "Вы достигли дневного лимита разблокировок"
 }

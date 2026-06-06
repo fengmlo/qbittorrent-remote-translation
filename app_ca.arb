@@ -667,5 +667,9 @@
   "fileSelectionNotApplied": "Afegit; la selecció d'arxius no s'ha aplicat",
   "torrentAlreadyExists": "El torrent ja existeix",
   "torrentExistsOrFailed": "El torrent ja existeix o no s'ha pogut afegir",
-  "addPartialResult": "Afegits {added}, {failed} fallits"
+  "addPartialResult": "Afegits {added}, {failed} fallits",
+  "unlockLockedDesc": "Mira un anunci curt per desbloquejar aquesta funció durant una estona.",
+  "unlockWatchAd": "Mira l'anunci per desbloquejar",
+  "adNotAvailableRetry": "Anunci no disponible, torna-ho a provar més tard",
+  "unlockDailyCapReached": "Has arribat al límit de desbloquejos d'avui"
 }

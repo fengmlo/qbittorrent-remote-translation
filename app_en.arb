@@ -677,5 +677,9 @@
   "torrentAlreadyExists": "Torrent already exists",
   "torrentExistsOrFailed": "Torrent already exists or could not be added",
   "addPartialResult": "Added {added}, {failed} failed",
-  "@addPartialResult": {"placeholders": {"added": {"type": "int"}, "failed": {"type": "int"}}}
+  "@addPartialResult": {"placeholders": {"added": {"type": "int"}, "failed": {"type": "int"}}},
+  "unlockLockedDesc": "Watch a short ad to unlock this feature for a while.",
+  "unlockWatchAd": "Watch ad to unlock",
+  "adNotAvailableRetry": "Ad not available, please try again later",
+  "unlockDailyCapReached": "You've reached today's unlock limit"
 }

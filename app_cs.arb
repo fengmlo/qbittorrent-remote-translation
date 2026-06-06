@@ -667,5 +667,9 @@
   "fileSelectionNotApplied": "Přidáno; výběr souborů nebyl použit",
   "torrentAlreadyExists": "Torrent již existuje",
   "torrentExistsOrFailed": "Torrent již existuje nebo jej nelze přidat",
-  "addPartialResult": "Přidáno {added}, {failed} se nezdařilo"
+  "addPartialResult": "Přidáno {added}, {failed} se nezdařilo",
+  "unlockLockedDesc": "Podívejte se na krátkou reklamu a odemkněte tuto funkci na omezenou dobu.",
+  "unlockWatchAd": "Sledovat reklamu pro odemknutí",
+  "adNotAvailableRetry": "Reklama není k dispozici, zkuste to prosím později",
+  "unlockDailyCapReached": "Dosáhli jste dnešního limitu pro odemknutí"
 }

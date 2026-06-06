@@ -667,5 +667,9 @@
   "fileSelectionNotApplied": "Dodano; wybór plików nie został zastosowany",
   "torrentAlreadyExists": "Torrent już istnieje",
   "torrentExistsOrFailed": "Torrent już istnieje lub nie można go dodać",
-  "addPartialResult": "Dodano {added}, {failed} nieudane"
+  "addPartialResult": "Dodano {added}, {failed} nieudane",
+  "unlockLockedDesc": "Obejrzyj krótką reklamę, aby odblokować tę funkcję na jakiś czas.",
+  "unlockWatchAd": "Obejrzyj reklamę, aby odblokować",
+  "adNotAvailableRetry": "Reklama niedostępna, spróbuj ponownie później",
+  "unlockDailyCapReached": "Osiągnięto dzienny limit odblokowań"
 }

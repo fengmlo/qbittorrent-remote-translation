@@ -667,5 +667,9 @@
   "fileSelectionNotApplied": "Ajouté ; la sélection de fichiers n'a pas été appliquée",
   "torrentAlreadyExists": "Le torrent existe déjà",
   "torrentExistsOrFailed": "Le torrent existe déjà ou n'a pas pu être ajouté",
-  "addPartialResult": "{added} ajoutés, {failed} échoués"
+  "addPartialResult": "{added} ajoutés, {failed} échoués",
+  "unlockLockedDesc": "Regardez une courte publicité pour débloquer cette fonctionnalité pendant un moment.",
+  "unlockWatchAd": "Regarder une pub pour débloquer",
+  "adNotAvailableRetry": "Publicité non disponible, veuillez réessayer plus tard",
+  "unlockDailyCapReached": "Vous avez atteint la limite quotidienne de déblocage"
 }
