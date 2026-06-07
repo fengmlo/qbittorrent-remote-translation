@@ -653,7 +653,7 @@
   "shareLimitActionStop": "Остановить торрент",
   "shareLimitActionRemove": "Удалить торрент",
   "shareLimitActionRemoveWithContent": "Удалить торрент и его файлы",
-  "shareLimitActionEnableSuperSeeding": "Включить режим суперсида для торрента"
+  "shareLimitActionEnableSuperSeeding": "Включить режим суперсида для торрента",
   "selectAll": "Выбрать все",
   "saveLocationGroup": "Путь сохранения",
   "torrentSettingsGroup": "Настройки торрента",
