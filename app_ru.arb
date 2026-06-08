@@ -583,6 +583,8 @@
   "none": "Без категории",
   "theme": "Тема",
   "themeSubtitle": "Выбрать цвет темы приложения",
+  "language": "Язык",
+  "languageFollowSystem": "Системный по умолчанию",
   "userStatistics": "Статистика пользователя",
   "cacheStatistics": "Статистика кэша",
   "performanceStatistics": "Статистика производительности",

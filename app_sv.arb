@@ -583,6 +583,8 @@
   "none": "Ingen",
   "theme": "Tema",
   "themeSubtitle": "Välj app-temafärg",
+  "language": "Språk",
+  "languageFollowSystem": "Systemstandard",
   "userStatistics": "Användarstatistik",
   "cacheStatistics": "Cache-statistik",
   "performanceStatistics": "Prestationsstatistik",

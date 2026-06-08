@@ -578,6 +578,8 @@
   "none": "Geen",
   "theme": "Thema",
   "themeSubtitle": "Kies themakleur van de app",
+  "language": "Taal",
+  "languageFollowSystem": "Systeemstandaard",
   "userStatistics": "Gebruikersstatistieken",
   "cacheStatistics": "Buffer-statistieken",
   "performanceStatistics": "Prestatiestatistieken",

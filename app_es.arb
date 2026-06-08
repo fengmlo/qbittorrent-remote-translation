@@ -583,6 +583,8 @@
   "none": "Ninguno",
   "theme": "Tema",
   "themeSubtitle": "Elegir color del tema",
+  "language": "Idioma",
+  "languageFollowSystem": "Predeterminado del sistema",
   "userStatistics": "Estadísticas de usuario",
   "cacheStatistics": "Estadísticas de caché",
   "performanceStatistics": "Estadísticas de rendimiento",

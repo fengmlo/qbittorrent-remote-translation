@@ -578,6 +578,8 @@
   "none": "없음",
   "theme": "테마",
   "themeSubtitle": "앱 테마 색상 선택",
+  "language": "언어",
+  "languageFollowSystem": "시스템 기본값",
   "userStatistics": "사용자 통계",
   "cacheStatistics": "캐시 통계",
   "performanceStatistics": "성능 통계",

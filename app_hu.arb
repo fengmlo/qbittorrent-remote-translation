@@ -578,6 +578,8 @@
   "none": "Nincs",
   "theme": "Téma",
   "themeSubtitle": "Válassza ki az alkalmazás témaszínét",
+  "language": "Nyelv",
+  "languageFollowSystem": "Rendszer alapértelmezett",
   "userStatistics": "Felhasználói statisztikák",
   "cacheStatistics": "Gyorsítótár statisztika",
   "performanceStatistics": "Teljesítmény statisztika",

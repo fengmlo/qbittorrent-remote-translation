@@ -583,6 +583,8 @@
   "none": "Aucun",
   "theme": "Thème",
   "themeSubtitle": "Choisir la couleur du thème de l'application",
+  "language": "Langue",
+  "languageFollowSystem": "Par défaut du système",
   "userStatistics": "Statistiques utilisateur",
   "cacheStatistics": "Statistiques du cache",
   "performanceStatistics": "Statistiques de performance",

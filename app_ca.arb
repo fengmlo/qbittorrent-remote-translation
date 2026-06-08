@@ -583,6 +583,8 @@
   "none": "Cap",
   "theme": "Estil",
   "themeSubtitle": "Escollir color per l'estil",
+  "language": "Llengua",
+  "languageFollowSystem": "Per defecte del sistema",
   "userStatistics": "Estadístiques d'usuari",
   "cacheStatistics": "Estadístiques de cache",
   "performanceStatistics": "Estadístiques de rendiment",

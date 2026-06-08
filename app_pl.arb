@@ -583,6 +583,8 @@
   "none": "Bez kategorii",
   "theme": "Motyw",
   "themeSubtitle": "Wybierz kolor motywu aplikacji",
+  "language": "Język",
+  "languageFollowSystem": "Domyślne systemu",
   "userStatistics": "Statystyki użytkownika",
   "cacheStatistics": "Statystyki pamięci podręcznej",
   "performanceStatistics": "Statystyki wydajności",

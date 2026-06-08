@@ -597,6 +597,8 @@
   "none": "None",
   "theme": "Theme",
   "themeSubtitle": "Choose app theme color",
+  "language": "Language",
+  "languageFollowSystem": "System default",
   "userStatistics": "User statistics",
   "cacheStatistics": "Cache statistics",
   "performanceStatistics": "Performance statistics",

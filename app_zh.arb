@@ -588,6 +588,8 @@
   "none": "无",
   "theme": "主题",
   "themeSubtitle": "选择主题色",
+  "language": "语言",
+  "languageFollowSystem": "系统默认",
   "userStatistics": "用户统计",
   "cacheStatistics": "缓存统计",
   "performanceStatistics": "性能统计",

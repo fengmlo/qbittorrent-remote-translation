@@ -588,6 +588,8 @@
   "none": "無",
   "theme": "主題",
   "themeSubtitle": "選擇主題色",
+  "language": "語言",
+  "languageFollowSystem": "系統預設",
   "userStatistics": "用戶統計",
   "cacheStatistics": "緩存統計",
   "performanceStatistics": "性能統計",

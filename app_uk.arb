@@ -583,6 +583,8 @@
   "none": "Немає",
   "theme": "Тема",
   "themeSubtitle": "Вибрати колірну тему додатку",
+  "language": "Мова",
+  "languageFollowSystem": "Системна за замовчуванням",
   "userStatistics": "Статистика користувача",
   "cacheStatistics": "Статистика кешу",
   "performanceStatistics": "Статистика продуктивності",
