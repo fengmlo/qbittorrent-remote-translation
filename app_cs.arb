@@ -680,5 +680,10 @@
   "unlockLockedDesc": "Podívejte se na krátkou reklamu a odemkněte tuto funkci na omezenou dobu.",
   "unlockWatchAd": "Sledovat reklamu pro odemknutí",
   "adNotAvailableRetry": "Reklama není k dispozici, zkuste to prosím později",
-  "unlockDailyCapReached": "Dosáhli jste dnešního limitu pro odemknutí"
+  "unlockDailyCapReached": "Dosáhli jste dnešního limitu pro odemknutí",
+  "logLevelNormal": "Normální",
+  "logLevelWarning": "Varování",
+  "logLevelCritical": "Kritické",
+  "today": "Dnes",
+  "yesterday": "Včera"
 }

@@ -680,5 +680,10 @@
   "unlockLockedDesc": "Посмотрите короткую рекламу, чтобы временно разблокировать эту функцию.",
   "unlockWatchAd": "Посмотреть рекламу",
   "adNotAvailableRetry": "Реклама недоступна, попробуйте позже",
-  "unlockDailyCapReached": "Вы достигли дневного лимита разблокировок"
+  "unlockDailyCapReached": "Вы достигли дневного лимита разблокировок",
+  "logLevelNormal": "Обычные",
+  "logLevelWarning": "Предупреждения",
+  "logLevelCritical": "Важные",
+  "today": "Сегодня",
+  "yesterday": "Вчера"
 }

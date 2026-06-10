@@ -680,5 +680,10 @@
   "unlockLockedDesc": "Guarda un breve annuncio per sbloccare questa funzione per un po'.",
   "unlockWatchAd": "Guarda l'annuncio per sbloccare",
   "adNotAvailableRetry": "Annuncio non disponibile, riprova più tardi",
-  "unlockDailyCapReached": "Hai raggiunto il limite di sblocchi giornalieri"
+  "unlockDailyCapReached": "Hai raggiunto il limite di sblocchi giornalieri",
+  "logLevelNormal": "Normale",
+  "logLevelWarning": "Avviso",
+  "logLevelCritical": "Critico",
+  "today": "Oggi",
+  "yesterday": "Ieri"
 }

@@ -687,5 +687,10 @@
   "unlockLockedDesc": "短い広告を視聴して、この機能を一時的にアンロックします。",
   "unlockWatchAd": "広告を視聴してアンロック",
   "adNotAvailableRetry": "広告を利用できません。後ほどもう一度お試しください",
-  "unlockDailyCapReached": "本日のアンロック制限に達しました"
+  "unlockDailyCapReached": "本日のアンロック制限に達しました",
+  "logLevelNormal": "通常",
+  "logLevelWarning": "警告",
+  "logLevelCritical": "緊急",
+  "today": "今日",
+  "yesterday": "昨日"
 }

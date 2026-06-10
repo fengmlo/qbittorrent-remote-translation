@@ -680,5 +680,10 @@
   "unlockLockedDesc": "Assista a um anúncio curto para desbloquear este recurso por um tempo.",
   "unlockWatchAd": "Assistir anúncio para desbloquear",
   "adNotAvailableRetry": "Anúncio não disponível, tente novamente mais tarde",
-  "unlockDailyCapReached": "Você atingiu o limite diário de desbloqueio"
+  "unlockDailyCapReached": "Você atingiu o limite diário de desbloqueio",
+  "logLevelNormal": "Normal",
+  "logLevelWarning": "Aviso",
+  "logLevelCritical": "Crítico",
+  "today": "Hoje",
+  "yesterday": "Ontem"
 }

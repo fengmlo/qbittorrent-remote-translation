@@ -690,5 +690,10 @@
   "unlockLockedDesc": "Watch a short ad to unlock this feature for a while.",
   "unlockWatchAd": "Watch ad to unlock",
   "adNotAvailableRetry": "Ad not available, please try again later",
-  "unlockDailyCapReached": "You've reached today's unlock limit"
+  "unlockDailyCapReached": "You've reached today's unlock limit",
+  "logLevelNormal": "Normal",
+  "logLevelWarning": "Warning",
+  "logLevelCritical": "Critical",
+  "today": "Today",
+  "yesterday": "Yesterday"
 }

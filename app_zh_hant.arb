@@ -682,5 +682,10 @@
   "unlockLockedDesc": "觀看一段簡短廣告即可解鎖此功能一段時間。",
   "unlockWatchAd": "觀看廣告解鎖",
   "adNotAvailableRetry": "廣告暫不可用，請稍後再試",
-  "unlockDailyCapReached": "您已達到今日解鎖上限"
+  "unlockDailyCapReached": "您已達到今日解鎖上限",
+  "logLevelNormal": "一般",
+  "logLevelWarning": "警告",
+  "logLevelCritical": "重要",
+  "today": "今天",
+  "yesterday": "昨天"
 }

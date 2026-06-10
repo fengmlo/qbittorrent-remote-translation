@@ -687,5 +687,10 @@
   "unlockLockedDesc": "Sehen Sie sich eine kurze Werbung an, um diese Funktion für eine Weile freizuschalten.",
   "unlockWatchAd": "Werbung ansehen zum Freischalten",
   "adNotAvailableRetry": "Werbung nicht verfügbar, bitte versuchen Sie es später noch einmal",
-  "unlockDailyCapReached": "Sie haben das heutige Freischaltlimit erreicht"
+  "unlockDailyCapReached": "Sie haben das heutige Freischaltlimit erreicht",
+  "logLevelNormal": "Normal",
+  "logLevelWarning": "Warnung",
+  "logLevelCritical": "Kritisch",
+  "today": "Heute",
+  "yesterday": "Gestern"
 }

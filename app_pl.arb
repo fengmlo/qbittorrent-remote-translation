@@ -680,5 +680,10 @@
   "unlockLockedDesc": "Obejrzyj krótką reklamę, aby odblokować tę funkcję na jakiś czas.",
   "unlockWatchAd": "Obejrzyj reklamę, aby odblokować",
   "adNotAvailableRetry": "Reklama niedostępna, spróbuj ponownie później",
-  "unlockDailyCapReached": "Osiągnięto dzienny limit odblokowań"
+  "unlockDailyCapReached": "Osiągnięto dzienny limit odblokowań",
+  "logLevelNormal": "Zwykłe",
+  "logLevelWarning": "Ostrzeżenie",
+  "logLevelCritical": "Krytyczne",
+  "today": "Dzisiaj",
+  "yesterday": "Wczoraj"
 }

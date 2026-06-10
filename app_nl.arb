@@ -687,5 +687,10 @@
   "unlockLockedDesc": "Bekijk een korte advertentie om deze functie tijdelijk te ontgrendelen.",
   "unlockWatchAd": "Advertentie bekijken om te ontgrendelen",
   "adNotAvailableRetry": "Advertentie niet beschikbaar, probeer het later opnieuw",
-  "unlockDailyCapReached": "U heeft uw dagelijkse ontgrendelingslimiet bereikt"
+  "unlockDailyCapReached": "U heeft uw dagelijkse ontgrendelingslimiet bereikt",
+  "logLevelNormal": "Normaal",
+  "logLevelWarning": "Waarschuwing",
+  "logLevelCritical": "Kritiek",
+  "today": "Vandaag",
+  "yesterday": "Gisteren"
 }

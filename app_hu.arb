@@ -687,5 +687,10 @@
   "unlockLockedDesc": "Nézzen meg egy rövid hirdetést a funkció ideiglenes feloldásához.",
   "unlockWatchAd": "Hirdetés megtekintése a feloldáshoz",
   "adNotAvailableRetry": "Hirdetés nem érhető el, kérjük, próbálja meg később újra",
-  "unlockDailyCapReached": "Elérte a mai feloldási korlátot"
+  "unlockDailyCapReached": "Elérte a mai feloldási korlátot",
+  "logLevelNormal": "Normál",
+  "logLevelWarning": "Figyelmeztetés",
+  "logLevelCritical": "Kritikus",
+  "today": "Ma",
+  "yesterday": "Tegnap"
 }

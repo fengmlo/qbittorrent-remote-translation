@@ -680,5 +680,10 @@
   "unlockLockedDesc": "Regardez une courte publicité pour débloquer cette fonctionnalité pendant un moment.",
   "unlockWatchAd": "Regarder une pub pour débloquer",
   "adNotAvailableRetry": "Publicité non disponible, veuillez réessayer plus tard",
-  "unlockDailyCapReached": "Vous avez atteint la limite quotidienne de déblocage"
+  "unlockDailyCapReached": "Vous avez atteint la limite quotidienne de déblocage",
+  "logLevelNormal": "Normal",
+  "logLevelWarning": "Avertissement",
+  "logLevelCritical": "Critique",
+  "today": "Aujourd'hui",
+  "yesterday": "Hier"
 }
