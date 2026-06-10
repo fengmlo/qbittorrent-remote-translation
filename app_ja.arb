@@ -517,11 +517,26 @@
   "showSearchOnAdd": "「追加」ボタンに検索を表示",
   "showSearchOnAddOnSubtitle": "ドロワーの代わりに「追加」ボタンに検索を表示する",
   "showSearchOnAddOffSubtitle": "ドロワーに検索を表示する",
+  "showRssOnAdd": "「追加」ボタンにRSSを表示",
+  "showRssOnAddOnSubtitle": "ドロワーの代わりに「追加」ボタンにRSSを表示する",
+  "showRssOnAddOffSubtitle": "ドロワーにRSSを表示する",
+  "showLogInDrawer": "ドロワーにサーバーログを表示",
+  "showLogInDrawerOnSubtitle": "ドロワーにサーバーログアイコンを表示する",
+  "showLogInDrawerOffSubtitle": "サーバーログをサーバー情報ダイアログ内にのみ表示する",
   "searchIn": "検索対象",
   "everywhere": "すべて",
   "torrentNamesOnly": "Torrent名のみ",
   "filter": "フィルタ",
   "onlyMagnet": "マグネット結果のみ",
+  "mergeDuplicates": "重複するマグネットリンクを統合",
+  "openUrlFrom": "URLを開く（{engine}）",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "結果 ({totalResult} 件中 {filterResult} 件表示)",
   "@filterResult": {
     "placeholders": {

@@ -519,11 +519,26 @@
   "showSearchOnAdd": "Расположение иконки поиска торрентов",
   "showSearchOnAddOnSubtitle": "Показывать при нажатии на кнопку \"Добавить новую загрузку\"",
   "showSearchOnAddOffSubtitle": "Показывать в боковом меню",
+  "showRssOnAdd": "Расположение иконки RSS",
+  "showRssOnAddOnSubtitle": "Показывать при нажатии на кнопку \"Добавить новую загрузку\"",
+  "showRssOnAddOffSubtitle": "Показывать в боковом меню",
+  "showLogInDrawer": "Показывать логи сервера в боковом меню",
+  "showLogInDrawerOnSubtitle": "Показывать иконку логов сервера в боковом меню",
+  "showLogInDrawerOffSubtitle": "Показывать логи сервера только в диалоге Информация о сервере",
   "searchIn": "Поиск",
   "everywhere": "Везде",
   "torrentNamesOnly": "В именах торрентов",
   "filter": "Фильтр",
   "onlyMagnet": "Только Магнет-ссылки",
+  "mergeDuplicates": "Объединять дубликаты магнет-ссылок",
+  "openUrlFrom": "Открыть ссылку ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Результаты (показано {filterResult} из {totalResult})",
   "@filterResult": {
     "placeholders": {

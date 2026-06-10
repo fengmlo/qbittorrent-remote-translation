@@ -519,11 +519,26 @@
   "showSearchOnAdd": "Mostrar cerca al botó \"Afegir\"",
   "showSearchOnAddOnSubtitle": "Mostrar cerca al botó \"Afegir\", enlloc del panell",
   "showSearchOnAddOffSubtitle": "Mostrar cerca al panell",
+  "showRssOnAdd": "Mostrar RSS al botó \"Afegir\"",
+  "showRssOnAddOnSubtitle": "Mostrar RSS al botó \"Afegir\", enlloc del panell",
+  "showRssOnAddOffSubtitle": "Mostrar RSS al panell",
+  "showLogInDrawer": "Mostrar registre del servidor al panell",
+  "showLogInDrawerOnSubtitle": "Mostrar la icona del registre del servidor al panell",
+  "showLogInDrawerOffSubtitle": "Mostrar el registre del servidor només al diàleg d'Informació del servidor",
   "searchIn": "Cercar a",
   "everywhere": "Tot arreu",
   "torrentNamesOnly": "Només noms de torrent",
   "filter": "Filtre",
   "onlyMagnet": "Només resultats magnet",
+  "mergeDuplicates": "Fusiona els enllaços magnet duplicats",
+  "openUrlFrom": "Obrir URL ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Resultats (mostrant {filterResult} de {totalResult})",
   "@filterResult": {
     "placeholders": {

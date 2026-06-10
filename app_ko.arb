@@ -517,11 +517,26 @@
   "showSearchOnAdd": "추가 버튼에 검색 표시",
   "showSearchOnAddOnSubtitle": "사이드바 대신 추가 버튼에 검색 표시",
   "showSearchOnAddOffSubtitle": "사이드바에 검색 표시",
+  "showRssOnAdd": "추가 버튼에 RSS 표시",
+  "showRssOnAddOnSubtitle": "사이드바 대신 추가 버튼에 RSS 표시",
+  "showRssOnAddOffSubtitle": "사이드바에 RSS 표시",
+  "showLogInDrawer": "사이드바에 서버 로그 표시",
+  "showLogInDrawerOnSubtitle": "사이드바에 서버 로그 아이콘 표시",
+  "showLogInDrawerOffSubtitle": "서버 정보 대화상자에만 서버 로그 표시",
   "searchIn": "찾기",
   "everywhere": "모두",
   "torrentNamesOnly": "토렌트 이름만",
   "filter": "필터",
   "onlyMagnet": "마그넷 결과만",
+  "mergeDuplicates": "중복 마그넷 링크 병합",
+  "openUrlFrom": "URL 열기 ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "결과 (전체 {totalResult}개 중 {filterResult}개 표시 중)",
   "@filterResult": {
     "placeholders": {

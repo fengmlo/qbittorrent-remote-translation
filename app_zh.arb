@@ -524,11 +524,26 @@
   "showSearchOnAdd": "在\"添加\" 按钮上显示搜索",
   "showSearchOnAddOnSubtitle": "在\"添加\" 按钮上显示搜索，而不是在侧边栏里",
   "showSearchOnAddOffSubtitle": "在侧边栏里显示搜索",
+  "showRssOnAdd": "在\"添加\" 按钮上显示 RSS",
+  "showRssOnAddOnSubtitle": "在\"添加\" 按钮上显示 RSS，而不是在侧边栏里",
+  "showRssOnAddOffSubtitle": "在侧边栏里显示 RSS",
+  "showLogInDrawer": "在侧边栏里显示服务器日志",
+  "showLogInDrawerOnSubtitle": "在侧边栏里显示服务器日志图标",
+  "showLogInDrawerOffSubtitle": "仅在服务器信息弹窗中显示服务器日志",
   "searchIn": "在以下位置搜索",
   "everywhere": "任意位置",
   "torrentNamesOnly": "仅Torrent名称",
   "filter": "过滤器",
   "onlyMagnet": "仅磁力链接结果",
+  "mergeDuplicates": "合并相同磁力链接",
+  "openUrlFrom": "打开 Url（{engine}）",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "结果 (显示 {filterResult} ，总计 {totalResult})",
   "@filterResult": {
     "placeholders": {

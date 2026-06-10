@@ -519,11 +519,26 @@
   "showSearchOnAdd": "Visa sök på \"Lägg till\"-knappen",
   "showSearchOnAddOnSubtitle": "Visa sök på \"Lägg till\"-knappen, istället för i lådan",
   "showSearchOnAddOffSubtitle": "Visa sök i lådan",
+  "showRssOnAdd": "Visa RSS på \"Lägg till\"-knappen",
+  "showRssOnAddOnSubtitle": "Visa RSS på \"Lägg till\"-knappen, istället för i lådan",
+  "showRssOnAddOffSubtitle": "Visa RSS i lådan",
+  "showLogInDrawer": "Visa serverlogg i lådan",
+  "showLogInDrawerOnSubtitle": "Visa serverloggikon i lådan",
+  "showLogInDrawerOffSubtitle": "Visa serverlogg endast i dialogrutan Serverinfo",
   "searchIn": "Sök i",
   "everywhere": "Överallt",
   "torrentNamesOnly": "Torrentnamn endast",
   "filter": "Filtrera",
   "onlyMagnet": "Endast magnetresultat",
+  "mergeDuplicates": "Slå ihop dubbletter av magnetlänkar",
+  "openUrlFrom": "Öppna URL ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Resultat (visar {filterResult} av {totalResult})",
   "@filterResult": {
     "placeholders": {

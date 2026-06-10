@@ -517,11 +517,26 @@
   "showSearchOnAdd": "Keresés megjelenítése a „Hozzáadás” gombon",
   "showSearchOnAddOnSubtitle": "Keresés megjelenítése a „Hozzáadás” gombon az oldalsó fiók helyett",
   "showSearchOnAddOffSubtitle": "Keresés megjelenítése az oldalsó fiókban",
+  "showRssOnAdd": "RSS megjelenítése a „Hozzáadás” gombon",
+  "showRssOnAddOnSubtitle": "RSS megjelenítése a „Hozzáadás” gombon az oldalsó fiók helyett",
+  "showRssOnAddOffSubtitle": "RSS megjelenítése az oldalsó fiókban",
+  "showLogInDrawer": "Szervernapló megjelenítése az oldalsó fiókban",
+  "showLogInDrawerOnSubtitle": "Szervernapló ikon megjelenítése az oldalsó fiókban",
+  "showLogInDrawerOffSubtitle": "Szervernapló megjelenítése csak a Szerver információk ablakban",
   "searchIn": "Keresés itt",
   "everywhere": "Mindenhol",
   "torrentNamesOnly": "Csak a torrentek nevében",
   "filter": "Szűrő",
   "onlyMagnet": "Csak magnet találatok",
+  "mergeDuplicates": "Ismétlődő magnet linkek összevonása",
+  "openUrlFrom": "URL megnyitása ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Találatok (megjelenítve: {filterResult} / {totalResult})",
   "@filterResult": {
     "placeholders": {

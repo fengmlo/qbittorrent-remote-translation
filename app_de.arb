@@ -517,11 +517,26 @@
   "showSearchOnAdd": "Suche auf „Hinzufügen“-Schaltfläche anzeigen",
   "showSearchOnAddOnSubtitle": "Suche auf der „Hinzufügen“-Schaltfläche anzeigen, anstatt im Drawer",
   "showSearchOnAddOffSubtitle": "Suche im Drawer anzeigen",
+  "showRssOnAdd": "RSS auf „Hinzufügen“-Schaltfläche anzeigen",
+  "showRssOnAddOnSubtitle": "RSS auf der „Hinzufügen“-Schaltfläche anzeigen, anstatt im Drawer",
+  "showRssOnAddOffSubtitle": "RSS im Drawer anzeigen",
+  "showLogInDrawer": "Serverprotokoll im Drawer anzeigen",
+  "showLogInDrawerOnSubtitle": "Serverprotokoll-Icon im Drawer anzeigen",
+  "showLogInDrawerOffSubtitle": "Serverprotokoll nur im Server-Info-Dialog anzeigen",
   "searchIn": "Suchen in",
   "everywhere": "Überall",
   "torrentNamesOnly": "Nur Torrentnamen",
   "filter": "Filter",
   "onlyMagnet": "Nur Magnet-Ergebnisse",
+  "mergeDuplicates": "Doppelte Magnet-Links zusammenführen",
+  "openUrlFrom": "URL öffnen ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Ergebnisse (zeige {filterResult} von {totalResult})",
   "@filterResult": {
     "placeholders": {

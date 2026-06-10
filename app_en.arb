@@ -533,11 +533,26 @@
   "showSearchOnAdd": "Show search on \"Add\" button",
   "showSearchOnAddOnSubtitle": "Show search on \"Add\" button, instead of in drawer",
   "showSearchOnAddOffSubtitle": "Show search on drawer",
+  "showRssOnAdd": "Show RSS on \"Add\" button",
+  "showRssOnAddOnSubtitle": "Show RSS on \"Add\" button, instead of in drawer",
+  "showRssOnAddOffSubtitle": "Show RSS on drawer",
+  "showLogInDrawer": "Show server log in drawer",
+  "showLogInDrawerOnSubtitle": "Show server log icon in drawer",
+  "showLogInDrawerOffSubtitle": "Show server log only in server info dialog",
   "searchIn": "Search in",
   "everywhere": "Everywhere",
   "torrentNamesOnly": "Torrent names only",
   "filter": "Filter",
   "onlyMagnet": "Only magnet results",
+  "mergeDuplicates": "Merge duplicate magnet links",
+  "openUrlFrom": "Open url ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Results (showing {filterResult} out of {totalResult})",
   "@filterResult": {
     "placeholders": {

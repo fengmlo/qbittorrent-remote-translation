@@ -519,11 +519,26 @@
   "showSearchOnAdd": "Pokaż wyszukiwanie w przycisku \"Dodaj\"",
   "showSearchOnAddOnSubtitle": "Pokaż wyszukiwanie w przycisku \"Dodaj\" zamiast w szufladzie",
   "showSearchOnAddOffSubtitle": "Pokaż wyszukiwanie w szufladzie",
+  "showRssOnAdd": "Pokaż RSS w przycisku \"Dodaj\"",
+  "showRssOnAddOnSubtitle": "Pokaż RSS w przycisku \"Dodaj\" zamiast w szufladzie",
+  "showRssOnAddOffSubtitle": "Pokaż RSS w szufladzie",
+  "showLogInDrawer": "Pokaż dziennik logów serwera w szufladzie",
+  "showLogInDrawerOnSubtitle": "Pokaż ikonę dziennika logów serwera w szufladzie",
+  "showLogInDrawerOffSubtitle": "Pokaż dziennik logów serwera tylko w oknie Informacji o serwerze",
   "searchIn": "Szukaj w",
   "everywhere": "Wszędzie",
   "torrentNamesOnly": "Tylko nazwy torrentów",
   "filter": "Filtr",
   "onlyMagnet": "Tylko wyniki magnet",
+  "mergeDuplicates": "Scal zduplikowane linki magnet",
+  "openUrlFrom": "Otwórz odnośnik ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Wyniki (pokazywanie {filterResult} z {totalResult})",
   "@filterResult": {
     "placeholders": {

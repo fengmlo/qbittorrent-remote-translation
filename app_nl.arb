@@ -517,11 +517,26 @@
   "showSearchOnAdd": "Zoeken weergeven op knop \"Toevoegen\"",
   "showSearchOnAddOnSubtitle": "Zoeken weergeven op knop \"Toevoegen\" in plaats van in het menu",
   "showSearchOnAddOffSubtitle": "Zoeken weergeven in het menu",
+  "showRssOnAdd": "RSS weergeven op knop \"Toevoegen\"",
+  "showRssOnAddOnSubtitle": "RSS weergeven op knop \"Toevoegen\" in plaats van in het menu",
+  "showRssOnAddOffSubtitle": "RSS weergeven in het menu",
+  "showLogInDrawer": "Serverlogboek weergeven in het menu",
+  "showLogInDrawerOnSubtitle": "Serverlogboekpictogram weergeven in het menu",
+  "showLogInDrawerOffSubtitle": "Serverlogboek alleen weergeven in het Server-infovenster",
   "searchIn": "Zoeken in",
   "everywhere": "Overal",
   "torrentNamesOnly": "Alleen torrentnamen",
   "filter": "Filteren",
   "onlyMagnet": "Alleen magneetresultaten",
+  "mergeDuplicates": "Dubbele magneetlinks samenvoegen",
+  "openUrlFrom": "URL openen ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Resultaten ({filterResult} van {totalResult} weergegeven)",
   "@filterResult": {
     "placeholders": {

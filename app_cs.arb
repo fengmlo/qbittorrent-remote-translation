@@ -519,11 +519,26 @@
   "showSearchOnAdd": "Zobrazit vyhledávání na tlačítku \"Přidat\"",
   "showSearchOnAddOnSubtitle": "Zobrazit vyhledávání na tlačítku \"Přidat\" místo v šuplíku",
   "showSearchOnAddOffSubtitle": "Zobrazit vyhledávání v šuplíku",
+  "showRssOnAdd": "Zobrazit RSS na tlačítku \"Přidat\"",
+  "showRssOnAddOnSubtitle": "Zobrazit RSS na tlačítku \"Přidat\" místo v šuplíku",
+  "showRssOnAddOffSubtitle": "Zobrazit RSS v šuplíku",
+  "showLogInDrawer": "Zobrazit protokol serveru v šuplíku",
+  "showLogInDrawerOnSubtitle": "Zobrazit ikonu protokolu serveru v šuplíku",
+  "showLogInDrawerOffSubtitle": "Zobrazit protokol serveru pouze v dialogu Info o serveru",
   "searchIn": "Hledat v",
   "everywhere": "Všude",
   "torrentNamesOnly": "Pouze názvy torrentů",
   "filter": "Filtr",
   "onlyMagnet": "Pouze výsledky Magnet odkazů",
+  "mergeDuplicates": "Sloučit duplicitní Magnet odkazy",
+  "openUrlFrom": "Otevřít odkaz ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Výsledky (zobrazuje se {filterResult} z celkových {totalResult})",
   "@filterResult": {
     "placeholders": {

@@ -519,11 +519,26 @@
   "showSearchOnAdd": "Показувати пошук на кнопці \"Додати\"",
   "showSearchOnAddOnSubtitle": "Показувати пошук на кнопці \"Додати\" замість бічної панелі",
   "showSearchOnAddOffSubtitle": "Показувати пошук на бічній панелі",
+  "showRssOnAdd": "Показувати RSS на кнопці \"Додати\"",
+  "showRssOnAddOnSubtitle": "Показувати RSS на кнопці \"Додати\" замість бічної панелі",
+  "showRssOnAddOffSubtitle": "Показувати RSS на бічній панелі",
+  "showLogInDrawer": "Показувати журнал сервера на бічній панелі",
+  "showLogInDrawerOnSubtitle": "Показувати іконку журналу сервера на бічній панелі",
+  "showLogInDrawerOffSubtitle": "Показувати журнал сервера лише в діалоговому вікні Інформація про сервер",
   "searchIn": "Шукати в",
   "everywhere": "Всюди",
   "torrentNamesOnly": "Тільки в назвах торентів",
   "filter": "Фільтр",
   "onlyMagnet": "Лише Магнет-посилання",
+  "mergeDuplicates": "Об'єднувати дублікати магнет-посилань",
+  "openUrlFrom": "Відкрити URL ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Результати (показано {filterResult} з {totalResult})",
   "@filterResult": {
     "placeholders": {

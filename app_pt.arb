@@ -519,11 +519,26 @@
   "showSearchOnAdd": "Mostrar pesquisa no botão \"Adicionar\"",
   "showSearchOnAddOnSubtitle": "Mostrar pesquisa no botão \"Adicionar\", em vez de na gaveta",
   "showSearchOnAddOffSubtitle": "mostrar pesquisa na gaveta",
+  "showRssOnAdd": "Mostrar RSS no botão \"Adicionar\"",
+  "showRssOnAddOnSubtitle": "Mostrar RSS no botão \"Adicionar\", em vez de na gaveta",
+  "showRssOnAddOffSubtitle": "mostrar RSS na gaveta",
+  "showLogInDrawer": "Mostrar log do servidor na gaveta",
+  "showLogInDrawerOnSubtitle": "Mostrar ícone do log do servidor na gaveta",
+  "showLogInDrawerOffSubtitle": "Mostrar log do servidor apenas no diálogo de Informações do servidor",
   "searchIn": "Pesquisar em",
   "everywhere": "Em toda parte",
   "torrentNamesOnly": "Apenas nomes de torrent",
   "filter": "Filtro",
   "onlyMagnet": "Apenas resultados magnéticos",
+  "mergeDuplicates": "Mesclar links magnéticos duplicados",
+  "openUrlFrom": "Abrir url ({engine})",
+  "@openUrlFrom": {
+    "placeholders": {
+      "engine": {
+        "type": "String"
+      }
+    }
+  },
   "filterResult": "Resultados (mostrando {filterResult} fora de {totalResult})",
   "@filterResult": {
     "placeholders": {
