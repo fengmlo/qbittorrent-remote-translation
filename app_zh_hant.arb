@@ -702,5 +702,11 @@
   "logLevelWarning": "警告",
   "logLevelCritical": "重要",
   "today": "今天",
-  "yesterday": "昨天"
+  "yesterday": "昨天",
+  "logTabGeneral": "一般",
+  "logTabBlockedIps": "被封鎖的 IP",
+  "peerLogBanned": "封禁",
+  "peerLogBlocked": "封鎖",
+  "peerLogReason": "原因：{reason}",
+  "clearAll": "清除"
 }

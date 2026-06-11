@@ -700,5 +700,11 @@
   "logLevelWarning": "Varning",
   "logLevelCritical": "Kritisk",
   "today": "Idag",
-  "yesterday": "Igår"
+  "yesterday": "Igår",
+  "logTabGeneral": "Allmänt",
+  "logTabBlockedIps": "Blockerade IP-adresser",
+  "peerLogBanned": "Förbjuden",
+  "peerLogBlocked": "Blockerad",
+  "peerLogReason": "Orsak: {reason}",
+  "clearAll": "Avmarkera alla"
 }

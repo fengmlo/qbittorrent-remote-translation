@@ -707,5 +707,11 @@
   "logLevelWarning": "경고",
   "logLevelCritical": "중요",
   "today": "오늘",
-  "yesterday": "어제"
+  "yesterday": "어제",
+  "logTabGeneral": "일반",
+  "logTabBlockedIps": "차단한 IP",
+  "peerLogBanned": "영구 차단",
+  "peerLogBlocked": "차단됨",
+  "peerLogReason": "원인: {reason}",
+  "clearAll": "모두 해제"
 }

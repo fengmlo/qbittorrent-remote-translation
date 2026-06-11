@@ -710,5 +710,12 @@
   "logLevelWarning": "Warning",
   "logLevelCritical": "Critical",
   "today": "Today",
-  "yesterday": "Yesterday"
+  "yesterday": "Yesterday",
+  "logTabGeneral": "General",
+  "logTabBlockedIps": "Blocked IPs",
+  "peerLogBanned": "Banned",
+  "peerLogBlocked": "Blocked",
+  "peerLogReason": "Reason: {reason}",
+  "@peerLogReason": {"placeholders": {"reason": {"type": "String"}}},
+  "clearAll": "Clear all"
 }

@@ -707,5 +707,11 @@
   "logLevelWarning": "Warnung",
   "logLevelCritical": "Kritisch",
   "today": "Heute",
-  "yesterday": "Gestern"
+  "yesterday": "Gestern",
+  "logTabGeneral": "Allgemein",
+  "logTabBlockedIps": "Geblockte IPs",
+  "peerLogBanned": "Gebannt",
+  "peerLogBlocked": "Blockiert",
+  "peerLogReason": "Grund: {reason}",
+  "clearAll": "Alle abwählen"
 }

@@ -700,5 +700,11 @@
   "logLevelWarning": "Advertència",
   "logLevelCritical": "Crític",
   "today": "Avui",
-  "yesterday": "Ahir"
+  "yesterday": "Ahir",
+  "logTabGeneral": "General",
+  "logTabBlockedIps": "IP bloquejades",
+  "peerLogBanned": "Prohibit",
+  "peerLogBlocked": "Blocat",
+  "peerLogReason": "Raó: {reason}",
+  "clearAll": "Desselecciona-ho tot"
 }

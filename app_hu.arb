@@ -707,5 +707,11 @@
   "logLevelWarning": "Figyelmeztetés",
   "logLevelCritical": "Kritikus",
   "today": "Ma",
-  "yesterday": "Tegnap"
+  "yesterday": "Tegnap",
+  "logTabGeneral": "Általános",
+  "logTabBlockedIps": "Tiltott IP címek",
+  "peerLogBanned": "Kitiltva",
+  "peerLogBlocked": "Blokkolva",
+  "peerLogReason": "Indok: {reason}",
+  "clearAll": "Kijelölés törlése"
 }

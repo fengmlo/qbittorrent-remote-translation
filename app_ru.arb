@@ -700,5 +700,11 @@
   "logLevelWarning": "Предупреждения",
   "logLevelCritical": "Важные",
   "today": "Сегодня",
-  "yesterday": "Вчера"
+  "yesterday": "Вчера",
+  "logTabGeneral": "Главный",
+  "logTabBlockedIps": "Запрещённые IP",
+  "peerLogBanned": "Запрещён",
+  "peerLogBlocked": "Заблокирован",
+  "peerLogReason": "Причина: {reason}",
+  "clearAll": "Снять выделение"
 }

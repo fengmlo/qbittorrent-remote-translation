@@ -700,5 +700,11 @@
   "logLevelWarning": "Попередження",
   "logLevelCritical": "Критичні",
   "today": "Сьогодні",
-  "yesterday": "Вчора"
+  "yesterday": "Вчора",
+  "logTabGeneral": "Загальні",
+  "logTabBlockedIps": "Заблоковані IP",
+  "peerLogBanned": "Заборонено",
+  "peerLogBlocked": "Заблоковано",
+  "peerLogReason": "Підстава: {reason}",
+  "clearAll": "Зняти вибір"
 }

@@ -700,5 +700,11 @@
   "logLevelWarning": "Varování",
   "logLevelCritical": "Kritické",
   "today": "Dnes",
-  "yesterday": "Včera"
+  "yesterday": "Včera",
+  "logTabGeneral": "Obecné",
+  "logTabBlockedIps": "Blokované IP",
+  "peerLogBanned": "Zakázáno",
+  "peerLogBlocked": "Blokováno",
+  "peerLogReason": "Příčina: {reason}",
+  "clearAll": "Zrušit výběr"
 }

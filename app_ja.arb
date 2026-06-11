@@ -707,5 +707,11 @@
   "logLevelWarning": "警告",
   "logLevelCritical": "緊急",
   "today": "今日",
-  "yesterday": "昨日"
+  "yesterday": "昨日",
+  "logTabGeneral": "全般",
+  "logTabBlockedIps": "ブロックされたIP",
+  "peerLogBanned": "禁止",
+  "peerLogBlocked": "ブロック",
+  "peerLogReason": "理由: {reason}",
+  "clearAll": "すべて解除"
 }
