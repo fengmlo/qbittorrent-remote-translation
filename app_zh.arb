@@ -647,6 +647,7 @@
   "trackerError": "Tracker 错误",
   "trackerOtherError": "其他错误",
   "trackerWarning": "警告",
+  "showPrivateTrackersOnly": "仅显示私有种子的 Tracker",
   "manageTags": "管理标签",
   "setTags": "设置标签",
   "customHeaders": "自定义标头",

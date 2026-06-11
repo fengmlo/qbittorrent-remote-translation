@@ -636,6 +636,7 @@
   "trackerError": "트래커 오류",
   "trackerOtherError": "기타 오류",
   "trackerWarning": "경고",
+  "showPrivateTrackersOnly": "비공개 토렌트의 트래커만 표시",
   "manageTags": "태그 관리",
   "setTags": "태그 설정",
   "customHeaders": "사용자 지정 헤더",

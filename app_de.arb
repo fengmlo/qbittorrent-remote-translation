@@ -636,6 +636,7 @@
   "trackerError": "Tracker-Fehler",
   "trackerOtherError": "Anderer Fehler",
   "trackerWarning": "Warnung",
+  "showPrivateTrackersOnly": "Nur Tracker privater Torrents anzeigen",
   "manageTags": "Label verwalten",
   "setTags": "Label festlegen",
   "customHeaders": "Benutzerdefinierte Header",

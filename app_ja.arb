@@ -636,6 +636,7 @@
   "trackerError": "トラッカーエラー",
   "trackerOtherError": "その他のエラー",
   "trackerWarning": "警告",
+  "showPrivateTrackersOnly": "プライベートTorrentのトラッカーのみ表示",
   "manageTags": "タグ管理",
   "setTags": "タグ設定",
   "customHeaders": "カスタムヘッダー",

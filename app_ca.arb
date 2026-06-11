@@ -642,6 +642,7 @@
   "trackerError": "Error del rastrejador",
   "trackerOtherError": "Altres errors",
   "trackerWarning": "Avís",
+  "showPrivateTrackersOnly": "Mostrar només els trackers dels torrents privats",
   "manageTags": "Gestionar etiquetes",
   "setTags": "Assignar etiquetes",
   "customHeaders": "Capçaleres personalitzades",

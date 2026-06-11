@@ -642,6 +642,7 @@
   "trackerError": "Ошибка трекера",
   "trackerOtherError": "Иная ошибка",
   "trackerWarning": "Предупреждение",
+  "showPrivateTrackersOnly": "Показывать только трекеры частных торрентов",
   "manageTags": "Управление метками",
   "setTags": "Установить метки",
   "customHeaders": "Пользовательские заголовки",

@@ -656,6 +656,7 @@
   "trackerError": "Tracker error",
   "trackerOtherError": "Other error",
   "trackerWarning": "Warning",
+  "showPrivateTrackersOnly": "Only show trackers of private torrents",
   "manageTags": "Manage tags",
   "setTags": "Set Tags",
   "customHeaders": "Custom Headers",

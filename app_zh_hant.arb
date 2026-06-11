@@ -647,6 +647,7 @@
   "trackerError": "Tracker 錯誤",
   "trackerOtherError": "其他錯誤",
   "trackerWarning": "警告",
+  "showPrivateTrackersOnly": "僅顯示私有種子的 Tracker",
   "manageTags": "管理標籤",
   "setTags": "設置標籤",
   "customHeaders": "自訂標頭",

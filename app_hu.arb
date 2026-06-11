@@ -636,6 +636,7 @@
   "trackerError": "Tracker hiba",
   "trackerOtherError": "Egyéb hiba",
   "trackerWarning": "Figyelmeztetés",
+  "showPrivateTrackersOnly": "Csak a privát torrentek trackereinek megjelenítése",
   "manageTags": "Címkék kezelése",
   "setTags": "Címkék beállítása",
   "customHeaders": "Egyedi fejlécek",

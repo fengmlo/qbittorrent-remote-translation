@@ -642,6 +642,7 @@
   "trackerError": "Błąd trackera",
   "trackerOtherError": "Inny błąd",
   "trackerWarning": "Ostrzeżenie",
+  "showPrivateTrackersOnly": "Pokaż tylko trackery prywatnych torrentów",
   "manageTags": "Zarządzaj tagami",
   "setTags": "Ustaw tagi",
   "customHeaders": "Niestandardowe Nagłówki",

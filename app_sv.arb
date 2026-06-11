@@ -642,6 +642,7 @@
   "trackerError": "Spårarfel",
   "trackerOtherError": "Annat fel",
   "trackerWarning": "Varning",
+  "showPrivateTrackersOnly": "Visa endast trackers för privata torrenter",
   "manageTags": "Hantera taggar",
   "setTags": "Ange taggar",
   "customHeaders": "Anpassade Rubriker",

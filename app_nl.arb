@@ -636,6 +636,7 @@
   "trackerError": "Tracker-fout",
   "trackerOtherError": "Andere fout",
   "trackerWarning": "Waarschuwing",
+  "showPrivateTrackersOnly": "Alleen trackers van privétorrents weergeven",
   "manageTags": "Labels beheren",
   "setTags": "Labels instellen",
   "customHeaders": "Aangepaste headers",

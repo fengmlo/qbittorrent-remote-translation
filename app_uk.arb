@@ -642,6 +642,7 @@
   "trackerError": "Помилка трекера",
   "trackerOtherError": "Інша помилка",
   "trackerWarning": "Попередження",
+  "showPrivateTrackersOnly": "Показувати лише трекери приватних торрентів",
   "manageTags": "Керування тегами",
   "setTags": "Встановити теги",
   "customHeaders": "Користувацькі заголовки",

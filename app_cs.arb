@@ -642,6 +642,7 @@
   "trackerError": "Chyba trackeru",
   "trackerOtherError": "Jiná chyba",
   "trackerWarning": "Varování",
+  "showPrivateTrackersOnly": "Zobrazit pouze trackery soukromých torrentů",
   "manageTags": "Spravovat štítky",
   "setTags": "Nastavit štítky",
   "customHeaders": "Vlastní hlavičky",
