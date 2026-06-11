@@ -167,6 +167,12 @@
   "workingStatus": "稼働中",
   "updatingStatus": "更新中",
   "notWorkingStatus": "非稼働",
+  "trackerErrorStatus": "トラッカーエラー",
+  "unreachableStatus": "到達できません",
+  "nextAnnounceTitle": "次のアナウンス",
+  "minAnnounceTitle": "最低アナウンス",
+  "privateTorrentLabel": "プライベートTorrent",
+  "privateLabel": "プライベート",
   "editServer": "サーバーを編集",
   "serverName": "サーバー名",
   "host": "ホストまたはIP",
@@ -380,6 +386,9 @@
   "rememberDownloadSettingOnSubtitle": "ダウンロードダイアログのオプションを記憶する",
   "rememberDownloadSettingOffSubtitle": "ダウンロードダイアログのオプションを記憶しない",
   "piecesTitle": "ピース",
+  "pieceStateDownloaded": "ダウンロード済み",
+  "pieceStateDownloading": "ダウンロード中",
+  "pieceStateNotDownloaded": "未ダウンロード",
   "piecesInfo": "{piecesNum} × {pieceSize} (取得済み {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

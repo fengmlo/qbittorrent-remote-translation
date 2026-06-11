@@ -167,6 +167,12 @@
   "workingStatus": "작동 중",
   "updatingStatus": "업데이트 중…",
   "notWorkingStatus": "작동 안 함",
+  "trackerErrorStatus": "트래커 오류",
+  "unreachableStatus": "연결할 수 없음",
+  "nextAnnounceTitle": "다음 갱신",
+  "minAnnounceTitle": "최소 갱신",
+  "privateTorrentLabel": "비공개 토렌트",
+  "privateLabel": "비공개",
   "editServer": "서버 편집",
   "serverName": "서버 이름",
   "host": "호스트 또는 IP",
@@ -380,6 +386,9 @@
   "rememberDownloadSettingOnSubtitle": "다운로드 대화상자의 옵션 기억",
   "rememberDownloadSettingOffSubtitle": "다운로드 대화상자의 옵션 기억 안 함",
   "piecesTitle": "조각",
+  "pieceStateDownloaded": "다운로드함",
+  "pieceStateDownloading": "다운로드 중",
+  "pieceStateNotDownloaded": "다운로드 안 함",
   "piecesInfo": "{piecesNum} × {pieceSize} (소유: {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

@@ -170,6 +170,12 @@
   "workingStatus": "Trabajando",
   "updatingStatus": "Subiendo",
   "notWorkingStatus": "Sin funcionamiento",
+  "trackerErrorStatus": "Error del rastreador",
+  "unreachableStatus": "Inalcanzable",
+  "nextAnnounceTitle": "Siguiente anuncio",
+  "minAnnounceTitle": "Anuncio mínimo",
+  "privateTorrentLabel": "Torrent privado",
+  "privateLabel": "Privado",
   "editServer": "Editar servidor",
   "serverName": "Nombre del servidor",
   "host": "Host o IP",
@@ -372,6 +378,9 @@
   "rememberDownloadSettingOnSubtitle": "Recordar las opciones del cuadro de diálogo",
   "rememberDownloadSettingOffSubtitle": "No recordar las opciones del cuadro de diálogo",
   "piecesTitle": "Piezas",
+  "pieceStateDownloaded": "Descargado",
+  "pieceStateDownloading": "Descargando",
+  "pieceStateNotDownloaded": "No descargado",
   "piecesInfo": "{piecesNum} × {pieceSize} (tiene {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

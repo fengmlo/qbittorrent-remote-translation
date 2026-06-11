@@ -167,6 +167,12 @@
   "workingStatus": "Werkend",
   "updatingStatus": "Bijwerken...",
   "notWorkingStatus": "Niet werkend",
+  "trackerErrorStatus": "Tracker-fout",
+  "unreachableStatus": "Niet bereikbaar",
+  "nextAnnounceTitle": "Volgende aankondiging",
+  "minAnnounceTitle": "Min aankondiging",
+  "privateTorrentLabel": "Privétorrent",
+  "privateLabel": "Privé",
   "editServer": "Server bewerken",
   "serverName": "Servernaam",
   "host": "Host of IP",
@@ -380,6 +386,9 @@
   "rememberDownloadSettingOnSubtitle": "Opties in het downloaddialoogvenster onthouden",
   "rememberDownloadSettingOffSubtitle": "Opties in het downloaddialoogvenster niet onthouden",
   "piecesTitle": "Deeltjes",
+  "pieceStateDownloaded": "Gedownload",
+  "pieceStateDownloading": "Downloaden",
+  "pieceStateNotDownloaded": "Niet gedownload",
   "piecesInfo": "{piecesNum} × {pieceSize} (heeft {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

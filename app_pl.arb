@@ -170,6 +170,12 @@
   "workingStatus": "Działa",
   "updatingStatus": "Aktualizacja",
   "notWorkingStatus": "Nie działa",
+  "trackerErrorStatus": "Błąd trackera",
+  "unreachableStatus": "Nieosiągalny",
+  "nextAnnounceTitle": "Następne rozgłoszenie",
+  "minAnnounceTitle": "Minimalne rozgłoszenie",
+  "privateTorrentLabel": "Prywatny torrent",
+  "privateLabel": "Prywatne",
   "editServer": "Edytuj serwer",
   "serverName": "Nazwa serwera",
   "host": "Nazwa hosta lub adres IP",
@@ -372,6 +378,9 @@
   "rememberDownloadSettingOnSubtitle": "Pamiętaj opcje okna pobierania",
   "rememberDownloadSettingOffSubtitle": "Nie pamiętaj opcji okna pobierania",
   "piecesTitle": "Części",
+  "pieceStateDownloaded": "Pobrane",
+  "pieceStateDownloading": "Pobieranie",
+  "pieceStateNotDownloaded": "Niepobrane",
   "piecesInfo": "{piecesNum} × {pieceSize} (ma {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

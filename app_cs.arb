@@ -170,6 +170,12 @@
   "workingStatus": "Funkční",
   "updatingStatus": "Aktualizuji",
   "notWorkingStatus": "Nefunkční",
+  "trackerErrorStatus": "Chyba trackeru",
+  "unreachableStatus": "Nedosažitelné",
+  "nextAnnounceTitle": "Další oznámení",
+  "minAnnounceTitle": "Min. oznámení",
+  "privateTorrentLabel": "Soukromý torrent",
+  "privateLabel": "Soukromý",
   "editServer": "Upravit server",
   "serverName": "Název serveru ",
   "host": "Název hostitele nebo IP",
@@ -372,6 +378,9 @@
   "rememberDownloadSettingOnSubtitle": "Zapamatovat si možnosti v dialogovém okně stahování",
   "rememberDownloadSettingOffSubtitle": "Nezapamatovat si možnosti v dialogovém okně stahování",
   "piecesTitle": "Kousků",
+  "pieceStateDownloaded": "Staženo",
+  "pieceStateDownloading": "Stahuje se",
+  "pieceStateNotDownloaded": "Nestaženo",
   "piecesInfo": "{piecesNum} × {pieceSize} (z nichž jsou {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

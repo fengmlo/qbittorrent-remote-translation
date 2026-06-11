@@ -170,6 +170,12 @@
   "workingStatus": "Test Superato",
   "updatingStatus": "In aggiornamento",
   "notWorkingStatus": "Test non superato",
+  "trackerErrorStatus": "Errore tracker",
+  "unreachableStatus": "Non raggiungibile",
+  "nextAnnounceTitle": "Annuncio successivo",
+  "minAnnounceTitle": "Annuncio minimo",
+  "privateTorrentLabel": "Torrent privato",
+  "privateLabel": "Privato",
   "editServer": "Modifica Server",
   "serverName": "Nome Server",
   "host": "Host o IP",
@@ -372,6 +378,9 @@
   "rememberDownloadSettingOnSubtitle": "Ricorda le opzioni nella finestra di dialogo di download",
   "rememberDownloadSettingOffSubtitle": "Non ricordare le opzioni nella finestra di dialogo di download",
   "piecesTitle": "Pezzi",
+  "pieceStateDownloaded": "Scaricato",
+  "pieceStateDownloading": "In download",
+  "pieceStateNotDownloaded": "Non scaricato",
   "piecesInfo": "{piecesNum} × {pieceSize} (have {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

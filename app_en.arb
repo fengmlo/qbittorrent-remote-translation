@@ -164,6 +164,12 @@
   "workingStatus": "Working",
   "updatingStatus": "Updating",
   "notWorkingStatus": "Not Working",
+  "trackerErrorStatus": "Tracker Error",
+  "unreachableStatus": "Unreachable",
+  "nextAnnounceTitle": "Next Announce",
+  "minAnnounceTitle": "Min Announce",
+  "privateTorrentLabel": "Private torrent",
+  "privateLabel": "Private",
   "editServer": "Edit Server",
   "serverName": "Server Name",
   "host": "Host or IP",
@@ -386,6 +392,9 @@
   "rememberDownloadSettingOnSubtitle": "Remember the options in the download dialog",
   "rememberDownloadSettingOffSubtitle": "Don’t remember the options in the download dialog",
   "piecesTitle": "Pieces",
+  "pieceStateDownloaded": "Downloaded",
+  "pieceStateDownloading": "Downloading",
+  "pieceStateNotDownloaded": "Not downloaded",
   "piecesInfo": "{piecesNum} × {pieceSize} (have {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

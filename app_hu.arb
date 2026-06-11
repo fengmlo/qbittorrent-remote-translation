@@ -167,6 +167,12 @@
   "workingStatus": "Működik",
   "updatingStatus": "Frissítés...",
   "notWorkingStatus": "Nem működik",
+  "trackerErrorStatus": "Tracker hiba",
+  "unreachableStatus": "Elérhetetlen",
+  "nextAnnounceTitle": "Következő Bejelentés",
+  "minAnnounceTitle": "Min Bejelentés",
+  "privateTorrentLabel": "Privát torrent",
+  "privateLabel": "Privát",
   "editServer": "Szerver szerkesztése",
   "serverName": "Szerver neve",
   "host": "Gépnév vagy IP",
@@ -380,6 +386,9 @@
   "rememberDownloadSettingOnSubtitle": "A letöltési párbeszédpanel beállításainak megjegyzése",
   "rememberDownloadSettingOffSubtitle": "Ne jegyezze meg a letöltési párbeszédpanel beállításait",
   "piecesTitle": "Szeletek",
+  "pieceStateDownloaded": "Letöltve",
+  "pieceStateDownloading": "Letöltés alatt",
+  "pieceStateNotDownloaded": "Nincs letöltve",
   "piecesInfo": "{piecesNum} × {pieceSize} (megvan: {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

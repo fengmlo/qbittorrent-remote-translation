@@ -171,6 +171,12 @@
   "workingStatus": "工作中",
   "updatingStatus": "正在更新",
   "notWorkingStatus": "未工作",
+  "trackerErrorStatus": "Tracker 错误",
+  "unreachableStatus": "无法连接",
+  "nextAnnounceTitle": "下一个 Announce",
+  "minAnnounceTitle": "最小 Announce",
+  "privateTorrentLabel": "私有种子",
+  "privateLabel": "私密",
   "editServer": "编辑服务器",
   "serverName": "服务器名称",
   "host": "主机名或IP地址",
@@ -377,6 +383,9 @@
   "rememberDownloadSettingOnSubtitle": "记住下载弹框中的选项",
   "rememberDownloadSettingOffSubtitle": "不记住下载弹框中的选项",
   "piecesTitle": "区块",
+  "pieceStateDownloaded": "已下载",
+  "pieceStateDownloading": "下载中",
+  "pieceStateNotDownloaded": "未下载",
   "piecesInfo": "{piecesNum} × {pieceSize} (已完成 {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

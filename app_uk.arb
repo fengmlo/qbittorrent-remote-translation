@@ -170,6 +170,12 @@
   "workingStatus": "Працює",
   "updatingStatus": "Оновлюється",
   "notWorkingStatus": "Не працює",
+  "trackerErrorStatus": "Помилка трекера",
+  "unreachableStatus": "Недосяжний",
+  "nextAnnounceTitle": "Наступний анонс",
+  "minAnnounceTitle": "Мін. Оголошення",
+  "privateTorrentLabel": "Приватний торрент",
+  "privateLabel": "Приватний",
   "editServer": "Редагувати сервер",
   "serverName": "Назва сервера",
   "host": "Хост або IP-адреса",
@@ -372,6 +378,9 @@
   "rememberDownloadSettingOnSubtitle": "Запам'ятовувати опції в діалозі завантаження",
   "rememberDownloadSettingOffSubtitle": "Не запам'ятовувати опції в діалозі завантаження",
   "piecesTitle": "Частини",
+  "pieceStateDownloaded": "Завантажено",
+  "pieceStateDownloading": "Завантажується",
+  "pieceStateNotDownloaded": "Не завантажено",
   "piecesInfo": "{piecesNum} × {pieceSize} (є {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

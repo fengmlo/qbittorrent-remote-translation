@@ -171,6 +171,12 @@
   "workingStatus": "工作中",
   "updatingStatus": "正在更新",
   "notWorkingStatus": "未工作",
+  "trackerErrorStatus": "Tracker 錯誤",
+  "unreachableStatus": "無法連結",
+  "nextAnnounceTitle": "下次公告",
+  "minAnnounceTitle": "最小公告",
+  "privateTorrentLabel": "私有種子",
+  "privateLabel": "私人",
   "editServer": "編輯服務器",
   "serverName": "服務器名稱",
   "host": "主機名或IP地址",
@@ -377,6 +383,9 @@
   "rememberDownloadSettingOnSubtitle": "記住下載彈框中的選項",
   "rememberDownloadSettingOffSubtitle": "不記住下載彈框中的選項",
   "piecesTitle": "區塊",
+  "pieceStateDownloaded": "已下載",
+  "pieceStateDownloading": "下載中",
+  "pieceStateNotDownloaded": "未下載",
   "piecesInfo": "{piecesNum} × {pieceSize} (已完成 {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

@@ -170,6 +170,12 @@
   "workingStatus": "Fungerande",
   "updatingStatus": "Uppdaterar",
   "notWorkingStatus": "Ej fungerande",
+  "trackerErrorStatus": "Spårarfel",
+  "unreachableStatus": "Onåbar",
+  "nextAnnounceTitle": "Nästa annonsering",
+  "minAnnounceTitle": "Minimal annonsering",
+  "privateTorrentLabel": "Privat torrent",
+  "privateLabel": "Privat",
   "editServer": "Redigera server",
   "serverName": "Servername",
   "host": "Värd eller IP",
@@ -372,6 +378,9 @@
   "rememberDownloadSettingOnSubtitle": "Kom ihåg valen i nerladdningsdialogen",
   "rememberDownloadSettingOffSubtitle": "Kom inte ihåg valen i nerladdningsdialogen",
   "piecesTitle": "Delar",
+  "pieceStateDownloaded": "Nerladdat",
+  "pieceStateDownloading": "Laddar ner",
+  "pieceStateNotDownloaded": "Inte nerladdat",
   "piecesInfo": "{piecesNum} × {pieceSize} (har {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

@@ -170,6 +170,12 @@
   "workingStatus": "Работает",
   "updatingStatus": "Обновление",
   "notWorkingStatus": "Не работает",
+  "trackerErrorStatus": "Ошибка трекера",
+  "unreachableStatus": "Нет доступа",
+  "nextAnnounceTitle": "След. анонс",
+  "minAnnounceTitle": "Минимум анонса",
+  "privateTorrentLabel": "Частный торрент",
+  "privateLabel": "Частный",
   "editServer": "Редактировать сервер",
   "serverName": "Имя сервера",
   "host": "Имя хоста или IP-адрес",
@@ -372,6 +378,9 @@
   "rememberDownloadSettingOnSubtitle": "Запоминать выбранные пункты настроек в диалоговом окне добавления загрузки",
   "rememberDownloadSettingOffSubtitle": "Не запоминать выбранные пункты настроек в диалоговом окне добавления загрузки",
   "piecesTitle": "Части",
+  "pieceStateDownloaded": "Загружено",
+  "pieceStateDownloading": "Загружается",
+  "pieceStateNotDownloaded": "Не загружено",
   "piecesInfo": "{piecesNum} × {pieceSize} (из них есть {pieceHave})",
   "@piecesInfo": {
     "placeholders": {

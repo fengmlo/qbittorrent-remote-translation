@@ -170,6 +170,12 @@
   "workingStatus": "Treballant",
   "updatingStatus": "Pujant",
   "notWorkingStatus": "Sense funcionar",
+  "trackerErrorStatus": "Error del rastrejador",
+  "unreachableStatus": "Inabastable",
+  "nextAnnounceTitle": "Anunci següent",
+  "minAnnounceTitle": "Anunci min.",
+  "privateTorrentLabel": "Torrent privat",
+  "privateLabel": "Privat",
   "editServer": "Editar servidor",
   "serverName": "Nom del servidor",
   "host": "Host o IP",
@@ -372,6 +378,9 @@
   "rememberDownloadSettingOnSubtitle": "Recordar les opcions del quadre de diàleg",
   "rememberDownloadSettingOffSubtitle": "No recordar les opcions del quadre de diàleg",
   "piecesTitle": "Peces",
+  "pieceStateDownloaded": "Baixat",
+  "pieceStateDownloading": "Baixant",
+  "pieceStateNotDownloaded": "No baixat",
   "piecesInfo": "{piecesNum} × {pieceSize} (té {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
