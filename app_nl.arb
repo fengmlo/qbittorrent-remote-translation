@@ -289,6 +289,7 @@
   "addNewPeers": "Nieuwe peers toevoegen",
   "copyPeer": "IP:poort kopiëren",
   "banPeer": "Peer permanent verbannen",
+  "shadowbanPeer": "Peer shadowbannen",
   "inputPeersHint": "Formaat: IPv4:poort / [IPv6]:poort, één IP per regel",
   "noInputPeersTips": "Voer peers in",
   "addNewTrackers": "Nieuwe trackers toevoegen",

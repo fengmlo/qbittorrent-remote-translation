@@ -293,6 +293,7 @@
   "addNewPeers": "Añadir más pares",
   "copyPeer": "Copiar IP:puerto",
   "banPeer": "Bloquear par para siempre",
+  "shadowbanPeer": "Shadowban al par",
   "inputPeersHint": "Formato: IPv4:puerto / [IPv6]:puerto, una IP por línea",
   "noInputPeersTips": "Introduce pares",
   "addNewTrackers": "Añadir más trackers",

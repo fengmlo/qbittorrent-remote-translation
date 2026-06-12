@@ -293,6 +293,7 @@
   "addNewPeers": "Lägg till nya peers",
   "copyPeer": "Kopiera IP:port",
   "banPeer": "Banna peer permanent",
+  "shadowbanPeer": "Shadowbanna peer",
   "inputPeersHint": "Format: IPv4:port / [IPv6]:port, en IP per rad",
   "noInputPeersTips": "Vänligen skriv in peers",
   "addNewTrackers": "Lägg till nya trackers",

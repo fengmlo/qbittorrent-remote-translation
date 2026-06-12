@@ -293,6 +293,7 @@
   "addNewPeers": "Afegir més peers",
   "copyPeer": "Copiar IP:port",
   "banPeer": "Bloquejar peer per sempre",
+  "shadowbanPeer": "Shadowban del parell",
   "inputPeersHint": "Format: IPv4:port / [IPv6]:port, una IP per línea",
   "noInputPeersTips": "Introdueix peers",
   "addNewTrackers": "Afegir més trackers",

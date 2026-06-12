@@ -293,6 +293,7 @@
   "addNewPeers": "Dodaj nowych partnerów",
   "copyPeer": "Kopiuj adres IP:port ",
   "banPeer": "Zablokuj partnera na stałe",
+  "shadowbanPeer": "Shadowban peera",
   "inputPeersHint": "Format: IPv4:port / [IPv6]:port, jeden adres IP na linię",
   "noInputPeersTips": "Wpisz partnerów",
   "addNewTrackers": "Dodaj nowe trackery",

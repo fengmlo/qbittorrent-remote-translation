@@ -293,6 +293,7 @@
   "addNewPeers": "Добавить нового пира",
   "copyPeer": "Копировать IP:порт",
   "banPeer": "Навсегда заблокировать пира",
+  "shadowbanPeer": "Теневая блокировка пира",
   "inputPeersHint": "Формат: IPv4:порт / [IPv6]:порт, один IP на строку",
   "noInputPeersTips": "Пожалуйста, введите пира",
   "addNewTrackers": "Добавить новый трекер",

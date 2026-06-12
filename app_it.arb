@@ -293,6 +293,7 @@
   "addNewPeers": "Aggiungi nuovi peer",
   "copyPeer": "Copia IP:porta",
   "banPeer": "Ban peer permanente",
+  "shadowbanPeer": "Shadowban del peer",
   "inputPeersHint": "Formato: IPv4:porta / [IPv6]:porta, un IP per riga",
   "noInputPeersTips": "Inserisci peers",
   "addNewTrackers": "Aggiungi nuovi tracker",

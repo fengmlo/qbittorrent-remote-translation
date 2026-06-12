@@ -293,6 +293,7 @@
   "addNewPeers": "Додати нові піри",
   "copyPeer": "Копіювати IP:порт",
   "banPeer": "Заблокувати пір назавжди",
+  "shadowbanPeer": "Тіньове блокування піра",
   "inputPeersHint": "Формат: IPv4:порт / [IPv6]:порт, один IP на рядок",
   "noInputPeersTips": "Будь ласка, введіть піри",
   "addNewTrackers": "Додати нові трекери",

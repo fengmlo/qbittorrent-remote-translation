@@ -290,6 +290,7 @@
   "addNewPeers": "添加新節點",
   "copyPeer": "複製IP端口",
   "banPeer": "永久禁止用戶",
+  "shadowbanPeer": "影子封禁用戶",
   "inputPeersHint": "格式: IPv4:port / [IPv6]:port, 每個IP一行",
   "noInputPeersTips": "請輸入節點列表",
   "addNewTrackers": "添加新 Tracker 服務器",

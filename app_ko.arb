@@ -289,6 +289,7 @@
   "addNewPeers": "새 피어 추가",
   "copyPeer": "IP:포트 복사",
   "banPeer": "영구적으로 피어 차단",
+  "shadowbanPeer": "피어 섀도우밴",
   "inputPeersHint": "형식: IPv4:포트 / [IPv6]:포트, 한 줄에 하나의 IP",
   "noInputPeersTips": "피어를 입력해 주세요",
   "addNewTrackers": "새 트래커 추가",

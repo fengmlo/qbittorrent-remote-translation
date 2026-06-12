@@ -287,6 +287,7 @@
   "addNewPeers": "Add new peers",
   "copyPeer": "Copy IP:port",
   "banPeer": "Ban peer permanently",
+  "shadowbanPeer": "Shadowban peer",
   "inputPeersHint": "Format: IPv4:port / [IPv6]:port, one IP per line",
   "noInputPeersTips": "Please input peers",
   "addNewTrackers": "Add new trackers",

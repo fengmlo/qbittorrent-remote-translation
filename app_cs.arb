@@ -293,6 +293,7 @@
   "addNewPeers": "Přidat protějšky",
   "copyPeer": "Zkopírovat IP:port",
   "banPeer": "Zablokovat protějšek",
+  "shadowbanPeer": "Shadowban peera",
   "inputPeersHint": "Formát: IPv4:port / [IPv6]:port, jedna IP na řádek",
   "noInputPeersTips": "Zadejte protějšky",
   "addNewTrackers": "Přidat trackery",
