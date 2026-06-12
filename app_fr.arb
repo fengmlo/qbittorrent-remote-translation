@@ -125,6 +125,8 @@
   "averageDownloadSpeedTitle": "Vitesse moy. de téléchargement",
   "averageUploadSpeedTitle": "Vitesse moy. d'envoi",
   "shareRatioTitle": "Ratio",
+  "popularityTitle": "Popularité",
+  "availabilityTitle": "Disponibilité",
   "optionTitle": "Option",
   "priorityTitle": "Priorité",
   "downloadSpeedLimit": "Limite de téléchargement",

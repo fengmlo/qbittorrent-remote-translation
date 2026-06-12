@@ -119,6 +119,8 @@
   "averageDownloadSpeedTitle": "Average Down Speed",
   "averageUploadSpeedTitle": "Average Up Speed",
   "shareRatioTitle": "Ratio",
+  "popularityTitle": "Popularity",
+  "availabilityTitle": "Availability",
   "optionTitle": "Option",
   "priorityTitle": "Priority",
   "downloadSpeedLimit": "Download Limit",

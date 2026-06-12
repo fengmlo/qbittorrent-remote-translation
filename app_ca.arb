@@ -125,6 +125,8 @@
   "averageDownloadSpeedTitle": "Vel. mitjana de baixada",
   "averageUploadSpeedTitle": "Vel. mitjana de pujada",
   "shareRatioTitle": "Ràtio",
+  "popularityTitle": "Popularitat",
+  "availabilityTitle": "Disponibilitat",
   "optionTitle": "Opcions",
   "priorityTitle": "Prioritat",
   "downloadSpeedLimit": "Límit de baixada",

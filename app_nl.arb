@@ -122,6 +122,8 @@
   "averageDownloadSpeedTitle": "Gemiddelde downloadsnelheid",
   "averageUploadSpeedTitle": "Gemiddelde uploadsnelheid",
   "shareRatioTitle": "Verhouding",
+  "popularityTitle": "Populariteit",
+  "availabilityTitle": "Beschikbaarheid",
   "optionTitle": "Optie",
   "priorityTitle": "Prioriteit",
   "downloadSpeedLimit": "Downloadbegrenzing",

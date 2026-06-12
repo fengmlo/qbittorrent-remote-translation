@@ -122,6 +122,8 @@
   "averageDownloadSpeedTitle": "평균 받기 속도",
   "averageUploadSpeedTitle": "평균 업로드 속도",
   "shareRatioTitle": "비율",
+  "popularityTitle": "인지도",
+  "availabilityTitle": "가용성",
   "optionTitle": "옵션",
   "priorityTitle": "우선순위",
   "downloadSpeedLimit": "다운로드 제한",

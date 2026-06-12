@@ -125,6 +125,8 @@
   "averageDownloadSpeedTitle": "Medelnerhastighet",
   "averageUploadSpeedTitle": "Medelupphastighet",
   "shareRatioTitle": "Ratio",
+  "popularityTitle": "Popularitet",
+  "availabilityTitle": "Tillgängligt",
   "optionTitle": "Alternativ",
   "priorityTitle": "Prioritet",
   "downloadSpeedLimit": "Nerbegränsning",

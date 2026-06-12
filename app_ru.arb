@@ -125,6 +125,8 @@
   "averageDownloadSpeedTitle": "Средняя скорость загрузки",
   "averageUploadSpeedTitle": "Средняя скорость отдачи",
   "shareRatioTitle": "Рейтинг",
+  "popularityTitle": "Спрос",
+  "availabilityTitle": "Доступно",
   "optionTitle": "Параметры",
   "priorityTitle": "Очередь",
   "downloadSpeedLimit": "Ограничение загрузки",

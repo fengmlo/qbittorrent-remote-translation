@@ -125,6 +125,8 @@
   "averageDownloadSpeedTitle": "Średnia prędk. pob.",
   "averageUploadSpeedTitle": "Średnia prędk. wys.",
   "shareRatioTitle": "Współczynnik udziału",
+  "popularityTitle": "Popularność",
+  "availabilityTitle": "Dostępność",
   "optionTitle": "Opcja",
   "priorityTitle": "Priorytet",
   "downloadSpeedLimit": "Limit pobierania",

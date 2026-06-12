@@ -126,6 +126,8 @@
   "averageDownloadSpeedTitle": "平均下載速度",
   "averageUploadSpeedTitle": "平均上傳速度",
   "shareRatioTitle": "分享率",
+  "popularityTitle": "人氣",
+  "availabilityTitle": "可得性",
   "optionTitle": "選項",
   "priorityTitle": "優先級",
   "downloadSpeedLimit": "限制下載",

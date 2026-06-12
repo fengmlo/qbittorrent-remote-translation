@@ -125,6 +125,8 @@
   "averageDownloadSpeedTitle": "Prům. rychl. stah.",
   "averageUploadSpeedTitle": "Prům. rychl. odes.",
   "shareRatioTitle": "Ratio",
+  "popularityTitle": "Popularita",
+  "availabilityTitle": "Dostupnost",
   "optionTitle": "Možnost",
   "priorityTitle": "Priorita",
   "downloadSpeedLimit": "Limit stahování",

@@ -122,6 +122,8 @@
   "averageDownloadSpeedTitle": "Durchschnittliche DL-Rate",
   "averageUploadSpeedTitle": "Durchschnittliche UL-Rate",
   "shareRatioTitle": "Verhältnis",
+  "popularityTitle": "Popularität",
+  "availabilityTitle": "Verfügbarkeit",
   "optionTitle": "Option",
   "priorityTitle": "Priorität",
   "downloadSpeedLimit": "Grenze für Download",

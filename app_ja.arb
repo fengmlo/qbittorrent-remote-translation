@@ -122,6 +122,8 @@
   "averageDownloadSpeedTitle": "平均DL速度",
   "averageUploadSpeedTitle": "平均UL速度",
   "shareRatioTitle": "比率",
+  "popularityTitle": "人気",
+  "availabilityTitle": "可用性",
   "optionTitle": "オプション",
   "priorityTitle": "優先度",
   "downloadSpeedLimit": "ダウンロード制限",

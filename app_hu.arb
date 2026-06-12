@@ -122,6 +122,8 @@
   "averageDownloadSpeedTitle": "Átlagos letöltési sebesség",
   "averageUploadSpeedTitle": "Átlagos feltöltési sebesség",
   "shareRatioTitle": "Arány",
+  "popularityTitle": "Népszerűség",
+  "availabilityTitle": "Elérhetőség",
   "optionTitle": "Opció",
   "priorityTitle": "Prioritás",
   "downloadSpeedLimit": "Letöltési korlát",

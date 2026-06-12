@@ -125,6 +125,8 @@
   "averageDownloadSpeedTitle": "Velocidade média de download",
   "averageUploadSpeedTitle": "Velocidade média de Upload",
   "shareRatioTitle": "Razão",
+  "popularityTitle": "Popularidade",
+  "availabilityTitle": "Disponibilidade",
   "optionTitle": "Opção",
   "priorityTitle": "Prioridade",
   "downloadSpeedLimit": "Limite de download",
