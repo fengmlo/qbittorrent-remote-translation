@@ -274,6 +274,7 @@
   "defaultStr": "Standard",
   "yesStr": "Ja",
   "noStr": "Nej",
+  "notAvailableLabel": "Ingen",
   "categoryIncompleteSavePath": "Sparsökväg för ofullständiga torrenter",
   "ipAddress": "IP",
   "country": "Land",

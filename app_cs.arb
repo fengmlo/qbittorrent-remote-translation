@@ -274,6 +274,7 @@
   "defaultStr": "Výchozí",
   "yesStr": "Ano",
   "noStr": "Ne",
+  "notAvailableLabel": "N/A",
   "categoryIncompleteSavePath": "Cesta uložení nedokončených torrentů",
   "ipAddress": "IP",
   "country": "Země",

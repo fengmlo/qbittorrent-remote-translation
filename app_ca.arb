@@ -274,6 +274,7 @@
   "defaultStr": "Per defecte",
   "yesStr": "Sí",
   "noStr": "No",
+  "notAvailableLabel": "N / D",
   "categoryIncompleteSavePath": "Camí on desar-ho dels torrents incomplets",
   "ipAddress": "IP",
   "country": "País",

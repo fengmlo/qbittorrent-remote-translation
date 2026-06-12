@@ -274,6 +274,7 @@
   "defaultStr": "За замовчуванням",
   "yesStr": "Так",
   "noStr": "Ні",
+  "notAvailableLabel": "—",
   "categoryIncompleteSavePath": "Шлях збереження для незавершених торрентів",
   "ipAddress": "IP",
   "country": "Країна",

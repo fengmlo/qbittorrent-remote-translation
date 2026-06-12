@@ -270,6 +270,7 @@
   "defaultStr": "Standard",
   "yesStr": "Ja",
   "noStr": "Nein",
+  "notAvailableLabel": "N/V",
   "categoryIncompleteSavePath": "Speicherpfad für unvollständige Torrents",
   "ipAddress": "IP",
   "country": "Land",

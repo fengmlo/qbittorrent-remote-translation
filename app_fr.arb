@@ -274,6 +274,7 @@
   "defaultStr": "Par défaut",
   "yesStr": "Oui",
   "noStr": "Non",
+  "notAvailableLabel": "N/D",
   "categoryIncompleteSavePath": "Répertoire de destination pour les torrents incomplets",
   "ipAddress": "IP",
   "country": "Pays",

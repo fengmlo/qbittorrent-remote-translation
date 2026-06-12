@@ -274,6 +274,7 @@
   "defaultStr": "Predefinita",
   "yesStr": "Sì",
   "noStr": "No",
+  "notAvailableLabel": "N/D",
   "categoryIncompleteSavePath": "Percorso salvataggio torrent incompleti",
   "ipAddress": "IP",
   "country": "Nazione",

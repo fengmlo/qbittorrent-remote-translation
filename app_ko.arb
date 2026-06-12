@@ -270,6 +270,7 @@
   "defaultStr": "기본",
   "yesStr": "예",
   "noStr": "아니요",
+  "notAvailableLabel": "해당 없음",
   "categoryIncompleteSavePath": "불완전한 토렌트의 저장 경로",
   "ipAddress": "IP",
   "country": "국가",

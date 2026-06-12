@@ -270,6 +270,7 @@
   "defaultStr": "Standaard",
   "yesStr": "Ja",
   "noStr": "Nee",
+  "notAvailableLabel": "N/B",
   "categoryIncompleteSavePath": "Opslagpad voor onvolledige torrents",
   "ipAddress": "IP",
   "country": "Land",

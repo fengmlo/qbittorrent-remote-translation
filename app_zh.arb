@@ -271,6 +271,7 @@
   "defaultStr": "默认",
   "yesStr": "是",
   "noStr": "否",
+  "notAvailableLabel": "N/A",
   "categoryIncompleteSavePath": "保存不完整 Torrent 的路径",
   "ipAddress": "IP地址",
   "country": "国家",

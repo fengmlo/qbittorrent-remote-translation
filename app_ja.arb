@@ -270,6 +270,7 @@
   "defaultStr": "デフォルト",
   "yesStr": "はい",
   "noStr": "いいえ",
+  "notAvailableLabel": "N/A",
   "categoryIncompleteSavePath": "未完了Torrentの保存パス",
   "ipAddress": "IP",
   "country": "国",

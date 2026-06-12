@@ -270,6 +270,7 @@
   "defaultStr": "Alapértelmezett",
   "yesStr": "Igen",
   "noStr": "Nem",
+  "notAvailableLabel": "N/A",
   "categoryIncompleteSavePath": "Mentési útvonal befejezetlen torrentekhez",
   "ipAddress": "IP",
   "country": "Ország",
