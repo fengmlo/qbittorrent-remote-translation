@@ -319,6 +319,67 @@
   "editUrlHint": "New url",
   "inputTrackersHint": "List of trackers to add (one per line)",
   "noInputTrackersTips": "Please input trackers",
+  "bulkAddTrackersFromUrl": "Bulk add trackers from URL",
+  "addTrackersFromUrlDesc": "Fetch the tracker lists below and add them to this torrent (deduplicated).",
+  "trackerUrlFromServer": "From server settings",
+  "trackerUrlFetching": "Fetching…",
+  "trackerUrlFetchedCount": "{count} trackers",
+  "@trackerUrlFetchedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "trackerUrlFetchFailed": "Fetch failed",
+  "addTrackerUrl": "Add URL",
+  "trackerUrlInputHint": "Paste a tracker list URL",
+  "trackerUrlFetchProgress": "{done}/{total} done",
+  "@trackerUrlFetchProgress": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "trackerUrlDedupedCount": "{count} after dedup",
+  "@trackerUrlDedupedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "trackerUrlDuplicate": "This URL is already in the list",
+  "invalidUrl": "Invalid URL",
+  "cleanUnusableTrackers": "Clean unusable trackers",
+  "cleanUnusableTrackersWithCount": "Clean unusable trackers ({count})",
+  "@cleanUnusableTrackersWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUnusableTrackersMessage": "The following {count} unusable trackers will be removed from this torrent. This cannot be undone:",
+  "@cleanUnusableTrackersMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "removeNTrackers": "Remove {count}",
+  "@removeNTrackers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP sources",
   "addWebSeeds": "Add web seeds",
   "editWebSeed": "Edit web seed url",
