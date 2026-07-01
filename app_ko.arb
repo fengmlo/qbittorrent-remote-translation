@@ -893,5 +893,6 @@
   "saveToDifferentDirectory": "다른 디렉터리에 저장",
   "addStopped": "중지된 상태로 추가",
   "matchingArticles": "일치하는 RSS 규약",
-  "saveBeforeRefreshTips": "변경 사항을 저장하고 일치 미리보기를 새로 고칠까요?"
+  "saveBeforeRefreshTips": "변경 사항을 저장하고 일치 미리보기를 새로 고칠까요?",
+  "shareLimit": "공유 제한"
 }

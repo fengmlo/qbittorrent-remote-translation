@@ -888,5 +888,6 @@
   "saveToDifferentDirectory": "儲存到其他目錄",
   "addStopped": "新增已停止的",
   "matchingArticles": "配對 RSS 文章",
-  "saveBeforeRefreshTips": "儲存修改以重新整理符合預覽？"
+  "saveBeforeRefreshTips": "儲存修改以重新整理符合預覽？",
+  "shareLimit": "分享限制"
 }

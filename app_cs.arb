@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Uložit do jiného adresáře",
   "addStopped": "Přidat zastavené",
   "matchingArticles": "Odpovídající RSS články",
-  "saveBeforeRefreshTips": "Uložit změny a obnovit náhled shod?"
+  "saveBeforeRefreshTips": "Uložit změny a obnovit náhled shod?",
+  "shareLimit": "Limit sdílení"
 }

@@ -893,5 +893,6 @@
   "saveToDifferentDirectory": "Mentés másik könyvtárba",
   "addStopped": "Hozzáadás leállítva",
   "matchingArticles": "Egyező RSS elemek",
-  "saveBeforeRefreshTips": "Menti a módosításokat a találatok előnézetének frissítéséhez?"
+  "saveBeforeRefreshTips": "Menti a módosításokat a találatok előnézetének frissítéséhez?",
+  "shareLimit": "Megosztási korlát"
 }

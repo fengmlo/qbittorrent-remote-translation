@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Spara till en annan katalog",
   "addStopped": "Lägg till stoppad",
   "matchingArticles": "Matcha RSS-artiklar",
-  "saveBeforeRefreshTips": "Spara ändringarna för att uppdatera matchningsförhandsvisningen?"
+  "saveBeforeRefreshTips": "Spara ändringarna för att uppdatera matchningsförhandsvisningen?",
+  "shareLimit": "Delningsgräns"
 }

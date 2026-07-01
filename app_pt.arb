@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Salvar num diretório diferente",
   "addStopped": "Adicionar parado",
   "matchingArticles": "Combinar artigos do RSS",
-  "saveBeforeRefreshTips": "Salvar as alterações para atualizar a prévia de correspondências?"
+  "saveBeforeRefreshTips": "Salvar as alterações para atualizar a prévia de correspondências?",
+  "shareLimit": "Limite de partilha"
 }

@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Сохранять в другую папку",
   "addStopped": "Добавлять остановленным",
   "matchingArticles": "Подходящие статьи RSS",
-  "saveBeforeRefreshTips": "Сохранить изменения, чтобы обновить предпросмотр совпадений?"
+  "saveBeforeRefreshTips": "Сохранить изменения, чтобы обновить предпросмотр совпадений?",
+  "shareLimit": "Ограничение раздачи"
 }

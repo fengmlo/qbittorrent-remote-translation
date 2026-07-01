@@ -942,5 +942,6 @@
   "saveToDifferentDirectory": "Save to a different directory",
   "addStopped": "Add stopped",
   "matchingArticles": "Matching RSS Articles",
-  "saveBeforeRefreshTips": "Save changes to refresh the matching preview?"
+  "saveBeforeRefreshTips": "Save changes to refresh the matching preview?",
+  "shareLimit": "Share limit"
 }

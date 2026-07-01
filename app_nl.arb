@@ -893,5 +893,6 @@
   "saveToDifferentDirectory": "Opslaan in een andere map",
   "addStopped": "Gestopt toevoegen",
   "matchingArticles": "Overeenkomstige RSS-artikelen",
-  "saveBeforeRefreshTips": "Wijzigingen opslaan om het overeenkomstenvoorbeeld te vernieuwen?"
+  "saveBeforeRefreshTips": "Wijzigingen opslaan om het overeenkomstenvoorbeeld te vernieuwen?",
+  "shareLimit": "Deellimiet"
 }

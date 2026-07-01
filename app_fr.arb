@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Enregistrer dans un autre répertoire",
   "addStopped": "Ajouter à l'arrêt",
   "matchingArticles": "Articles RSS correspondants",
-  "saveBeforeRefreshTips": "Enregistrer les modifications pour actualiser l'aperçu des correspondances ?"
+  "saveBeforeRefreshTips": "Enregistrer les modifications pour actualiser l'aperçu des correspondances ?",
+  "shareLimit": "Limite de partage"
 }

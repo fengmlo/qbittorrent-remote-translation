@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Zapisz w innym katalogu",
   "addStopped": "Dodaj zatrzymane",
   "matchingArticles": "Pasujące artykuły RSS",
-  "saveBeforeRefreshTips": "Zapisać zmiany, aby odświeżyć podgląd dopasowań?"
+  "saveBeforeRefreshTips": "Zapisać zmiany, aby odświeżyć podgląd dopasowań?",
+  "shareLimit": "Limit udostępniania"
 }

@@ -893,5 +893,6 @@
   "saveToDifferentDirectory": "別のディレクトリに保存する",
   "addStopped": "停止状態で追加",
   "matchingArticles": "マッチするRSS記事",
-  "saveBeforeRefreshTips": "変更を保存してマッチプレビューを更新しますか？"
+  "saveBeforeRefreshTips": "変更を保存してマッチプレビューを更新しますか？",
+  "shareLimit": "共有制限"
 }

@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Salva in una cartella diversa",
   "addStopped": "Aggiungi da fermo",
   "matchingArticles": "Articoli RSS corrispondenti",
-  "saveBeforeRefreshTips": "Salvare le modifiche per aggiornare l'anteprima delle corrispondenze?"
+  "saveBeforeRefreshTips": "Salvare le modifiche per aggiornare l'anteprima delle corrispondenze?",
+  "shareLimit": "Limite di condivisione"
 }

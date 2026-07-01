@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Зберігати в інший каталог",
   "addStopped": "Додавати зупиненим",
   "matchingArticles": "Відповідні RSS-статті",
-  "saveBeforeRefreshTips": "Зберегти зміни, щоб оновити попередній перегляд збігів?"
+  "saveBeforeRefreshTips": "Зберегти зміни, щоб оновити попередній перегляд збігів?",
+  "shareLimit": "Обмеження поширення"
 }

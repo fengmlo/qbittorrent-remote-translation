@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Desa en un directori diferent",
   "addStopped": "Afegeix aturat",
   "matchingArticles": "Coincidència d'articles d'RSS",
-  "saveBeforeRefreshTips": "Voleu desar els canvis per actualitzar la previsualització de coincidències?"
+  "saveBeforeRefreshTips": "Voleu desar els canvis per actualitzar la previsualització de coincidències?",
+  "shareLimit": "Límit de compartició"
 }

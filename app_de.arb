@@ -893,5 +893,6 @@
   "saveToDifferentDirectory": "In einem anderen Verzeichnis speichern",
   "addStopped": "Gestoppt hinzufügen",
   "matchingArticles": "Übereinstimmende RSS Artikel",
-  "saveBeforeRefreshTips": "Änderungen speichern, um die Treffer-Vorschau zu aktualisieren?"
+  "saveBeforeRefreshTips": "Änderungen speichern, um die Treffer-Vorschau zu aktualisieren?",
+  "shareLimit": "Freigabe-Limit"
 }

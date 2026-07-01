@@ -886,5 +886,6 @@
   "saveToDifferentDirectory": "Guardar en un directorio diferente",
   "addStopped": "Añadir detenido",
   "matchingArticles": "Coincidencias de artículos RSS",
-  "saveBeforeRefreshTips": "¿Guardar los cambios para actualizar la vista previa de coincidencias?"
+  "saveBeforeRefreshTips": "¿Guardar los cambios para actualizar la vista previa de coincidencias?",
+  "shareLimit": "Límite de compartición"
 }
