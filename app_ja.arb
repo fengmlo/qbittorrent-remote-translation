@@ -1,6 +1,14 @@
 {
   "clickToAddServer": "クリックしてサーバーを追加",
   "selectMode": "選択",
+  "selectFileCount": "{count,plural, =1{{count} ファイル} other{{count} ファイル}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "選択を反転",
   "selectTorrentCount": "{count,plural, =1{{count} Torrent} other{{count} Torrent}}",
   "@selectTorrentCount": {
     "placeholders": {

@@ -2,6 +2,14 @@
   "@@locale": "zh",
   "clickToAddServer": "点击添加服务器",
   "selectMode": "多选模式",
+  "selectFileCount": "{count,plural, other{{count}个文件}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "反选",
   "selectTorrentCount": "{count,plural, other{{count}个种子}}",
   "@selectTorrentCount": {
     "placeholders": {

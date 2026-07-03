@@ -1,6 +1,14 @@
 {
   "clickToAddServer": "Klicka för att lägga till server",
   "selectMode": "Välj",
+  "selectFileCount": "{count,plural, =1{{count} fil} other{{count} filer}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "Invertera markering",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {

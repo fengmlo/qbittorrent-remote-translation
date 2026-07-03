@@ -1,6 +1,14 @@
 {
   "clickToAddServer": "Kattintson szerver hozzáadásához",
   "selectMode": "Kiválasztás…",
+  "selectFileCount": "{count,plural, =1{{count} fájl} other{{count} fájl}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "Kijelölés megfordítása",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrent}}",
   "@selectTorrentCount": {
     "placeholders": {

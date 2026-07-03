@@ -1,6 +1,14 @@
 {
   "clickToAddServer": "Toca para añadir un servidor",
   "selectMode": "Seleccionar",
+  "selectFileCount": "{count,plural, =1{{count} archivo} other{{count} archivos}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "Invertir selección",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {

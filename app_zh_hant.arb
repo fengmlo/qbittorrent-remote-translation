@@ -2,6 +2,14 @@
   "@@locale": "zh_Hant",
   "clickToAddServer": "點選新增伺服器",
   "selectMode": "多選模式",
+  "selectFileCount": "{count,plural, other{{count}個檔案}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "反選",
   "selectTorrentCount": "{count,plural, other{{count}個種子}}",
   "@selectTorrentCount": {
     "placeholders": {

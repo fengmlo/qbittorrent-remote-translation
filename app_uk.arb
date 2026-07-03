@@ -1,6 +1,14 @@
 {
   "clickToAddServer": "Натисніть, щоб додати сервер",
   "selectMode": "Вибрати",
+  "selectFileCount": "{count,plural, =1{{count} файл} few{{count} файли} many{{count} файлів} other{{count} файлів}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "Інвертувати виділення",
   "selectTorrentCount": "{count,plural, =1{{count} торент} few{{count} торенти} many{{count} торентів} other{{count} торентів}}",
   "@selectTorrentCount": {
     "placeholders": {

@@ -1,6 +1,14 @@
 {
   "clickToAddServer": "Klikni pro přidání serveru",
   "selectMode": "Vybrat",
+  "selectFileCount": "{count,plural, =1{{count} soubor} few{{count} soubory} other{{count} souborů}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "Invertovat výběr",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentů}}",
   "@selectTorrentCount": {
     "placeholders": {

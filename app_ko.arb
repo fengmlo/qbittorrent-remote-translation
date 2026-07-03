@@ -1,6 +1,14 @@
 {
   "clickToAddServer": "서버를 추가하려면 클릭하세요",
   "selectMode": "선택…",
+  "selectFileCount": "{count,plural, =1{{count}개 파일} other{{count}개 파일}}",
+  "@selectFileCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "invertSelection": "선택 반전",
   "selectTorrentCount": "{count,plural, =1{{count}개 토렌트} other{{count}개 토렌트}}",
   "@selectTorrentCount": {
     "placeholders": {
