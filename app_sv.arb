@@ -919,5 +919,8 @@
   "matchingArticles": "Matcha RSS-artiklar",
   "saveBeforeRefreshTips": "Spara ändringarna för att uppdatera matchningsförhandsvisningen?",
   "shareLimit": "Delningsgräns",
-  "serverDirectories": "Mappar på servern"
+  "serverDirectories": "Mappar på servern",
+  "connectionTimeout": "Timeout för anslutning",
+  "connectionTimeoutValue": "{seconds,plural, =1{{seconds} sekund} other{{seconds} sekunder}}",
+  "connectionTimeoutInvalid": "Ange ett tal mellan {min} och {max}"
 }

@@ -926,5 +926,8 @@
   "matchingArticles": "일치하는 RSS 규약",
   "saveBeforeRefreshTips": "변경 사항을 저장하고 일치 미리보기를 새로 고칠까요?",
   "shareLimit": "공유 제한",
-  "serverDirectories": "서버의 디렉터리"
+  "serverDirectories": "서버의 디렉터리",
+  "connectionTimeout": "연결 제한 시간",
+  "connectionTimeoutValue": "{seconds}초",
+  "connectionTimeoutInvalid": "{min}에서 {max} 사이의 숫자를 입력하세요"
 }

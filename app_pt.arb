@@ -919,5 +919,8 @@
   "matchingArticles": "Combinar artigos do RSS",
   "saveBeforeRefreshTips": "Salvar as alterações para atualizar a prévia de correspondências?",
   "shareLimit": "Limite de partilha",
-  "serverDirectories": "Diretórios no servidor"
+  "serverDirectories": "Diretórios no servidor",
+  "connectionTimeout": "Tempo limite de conexão",
+  "connectionTimeoutValue": "{seconds,plural, =1{{seconds} segundo} other{{seconds} segundos}}",
+  "connectionTimeoutInvalid": "Digite um número entre {min} e {max}"
 }

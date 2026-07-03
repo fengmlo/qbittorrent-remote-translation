@@ -919,5 +919,8 @@
   "matchingArticles": "Pasujące artykuły RSS",
   "saveBeforeRefreshTips": "Zapisać zmiany, aby odświeżyć podgląd dopasowań?",
   "shareLimit": "Limit udostępniania",
-  "serverDirectories": "Katalogi na serwerze"
+  "serverDirectories": "Katalogi na serwerze",
+  "connectionTimeout": "Limit czasu połączenia",
+  "connectionTimeoutValue": "{seconds,plural, one{{seconds} sekunda} few{{seconds} sekundy} many{{seconds} sekund} other{{seconds} sekundy}}",
+  "connectionTimeoutInvalid": "Wprowadź liczbę od {min} do {max}"
 }

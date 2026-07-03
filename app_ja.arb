@@ -926,5 +926,8 @@
   "matchingArticles": "マッチするRSS記事",
   "saveBeforeRefreshTips": "変更を保存してマッチプレビューを更新しますか？",
   "shareLimit": "共有制限",
-  "serverDirectories": "サーバー上のディレクトリー"
+  "serverDirectories": "サーバー上のディレクトリー",
+  "connectionTimeout": "接続タイムアウト",
+  "connectionTimeoutValue": "{seconds} 秒",
+  "connectionTimeoutInvalid": "{min}～{max} の数値を入力してください"
 }

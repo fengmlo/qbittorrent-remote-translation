@@ -926,5 +926,8 @@
   "matchingArticles": "Egyező RSS elemek",
   "saveBeforeRefreshTips": "Menti a módosításokat a találatok előnézetének frissítéséhez?",
   "shareLimit": "Megosztási korlát",
-  "serverDirectories": "Könyvtárak a szerveren"
+  "serverDirectories": "Könyvtárak a szerveren",
+  "connectionTimeout": "Kapcsolódási időtúllépés",
+  "connectionTimeoutValue": "{seconds} másodperc",
+  "connectionTimeoutInvalid": "Adjon meg egy számot {min} és {max} között"
 }

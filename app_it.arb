@@ -919,5 +919,8 @@
   "matchingArticles": "Articoli RSS corrispondenti",
   "saveBeforeRefreshTips": "Salvare le modifiche per aggiornare l'anteprima delle corrispondenze?",
   "shareLimit": "Limite di condivisione",
-  "serverDirectories": "Cartelle sul server"
+  "serverDirectories": "Cartelle sul server",
+  "connectionTimeout": "Timeout connessione",
+  "connectionTimeoutValue": "{seconds,plural, =1{{seconds} secondo} other{{seconds} secondi}}",
+  "connectionTimeoutInvalid": "Inserisci un numero tra {min} e {max}"
 }

@@ -926,5 +926,8 @@
   "matchingArticles": "Overeenkomstige RSS-artikelen",
   "saveBeforeRefreshTips": "Wijzigingen opslaan om het overeenkomstenvoorbeeld te vernieuwen?",
   "shareLimit": "Deellimiet",
-  "serverDirectories": "Mappen op de server"
+  "serverDirectories": "Mappen op de server",
+  "connectionTimeout": "Verbindingstime-out",
+  "connectionTimeoutValue": "{seconds,plural, =1{{seconds} seconde} other{{seconds} seconden}}",
+  "connectionTimeoutInvalid": "Voer een getal in tussen {min} en {max}"
 }

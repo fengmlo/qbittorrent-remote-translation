@@ -975,5 +975,10 @@
   "matchingArticles": "Matching RSS Articles",
   "saveBeforeRefreshTips": "Save changes to refresh the matching preview?",
   "shareLimit": "Share limit",
-  "serverDirectories": "Directories on server"
+  "serverDirectories": "Directories on server",
+  "connectionTimeout": "Connection timeout",
+  "connectionTimeoutValue": "{seconds,plural, =1{{seconds} second} other{{seconds} seconds}}",
+  "@connectionTimeoutValue": {"placeholders": {"seconds": {}}},
+  "connectionTimeoutInvalid": "Enter a number between {min} and {max}",
+  "@connectionTimeoutInvalid": {"placeholders": {"min": {"type": "int"}, "max": {"type": "int"}}}
 }

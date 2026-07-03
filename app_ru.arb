@@ -919,5 +919,8 @@
   "matchingArticles": "Подходящие статьи RSS",
   "saveBeforeRefreshTips": "Сохранить изменения, чтобы обновить предпросмотр совпадений?",
   "shareLimit": "Ограничение раздачи",
-  "serverDirectories": "Каталоги на сервере"
+  "serverDirectories": "Каталоги на сервере",
+  "connectionTimeout": "Тайм-аут подключения",
+  "connectionTimeoutValue": "{seconds,plural, one{{seconds} секунда} few{{seconds} секунды} many{{seconds} секунд} other{{seconds} секунды}}",
+  "connectionTimeoutInvalid": "Введите число от {min} до {max}"
 }

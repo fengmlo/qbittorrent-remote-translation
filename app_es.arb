@@ -919,5 +919,8 @@
   "matchingArticles": "Coincidencias de artículos RSS",
   "saveBeforeRefreshTips": "¿Guardar los cambios para actualizar la vista previa de coincidencias?",
   "shareLimit": "Límite de compartición",
-  "serverDirectories": "Directorios en el servidor"
+  "serverDirectories": "Directorios en el servidor",
+  "connectionTimeout": "Tiempo de espera de conexión",
+  "connectionTimeoutValue": "{seconds,plural, =1{{seconds} segundo} other{{seconds} segundos}}",
+  "connectionTimeoutInvalid": "Introduzca un número entre {min} y {max}"
 }

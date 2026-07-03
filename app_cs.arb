@@ -919,5 +919,8 @@
   "matchingArticles": "Odpovídající RSS články",
   "saveBeforeRefreshTips": "Uložit změny a obnovit náhled shod?",
   "shareLimit": "Limit sdílení",
-  "serverDirectories": "Adresáře na serveru"
+  "serverDirectories": "Adresáře na serveru",
+  "connectionTimeout": "Časový limit připojení",
+  "connectionTimeoutValue": "{seconds,plural, one{{seconds} sekunda} few{{seconds} sekundy} many{{seconds} sekundy} other{{seconds} sekund}}",
+  "connectionTimeoutInvalid": "Zadejte číslo mezi {min} a {max}"
 }

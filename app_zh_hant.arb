@@ -921,5 +921,8 @@
   "matchingArticles": "配對 RSS 文章",
   "saveBeforeRefreshTips": "儲存修改以重新整理符合預覽？",
   "shareLimit": "分享限制",
-  "serverDirectories": "伺服器上的目錄"
+  "serverDirectories": "伺服器上的目錄",
+  "connectionTimeout": "連線逾時",
+  "connectionTimeoutValue": "{seconds} 秒",
+  "connectionTimeoutInvalid": "請輸入 {min} 到 {max} 之間的數字"
 }
