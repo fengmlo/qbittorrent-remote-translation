@@ -910,5 +910,6 @@
   "addStopped": "Aggiungi da fermo",
   "matchingArticles": "Articoli RSS corrispondenti",
   "saveBeforeRefreshTips": "Salvare le modifiche per aggiornare l'anteprima delle corrispondenze?",
-  "shareLimit": "Limite di condivisione"
+  "shareLimit": "Limite di condivisione",
+  "serverDirectories": "Cartelle sul server"
 }

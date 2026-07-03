@@ -917,5 +917,6 @@
   "addStopped": "Gestoppt hinzufügen",
   "matchingArticles": "Übereinstimmende RSS Artikel",
   "saveBeforeRefreshTips": "Änderungen speichern, um die Treffer-Vorschau zu aktualisieren?",
-  "shareLimit": "Freigabe-Limit"
+  "shareLimit": "Freigabe-Limit",
+  "serverDirectories": "Verzeichnisse auf dem Server"
 }

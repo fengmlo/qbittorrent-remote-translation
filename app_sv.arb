@@ -910,5 +910,6 @@
   "addStopped": "Lägg till stoppad",
   "matchingArticles": "Matcha RSS-artiklar",
   "saveBeforeRefreshTips": "Spara ändringarna för att uppdatera matchningsförhandsvisningen?",
-  "shareLimit": "Delningsgräns"
+  "shareLimit": "Delningsgräns",
+  "serverDirectories": "Mappar på servern"
 }

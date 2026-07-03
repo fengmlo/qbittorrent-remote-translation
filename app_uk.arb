@@ -910,5 +910,6 @@
   "addStopped": "Додавати зупиненим",
   "matchingArticles": "Відповідні RSS-статті",
   "saveBeforeRefreshTips": "Зберегти зміни, щоб оновити попередній перегляд збігів?",
-  "shareLimit": "Обмеження поширення"
+  "shareLimit": "Обмеження поширення",
+  "serverDirectories": "Каталоги на сервері"
 }

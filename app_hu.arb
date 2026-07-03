@@ -917,5 +917,6 @@
   "addStopped": "Hozzáadás leállítva",
   "matchingArticles": "Egyező RSS elemek",
   "saveBeforeRefreshTips": "Menti a módosításokat a találatok előnézetének frissítéséhez?",
-  "shareLimit": "Megosztási korlát"
+  "shareLimit": "Megosztási korlát",
+  "serverDirectories": "Könyvtárak a szerveren"
 }

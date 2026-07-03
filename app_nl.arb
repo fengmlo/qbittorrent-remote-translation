@@ -917,5 +917,6 @@
   "addStopped": "Gestopt toevoegen",
   "matchingArticles": "Overeenkomstige RSS-artikelen",
   "saveBeforeRefreshTips": "Wijzigingen opslaan om het overeenkomstenvoorbeeld te vernieuwen?",
-  "shareLimit": "Deellimiet"
+  "shareLimit": "Deellimiet",
+  "serverDirectories": "Mappen op de server"
 }

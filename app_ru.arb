@@ -910,5 +910,6 @@
   "addStopped": "Добавлять остановленным",
   "matchingArticles": "Подходящие статьи RSS",
   "saveBeforeRefreshTips": "Сохранить изменения, чтобы обновить предпросмотр совпадений?",
-  "shareLimit": "Ограничение раздачи"
+  "shareLimit": "Ограничение раздачи",
+  "serverDirectories": "Каталоги на сервере"
 }

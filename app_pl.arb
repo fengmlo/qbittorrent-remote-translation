@@ -910,5 +910,6 @@
   "addStopped": "Dodaj zatrzymane",
   "matchingArticles": "Pasujące artykuły RSS",
   "saveBeforeRefreshTips": "Zapisać zmiany, aby odświeżyć podgląd dopasowań?",
-  "shareLimit": "Limit udostępniania"
+  "shareLimit": "Limit udostępniania",
+  "serverDirectories": "Katalogi na serwerze"
 }

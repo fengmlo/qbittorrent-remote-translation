@@ -910,5 +910,6 @@
   "addStopped": "Afegeix aturat",
   "matchingArticles": "Coincidència d'articles d'RSS",
   "saveBeforeRefreshTips": "Voleu desar els canvis per actualitzar la previsualització de coincidències?",
-  "shareLimit": "Límit de compartició"
+  "shareLimit": "Límit de compartició",
+  "serverDirectories": "Directoris al servidor"
 }

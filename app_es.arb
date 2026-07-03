@@ -910,5 +910,6 @@
   "addStopped": "Añadir detenido",
   "matchingArticles": "Coincidencias de artículos RSS",
   "saveBeforeRefreshTips": "¿Guardar los cambios para actualizar la vista previa de coincidencias?",
-  "shareLimit": "Límite de compartición"
+  "shareLimit": "Límite de compartición",
+  "serverDirectories": "Directorios en el servidor"
 }

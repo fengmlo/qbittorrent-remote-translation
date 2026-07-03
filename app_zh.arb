@@ -912,5 +912,6 @@
   "addStopped": "添加已停止的",
   "matchingArticles": "匹配 RSS 文章",
   "saveBeforeRefreshTips": "保存修改以刷新匹配预览？",
-  "shareLimit": "分享限制"
+  "shareLimit": "分享限制",
+  "serverDirectories": "服务器上的目录"
 }

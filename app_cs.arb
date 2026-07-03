@@ -910,5 +910,6 @@
   "addStopped": "Přidat zastavené",
   "matchingArticles": "Odpovídající RSS články",
   "saveBeforeRefreshTips": "Uložit změny a obnovit náhled shod?",
-  "shareLimit": "Limit sdílení"
+  "shareLimit": "Limit sdílení",
+  "serverDirectories": "Adresáře na serveru"
 }

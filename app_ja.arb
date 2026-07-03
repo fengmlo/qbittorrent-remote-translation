@@ -917,5 +917,6 @@
   "addStopped": "停止状態で追加",
   "matchingArticles": "マッチするRSS記事",
   "saveBeforeRefreshTips": "変更を保存してマッチプレビューを更新しますか？",
-  "shareLimit": "共有制限"
+  "shareLimit": "共有制限",
+  "serverDirectories": "サーバー上のディレクトリー"
 }

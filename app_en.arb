@@ -966,5 +966,6 @@
   "addStopped": "Add stopped",
   "matchingArticles": "Matching RSS Articles",
   "saveBeforeRefreshTips": "Save changes to refresh the matching preview?",
-  "shareLimit": "Share limit"
+  "shareLimit": "Share limit",
+  "serverDirectories": "Directories on server"
 }
