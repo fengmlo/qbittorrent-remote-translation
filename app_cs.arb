@@ -505,6 +505,18 @@
   "searchPlugin": "Plugin",
   "onlyEnabled": "Pouze povolené",
   "allPlugins": "Všechny pluginy",
+  "customPlugins": "Vlastní pluginy…",
+  "customPluginsCount": "Vlastní ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "Vybrat pluginy",
+  "rangeMin": "Min.",
+  "rangeMax": "Max.",
+  "reset": "Resetovat",
   "allCategories": "Všechny kategorie",
   "categoryAnime": "Anime",
   "categoryBooks": "Knihy",

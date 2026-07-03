@@ -505,6 +505,18 @@
   "searchPlugin": "Плагин",
   "onlyEnabled": "Только включенные",
   "allPlugins": "Все плагины",
+  "customPlugins": "Пользовательские плагины…",
+  "customPluginsCount": "Пользовательские ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "Выбор плагинов",
+  "rangeMin": "Мин.",
+  "rangeMax": "Макс.",
+  "reset": "Сбросить",
   "allCategories": "Все категории",
   "categoryAnime": "Аниме",
   "categoryBooks": "Книги",

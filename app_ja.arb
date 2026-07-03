@@ -503,6 +503,18 @@
   "searchPlugin": "プラグイン",
   "onlyEnabled": "有効のみ",
   "allPlugins": "すべてのプラグイン",
+  "customPlugins": "カスタムプラグイン…",
+  "customPluginsCount": "カスタム ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "プラグインを選択",
+  "rangeMin": "最小",
+  "rangeMax": "最大",
+  "reset": "リセット",
   "allCategories": "すべてのカテゴリ",
   "categoryAnime": "アニメ",
   "categoryBooks": "書籍",

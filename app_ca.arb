@@ -505,6 +505,18 @@
   "searchPlugin": "Plugin",
   "onlyEnabled": "Només habilitats",
   "allPlugins": "Tots els plugins",
+  "customPlugins": "Plugins personalitzats…",
+  "customPluginsCount": "Personalitzats ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "Selecciona els plugins",
+  "rangeMin": "Mín.",
+  "rangeMax": "Màx.",
+  "reset": "Restableix",
   "allCategories": "Totes les categories",
   "categoryAnime": "Anime",
   "categoryBooks": "Llibres",

@@ -503,6 +503,18 @@
   "searchPlugin": "플러그인",
   "onlyEnabled": "활성화된 경우만",
   "allPlugins": "모든 플러그인",
+  "customPlugins": "사용자 지정 플러그인…",
+  "customPluginsCount": "사용자 지정 ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "플러그인 선택",
+  "rangeMin": "최소",
+  "rangeMax": "최대",
+  "reset": "초기화",
   "allCategories": "모든 범주",
   "categoryAnime": "애니메이션",
   "categoryBooks": "책",

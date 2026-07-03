@@ -503,6 +503,18 @@
   "searchPlugin": "Keresőmodul",
   "onlyEnabled": "Csak az engedélyezettek",
   "allPlugins": "Minden modul",
+  "customPlugins": "Egyéni modulok…",
+  "customPluginsCount": "Egyéni ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "Modulok kiválasztása",
+  "rangeMin": "Min.",
+  "rangeMax": "Max.",
+  "reset": "Visszaállítás",
   "allCategories": "Összes kategória",
   "categoryAnime": "Animék",
   "categoryBooks": "Könyvek",

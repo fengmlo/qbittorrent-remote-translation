@@ -510,6 +510,18 @@
   "searchPlugin": "搜尋附加元件",
   "onlyEnabled": "僅啟用的",
   "allPlugins": "所有附加元件",
+  "customPlugins": "自選附加元件…",
+  "customPluginsCount": "自選 ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "選擇附加元件",
+  "rangeMin": "最小",
+  "rangeMax": "最大",
+  "reset": "重設",
   "allCategories": "所有分類",
   "categoryAnime": "動漫",
   "categoryBooks": "書籍",

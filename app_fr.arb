@@ -505,6 +505,18 @@
   "searchPlugin": "Greffon",
   "onlyEnabled": "Activés uniquement",
   "allPlugins": "Tous les greffons",
+  "customPlugins": "Greffons personnalisés…",
+  "customPluginsCount": "Personnalisés ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "Sélectionner les greffons",
+  "rangeMin": "Min.",
+  "rangeMax": "Max.",
+  "reset": "Réinitialiser",
   "allCategories": "Toutes les catégories",
   "categoryAnime": "Animes",
   "categoryBooks": "Livres",

@@ -505,6 +505,18 @@
   "searchPlugin": "Wtyczki",
   "onlyEnabled": "Tylko włączone",
   "allPlugins": "Wszystkie wtyczki",
+  "customPlugins": "Własne wtyczki…",
+  "customPluginsCount": "Własne ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "Wybierz wtyczki",
+  "rangeMin": "Min.",
+  "rangeMax": "Maks.",
+  "reset": "Resetuj",
   "allCategories": "Wszystkie kategorie",
   "categoryAnime": "Anime",
   "categoryBooks": "Książki",

@@ -510,6 +510,18 @@
   "searchPlugin": "搜索插件",
   "onlyEnabled": "仅启用的",
   "allPlugins": "所有插件",
+  "customPlugins": "自选插件…",
+  "customPluginsCount": "自选 ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "选择插件",
+  "rangeMin": "最小",
+  "rangeMax": "最大",
+  "reset": "重置",
   "allCategories": "所有分类",
   "categoryAnime": "动漫",
   "categoryBooks": "书籍",

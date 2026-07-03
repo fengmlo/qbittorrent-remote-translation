@@ -503,6 +503,18 @@
   "searchPlugin": "Plugin",
   "onlyEnabled": "Alleen ingeschakeld",
   "allPlugins": "Alle plugins",
+  "customPlugins": "Aangepaste plugins…",
+  "customPluginsCount": "Aangepast ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "Plugins selecteren",
+  "rangeMin": "Min.",
+  "rangeMax": "Max.",
+  "reset": "Herstellen",
   "allCategories": "Alle categorieën",
   "categoryAnime": "Anime",
   "categoryBooks": "Boeken",

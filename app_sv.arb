@@ -505,6 +505,18 @@
   "searchPlugin": "Tillägg",
   "onlyEnabled": "Endast aktiverade",
   "allPlugins": "Alla tillägg",
+  "customPlugins": "Anpassade tillägg…",
+  "customPluginsCount": "Anpassade ({count})",
+  "@customPluginsCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPlugins": "Välj tillägg",
+  "rangeMin": "Min.",
+  "rangeMax": "Max.",
+  "reset": "Återställ",
   "allCategories": "Alla kategorier",
   "categoryAnime": "Anime",
   "categoryBooks": "Böcker",
