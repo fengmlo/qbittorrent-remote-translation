@@ -924,5 +924,7 @@
   "serverDirectories": "Каталоги на сервері",
   "connectionTimeout": "Тайм-аут підключення",
   "connectionTimeoutValue": "{seconds,plural, one{{seconds} секунда} few{{seconds} секунди} many{{seconds} секунд} other{{seconds} секунди}}",
-  "connectionTimeoutInvalid": "Введіть число від {min} до {max}"
+  "connectionTimeoutInvalid": "Введіть число від {min} до {max}",
+  "setAsDefaultFilter": "Зробити типовим",
+  "clearDefaultFilter": "Скасувати типовий"
 }

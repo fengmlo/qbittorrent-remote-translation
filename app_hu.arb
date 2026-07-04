@@ -931,5 +931,7 @@
   "serverDirectories": "Könyvtárak a szerveren",
   "connectionTimeout": "Kapcsolódási időtúllépés",
   "connectionTimeoutValue": "{seconds} másodperc",
-  "connectionTimeoutInvalid": "Adjon meg egy számot {min} és {max} között"
+  "connectionTimeoutInvalid": "Adjon meg egy számot {min} és {max} között",
+  "setAsDefaultFilter": "Beállítás alapértelmezettként",
+  "clearDefaultFilter": "Alapértelmezés törlése"
 }

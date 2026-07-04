@@ -931,5 +931,7 @@
   "serverDirectories": "サーバー上のディレクトリー",
   "connectionTimeout": "接続タイムアウト",
   "connectionTimeoutValue": "{seconds} 秒",
-  "connectionTimeoutInvalid": "{min}～{max} の数値を入力してください"
+  "connectionTimeoutInvalid": "{min}～{max} の数値を入力してください",
+  "setAsDefaultFilter": "デフォルトに設定",
+  "clearDefaultFilter": "デフォルトを解除"
 }

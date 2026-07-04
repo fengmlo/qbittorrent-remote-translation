@@ -924,5 +924,7 @@
   "serverDirectories": "Diretórios no servidor",
   "connectionTimeout": "Tempo limite de conexão",
   "connectionTimeoutValue": "{seconds,plural, =1{{seconds} segundo} other{{seconds} segundos}}",
-  "connectionTimeoutInvalid": "Digite um número entre {min} e {max}"
+  "connectionTimeoutInvalid": "Digite um número entre {min} e {max}",
+  "setAsDefaultFilter": "Definir como padrão",
+  "clearDefaultFilter": "Remover como padrão"
 }

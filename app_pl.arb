@@ -924,5 +924,7 @@
   "serverDirectories": "Katalogi na serwerze",
   "connectionTimeout": "Limit czasu połączenia",
   "connectionTimeoutValue": "{seconds,plural, one{{seconds} sekunda} few{{seconds} sekundy} many{{seconds} sekund} other{{seconds} sekundy}}",
-  "connectionTimeoutInvalid": "Wprowadź liczbę od {min} do {max}"
+  "connectionTimeoutInvalid": "Wprowadź liczbę od {min} do {max}",
+  "setAsDefaultFilter": "Ustaw jako domyślny",
+  "clearDefaultFilter": "Usuń ustawienie domyślne"
 }

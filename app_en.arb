@@ -982,5 +982,7 @@
   "connectionTimeoutValue": "{seconds,plural, =1{{seconds} second} other{{seconds} seconds}}",
   "@connectionTimeoutValue": {"placeholders": {"seconds": {}}},
   "connectionTimeoutInvalid": "Enter a number between {min} and {max}",
-  "@connectionTimeoutInvalid": {"placeholders": {"min": {"type": "int"}, "max": {"type": "int"}}}
+  "@connectionTimeoutInvalid": {"placeholders": {"min": {"type": "int"}, "max": {"type": "int"}}},
+  "setAsDefaultFilter": "Set as default",
+  "clearDefaultFilter": "Clear default"
 }

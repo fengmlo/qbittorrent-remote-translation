@@ -931,5 +931,7 @@
   "serverDirectories": "서버의 디렉터리",
   "connectionTimeout": "연결 제한 시간",
   "connectionTimeoutValue": "{seconds}초",
-  "connectionTimeoutInvalid": "{min}에서 {max} 사이의 숫자를 입력하세요"
+  "connectionTimeoutInvalid": "{min}에서 {max} 사이의 숫자를 입력하세요",
+  "setAsDefaultFilter": "기본으로 설정",
+  "clearDefaultFilter": "기본 설정 해제"
 }

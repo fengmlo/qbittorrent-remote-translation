@@ -924,5 +924,7 @@
   "serverDirectories": "Adresáře na serveru",
   "connectionTimeout": "Časový limit připojení",
   "connectionTimeoutValue": "{seconds,plural, one{{seconds} sekunda} few{{seconds} sekundy} many{{seconds} sekundy} other{{seconds} sekund}}",
-  "connectionTimeoutInvalid": "Zadejte číslo mezi {min} a {max}"
+  "connectionTimeoutInvalid": "Zadejte číslo mezi {min} a {max}",
+  "setAsDefaultFilter": "Nastavit jako výchozí",
+  "clearDefaultFilter": "Zrušit výchozí"
 }

@@ -924,5 +924,7 @@
   "serverDirectories": "Directoris al servidor",
   "connectionTimeout": "Temps d'espera de connexió",
   "connectionTimeoutValue": "{seconds,plural, =1{{seconds} segon} other{{seconds} segons}}",
-  "connectionTimeoutInvalid": "Introduïu un nombre entre {min} i {max}"
+  "connectionTimeoutInvalid": "Introduïu un nombre entre {min} i {max}",
+  "setAsDefaultFilter": "Estableix com a predeterminat",
+  "clearDefaultFilter": "Esborra el predeterminat"
 }

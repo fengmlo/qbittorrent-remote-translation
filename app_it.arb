@@ -924,5 +924,7 @@
   "serverDirectories": "Cartelle sul server",
   "connectionTimeout": "Timeout connessione",
   "connectionTimeoutValue": "{seconds,plural, =1{{seconds} secondo} other{{seconds} secondi}}",
-  "connectionTimeoutInvalid": "Inserisci un numero tra {min} e {max}"
+  "connectionTimeoutInvalid": "Inserisci un numero tra {min} e {max}",
+  "setAsDefaultFilter": "Imposta come predefinito",
+  "clearDefaultFilter": "Rimuovi come predefinito"
 }

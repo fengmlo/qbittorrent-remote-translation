@@ -931,5 +931,7 @@
   "serverDirectories": "Verzeichnisse auf dem Server",
   "connectionTimeout": "Verbindungs-Zeitüberschreitung",
   "connectionTimeoutValue": "{seconds,plural, =1{{seconds} Sekunde} other{{seconds} Sekunden}}",
-  "connectionTimeoutInvalid": "Geben Sie eine Zahl zwischen {min} und {max} ein"
+  "connectionTimeoutInvalid": "Geben Sie eine Zahl zwischen {min} und {max} ein",
+  "setAsDefaultFilter": "Als Standard festlegen",
+  "clearDefaultFilter": "Standard aufheben"
 }

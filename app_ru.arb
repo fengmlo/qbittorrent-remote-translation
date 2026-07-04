@@ -924,5 +924,7 @@
   "serverDirectories": "Каталоги на сервере",
   "connectionTimeout": "Тайм-аут подключения",
   "connectionTimeoutValue": "{seconds,plural, one{{seconds} секунда} few{{seconds} секунды} many{{seconds} секунд} other{{seconds} секунды}}",
-  "connectionTimeoutInvalid": "Введите число от {min} до {max}"
+  "connectionTimeoutInvalid": "Введите число от {min} до {max}",
+  "setAsDefaultFilter": "Использовать по умолчанию",
+  "clearDefaultFilter": "Не использовать по умолчанию"
 }

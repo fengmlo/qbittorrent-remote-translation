@@ -931,5 +931,7 @@
   "serverDirectories": "Mappen op de server",
   "connectionTimeout": "Verbindingstime-out",
   "connectionTimeoutValue": "{seconds,plural, =1{{seconds} seconde} other{{seconds} seconden}}",
-  "connectionTimeoutInvalid": "Voer een getal in tussen {min} en {max}"
+  "connectionTimeoutInvalid": "Voer een getal in tussen {min} en {max}",
+  "setAsDefaultFilter": "Instellen als standaard",
+  "clearDefaultFilter": "Standaardinstelling wissen"
 }
