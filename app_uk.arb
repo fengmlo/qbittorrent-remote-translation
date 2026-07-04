@@ -355,6 +355,44 @@
   "cleanUnusableTrackersWithCount": "Очистити непрацездатні трекери ({count})",
   "cleanUnusableTrackersMessage": "Наведені нижче {count} непрацездатних трекерів буде видалено з цього торента. Цю дію не можна скасувати:",
   "removeNTrackers": "Видалити {count}",
+  "selectTrackerCount": "{count,plural, =1{{count} трекер} few{{count} трекери} many{{count} трекерів} other{{count} трекерів}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} пір} few{{count} піри} many{{count} пірів} other{{count} пірів}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Видалити вибрані трекери",
+  "removeSelectedTrackersMessage": "{count,plural, =1{Наведений нижче трекер буде видалено з цього торента. Цю дію не можна скасувати:} few{Наведені нижче {count} трекери буде видалено з цього торента. Цю дію не можна скасувати:} many{Наведені нижче {count} трекерів буде видалено з цього торента. Цю дію не можна скасувати:} other{Наведені нижче {count} трекерів буде видалено з цього торента. Цю дію не можна скасувати:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Заблокувати вибрані піри",
+  "banSelectedPeersMessage": "{count,plural, =1{Наведений нижче пір буде заблоковано назавжди:} few{Наведені нижче {count} піри буде заблоковано назавжди:} many{Наведені нижче {count} пірів буде заблоковано назавжди:} other{Наведені нижче {count} пірів буде заблоковано назавжди:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "Заблокувати {count}",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "Джерела HTTP",
   "addWebSeeds": "Додайте веб seed",
   "editWebSeed": "Редагувати URL-адресу веб seed",

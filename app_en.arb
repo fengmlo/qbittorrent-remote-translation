@@ -400,6 +400,44 @@
       }
     }
   },
+  "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peers}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Remove selected trackers",
+  "removeSelectedTrackersMessage": "{count,plural, =1{The following tracker will be removed from this torrent. This cannot be undone:} other{The following {count} trackers will be removed from this torrent. This cannot be undone:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Ban selected peers",
+  "banSelectedPeersMessage": "{count,plural, =1{The following peer will be banned permanently:} other{The following {count} peers will be banned permanently:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "Ban {count}",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP sources",
   "addWebSeeds": "Add web seeds",
   "editWebSeed": "Edit web seed url",

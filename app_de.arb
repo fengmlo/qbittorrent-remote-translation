@@ -356,6 +356,44 @@
   "cleanUnusableTrackersWithCount": "Unbrauchbare Tracker entfernen ({count})",
   "cleanUnusableTrackersMessage": "Die folgenden {count} unbrauchbaren Tracker werden aus diesem Torrent entfernt. Dies kann nicht rückgängig gemacht werden:",
   "removeNTrackers": "{count} entfernen",
+  "selectTrackerCount": "{count,plural, =1{{count} Tracker} other{{count} Tracker}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} Peer} other{{count} Peers}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Ausgewählte Tracker entfernen",
+  "removeSelectedTrackersMessage": "{count,plural, =1{Der folgende Tracker wird aus diesem Torrent entfernt. Dies kann nicht rückgängig gemacht werden:} other{Die folgenden {count} Tracker werden aus diesem Torrent entfernt. Dies kann nicht rückgängig gemacht werden:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Ausgewählte Peers bannen",
+  "banSelectedPeersMessage": "{count,plural, =1{Der folgende Peer wird dauerhaft gebannt:} other{Die folgenden {count} Peers werden dauerhaft gebannt:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "{count} bannen",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP-Quellen",
   "addWebSeeds": "Webseeds hinzufügen",
   "editWebSeed": "Webseed-URL editieren",

@@ -356,6 +356,44 @@
   "cleanUnusableTrackersWithCount": "Onbruikbare trackers opschonen ({count})",
   "cleanUnusableTrackersMessage": "De volgende {count} onbruikbare trackers worden uit deze torrent verwijderd. Dit kan niet ongedaan worden gemaakt:",
   "removeNTrackers": "{count} verwijderen",
+  "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peers}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Geselecteerde trackers verwijderen",
+  "removeSelectedTrackersMessage": "{count,plural, =1{De volgende tracker wordt uit deze torrent verwijderd. Dit kan niet ongedaan worden gemaakt:} other{De volgende {count} trackers worden uit deze torrent verwijderd. Dit kan niet ongedaan worden gemaakt:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Geselecteerde peers verbannen",
+  "banSelectedPeersMessage": "{count,plural, =1{De volgende peer wordt permanent verbannen:} other{De volgende {count} peers worden permanent verbannen:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "{count} verbannen",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP-bronnen",
   "addWebSeeds": "Webseeds toevoegen",
   "editWebSeed": "Webseed-URL bewerken",

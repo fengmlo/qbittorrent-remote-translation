@@ -355,6 +355,44 @@
   "cleanUnusableTrackersWithCount": "Netejar trackers inservibles ({count})",
   "cleanUnusableTrackersMessage": "S'eliminaran els {count} trackers inservibles següents d'aquest torrent. Aquesta acció no es pot desfer:",
   "removeNTrackers": "Eliminar {count}",
+  "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peers}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Eliminar els trackers seleccionats",
+  "removeSelectedTrackersMessage": "{count,plural, =1{S'eliminarà el tracker següent d'aquest torrent. Aquesta acció no es pot desfer:} other{S'eliminaran els {count} trackers següents d'aquest torrent. Aquesta acció no es pot desfer:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Bloquejar els peers seleccionats",
+  "banSelectedPeersMessage": "{count,plural, =1{Es bloquejarà per sempre el peer següent:} other{Es bloquejaran per sempre els {count} peers següents:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "Bloquejar {count}",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "Fonts HTTP",
   "addWebSeeds": "Afegeix llavors web",
   "editWebSeed": "Edita l'URL de la llavor web",

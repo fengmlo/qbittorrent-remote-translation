@@ -355,6 +355,44 @@
   "cleanUnusableTrackersWithCount": "Очистить нерабочие трекеры ({count})",
   "cleanUnusableTrackersMessage": "Следующие {count} нерабочих трекеров будут удалены из этого торрента. Это действие нельзя отменить:",
   "removeNTrackers": "Удалить {count}",
+  "selectTrackerCount": "{count,plural, =1{{count} трекер} few{{count} трекера} many{{count} трекеров} other{{count} трекеров}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} пир} few{{count} пира} many{{count} пиров} other{{count} пиров}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Удалить выбранные трекеры",
+  "removeSelectedTrackersMessage": "{count,plural, =1{Следующий трекер будет удалён из этого торрента. Это действие нельзя отменить:} few{Следующие {count} трекера будут удалены из этого торрента. Это действие нельзя отменить:} many{Следующие {count} трекеров будут удалены из этого торрента. Это действие нельзя отменить:} other{Следующие {count} трекеров будут удалены из этого торрента. Это действие нельзя отменить:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Заблокировать выбранных пиров",
+  "banSelectedPeersMessage": "{count,plural, =1{Следующий пир будет навсегда заблокирован:} few{Следующие {count} пира будут навсегда заблокированы:} many{Следующие {count} пиров будут навсегда заблокированы:} other{Следующие {count} пиров будут навсегда заблокированы:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "Заблокировать {count}",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "Веб-сиды",
   "addWebSeeds": "Добавить веб-сидов",
   "editWebSeed": "Править адрес веб-сида",

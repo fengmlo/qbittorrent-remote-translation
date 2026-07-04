@@ -352,6 +352,44 @@
   "cleanUnusableTrackersWithCount": "清理不可用 Tracker（{count}）",
   "cleanUnusableTrackersMessage": "将从当前种子移除以下 {count} 个不可用的 Tracker，此操作不可撤销：",
   "removeNTrackers": "移除 {count} 个",
+  "selectTrackerCount": "{count,plural, other{{count} 个 Tracker}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, other{{count} 个节点}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "移除选中的 Tracker",
+  "removeSelectedTrackersMessage": "{count,plural, other{将从当前种子移除以下 {count} 个 Tracker，此操作不可撤销：}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "永久禁止选中的节点",
+  "banSelectedPeersMessage": "{count,plural, other{将永久禁止以下 {count} 个节点：}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "禁止 {count} 个",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP 源",
   "addWebSeeds": "添加 web 种子",
   "editWebSeed": "编辑 web 种子 URL",

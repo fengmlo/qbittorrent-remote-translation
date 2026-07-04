@@ -356,6 +356,44 @@
   "cleanUnusableTrackersWithCount": "Használhatatlan trackerek törlése ({count})",
   "cleanUnusableTrackersMessage": "A következő {count} használhatatlan tracker eltávolításra kerül erről a torrentről. Ez a művelet nem vonható vissza:",
   "removeNTrackers": "{count} eltávolítása",
+  "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} tracker}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peer}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Kijelölt trackerek eltávolítása",
+  "removeSelectedTrackersMessage": "{count,plural, =1{A következő tracker eltávolításra kerül erről a torrentről. Ez a művelet nem vonható vissza:} other{A következő {count} tracker eltávolításra kerül erről a torrentről. Ez a művelet nem vonható vissza:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Kijelölt peerek kitiltása",
+  "banSelectedPeersMessage": "{count,plural, =1{A következő peer véglegesen kitiltásra kerül:} other{A következő {count} peer véglegesen kitiltásra kerül:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "{count} kitiltása",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP Források",
   "addWebSeeds": "Web seedek hozzáadása",
   "editWebSeed": "Web seed URL szerkesztése",

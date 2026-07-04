@@ -355,6 +355,44 @@
   "cleanUnusableTrackersWithCount": "Rimuovi tracker inutilizzabili ({count})",
   "cleanUnusableTrackersMessage": "I seguenti {count} tracker inutilizzabili verranno rimossi da questo torrent. Questa azione non può essere annullata:",
   "removeNTrackers": "Rimuovi {count}",
+  "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} tracker}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peer}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Rimuovi tracker selezionati",
+  "removeSelectedTrackersMessage": "{count,plural, =1{Il seguente tracker verrà rimosso da questo torrent. Questa azione non può essere annullata:} other{I seguenti {count} tracker verranno rimossi da questo torrent. Questa azione non può essere annullata:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Ban peer selezionati",
+  "banSelectedPeersMessage": "{count,plural, =1{Il seguente peer verrà bannato in modo permanente:} other{I seguenti {count} peer verranno bannati in modo permanente:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "Ban {count}",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "Sorgenti HTTP",
   "addWebSeeds": "Aggiungi seed web",
   "editWebSeed": "Modifica URL seed web",

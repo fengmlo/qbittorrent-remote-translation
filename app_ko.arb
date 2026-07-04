@@ -356,6 +356,44 @@
   "cleanUnusableTrackersWithCount": "사용 불가 트래커 정리 ({count})",
   "cleanUnusableTrackersMessage": "다음 사용 불가 트래커 {count}개가 이 토렌트에서 제거됩니다. 이 작업은 되돌릴 수 없습니다:",
   "removeNTrackers": "{count}개 제거",
+  "selectTrackerCount": "{count,plural, =1{{count}개 트래커} other{{count}개 트래커}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count}개 피어} other{{count}개 피어}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "선택한 트래커 제거",
+  "removeSelectedTrackersMessage": "{count,plural, =1{다음 트래커가 이 토렌트에서 제거됩니다. 이 작업은 되돌릴 수 없습니다:} other{다음 트래커 {count}개가 이 토렌트에서 제거됩니다. 이 작업은 되돌릴 수 없습니다:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "선택한 피어 차단",
+  "banSelectedPeersMessage": "{count,plural, =1{다음 피어가 영구적으로 차단됩니다:} other{다음 피어 {count}개가 영구적으로 차단됩니다:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "{count}개 차단",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP 소스",
   "addWebSeeds": "웹 시드 추가",
   "editWebSeed": "웹 시드 URL 수정",

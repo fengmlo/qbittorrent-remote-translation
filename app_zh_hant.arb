@@ -352,6 +352,44 @@
   "cleanUnusableTrackersWithCount": "清理不可用 Tracker（{count}）",
   "cleanUnusableTrackersMessage": "將從目前的種子移除以下 {count} 個不可用的 Tracker，此操作無法復原：",
   "removeNTrackers": "移除 {count} 個",
+  "selectTrackerCount": "{count,plural, other{{count} 個 Tracker}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, other{{count} 個節點}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "移除選取的 Tracker",
+  "removeSelectedTrackersMessage": "{count,plural, other{將從目前的種子移除以下 {count} 個 Tracker，此操作無法復原：}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "永遠封鎖選取的節點",
+  "banSelectedPeersMessage": "{count,plural, other{將永遠封鎖以下 {count} 個節點：}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "封鎖 {count} 個",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP 來源",
   "addWebSeeds": "新增 web 種子",
   "editWebSeed": "編輯 web 種子 URL",

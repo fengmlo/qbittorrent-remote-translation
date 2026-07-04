@@ -355,6 +355,44 @@
   "cleanUnusableTrackersWithCount": "Rensa oanvändbara trackers ({count})",
   "cleanUnusableTrackersMessage": "Följande {count} oanvändbara trackers tas bort från den här torrenten. Detta kan inte ångras:",
   "removeNTrackers": "Ta bort {count}",
+  "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peers}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Ta bort valda trackers",
+  "removeSelectedTrackersMessage": "{count,plural, =1{Följande tracker tas bort från den här torrenten. Detta kan inte ångras:} other{Följande {count} trackers tas bort från den här torrenten. Detta kan inte ångras:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Banna valda peers",
+  "banSelectedPeersMessage": "{count,plural, =1{Följande peer bannas permanent:} other{Följande {count} peers bannas permanent:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "Banna {count}",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP-källor",
   "addWebSeeds": "Lägg till webbdistributioner",
   "editWebSeed": "Redigera URL för webbdistribution",

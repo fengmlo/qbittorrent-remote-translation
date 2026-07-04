@@ -355,6 +355,44 @@
   "cleanUnusableTrackersWithCount": "Vyčistit nepoužitelné trackery ({count})",
   "cleanUnusableTrackersMessage": "Z tohoto torrentu bude odebráno následujících {count} nepoužitelných trackerů. Tuto akci nelze vrátit zpět:",
   "removeNTrackers": "Odebrat {count}",
+  "selectTrackerCount": "{count,plural, =1{{count} tracker} few{{count} trackery} other{{count} trackerů}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} protějšek} few{{count} protějšky} other{{count} protějšků}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Odebrat vybrané trackery",
+  "removeSelectedTrackersMessage": "{count,plural, =1{Z tohoto torrentu bude odebrán následující tracker. Tuto akci nelze vrátit zpět:} few{Z tohoto torrentu budou odebrány následující {count} trackery. Tuto akci nelze vrátit zpět:} other{Z tohoto torrentu bude odebráno následujících {count} trackerů. Tuto akci nelze vrátit zpět:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Zablokovat vybrané protějšky",
+  "banSelectedPeersMessage": "{count,plural, =1{Následující protějšek bude trvale zablokován:} few{Následující {count} protějšky budou trvale zablokovány:} other{Následujících {count} protějšků bude trvale zablokováno:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "Zablokovat {count}",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTP zdroje",
   "addWebSeeds": "Přidat web seedy",
   "editWebSeed": "Upravit web seed URL",

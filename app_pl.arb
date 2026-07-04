@@ -355,6 +355,44 @@
   "cleanUnusableTrackersWithCount": "Wyczyść nieużyteczne trackery ({count})",
   "cleanUnusableTrackersMessage": "Następujące {count} nieużytecznych trackerów zostanie usuniętych z tego torrenta. Tej operacji nie można cofnąć:",
   "removeNTrackers": "Usuń {count}",
+  "selectTrackerCount": "{count,plural, =1{{count} tracker} few{{count} trackery} other{{count} trackerów}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} partner} few{{count} partnerów} other{{count} partnerów}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "Usuń wybrane trackery",
+  "removeSelectedTrackersMessage": "{count,plural, =1{Następujący tracker zostanie usunięty z tego torrenta. Tej operacji nie można cofnąć:} few{Następujące {count} trackery zostaną usunięte z tego torrenta. Tej operacji nie można cofnąć:} other{Następujących {count} trackerów zostanie usuniętych z tego torrenta. Tej operacji nie można cofnąć:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "Zablokuj wybranych partnerów",
+  "banSelectedPeersMessage": "{count,plural, =1{Następujący partner zostanie zablokowany na stałe:} few{Następujący {count} partnerzy zostaną zablokowani na stałe:} other{Następujących {count} partnerów zostanie zablokowanych na stałe:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "Zablokuj {count}",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "Źródła HTTP",
   "addWebSeeds": "Dodaj seedy sieciowe",
   "editWebSeed": "Edytuj adres URL seeda sieciowego",

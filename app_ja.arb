@@ -356,6 +356,44 @@
   "cleanUnusableTrackersWithCount": "使用不可のトラッカーを整理（{count}）",
   "cleanUnusableTrackersMessage": "以下の {count} 件の使用不可トラッカーをこのトレントから削除します。この操作は取り消せません:",
   "removeNTrackers": "{count} 件を削除",
+  "selectTrackerCount": "{count,plural, =1{{count} トラッカー} other{{count} トラッカー}}",
+  "@selectTrackerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "selectPeerCount": "{count,plural, =1{{count} ピア} other{{count} ピア}}",
+  "@selectPeerCount": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "removeSelectedTrackers": "選択したトラッカーを削除",
+  "removeSelectedTrackersMessage": "{count,plural, =1{以下のトラッカーをこのトレントから削除します。この操作は取り消せません:} other{以下の {count} 件のトラッカーをこのトレントから削除します。この操作は取り消せません:}}",
+  "@removeSelectedTrackersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banSelectedPeers": "選択したピアを禁止",
+  "banSelectedPeersMessage": "{count,plural, =1{以下のピアを永久に禁止します:} other{以下の {count} 件のピアを永久に禁止します:}}",
+  "@banSelectedPeersMessage": {
+    "placeholders": {
+      "count": {
+      }
+    }
+  },
+  "banNPeers": "{count} 件を禁止",
+  "@banNPeers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "httpSources": "HTTPソース",
   "addWebSeeds": "ウェブシードを追加",
   "editWebSeed": "ウェブシードURLを編集",
