@@ -156,6 +156,7 @@
   "etaTitle": "Tempo stimato",
   "noPeersTips": "Nessun Peer",
   "client": "Client",
+  "peerIdClient": "ID client peer",
   "connection": "Connessione",
   "flags": "Flags",
   "downloaded": "Downloaded",

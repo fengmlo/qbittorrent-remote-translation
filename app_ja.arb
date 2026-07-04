@@ -153,6 +153,7 @@
   "etaTitle": "残り時間",
   "noPeersTips": "ピアなし",
   "client": "クライアント",
+  "peerIdClient": "ピアIDのクライアント",
   "connection": "接続",
   "flags": "フラグ",
   "downloaded": "ダウンロード済み",

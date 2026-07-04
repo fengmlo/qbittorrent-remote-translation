@@ -157,6 +157,7 @@
   "etaTitle": "剩余时间",
   "noPeersTips": "没有节点",
   "client": "客户端",
+  "peerIdClient": "Peer ID 客户端",
   "connection": "连接",
   "flags": "标志",
   "downloaded": "已下载",

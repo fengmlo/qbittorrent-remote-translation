@@ -153,6 +153,7 @@
   "etaTitle": "Geschatte resterende tijd",
   "noPeersTips": "Geen peers",
   "client": "Cliënt",
+  "peerIdClient": "Peer-ID client",
   "connection": "Verbinding",
   "flags": "Vlaggen",
   "downloaded": "Gedownload",

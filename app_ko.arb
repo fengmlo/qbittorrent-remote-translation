@@ -153,6 +153,7 @@
   "etaTitle": "남은 시간",
   "noPeersTips": "피어 없음",
   "client": "클라이언트",
+  "peerIdClient": "피어 ID 클라이언트",
   "connection": "연결",
   "flags": "플래그",
   "downloaded": "다운로드함",

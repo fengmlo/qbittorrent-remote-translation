@@ -156,6 +156,7 @@
   "etaTitle": "ETA",
   "noPeersTips": "Inga peers",
   "client": "Klient",
+  "peerIdClient": "Jämlike ID-klient",
   "connection": "Anslutning",
   "flags": "Flaggor",
   "downloaded": "Nerladdat",

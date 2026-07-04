@@ -153,6 +153,7 @@
   "etaTitle": "Fertig in",
   "noPeersTips": "Keine Peers",
   "client": "Programm",
+  "peerIdClient": "Peer-ID-Client",
   "connection": "Verbindung",
   "flags": "Flags",
   "downloaded": "Heruntergeladen",

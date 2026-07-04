@@ -157,6 +157,7 @@
   "etaTitle": "剩餘時間",
   "noPeersTips": "沒有節點",
   "client": "客戶端",
+  "peerIdClient": "Peer ID 用戶端",
   "connection": "連線",
   "flags": "標誌",
   "downloaded": "已下載",
