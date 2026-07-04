@@ -395,6 +395,10 @@
   "date": "Datum",
   "downloadTorrent": "Torrent downloaden",
   "openUrl": "URL openen",
+  "viewDetails": "Details bekijken",
+  "feed": "Feed",
+  "author": "Auteur",
+  "description": "Beschrijving",
   "cannotOpenUrlTips": "Kon {url} niet starten",
   "@cannotOpenUrlTips": {
     "placeholders": {

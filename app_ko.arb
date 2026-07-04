@@ -395,6 +395,10 @@
   "date": "날짜",
   "downloadTorrent": "토렌트 다운로드",
   "openUrl": "URL 열기",
+  "viewDetails": "상세 정보 보기",
+  "feed": "피드",
+  "author": "작성자",
+  "description": "설명",
   "cannotOpenUrlTips": "{url}을(를) 열 수 없습니다",
   "@cannotOpenUrlTips": {
     "placeholders": {

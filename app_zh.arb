@@ -391,6 +391,10 @@
   "date": "日期",
   "downloadTorrent": "下载种子",
   "openUrl": "打开 Url",
+  "viewDetails": "查看详情",
+  "feed": "订阅源",
+  "author": "作者",
+  "description": "描述",
   "cannotOpenUrlTips": "无法打开链接: {url}",
   "@cannotOpenUrlTips": {
     "placeholders": {

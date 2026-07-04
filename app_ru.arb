@@ -386,6 +386,10 @@
   "date": "Дата",
   "downloadTorrent": "Загрузить торрент",
   "openUrl": "Открыть новостную ссылку",
+  "viewDetails": "Показать подробности",
+  "feed": "Лента",
+  "author": "Автор",
+  "description": "Описание",
   "cannotOpenUrlTips": "Не удалось открыть {url}",
   "@cannotOpenUrlTips": {
     "placeholders": {

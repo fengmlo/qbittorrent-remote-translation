@@ -386,6 +386,10 @@
   "date": "Data",
   "downloadTorrent": "Scarica torrent",
   "openUrl": "Apri url",
+  "viewDetails": "Mostra dettagli",
+  "feed": "Fonte",
+  "author": "Autore",
+  "description": "Descrizione",
   "cannotOpenUrlTips": "Impossibile avviare {url}",
   "@cannotOpenUrlTips": {
     "placeholders": {

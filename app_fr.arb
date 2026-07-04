@@ -386,6 +386,10 @@
   "date": "Date",
   "downloadTorrent": "Télécharger le torrent",
   "openUrl": "Ouvrir l'URL",
+  "viewDetails": "Voir les détails",
+  "feed": "Flux",
+  "author": "Auteur",
+  "description": "Description",
   "cannotOpenUrlTips": "Impossible d'ouvrir {url}",
   "@cannotOpenUrlTips": {
     "placeholders": {

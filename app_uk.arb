@@ -386,6 +386,10 @@
   "date": "Дата",
   "downloadTorrent": "Завантажити торент",
   "openUrl": "Відкрити URL",
+  "viewDetails": "Показати деталі",
+  "feed": "Потік",
+  "author": "Автор",
+  "description": "Опис",
   "cannotOpenUrlTips": "Неможливо відкрити {url}",
   "@cannotOpenUrlTips": {
     "placeholders": {

@@ -395,6 +395,10 @@
   "date": "Dátum",
   "downloadTorrent": "Torrent letöltése",
   "openUrl": "URL megnyitása",
+  "viewDetails": "Részletek megtekintése",
+  "feed": "Csatorna",
+  "author": "Szerző",
+  "description": "Leírás",
   "cannotOpenUrlTips": "Nem sikerült megnyitni a következőt: {url}",
   "@cannotOpenUrlTips": {
     "placeholders": {

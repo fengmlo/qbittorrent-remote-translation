@@ -395,6 +395,10 @@
   "date": "日付",
   "downloadTorrent": "Torrentをダウンロード",
   "openUrl": "URLを開く",
+  "viewDetails": "詳細を表示",
+  "feed": "フィード",
+  "author": "作者",
+  "description": "説明",
   "cannotOpenUrlTips": "{url} を開けませんでした",
   "@cannotOpenUrlTips": {
     "placeholders": {

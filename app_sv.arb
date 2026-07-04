@@ -386,6 +386,10 @@
   "date": "Datum",
   "downloadTorrent": "Ladda ner torrent",
   "openUrl": "Öppna URL",
+  "viewDetails": "Visa detaljer",
+  "feed": "Flöde",
+  "author": "Upphovsman",
+  "description": "Beskrivning",
   "cannotOpenUrlTips": "Kunde inte öppna {url}",
   "@cannotOpenUrlTips": {
     "placeholders": {

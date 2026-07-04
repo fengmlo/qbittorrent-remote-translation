@@ -386,6 +386,10 @@
   "date": "Data",
   "downloadTorrent": "Pobierz torrent",
   "openUrl": "Otwórz odnośnik",
+  "viewDetails": "Zobacz szczegóły",
+  "feed": "Kanał",
+  "author": "Autor",
+  "description": "Opis",
   "cannotOpenUrlTips": "Nie można otworzyć {url}",
   "@cannotOpenUrlTips": {
     "placeholders": {
