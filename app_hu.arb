@@ -579,7 +579,7 @@
   "searchPlugins": "Keresőmodulok",
   "installPlugin": "Modul telepítése",
   "uninstallPlugin": "Modul eltávolítása",
-  "installPluginHint": "URL vagy helyi könyvtár",
+  "installPluginHint": "URL vagy helyi könyvtár, soronként egy",
   "url": "URL",
   "uninstallPluginMessage": "Biztosan el szeretné távolítani ezt a modult?",
   "stopSearch": "Keresés leállítása",

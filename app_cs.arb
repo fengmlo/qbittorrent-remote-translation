@@ -581,7 +581,7 @@
   "searchPlugins": "Vyhledávací pluginy",
   "installPlugin": "Nainstalovat plugin",
   "uninstallPlugin": "Odinstalovat plugin",
-  "installPluginHint": "Odkaz nebo místní adresář",
+  "installPluginHint": "Odkaz nebo místní adresář, jeden na řádek",
   "url": "Odkaz",
   "uninstallPluginMessage": "Opravdu chcete odinstalovat tento plugin?",
   "stopSearch": "Ukončit vyhledávání",

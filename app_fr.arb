@@ -581,7 +581,7 @@
   "searchPlugins": "Greffons de recherche",
   "installPlugin": "Installer le greffon",
   "uninstallPlugin": "Désinstaller le greffon",
-  "installPluginHint": "URL ou répertoire local",
+  "installPluginHint": "URL ou répertoire local, un par ligne",
   "url": "URL",
   "uninstallPluginMessage": "Voulez-vous vraiment désinstaller ce greffon ?",
   "stopSearch": "Arrêter la recherche",

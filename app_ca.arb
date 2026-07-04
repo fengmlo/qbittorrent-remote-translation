@@ -581,7 +581,7 @@
   "searchPlugins": "Plugins de cerca",
   "installPlugin": "Instal·lar plugin",
   "uninstallPlugin": "Desinstal·lar plugin",
-  "installPluginHint": "URL o carpeta local",
+  "installPluginHint": "URL o carpeta local, una per línia",
   "url": "URL",
   "uninstallPluginMessage": "Segur que vols desinstal·lar aquest plugin?",
   "stopSearch": "Aturar cerca",

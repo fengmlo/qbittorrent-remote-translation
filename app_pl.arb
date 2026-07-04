@@ -581,7 +581,7 @@
   "searchPlugins": "Szukaj wtyczki",
   "installPlugin": "Zainstaluj wtyczkę",
   "uninstallPlugin": "Odinstaluj wtyczkę",
-  "installPluginHint": "Adres lub folder lokalny",
+  "installPluginHint": "Adres lub folder lokalny, po jednym w wierszu",
   "url": "Adres",
   "uninstallPluginMessage": "Czy na pewno chcesz odinstalować tą wtyczkę?",
   "stopSearch": "Zatrzymaj wyszukiwanie",

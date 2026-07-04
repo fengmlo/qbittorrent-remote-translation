@@ -581,7 +581,7 @@
   "searchPlugins": "Sök efter tillägg",
   "installPlugin": "Installera tillägg",
   "uninstallPlugin": "Avinstallera tillägg",
-  "installPluginHint": "URL eller lokal mapp",
+  "installPluginHint": "URL eller lokal mapp, en per rad",
   "url": "URL",
   "uninstallPluginMessage": "Är du säker på att du vill avinstallera detta tillägg?",
   "stopSearch": "Stoppa sökning",

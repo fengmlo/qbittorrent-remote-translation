@@ -581,7 +581,7 @@
   "searchPlugins": "pesquisar plugins",
   "installPlugin": "Instalar plugin",
   "uninstallPlugin": "Desinstalar plugin",
-  "installPluginHint": "URL ou diretório local",
+  "installPluginHint": "URL ou diretório local, um por linha",
   "url": "Url",
   "uninstallPluginMessage": "Tem certeza de que deseja desinstalar este plugin?",
   "stopSearch": "Pare a pesquisa",

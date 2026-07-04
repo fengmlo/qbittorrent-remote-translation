@@ -579,7 +579,7 @@
   "searchPlugins": "검색 플러그인",
   "installPlugin": "플러그인 설치",
   "uninstallPlugin": "플러그인 제거",
-  "installPluginHint": "URL 또는 로컬 디렉토리",
+  "installPluginHint": "URL 또는 로컬 디렉토리 (한 줄에 하나씩)",
   "url": "URL",
   "uninstallPluginMessage": "이 플러그인을 정말 제거하시겠습니까?",
   "stopSearch": "검색 중지",

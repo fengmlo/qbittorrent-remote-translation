@@ -579,7 +579,7 @@
   "searchPlugins": "Such-Plugins",
   "installPlugin": "Plugin installieren",
   "uninstallPlugin": "Plugin deinstallieren",
-  "installPluginHint": "URL oder lokales Verzeichnis",
+  "installPluginHint": "URL oder lokales Verzeichnis, eins pro Zeile",
   "url": "URL",
   "uninstallPluginMessage": "Sind Sie sicher, dass Sie dieses Plugin deinstallieren möchten?",
   "stopSearch": "Suche anhalten",

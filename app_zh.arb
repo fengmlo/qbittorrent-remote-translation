@@ -586,7 +586,7 @@
   "searchPlugins": "搜索插件",
   "installPlugin": "安装插件",
   "uninstallPlugin": "卸载插件",
-  "installPluginHint": " Url或本地目录",
+  "installPluginHint": "URL或本地目录，每行一条",
   "url": "Url",
   "uninstallPluginMessage": "确定要卸载此插件吗？",
   "stopSearch": "停止搜索",

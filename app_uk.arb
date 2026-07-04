@@ -581,7 +581,7 @@
   "searchPlugins": "Пошукові плагіни",
   "installPlugin": "Встановити плагін",
   "uninstallPlugin": "Видалити плагін",
-  "installPluginHint": "URL або локальний каталог",
+  "installPluginHint": "URL або локальний каталог, по одному в рядку",
   "url": "URL",
   "uninstallPluginMessage": "Ви впевнені, що хочете видалити цей плагін?",
   "stopSearch": "Зупинити пошук",

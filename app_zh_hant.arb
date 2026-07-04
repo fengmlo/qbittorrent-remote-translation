@@ -586,7 +586,7 @@
   "searchPlugins": "搜尋附加元件",
   "installPlugin": "安裝附加元件",
   "uninstallPlugin": "解除安裝附加元件",
-  "installPluginHint": " Url或本地目錄",
+  "installPluginHint": "URL或本地目錄，每行一條",
   "url": "Url",
   "uninstallPluginMessage": "確定要解除安裝此附加元件嗎？",
   "stopSearch": "停止搜尋",

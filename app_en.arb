@@ -640,7 +640,7 @@
   "searchPlugins": "Search plugins",
   "installPlugin": "Install plugin",
   "uninstallPlugin": "Uninstall plugin",
-  "installPluginHint": "Url or local directory",
+  "installPluginHint": "URL or local directory, one per line",
   "url": "Url",
   "uninstallPluginMessage": "Are you sure you want to uninstall this plugin?",
   "stopSearch": "Stop search",

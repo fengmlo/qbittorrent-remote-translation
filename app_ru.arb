@@ -581,7 +581,7 @@
   "searchPlugins": "Поисковые плагины",
   "installPlugin": "Установить плагин",
   "uninstallPlugin": "Удалить плагин",
-  "installPluginHint": "Локальный файл или веб-ссылка",
+  "installPluginHint": "Локальный файл или веб-ссылка, по одному на строку",
   "url": "Cсылка",
   "uninstallPluginMessage": "Вы точно хотите удалить этот плагин?",
   "stopSearch": "Остановить поиск",

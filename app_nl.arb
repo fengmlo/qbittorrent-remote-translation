@@ -579,7 +579,7 @@
   "searchPlugins": "Zoekplugins",
   "installPlugin": "Plugin installeren",
   "uninstallPlugin": "Plugin deïnstalleren",
-  "installPluginHint": "URL of lokale map",
+  "installPluginHint": "URL of lokale map, één per regel",
   "url": "URL",
   "uninstallPluginMessage": "Weet u zeker dat u deze plugin wilt deïnstalleren?",
   "stopSearch": "Zoeken stoppen",

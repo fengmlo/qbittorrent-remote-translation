@@ -579,7 +579,7 @@
   "searchPlugins": "検索プラグイン",
   "installPlugin": "プラグインをインストール",
   "uninstallPlugin": "プラグインをアンインストール",
-  "installPluginHint": "URLまたはローカルディレクトリ",
+  "installPluginHint": "URLまたはローカルディレクトリ（1行に1つ）",
   "url": "URL",
   "uninstallPluginMessage": "このプラグインをアンインストールしますか？",
   "stopSearch": "検索停止",
