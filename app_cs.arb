@@ -156,7 +156,6 @@
   "etaTitle": "Odh. čas",
   "noPeersTips": "Žádné protějšky",
   "client": "Klient",
-  "peerIdClient": "Peer ID klienta",
   "connection": "Připojení",
   "flags": "Vlajky",
   "downloaded": "Staženo",

@@ -156,7 +156,6 @@
   "etaTitle": "Осталось времени",
   "noPeersTips": "Нет пиров",
   "client": "Клиент",
-  "peerIdClient": "ИД клиента",
   "connection": "Соединение",
   "flags": "Флаг",
   "downloaded": "Загружено",

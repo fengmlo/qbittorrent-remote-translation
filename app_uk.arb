@@ -156,7 +156,6 @@
   "etaTitle": "Залишилося",
   "noPeersTips": "Немає пірів",
   "client": "Клієнт",
-  "peerIdClient": "Peer ID Клієнт",
   "connection": "З'єднання",
   "flags": "Прапори",
   "downloaded": "Завантажено",

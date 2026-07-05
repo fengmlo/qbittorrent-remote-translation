@@ -153,7 +153,6 @@
   "etaTitle": "Várható befejezési idő",
   "noPeersTips": "Nincsenek peerek",
   "client": "Kliens",
-  "peerIdClient": "Peer ID Kliens",
   "connection": "Kapcsolat",
   "flags": "Jelzők",
   "downloaded": "Letöltve",

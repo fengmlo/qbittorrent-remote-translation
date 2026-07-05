@@ -156,7 +156,6 @@
   "etaTitle": "ETA",
   "noPeersTips": "Sem colegas",
   "client": "Cliente",
-  "peerIdClient": "Cliente de ID do par",
   "connection": "Conexão",
   "flags": "Bandeiras",
   "downloaded": "baixado",

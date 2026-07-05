@@ -150,7 +150,6 @@
   "etaTitle": "ETA",
   "noPeersTips": "No Peers",
   "client": "Client",
-  "peerIdClient": "Peer ID Client",
   "connection": "Connection",
   "flags": "Flags",
   "downloaded": "Downloaded",

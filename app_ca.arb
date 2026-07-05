@@ -156,7 +156,6 @@
   "etaTitle": "Restant",
   "noPeersTips": "Sense peers",
   "client": "Client",
-  "peerIdClient": "ID del client",
   "connection": "Connexió",
   "flags": "Banderes",
   "downloaded": "Baixat",

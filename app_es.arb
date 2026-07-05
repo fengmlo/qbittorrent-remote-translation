@@ -156,7 +156,6 @@
   "etaTitle": "Restante",
   "noPeersTips": "Sin pares",
   "client": "Cliente",
-  "peerIdClient": "Cliente de identificación de pares",
   "connection": "Conexión",
   "flags": "Banderas",
   "downloaded": "Descargado",

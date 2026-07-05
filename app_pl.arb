@@ -156,7 +156,6 @@
   "etaTitle": "ETA",
   "noPeersTips": "Brak partnerów",
   "client": "Klient",
-  "peerIdClient": "Identyfikator klienta partnera",
   "connection": "Połączenie",
   "flags": "Flagi",
   "downloaded": "Pobrano",
