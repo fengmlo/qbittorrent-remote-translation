@@ -1000,9 +1000,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Broadcastadres",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Geavanceerde Wake-on-LAN-opties",
+  "wolAdvancedOptions": "Geavanceerde opties",
   "wakeServer": "Server wekken",
   "wolPacketSent": "Wek-pakket verzonden",
   "wolSendFailed": "Verzenden van wek-pakket mislukt",
-  "wolConnectionFailedTips": "Kan de server niet bereiken. Als deze in slaapstand staat, stuur dan een Wake-on-LAN-pakket om hem te wekken."
+  "wolConnectionFailedTips": "Kan de server niet bereiken. Als deze in slaapstand staat, stuur dan een Wake-on-LAN-pakket om hem te wekken.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Niet geconfigureerd",
+  "wolDescription": "Stuur een magic packet om een server in slaapstand te wekken. Uw apparaat moet zich op hetzelfde lokale netwerk als de server bevinden.",
+  "inputValidMacTips": "Voer een geldig MAC-adres in"
 }

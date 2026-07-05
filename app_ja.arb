@@ -1000,9 +1000,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "ブロードキャストアドレス",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Wake-on-LAN の詳細オプション",
+  "wolAdvancedOptions": "詳細オプション",
   "wakeServer": "サーバーを起動",
   "wolPacketSent": "起動パケットを送信しました",
   "wolSendFailed": "起動パケットの送信に失敗しました",
-  "wolConnectionFailedTips": "サーバーに接続できません。スリープ状態の場合は、Wake-on-LAN パケットを送信して起動してください。"
+  "wolConnectionFailedTips": "サーバーに接続できません。スリープ状態の場合は、Wake-on-LAN パケットを送信して起動してください。",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "未設定",
+  "wolDescription": "スリープ状態のサーバーを起動するためにマジックパケットを送信します。デバイスがサーバーと同じローカルネットワーク内にある必要があります。",
+  "inputValidMacTips": "有効な MAC アドレスを入力してください"
 }

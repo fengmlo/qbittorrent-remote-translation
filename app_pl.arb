@@ -993,9 +993,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Adres rozgłoszeniowy",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Zaawansowane opcje Wake-on-LAN",
+  "wolAdvancedOptions": "Zaawansowane opcje",
   "wakeServer": "Wybudź serwer",
   "wolPacketSent": "Wysłano pakiet wybudzający",
   "wolSendFailed": "Nie udało się wysłać pakietu wybudzającego",
-  "wolConnectionFailedTips": "Nie można połączyć się z serwerem. Jeśli jest uśpiony, wyślij pakiet Wake-on-LAN, aby go wybudzić."
+  "wolConnectionFailedTips": "Nie można połączyć się z serwerem. Jeśli jest uśpiony, wyślij pakiet Wake-on-LAN, aby go wybudzić.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Nieskonfigurowane",
+  "wolDescription": "Wyślij magiczny pakiet, aby wybudzić uśpiony serwer. Twoje urządzenie musi znajdować się w tej samej sieci lokalnej co serwer.",
+  "inputValidMacTips": "Wprowadź prawidłowy adres MAC"
 }

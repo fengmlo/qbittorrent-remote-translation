@@ -993,9 +993,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Broadcastadress",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Avancerade Wake-on-LAN-alternativ",
+  "wolAdvancedOptions": "Avancerade alternativ",
   "wakeServer": "Väck servern",
   "wolPacketSent": "Väckningspaket skickat",
   "wolSendFailed": "Det gick inte att skicka väckningspaketet",
-  "wolConnectionFailedTips": "Kan inte nå servern. Om den är i viloläge kan du skicka ett Wake-on-LAN-paket för att väcka den."
+  "wolConnectionFailedTips": "Kan inte nå servern. Om den är i viloläge kan du skicka ett Wake-on-LAN-paket för att väcka den.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Inte konfigurerad",
+  "wolDescription": "Skicka ett magiskt paket för att väcka en server i viloläge. Din enhet måste vara på samma lokala nätverk som servern.",
+  "inputValidMacTips": "Ange en giltig MAC-adress"
 }

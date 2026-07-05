@@ -993,9 +993,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Adresse de diffusion",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Options avancées Wake-on-LAN",
+  "wolAdvancedOptions": "Options avancées",
   "wakeServer": "Réveiller le serveur",
   "wolPacketSent": "Paquet de réveil envoyé",
   "wolSendFailed": "Échec de l'envoi du paquet de réveil",
-  "wolConnectionFailedTips": "Impossible de joindre le serveur. S'il est en veille, envoyez un paquet Wake-on-LAN pour le réveiller."
+  "wolConnectionFailedTips": "Impossible de joindre le serveur. S'il est en veille, envoyez un paquet Wake-on-LAN pour le réveiller.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Non configuré",
+  "wolDescription": "Envoyez un paquet magique pour réveiller un serveur en veille. Votre appareil doit être sur le même réseau local que le serveur.",
+  "inputValidMacTips": "Saisissez une adresse MAC valide"
 }

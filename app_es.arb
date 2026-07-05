@@ -993,9 +993,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Dirección de difusión",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Opciones avanzadas de Wake-on-LAN",
+  "wolAdvancedOptions": "Opciones avanzadas",
   "wakeServer": "Despertar servidor",
   "wolPacketSent": "Paquete de activación enviado",
   "wolSendFailed": "Error al enviar el paquete de activación",
-  "wolConnectionFailedTips": "No se puede conectar con el servidor. Si está en reposo, envía un paquete Wake-on-LAN para activarlo."
+  "wolConnectionFailedTips": "No se puede conectar con el servidor. Si está en reposo, envía un paquete Wake-on-LAN para activarlo.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "No configurado",
+  "wolDescription": "Envía un paquete mágico para despertar un servidor en reposo. Tu dispositivo debe estar en la misma red local que el servidor.",
+  "inputValidMacTips": "Introduce una dirección MAC válida"
 }

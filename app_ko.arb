@@ -1000,9 +1000,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "브로드캐스트 주소",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Wake-on-LAN 고급 옵션",
+  "wolAdvancedOptions": "고급 옵션",
   "wakeServer": "서버 깨우기",
   "wolPacketSent": "절전 해제 패킷을 보냈습니다",
   "wolSendFailed": "절전 해제 패킷 전송 실패",
-  "wolConnectionFailedTips": "서버에 연결할 수 없습니다. 절전 상태라면 Wake-on-LAN 패킷을 보내 깨우세요."
+  "wolConnectionFailedTips": "서버에 연결할 수 없습니다. 절전 상태라면 Wake-on-LAN 패킷을 보내 깨우세요.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "설정되지 않음",
+  "wolDescription": "절전 상태인 서버를 깨우려면 매직 패킷을 전송하세요. 기기가 서버와 동일한 로컬 네트워크에 있어야 합니다.",
+  "inputValidMacTips": "유효한 MAC 주소를 입력하세요"
 }

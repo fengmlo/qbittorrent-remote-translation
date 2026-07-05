@@ -1000,9 +1000,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Broadcast-cím",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Wake-on-LAN speciális beállítások",
+  "wolAdvancedOptions": "Speciális beállítások",
   "wakeServer": "Kiszolgáló felébresztése",
   "wolPacketSent": "Ébresztőcsomag elküldve",
   "wolSendFailed": "Az ébresztőcsomag küldése sikertelen",
-  "wolConnectionFailedTips": "A kiszolgáló nem érhető el. Ha alvó állapotban van, küldjön egy Wake-on-LAN csomagot a felébresztéséhez."
+  "wolConnectionFailedTips": "A kiszolgáló nem érhető el. Ha alvó állapotban van, küldjön egy Wake-on-LAN csomagot a felébresztéséhez.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Nincs konfigurálva",
+  "wolDescription": "Küldjön egy varázscsomagot az alvó kiszolgáló felébresztéséhez. Az eszköznek a kiszolgálóval azonos helyi hálózaton kell lennie.",
+  "inputValidMacTips": "Adjon meg egy érvényes MAC-címet"
 }

@@ -993,9 +993,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Adresa všesměrového vysílání",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Pokročilé možnosti Wake-on-LAN",
+  "wolAdvancedOptions": "Pokročilé možnosti",
   "wakeServer": "Probudit server",
   "wolPacketSent": "Probouzecí paket odeslán",
   "wolSendFailed": "Odeslání probouzecího paketu se nezdařilo",
-  "wolConnectionFailedTips": "Server není dostupný. Pokud spí, probuďte ho odesláním paketu Wake-on-LAN."
+  "wolConnectionFailedTips": "Server není dostupný. Pokud spí, probuďte ho odesláním paketu Wake-on-LAN.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Nenakonfigurováno",
+  "wolDescription": "Odešlete magický paket pro probuzení spícího serveru. Vaše zařízení musí být ve stejné místní síti jako server.",
+  "inputValidMacTips": "Zadejte platnou MAC adresu"
 }

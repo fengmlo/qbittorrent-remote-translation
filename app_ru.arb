@@ -993,9 +993,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Широковещательный адрес",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Дополнительные параметры Wake-on-LAN",
+  "wolAdvancedOptions": "Дополнительные параметры",
   "wakeServer": "Разбудить сервер",
   "wolPacketSent": "Пакет пробуждения отправлен",
   "wolSendFailed": "Не удалось отправить пакет пробуждения",
-  "wolConnectionFailedTips": "Не удаётся подключиться к серверу. Если он спит, отправьте пакет Wake-on-LAN, чтобы разбудить его."
+  "wolConnectionFailedTips": "Не удаётся подключиться к серверу. Если он спит, отправьте пакет Wake-on-LAN, чтобы разбудить его.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Не настроено",
+  "wolDescription": "Отправьте magic-пакет, чтобы разбудить спящий сервер. Ваше устройство должно находиться в той же локальной сети, что и сервер.",
+  "inputValidMacTips": "Введите корректный MAC-адрес"
 }

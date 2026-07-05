@@ -993,9 +993,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Endereço de broadcast",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Opções avançadas de Wake-on-LAN",
+  "wolAdvancedOptions": "Opções avançadas",
   "wakeServer": "Despertar servidor",
   "wolPacketSent": "Pacote de ativação enviado",
   "wolSendFailed": "Falha ao enviar o pacote de ativação",
-  "wolConnectionFailedTips": "Não é possível conectar ao servidor. Se ele estiver em suspensão, envie um pacote Wake-on-LAN para ativá-lo."
+  "wolConnectionFailedTips": "Não é possível conectar ao servidor. Se ele estiver em suspensão, envie um pacote Wake-on-LAN para ativá-lo.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Não configurado",
+  "wolDescription": "Envie um pacote mágico para despertar um servidor em suspensão. Seu dispositivo deve estar na mesma rede local que o servidor.",
+  "inputValidMacTips": "Insira um endereço MAC válido"
 }

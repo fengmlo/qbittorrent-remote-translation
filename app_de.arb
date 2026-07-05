@@ -1000,9 +1000,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Broadcast-Adresse",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Erweiterte Wake-on-LAN-Optionen",
+  "wolAdvancedOptions": "Erweiterte Optionen",
   "wakeServer": "Server aufwecken",
   "wolPacketSent": "Aufweckpaket gesendet",
   "wolSendFailed": "Aufweckpaket konnte nicht gesendet werden",
-  "wolConnectionFailedTips": "Server nicht erreichbar. Falls er im Ruhezustand ist, senden Sie ein Wake-on-LAN-Paket, um ihn aufzuwecken."
+  "wolConnectionFailedTips": "Server nicht erreichbar. Falls er im Ruhezustand ist, senden Sie ein Wake-on-LAN-Paket, um ihn aufzuwecken.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Nicht konfiguriert",
+  "wolDescription": "Senden Sie ein Magic Packet, um einen Server im Ruhezustand aufzuwecken. Ihr Gerät muss sich im selben lokalen Netzwerk wie der Server befinden.",
+  "inputValidMacTips": "Geben Sie eine gültige MAC-Adresse ein"
 }

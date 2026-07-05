@@ -1051,9 +1051,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "Broadcast address",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Wake-on-LAN advanced options",
+  "wolAdvancedOptions": "Advanced options",
   "wakeServer": "Wake server",
   "wolPacketSent": "Wake-up packet sent",
   "wolSendFailed": "Failed to send wake-up packet",
-  "wolConnectionFailedTips": "Can't reach the server. If it's asleep, send a Wake-on-LAN packet to wake it up."
+  "wolConnectionFailedTips": "Can't reach the server. If it's asleep, send a Wake-on-LAN packet to wake it up.",
+  "wakeOnLan": "Wake-on-LAN",
+  "noWolConfig": "Not configured",
+  "wolDescription": "Send a magic packet to wake a sleeping server. Your device must be on the same local network as the server.",
+  "inputValidMacTips": "Please enter a valid MAC address"
 }

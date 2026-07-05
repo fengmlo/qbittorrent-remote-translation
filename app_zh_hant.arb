@@ -995,9 +995,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "廣播位址",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Wake-on-LAN 進階選項",
+  "wolAdvancedOptions": "進階選項",
   "wakeServer": "喚醒伺服器",
   "wolPacketSent": "已傳送喚醒封包",
   "wolSendFailed": "傳送喚醒封包失敗",
-  "wolConnectionFailedTips": "無法連線至伺服器。如果它處於睡眠狀態，可傳送 Wake-on-LAN 封包將其喚醒。"
+  "wolConnectionFailedTips": "無法連線至伺服器。如果它處於睡眠狀態，可傳送 Wake-on-LAN 封包將其喚醒。",
+  "wakeOnLan": "網路喚醒",
+  "noWolConfig": "未設定",
+  "wolDescription": "傳送魔術封包以喚醒休眠的伺服器。您的裝置必須與伺服器處於同一區域網路。",
+  "inputValidMacTips": "請輸入有效的 MAC 位址"
 }

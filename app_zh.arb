@@ -995,9 +995,13 @@
   "macAddressHint": "AA:BB:CC:DD:EE:FF",
   "wolBroadcastAddress": "广播地址",
   "wolBroadcastAddressHint": "255.255.255.255",
-  "wolAdvancedOptions": "Wake-on-LAN 高级选项",
+  "wolAdvancedOptions": "高级选项",
   "wakeServer": "唤醒服务器",
   "wolPacketSent": "唤醒数据包已发送",
   "wolSendFailed": "唤醒数据包发送失败",
-  "wolConnectionFailedTips": "无法连接服务器。如果它处于睡眠状态，可发送 Wake-on-LAN 数据包将其唤醒。"
+  "wolConnectionFailedTips": "无法连接服务器。如果它处于睡眠状态，可发送 Wake-on-LAN 数据包将其唤醒。",
+  "wakeOnLan": "网络唤醒",
+  "noWolConfig": "未配置",
+  "wolDescription": "向休眠的服务器发送唤醒包。需与服务器处于同一局域网。",
+  "inputValidMacTips": "请输入有效的 MAC 地址"
 }
