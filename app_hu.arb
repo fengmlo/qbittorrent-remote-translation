@@ -1007,5 +1007,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Nincs konfigurálva",
   "wolDescription": "Küldjön egy varázscsomagot az alvó kiszolgáló felébresztéséhez. Az eszköznek a kiszolgálóval azonos helyi hálózaton kell lennie.",
-  "inputValidMacTips": "Adjon meg egy érvényes MAC-címet"
+  "inputValidMacTips": "Adjon meg egy érvényes MAC-címet",
+  "selectTorrentToViewDetail": "Válasszon egy torrentet a részletek megtekintéséhez"
 }

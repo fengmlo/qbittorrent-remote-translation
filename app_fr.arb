@@ -1000,5 +1000,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Non configuré",
   "wolDescription": "Envoyez un paquet magique pour réveiller un serveur en veille. Votre appareil doit être sur le même réseau local que le serveur.",
-  "inputValidMacTips": "Saisissez une adresse MAC valide"
+  "inputValidMacTips": "Saisissez une adresse MAC valide",
+  "selectTorrentToViewDetail": "Sélectionnez un torrent pour voir ses détails"
 }

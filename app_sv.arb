@@ -1000,5 +1000,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Inte konfigurerad",
   "wolDescription": "Skicka ett magiskt paket för att väcka en server i viloläge. Din enhet måste vara på samma lokala nätverk som servern.",
-  "inputValidMacTips": "Ange en giltig MAC-adress"
+  "inputValidMacTips": "Ange en giltig MAC-adress",
+  "selectTorrentToViewDetail": "Välj en torrent för att visa dess detaljer"
 }

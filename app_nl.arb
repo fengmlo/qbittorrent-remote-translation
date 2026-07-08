@@ -1007,5 +1007,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Niet geconfigureerd",
   "wolDescription": "Stuur een magic packet om een server in slaapstand te wekken. Uw apparaat moet zich op hetzelfde lokale netwerk als de server bevinden.",
-  "inputValidMacTips": "Voer een geldig MAC-adres in"
+  "inputValidMacTips": "Voer een geldig MAC-adres in",
+  "selectTorrentToViewDetail": "Selecteer een torrent om de details te bekijken"
 }

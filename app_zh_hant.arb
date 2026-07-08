@@ -1002,5 +1002,6 @@
   "wakeOnLan": "網路喚醒",
   "noWolConfig": "未設定",
   "wolDescription": "傳送魔術封包以喚醒休眠的伺服器。您的裝置必須與伺服器處於同一區域網路。",
-  "inputValidMacTips": "請輸入有效的 MAC 位址"
+  "inputValidMacTips": "請輸入有效的 MAC 位址",
+  "selectTorrentToViewDetail": "選擇一個種子檢視詳細資訊"
 }

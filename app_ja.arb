@@ -1007,5 +1007,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "未設定",
   "wolDescription": "スリープ状態のサーバーを起動するためにマジックパケットを送信します。デバイスがサーバーと同じローカルネットワーク内にある必要があります。",
-  "inputValidMacTips": "有効な MAC アドレスを入力してください"
+  "inputValidMacTips": "有効な MAC アドレスを入力してください",
+  "selectTorrentToViewDetail": "詳細を表示するトレントを選択してください"
 }

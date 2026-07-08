@@ -1002,5 +1002,6 @@
   "wakeOnLan": "网络唤醒",
   "noWolConfig": "未配置",
   "wolDescription": "向休眠的服务器发送唤醒包。需与服务器处于同一局域网。",
-  "inputValidMacTips": "请输入有效的 MAC 地址"
+  "inputValidMacTips": "请输入有效的 MAC 地址",
+  "selectTorrentToViewDetail": "选择一个种子查看详情"
 }

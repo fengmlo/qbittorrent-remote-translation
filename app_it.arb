@@ -1000,5 +1000,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Non configurato",
   "wolDescription": "Invia un pacchetto magico per riattivare un server in sospensione. Il tuo dispositivo deve essere sulla stessa rete locale del server.",
-  "inputValidMacTips": "Inserisci un indirizzo MAC valido"
+  "inputValidMacTips": "Inserisci un indirizzo MAC valido",
+  "selectTorrentToViewDetail": "Seleziona un torrent per visualizzarne i dettagli"
 }

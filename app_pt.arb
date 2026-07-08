@@ -1000,5 +1000,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Não configurado",
   "wolDescription": "Envie um pacote mágico para despertar um servidor em suspensão. Seu dispositivo deve estar na mesma rede local que o servidor.",
-  "inputValidMacTips": "Insira um endereço MAC válido"
+  "inputValidMacTips": "Insira um endereço MAC válido",
+  "selectTorrentToViewDetail": "Selecione um torrent para ver os detalhes"
 }

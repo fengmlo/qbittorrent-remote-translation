@@ -1007,5 +1007,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Nicht konfiguriert",
   "wolDescription": "Senden Sie ein Magic Packet, um einen Server im Ruhezustand aufzuwecken. Ihr Gerät muss sich im selben lokalen Netzwerk wie der Server befinden.",
-  "inputValidMacTips": "Geben Sie eine gültige MAC-Adresse ein"
+  "inputValidMacTips": "Geben Sie eine gültige MAC-Adresse ein",
+  "selectTorrentToViewDetail": "Wählen Sie einen Torrent, um die Details anzuzeigen"
 }

@@ -1000,5 +1000,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "No configurat",
   "wolDescription": "Envia un paquet màgic per despertar un servidor en repòs. El teu dispositiu ha d'estar a la mateixa xarxa local que el servidor.",
-  "inputValidMacTips": "Introdueix una adreça MAC vàlida"
+  "inputValidMacTips": "Introdueix una adreça MAC vàlida",
+  "selectTorrentToViewDetail": "Seleccioneu un torrent per veure'n els detalls"
 }

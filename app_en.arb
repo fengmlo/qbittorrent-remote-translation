@@ -1058,5 +1058,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Not configured",
   "wolDescription": "Send a magic packet to wake a sleeping server. Your device must be on the same local network as the server.",
-  "inputValidMacTips": "Please enter a valid MAC address"
+  "inputValidMacTips": "Please enter a valid MAC address",
+  "selectTorrentToViewDetail": "Select a torrent to view its details"
 }

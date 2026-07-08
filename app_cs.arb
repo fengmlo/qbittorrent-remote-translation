@@ -1000,5 +1000,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Nenakonfigurováno",
   "wolDescription": "Odešlete magický paket pro probuzení spícího serveru. Vaše zařízení musí být ve stejné místní síti jako server.",
-  "inputValidMacTips": "Zadejte platnou MAC adresu"
+  "inputValidMacTips": "Zadejte platnou MAC adresu",
+  "selectTorrentToViewDetail": "Vyberte torrent pro zobrazení podrobností"
 }

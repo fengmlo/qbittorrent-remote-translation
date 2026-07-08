@@ -1000,5 +1000,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Nieskonfigurowane",
   "wolDescription": "Wyślij magiczny pakiet, aby wybudzić uśpiony serwer. Twoje urządzenie musi znajdować się w tej samej sieci lokalnej co serwer.",
-  "inputValidMacTips": "Wprowadź prawidłowy adres MAC"
+  "inputValidMacTips": "Wprowadź prawidłowy adres MAC",
+  "selectTorrentToViewDetail": "Wybierz torrent, aby zobaczyć szczegóły"
 }

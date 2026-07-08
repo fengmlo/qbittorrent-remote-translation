@@ -1000,5 +1000,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "Не налаштовано",
   "wolDescription": "Надішліть magic-пакет, щоб розбудити сервер у режимі сну. Ваш пристрій має перебувати в тій самій локальній мережі, що й сервер.",
-  "inputValidMacTips": "Введіть коректну MAC-адресу"
+  "inputValidMacTips": "Введіть коректну MAC-адресу",
+  "selectTorrentToViewDetail": "Виберіть торент, щоб переглянути деталі"
 }
