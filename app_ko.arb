@@ -1007,5 +1007,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "설정되지 않음",
   "wolDescription": "절전 상태인 서버를 깨우려면 매직 패킷을 전송하세요. 기기가 서버와 동일한 로컬 네트워크에 있어야 합니다.",
-  "inputValidMacTips": "유효한 MAC 주소를 입력하세요"
+  "inputValidMacTips": "유효한 MAC 주소를 입력하세요",
+  "networkStack": "네트워크 스택", "networkStackReconfigureHint": "전환 후 현재 서버 연결을 다시 생성합니다", "inheritGlobal": "전역 설정 따르기", "activeNetworkStack": "현재 활성: {stack}", "customCa": "사용자 지정 CA", "customCaHint": "가져온 CA만 신뢰하며, 호스트 이름 검증은 기본적으로 활성화된 상태로 유지됩니다", "importAction": "가져오기", "replaceAction": "교체", "clientCertificate": "클라이언트 인증서 (mTLS)", "importPkcs12": "PKCS#12 가져오기", "selectAndroidKeyChain": "Android KeyChain 선택", "noClientCertificate": "클라이언트 인증서 사용 안 함", "trustAllCertificates": "모든 인증서를 신뢰하시겠습니까?", "trustAllCertificatesWarning": "이 옵션은 서버 인증서 검증을 비활성화하며 연결이 가로채질 수 있습니다. 가져온 사용자 지정 CA는 더 이상 사용되지 않습니다.", "trustAnyway": "그래도 신뢰", "pkcs12Password": "PKCS#12 비밀번호", "exportCredentialBundle": "서버 자격 증명 번들 내보내기", "credentialBundleHint": "가져온 CA/P12가 포함됩니다. 백업 비밀번호가 필요합니다. Android KeyChain은 내보내지지 않습니다", "choosePasswordAndExport": "비밀번호를 설정하고 내보내기", "importCredentialBundle": "서버 자격 증명 번들 가져오기", "tlsTrustFailure": "연결 테스트 실패: 서버 인증서를 신뢰할 수 없거나 호스트 이름이 일치하지 않습니다.", "tlsClientIdentityFailure": "연결 테스트 실패: 서버가 클라이언트 인증서를 거부했거나 사용할 수 없습니다.", "tlsMaterialUnavailable": "연결 테스트 실패: 가져온 인증서 자료를 사용할 수 없습니다. 다시 가져오세요.", "tlsConfigurationFailure": "연결 테스트 실패: TLS 구성 오류."
 }

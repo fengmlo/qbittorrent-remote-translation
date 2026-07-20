@@ -1007,5 +1007,6 @@
   "wakeOnLan": "Wake-on-LAN",
   "noWolConfig": "未設定",
   "wolDescription": "スリープ状態のサーバーを起動するためにマジックパケットを送信します。デバイスがサーバーと同じローカルネットワーク内にある必要があります。",
-  "inputValidMacTips": "有効な MAC アドレスを入力してください"
+  "inputValidMacTips": "有効な MAC アドレスを入力してください",
+  "networkStack": "ネットワークスタック", "networkStackReconfigureHint": "切り替え後に現在のサーバー接続を再構築します", "inheritGlobal": "全体設定に従う", "activeNetworkStack": "現在アクティブ: {stack}", "customCa": "カスタム CA", "customCaHint": "インポートした CA のみを信頼します。ホスト名検証は既定で有効のままです", "importAction": "インポート", "replaceAction": "置換", "clientCertificate": "クライアント証明書 (mTLS)", "importPkcs12": "PKCS#12 をインポート", "selectAndroidKeyChain": "Android KeyChain を選択", "noClientCertificate": "クライアント証明書を使用しない", "trustAllCertificates": "すべての証明書を信頼しますか？", "trustAllCertificatesWarning": "これによりサーバー証明書の検証が無効になり、通信が傍受される可能性があります。インポートしたカスタム CA は使用されなくなります。", "trustAnyway": "強制的に信頼", "pkcs12Password": "PKCS#12 パスワード", "exportCredentialBundle": "サーバー資格情報バンドルをエクスポート", "credentialBundleHint": "インポート済みの CA/P12 が含まれます。バックアップ用パスワードが必要です。Android KeyChain はエクスポートされません", "choosePasswordAndExport": "パスワードを設定してエクスポート", "importCredentialBundle": "サーバー資格情報バンドルをインポート", "tlsTrustFailure": "接続テストに失敗しました: サーバー証明書が信頼できないか、ホスト名が一致しません。", "tlsClientIdentityFailure": "接続テストに失敗しました: サーバーがクライアント証明書を拒否したか、利用できません。", "tlsMaterialUnavailable": "接続テストに失敗しました: インポートした証明書データが利用できません。再度インポートしてください。", "tlsConfigurationFailure": "接続テストに失敗しました: TLS 設定エラー。"
 }
