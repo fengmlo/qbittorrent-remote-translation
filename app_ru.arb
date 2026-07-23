@@ -1032,5 +1032,8 @@
   "appLockGraceHint": "Время, в течение которого приложение может находиться в фоновом режиме до повторной аутентификации",
   "appLockGraceImmediate": "Сразу",
   "appLockGraceValueSeconds": "{seconds,plural, one{{seconds} секунда} few{{seconds} секунды} many{{seconds} секунд} other{{seconds} секунды}}",
-  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} минута} few{{minutes} минуты} many{{minutes} минут} other{{minutes} минуты}}"
+  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} минута} few{{minutes} минуты} many{{minutes} минут} other{{minutes} минуты}}",
+  "privacyScreen": "Экран приватности",
+  "privacyScreenOnSubtitle": "Скрывать содержимое экрана при переключении приложений",
+  "privacyScreenOffSubtitle": "Содержимое приложения остается видимым при переключении приложений"
 }

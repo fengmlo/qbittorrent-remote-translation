@@ -1039,5 +1039,8 @@
   "appLockGraceHint": "재인증을 요구하기 전까지 앱이 백그라운드에 유지될 수 있는 시간",
   "appLockGraceImmediate": "즉시",
   "appLockGraceValueSeconds": "{seconds}초",
-  "appLockGraceValueMinutes": "{minutes}분"
+  "appLockGraceValueMinutes": "{minutes}분",
+  "privacyScreen": "개인정보 보호 화면",
+  "privacyScreenOnSubtitle": "앱 전환 시 화면 내용 가리기",
+  "privacyScreenOffSubtitle": "앱 전환 시 앱 콘텐츠가 표시된 상태로 유지됨"
 }

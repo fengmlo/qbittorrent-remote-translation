@@ -1032,5 +1032,8 @@
   "appLockGraceHint": "Per quanto tempo l'app può rimanere in background prima di richiedere nuovamente l'autenticazione",
   "appLockGraceImmediate": "Immediatamente",
   "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} secondo} other{{seconds} secondi}}",
-  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minuto} other{{minutes} minuti}}"
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minuto} other{{minutes} minuti}}",
+  "privacyScreen": "Schermata di privacy",
+  "privacyScreenOnSubtitle": "Copri il contenuto dello schermo quando passi da un'app all'altra",
+  "privacyScreenOffSubtitle": "Il contenuto dell'app rimane visibile quando passi da un'app all'altra"
 }

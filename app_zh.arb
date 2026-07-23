@@ -1052,5 +1052,8 @@
   "appLockGraceHint": "应用处于后台多久后需要重新验证",
   "appLockGraceImmediate": "立即",
   "appLockGraceValueSeconds": "{seconds} 秒",
-  "appLockGraceValueMinutes": "{minutes} 分钟"
+  "appLockGraceValueMinutes": "{minutes} 分钟",
+  "privacyScreen": "隐私屏",
+  "privacyScreenOnSubtitle": "切换应用时，遮挡屏幕显示内容",
+  "privacyScreenOffSubtitle": "切换应用时，界面内容保持可见"
 }

@@ -1039,5 +1039,8 @@
   "appLockGraceHint": "再認証が必要になるまでにアプリをバックグラウンドに保持できる時間",
   "appLockGraceImmediate": "すぐに",
   "appLockGraceValueSeconds": "{seconds} 秒",
-  "appLockGraceValueMinutes": "{minutes} 分"
+  "appLockGraceValueMinutes": "{minutes} 分",
+  "privacyScreen": "プライバシースクリーン",
+  "privacyScreenOnSubtitle": "アプリ切り替え時に画面の内容を隠す",
+  "privacyScreenOffSubtitle": "アプリ切り替え時にアプリのコンテンツを表示したままにする"
 }

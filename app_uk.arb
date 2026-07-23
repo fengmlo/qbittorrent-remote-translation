@@ -1032,5 +1032,8 @@
   "appLockGraceHint": "Як довго програма може залишатися у фоновому режимі перед повторною автентифікацією",
   "appLockGraceImmediate": "Негайно",
   "appLockGraceValueSeconds": "{seconds,plural, one{{seconds} секунда} few{{seconds} секунди} many{{seconds} секунд} other{{seconds} секунди}}",
-  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} хвилина} few{{minutes} хвилини} many{{minutes} хвилин} other{{minutes} хвилини}}"
+  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} хвилина} few{{minutes} хвилини} many{{minutes} хвилин} other{{minutes} хвилини}}",
+  "privacyScreen": "Екран приватності",
+  "privacyScreenOnSubtitle": "Приховувати вміст екрана під час перемикання між програмами",
+  "privacyScreenOffSubtitle": "Вміст програми залишається видимим під час перемикання між програмами"
 }

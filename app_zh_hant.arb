@@ -1052,5 +1052,8 @@
   "appLockGraceHint": "應用程式處於背景多久後需要重新驗證",
   "appLockGraceImmediate": "立即",
   "appLockGraceValueSeconds": "{seconds} 秒",
-  "appLockGraceValueMinutes": "{minutes} 分鐘"
+  "appLockGraceValueMinutes": "{minutes} 分鐘",
+  "privacyScreen": "隱私畫面",
+  "privacyScreenOnSubtitle": "切換應用程式時，遮蔽螢幕顯示內容",
+  "privacyScreenOffSubtitle": "切換應用程式時，保持顯示內容"
 }

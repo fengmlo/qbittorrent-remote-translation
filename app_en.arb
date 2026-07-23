@@ -1111,5 +1111,8 @@
   "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} second} other{{seconds} seconds}}",
   "@appLockGraceValueSeconds": {"placeholders": {"seconds": {}}},
   "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minute} other{{minutes} minutes}}",
-  "@appLockGraceValueMinutes": {"placeholders": {"minutes": {}}}
+  "@appLockGraceValueMinutes": {"placeholders": {"minutes": {}}},
+  "privacyScreen": "Privacy screen",
+  "privacyScreenOnSubtitle": "Cover screen content when switching apps",
+  "privacyScreenOffSubtitle": "App content stays visible when switching apps"
 }

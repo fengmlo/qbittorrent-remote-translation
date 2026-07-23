@@ -1050,5 +1050,8 @@
   "appLockGraceHint": "Jak dlouho může být aplikace na pozadí, než bude znovu vyžadováno ověření",
   "appLockGraceImmediate": "Ihned",
   "appLockGraceValueSeconds": "{seconds,plural, one{{seconds} sekunda} few{{seconds} sekundy} many{{seconds} sekundy} other{{seconds} sekund}}",
-  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} minuta} few{{minutes} minuty} many{{minutes} minuty} other{{minutes} minut}}"
+  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} minuta} few{{minutes} minuty} many{{minutes} minuty} other{{minutes} minut}}",
+  "privacyScreen": "Obrazovka soukromí",
+  "privacyScreenOnSubtitle": "Při přepínání aplikací zakrýt obsah obrazovky",
+  "privacyScreenOffSubtitle": "Při přepínání aplikací zůstane obsah aplikace viditelný"
 }

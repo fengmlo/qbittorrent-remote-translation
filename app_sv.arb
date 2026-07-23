@@ -1032,5 +1032,8 @@
   "appLockGraceHint": "Hur länge appen kan vara i bakgrunden innan autentisering krävs igen",
   "appLockGraceImmediate": "Omedelbart",
   "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} sekund} other{{seconds} sekunder}}",
-  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minut} other{{minutes} minuter}}"
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minut} other{{minutes} minuter}}",
+  "privacyScreen": "Integritetsskärm",
+  "privacyScreenOnSubtitle": "Dölj skärminnehållet när du växlar appar",
+  "privacyScreenOffSubtitle": "Appens innehåll förblir synligt när du växlar appar"
 }

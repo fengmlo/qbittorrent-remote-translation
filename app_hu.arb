@@ -1039,5 +1039,8 @@
   "appLockGraceHint": "Mennyi ideig maradhat az alkalmazás a háttérben, mielőtt újabb hitelesítés szükséges",
   "appLockGraceImmediate": "Azonnal",
   "appLockGraceValueSeconds": "{seconds} másodperc",
-  "appLockGraceValueMinutes": "{minutes} perc"
+  "appLockGraceValueMinutes": "{minutes} perc",
+  "privacyScreen": "Adatvédelmi képernyő",
+  "privacyScreenOnSubtitle": "Alkalmazásváltáskor elrejti a képernyő tartalmát",
+  "privacyScreenOffSubtitle": "Alkalmazásváltáskor az alkalmazás tartalma látható marad"
 }

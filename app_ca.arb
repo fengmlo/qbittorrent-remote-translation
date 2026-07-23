@@ -1050,5 +1050,8 @@
   "appLockGraceHint": "Quant de temps pot estar l'aplicació en segon pla abans de tornar a demanar autenticació",
   "appLockGraceImmediate": "Immediatament",
   "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} segon} other{{seconds} segons}}",
-  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minut} other{{minutes} minuts}}"
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minut} other{{minutes} minuts}}",
+  "privacyScreen": "Pantalla de privadesa",
+  "privacyScreenOnSubtitle": "Amaga el contingut de la pantalla en canviar d'aplicació",
+  "privacyScreenOffSubtitle": "El contingut de l'aplicació es manté visible en canviar d'aplicació"
 }

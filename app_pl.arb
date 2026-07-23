@@ -1032,5 +1032,8 @@
   "appLockGraceHint": "Jak długo aplikacja może działać w tle, zanim wymagane będzie ponowne uwierzytelnienie",
   "appLockGraceImmediate": "Natychmiast",
   "appLockGraceValueSeconds": "{seconds,plural, one{{seconds} sekunda} few{{seconds} sekundy} many{{seconds} sekund} other{{seconds} sekundy}}",
-  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} minuta} few{{minutes} minuty} many{{minutes} minut} other{{minutes} minuty}}"
+  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} minuta} few{{minutes} minuty} many{{minutes} minut} other{{minutes} minuty}}",
+  "privacyScreen": "Ekran prywatności",
+  "privacyScreenOnSubtitle": "Zasłaniaj zawartość ekranu podczas przełączania aplikacji",
+  "privacyScreenOffSubtitle": "Zawartość aplikacji pozostaje widoczna podczas przełączania aplikacji"
 }

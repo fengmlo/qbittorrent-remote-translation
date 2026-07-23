@@ -1039,5 +1039,8 @@
   "appLockGraceHint": "Hoelang de app op de achtergrond kan blijven voordat er opnieuw authenticatie vereist is",
   "appLockGraceImmediate": "Onmiddellijk",
   "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} seconde} other{{seconds} seconden}}",
-  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minuut} other{{minutes} minuten}}"
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minuut} other{{minutes} minuten}}",
+  "privacyScreen": "Privacyscherm",
+  "privacyScreenOnSubtitle": "Bedek de scherminhoud bij het wisselen van apps",
+  "privacyScreenOffSubtitle": "App-inhoud blijft zichtbaar bij het wisselen van apps"
 }
