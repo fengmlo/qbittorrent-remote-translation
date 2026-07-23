@@ -1035,5 +1035,10 @@
   "appLockUnsupported": "Dit apparaat ondersteunt geen biometrische of apparaatauthenticatie",
   "appLockScreenTitle": "App vergrendeld",
   "appLockUnlock": "Ontgrendelen",
-  "appLockReason": "Verifieer om de app te ontgrendelen"
+  "appLockReason": "Verifieer om de app te ontgrendelen",
+  "appLockGrace": "Vergrendelingsuitstel",
+  "appLockGraceHint": "Hoelang de app op de achtergrond kan blijven voordat er opnieuw authenticatie vereist is",
+  "appLockGraceImmediate": "Onmiddellijk",
+  "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} seconde} other{{seconds} seconden}}",
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minuut} other{{minutes} minuten}}"
 }

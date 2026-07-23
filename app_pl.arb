@@ -1028,5 +1028,10 @@
   "appLockUnsupported": "To urządzenie nie obsługuje uwierzytelniania biometrycznego ani uwierzytelniania urządzenia",
   "appLockScreenTitle": "Aplikacja zablokowana",
   "appLockUnlock": "Odblokuj",
-  "appLockReason": "Uwierzytelnij się, aby odblokować aplikację"
+  "appLockReason": "Uwierzytelnij się, aby odblokować aplikację",
+  "appLockGrace": "Okres karencji blokady",
+  "appLockGraceHint": "Jak długo aplikacja może działać w tle, zanim wymagane będzie ponowne uwierzytelnienie",
+  "appLockGraceImmediate": "Natychmiast",
+  "appLockGraceValueSeconds": "{seconds,plural, one{{seconds} sekunda} few{{seconds} sekundy} many{{seconds} sekund} other{{seconds} sekundy}}",
+  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} minuta} few{{minutes} minuty} many{{minutes} minut} other{{minutes} minuty}}"
 }

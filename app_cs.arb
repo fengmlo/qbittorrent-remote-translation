@@ -1046,5 +1046,10 @@
   "appLockUnsupported": "Toto zařízení nepodporuje biometrické ověření ani ověření zařízení",
   "appLockScreenTitle": "Aplikace uzamčena",
   "appLockUnlock": "Odemknout",
-  "appLockReason": "Ověřte se pro odemknutí aplikace"
+  "appLockReason": "Ověřte se pro odemknutí aplikace",
+  "appLockGrace": "Doba odkladu uzamčení",
+  "appLockGraceHint": "Jak dlouho může být aplikace na pozadí, než bude znovu vyžadováno ověření",
+  "appLockGraceImmediate": "Ihned",
+  "appLockGraceValueSeconds": "{seconds,plural, one{{seconds} sekunda} few{{seconds} sekundy} many{{seconds} sekundy} other{{seconds} sekund}}",
+  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} minuta} few{{minutes} minuty} many{{minutes} minuty} other{{minutes} minut}}"
 }

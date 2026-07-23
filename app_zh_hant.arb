@@ -1048,5 +1048,10 @@
   "appLockUnsupported": "此裝置不支援生物辨識或裝置驗證",
   "appLockScreenTitle": "應用程式已鎖定",
   "appLockUnlock": "解鎖",
-  "appLockReason": "驗證以解鎖應用程式"
+  "appLockReason": "驗證以解鎖應用程式",
+  "appLockGrace": "鎖定寬限期",
+  "appLockGraceHint": "應用程式處於背景多久後需要重新驗證",
+  "appLockGraceImmediate": "立即",
+  "appLockGraceValueSeconds": "{seconds} 秒",
+  "appLockGraceValueMinutes": "{minutes} 分鐘"
 }

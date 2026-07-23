@@ -1028,5 +1028,10 @@
   "appLockUnsupported": "Den här enheten stöder inte biometrisk autentisering eller enhetsautentisering",
   "appLockScreenTitle": "Appen är låst",
   "appLockUnlock": "Lås upp",
-  "appLockReason": "Autentisera för att låsa upp appen"
+  "appLockReason": "Autentisera för att låsa upp appen",
+  "appLockGrace": "Respittid för låsning",
+  "appLockGraceHint": "Hur länge appen kan vara i bakgrunden innan autentisering krävs igen",
+  "appLockGraceImmediate": "Omedelbart",
+  "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} sekund} other{{seconds} sekunder}}",
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minut} other{{minutes} minuter}}"
 }

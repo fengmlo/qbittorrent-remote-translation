@@ -1035,5 +1035,10 @@
   "appLockUnsupported": "Ez az eszköz nem támogatja a biometrikus vagy eszközalapú hitelesítést",
   "appLockScreenTitle": "Alkalmazás zárolva",
   "appLockUnlock": "Feloldás",
-  "appLockReason": "Hitelesítsen az alkalmazás feloldásához"
+  "appLockReason": "Hitelesítsen az alkalmazás feloldásához",
+  "appLockGrace": "Zárolási türelmi idő",
+  "appLockGraceHint": "Mennyi ideig maradhat az alkalmazás a háttérben, mielőtt újabb hitelesítés szükséges",
+  "appLockGraceImmediate": "Azonnal",
+  "appLockGraceValueSeconds": "{seconds} másodperc",
+  "appLockGraceValueMinutes": "{minutes} perc"
 }

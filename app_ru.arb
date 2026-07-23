@@ -1028,5 +1028,10 @@
   "appLockUnsupported": "Это устройство не поддерживает биометрическую аутентификацию или аутентификацию устройства",
   "appLockScreenTitle": "Приложение заблокировано",
   "appLockUnlock": "Разблокировать",
-  "appLockReason": "Пройдите аутентификацию, чтобы разблокировать приложение"
+  "appLockReason": "Пройдите аутентификацию, чтобы разблокировать приложение",
+  "appLockGrace": "Период ожидания блокировки",
+  "appLockGraceHint": "Время, в течение которого приложение может находиться в фоновом режиме до повторной аутентификации",
+  "appLockGraceImmediate": "Сразу",
+  "appLockGraceValueSeconds": "{seconds,plural, one{{seconds} секунда} few{{seconds} секунды} many{{seconds} секунд} other{{seconds} секунды}}",
+  "appLockGraceValueMinutes": "{minutes,plural, one{{minutes} минута} few{{minutes} минуты} many{{minutes} минут} other{{minutes} минуты}}"
 }

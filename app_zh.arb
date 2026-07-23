@@ -1048,5 +1048,10 @@
   "appLockUnsupported": "此设备不支持生物识别或设备验证",
   "appLockScreenTitle": "应用已锁定",
   "appLockUnlock": "解锁",
-  "appLockReason": "验证以解锁应用"
+  "appLockReason": "验证以解锁应用",
+  "appLockGrace": "锁定宽限期",
+  "appLockGraceHint": "应用处于后台多久后需要重新验证",
+  "appLockGraceImmediate": "立即",
+  "appLockGraceValueSeconds": "{seconds} 秒",
+  "appLockGraceValueMinutes": "{minutes} 分钟"
 }

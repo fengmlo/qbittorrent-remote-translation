@@ -1034,5 +1034,10 @@
   "appLockUnsupported": "Cet appareil ne prend pas en charge l'authentification biométrique ou par appareil",
   "appLockScreenTitle": "Application verrouillée",
   "appLockUnlock": "Déverrouiller",
-  "appLockReason": "Authentifiez-vous pour déverrouiller l'application"
+  "appLockReason": "Authentifiez-vous pour déverrouiller l'application",
+  "appLockGrace": "Délai avant verrouillage",
+  "appLockGraceHint": "Durée pendant laquelle l'application peut rester en arrière-plan avant d'exiger une nouvelle authentification",
+  "appLockGraceImmediate": "Immédiatement",
+  "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} seconde} other{{seconds} secondes}}",
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minute} other{{minutes} minutes}}"
 }

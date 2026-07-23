@@ -1035,5 +1035,10 @@
   "appLockUnsupported": "このデバイスは生体認証またはデバイス認証に対応していません",
   "appLockScreenTitle": "アプリはロックされています",
   "appLockUnlock": "ロック解除",
-  "appLockReason": "認証してアプリのロックを解除"
+  "appLockReason": "認証してアプリのロックを解除",
+  "appLockGrace": "ロックの猶予期間",
+  "appLockGraceHint": "再認証が必要になるまでにアプリをバックグラウンドに保持できる時間",
+  "appLockGraceImmediate": "すぐに",
+  "appLockGraceValueSeconds": "{seconds} 秒",
+  "appLockGraceValueMinutes": "{minutes} 分"
 }

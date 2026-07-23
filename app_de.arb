@@ -1053,5 +1053,10 @@
   "appLockUnsupported": "Dieses Gerät unterstützt keine biometrische oder Geräteauthentifizierung",
   "appLockScreenTitle": "App gesperrt",
   "appLockUnlock": "Entsperren",
-  "appLockReason": "Zum Entsperren der App authentifizieren"
+  "appLockReason": "Zum Entsperren der App authentifizieren",
+  "appLockGrace": "Sperrfrist",
+  "appLockGraceHint": "Wie lange die App im Hintergrund bleiben kann, bevor eine erneute Authentifizierung erforderlich ist",
+  "appLockGraceImmediate": "Sofort",
+  "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} Sekunde} other{{seconds} Sekunden}}",
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} Minute} other{{minutes} Minuten}}"
 }

@@ -1046,5 +1046,10 @@
   "appLockUnsupported": "Aquest dispositiu no admet l'autenticació biomètrica ni la del dispositiu",
   "appLockScreenTitle": "Aplicació bloquejada",
   "appLockUnlock": "Desbloqueja",
-  "appLockReason": "Autentiqueu-vos per desbloquejar l'aplicació"
+  "appLockReason": "Autentiqueu-vos per desbloquejar l'aplicació",
+  "appLockGrace": "Període de gràcia de bloqueig",
+  "appLockGraceHint": "Quant de temps pot estar l'aplicació en segon pla abans de tornar a demanar autenticació",
+  "appLockGraceImmediate": "Immediatament",
+  "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} segon} other{{seconds} segons}}",
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minut} other{{minutes} minuts}}"
 }

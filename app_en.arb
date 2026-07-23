@@ -1105,5 +1105,12 @@
   "appLockUnsupported": "This device doesn't support biometric or device authentication",
   "appLockScreenTitle": "App locked",
   "appLockUnlock": "Unlock",
-  "appLockReason": "Authenticate to unlock the app"
+  "appLockReason": "Authenticate to unlock the app",
+  "appLockGrace": "Lock grace period",
+  "appLockGraceHint": "How long the app can stay in the background before authentication is required again",
+  "appLockGraceImmediate": "Immediately",
+  "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} second} other{{seconds} seconds}}",
+  "@appLockGraceValueSeconds": {"placeholders": {"seconds": {}}},
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minute} other{{minutes} minutes}}",
+  "@appLockGraceValueMinutes": {"placeholders": {"minutes": {}}}
 }

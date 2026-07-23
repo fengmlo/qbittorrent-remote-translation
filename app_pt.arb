@@ -1028,5 +1028,10 @@
   "appLockUnsupported": "Este dispositivo não é compatível com autenticação biométrica ou do dispositivo",
   "appLockScreenTitle": "App bloqueado",
   "appLockUnlock": "Desbloquear",
-  "appLockReason": "Autentique-se para desbloquear o app"
+  "appLockReason": "Autentique-se para desbloquear o app",
+  "appLockGrace": "Tempo de carência de bloqueio",
+  "appLockGraceHint": "Quanto tempo o aplicativo pode permanecer em segundo plano antes de exigir autenticação novamente",
+  "appLockGraceImmediate": "Imediatamente",
+  "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} segundo} other{{seconds} segundos}}",
+  "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minuto} other{{minutes} minutos}}"
 }
