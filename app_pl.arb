@@ -1021,5 +1021,12 @@
   "tlsMaterialUnavailableLabel": "Materiał niedostępny",
   "keyChainRequiresOkHttp": "Tożsamość Android KeyChain działa tylko ze stosem sieciowym OkHttp, dlatego stos sieciowy tego serwera został ustawiony na OkHttp.",
   "credentialBundlePasswordError": "Nieprawidłowe hasło lub uszkodzony plik.",
-  "tlsTrustFailure": "Test połączenia nie powiódł się: certyfikat serwera jest niezaufany lub jego nazwa hosta się nie zgadza.", "tlsClientIdentityFailure": "Test połączenia nie powiódł się: serwer odrzucił certyfikat klienta lub jest on niedostępny.", "tlsMaterialUnavailable": "Test połączenia nie powiódł się: zaimportowane materiały certyfikatu są niedostępne. Zaimportuj je ponownie.", "tlsConfigurationFailure": "Test połączenia nie powiódł się: błąd konfiguracji TLS."
+  "tlsTrustFailure": "Test połączenia nie powiódł się: certyfikat serwera jest niezaufany lub jego nazwa hosta się nie zgadza.", "tlsClientIdentityFailure": "Test połączenia nie powiódł się: serwer odrzucił certyfikat klienta lub jest on niedostępny.", "tlsMaterialUnavailable": "Test połączenia nie powiódł się: zaimportowane materiały certyfikatu są niedostępne. Zaimportuj je ponownie.", "tlsConfigurationFailure": "Test połączenia nie powiódł się: błąd konfiguracji TLS.",
+  "appLock": "Blokada aplikacji",
+  "appLockOnSubtitle": "Wymagaj odcisku palca, Face ID lub kodu urządzenia do otwarcia aplikacji",
+  "appLockOffSubtitle": "Otwieraj aplikację bez uwierzytelniania",
+  "appLockUnsupported": "To urządzenie nie obsługuje uwierzytelniania biometrycznego ani uwierzytelniania urządzenia",
+  "appLockScreenTitle": "Aplikacja zablokowana",
+  "appLockUnlock": "Odblokuj",
+  "appLockReason": "Uwierzytelnij się, aby odblokować aplikację"
 }

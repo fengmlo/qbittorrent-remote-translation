@@ -1039,5 +1039,12 @@
   "tlsTrustFailure": "Ha fallat la prova de connexió: el certificat del servidor no és de confiança o el seu nom d'amfitrió no coincideix.",
   "tlsClientIdentityFailure": "Ha fallat la prova de connexió: el servidor ha rebutjat el certificat de client o no està disponible.",
   "tlsMaterialUnavailable": "Ha fallat la prova de connexió: el material del certificat importat no està disponible. Torneu-lo a importar.",
-  "tlsConfigurationFailure": "Ha fallat la prova de connexió: error de configuració de TLS."
+  "tlsConfigurationFailure": "Ha fallat la prova de connexió: error de configuració de TLS.",
+  "appLock": "Bloqueig de l'aplicació",
+  "appLockOnSubtitle": "Requereix empremta digital, Face ID o el codi del dispositiu per obrir l'aplicació",
+  "appLockOffSubtitle": "Obre l'aplicació sense autenticació",
+  "appLockUnsupported": "Aquest dispositiu no admet l'autenticació biomètrica ni la del dispositiu",
+  "appLockScreenTitle": "Aplicació bloquejada",
+  "appLockUnlock": "Desbloqueja",
+  "appLockReason": "Autentiqueu-vos per desbloquejar l'aplicació"
 }

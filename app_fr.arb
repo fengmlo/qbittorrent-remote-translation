@@ -1027,5 +1027,12 @@
   "tlsMaterialUnavailableLabel": "Matériel indisponible",
   "keyChainRequiresOkHttp": "L'identité Android KeyChain ne fonctionne qu'avec la pile réseau OkHttp ; la pile réseau de ce serveur a donc été définie sur OkHttp.",
   "credentialBundlePasswordError": "Mot de passe incorrect ou fichier corrompu.",
-  "tlsTrustFailure": "Échec du test de connexion : le certificat du serveur n'est pas approuvé ou son nom d'hôte ne correspond pas.", "tlsClientIdentityFailure": "Échec du test de connexion : le serveur a rejeté le certificat client ou il est indisponible.", "tlsMaterialUnavailable": "Échec du test de connexion : le matériel de certificat importé est indisponible. Veuillez l'importer à nouveau.", "tlsConfigurationFailure": "Échec du test de connexion : erreur de configuration TLS."
+  "tlsTrustFailure": "Échec du test de connexion : le certificat du serveur n'est pas approuvé ou son nom d'hôte ne correspond pas.", "tlsClientIdentityFailure": "Échec du test de connexion : le serveur a rejeté le certificat client ou il est indisponible.", "tlsMaterialUnavailable": "Échec du test de connexion : le matériel de certificat importé est indisponible. Veuillez l'importer à nouveau.", "tlsConfigurationFailure": "Échec du test de connexion : erreur de configuration TLS.",
+  "appLock": "Verrouillage de l'application",
+  "appLockOnSubtitle": "Exiger une empreinte, Face ID ou le code de l'appareil pour ouvrir l'application",
+  "appLockOffSubtitle": "Ouvrir l'application sans authentification",
+  "appLockUnsupported": "Cet appareil ne prend pas en charge l'authentification biométrique ou par appareil",
+  "appLockScreenTitle": "Application verrouillée",
+  "appLockUnlock": "Déverrouiller",
+  "appLockReason": "Authentifiez-vous pour déverrouiller l'application"
 }

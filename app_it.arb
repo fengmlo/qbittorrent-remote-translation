@@ -1021,5 +1021,12 @@
   "tlsMaterialUnavailableLabel": "Materiale non disponibile",
   "keyChainRequiresOkHttp": "L'identità Android KeyChain funziona solo con lo stack di rete OkHttp; lo stack di rete di questo server è stato quindi impostato su OkHttp.",
   "credentialBundlePasswordError": "Password errata o file danneggiato.",
-  "tlsTrustFailure": "Test di connessione non riuscito: il certificato del server non è affidabile o il suo hostname non corrisponde.", "tlsClientIdentityFailure": "Test di connessione non riuscito: il server ha rifiutato il certificato client o non è disponibile.", "tlsMaterialUnavailable": "Test di connessione non riuscito: il materiale del certificato importato non è disponibile. Importalo di nuovo.", "tlsConfigurationFailure": "Test di connessione non riuscito: errore di configurazione TLS."
+  "tlsTrustFailure": "Test di connessione non riuscito: il certificato del server non è affidabile o il suo hostname non corrisponde.", "tlsClientIdentityFailure": "Test di connessione non riuscito: il server ha rifiutato il certificato client o non è disponibile.", "tlsMaterialUnavailable": "Test di connessione non riuscito: il materiale del certificato importato non è disponibile. Importalo di nuovo.", "tlsConfigurationFailure": "Test di connessione non riuscito: errore di configurazione TLS.",
+  "appLock": "Blocco app",
+  "appLockOnSubtitle": "Richiedi impronta, Face ID o codice del dispositivo per aprire l'app",
+  "appLockOffSubtitle": "Apri l'app senza autenticazione",
+  "appLockUnsupported": "Questo dispositivo non supporta l'autenticazione biometrica o del dispositivo",
+  "appLockScreenTitle": "App bloccata",
+  "appLockUnlock": "Sblocca",
+  "appLockReason": "Autenticati per sbloccare l'app"
 }

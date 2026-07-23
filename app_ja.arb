@@ -1028,5 +1028,12 @@
   "tlsMaterialUnavailableLabel": "証明書データがありません",
   "keyChainRequiresOkHttp": "Android KeyChain の ID は OkHttp ネットワークスタックでのみ使用できるため、このサーバーのネットワークスタックを OkHttp に設定しました。",
   "credentialBundlePasswordError": "パスワードが正しくないか、ファイルが破損しています。",
-  "tlsTrustFailure": "接続テストに失敗しました: サーバー証明書が信頼できないか、ホスト名が一致しません。", "tlsClientIdentityFailure": "接続テストに失敗しました: サーバーがクライアント証明書を拒否したか、利用できません。", "tlsMaterialUnavailable": "接続テストに失敗しました: インポートした証明書データが利用できません。再度インポートしてください。", "tlsConfigurationFailure": "接続テストに失敗しました: TLS 設定エラー。"
+  "tlsTrustFailure": "接続テストに失敗しました: サーバー証明書が信頼できないか、ホスト名が一致しません。", "tlsClientIdentityFailure": "接続テストに失敗しました: サーバーがクライアント証明書を拒否したか、利用できません。", "tlsMaterialUnavailable": "接続テストに失敗しました: インポートした証明書データが利用できません。再度インポートしてください。", "tlsConfigurationFailure": "接続テストに失敗しました: TLS 設定エラー。",
+  "appLock": "アプリロック",
+  "appLockOnSubtitle": "アプリを開くのに指紋、Face ID、またはデバイスのパスコードを要求",
+  "appLockOffSubtitle": "認証なしでアプリを開く",
+  "appLockUnsupported": "このデバイスは生体認証またはデバイス認証に対応していません",
+  "appLockScreenTitle": "アプリはロックされています",
+  "appLockUnlock": "ロック解除",
+  "appLockReason": "認証してアプリのロックを解除"
 }

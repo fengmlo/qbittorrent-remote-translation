@@ -1098,5 +1098,12 @@
   "tlsTrustFailure": "Connection test failed: the server certificate is untrusted or its hostname does not match.",
   "tlsClientIdentityFailure": "Connection test failed: the server rejected the client certificate or it is unavailable.",
   "tlsMaterialUnavailable": "Connection test failed: imported certificate material is unavailable. Import it again.",
-  "tlsConfigurationFailure": "Connection test failed: TLS configuration error."
+  "tlsConfigurationFailure": "Connection test failed: TLS configuration error.",
+  "appLock": "App lock",
+  "appLockOnSubtitle": "Require fingerprint, Face ID or device passcode to open the app",
+  "appLockOffSubtitle": "Open the app without authentication",
+  "appLockUnsupported": "This device doesn't support biometric or device authentication",
+  "appLockScreenTitle": "App locked",
+  "appLockUnlock": "Unlock",
+  "appLockReason": "Authenticate to unlock the app"
 }

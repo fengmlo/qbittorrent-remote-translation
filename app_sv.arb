@@ -1021,5 +1021,12 @@
   "tlsMaterialUnavailableLabel": "Materialet är inte tillgängligt",
   "keyChainRequiresOkHttp": "Android KeyChain-identiteten fungerar endast med nätverksstacken OkHttp, så serverns nätverksstack har ställts in på OkHttp.",
   "credentialBundlePasswordError": "Fel lösenord eller skadad fil.",
-  "tlsTrustFailure": "Anslutningstestet misslyckades: servercertifikatet är inte betrott eller så stämmer inte värdnamnet.", "tlsClientIdentityFailure": "Anslutningstestet misslyckades: servern avvisade klientcertifikatet eller så är det inte tillgängligt.", "tlsMaterialUnavailable": "Anslutningstestet misslyckades: importerat certifikatmaterial är inte tillgängligt. Importera det igen.", "tlsConfigurationFailure": "Anslutningstestet misslyckades: TLS-konfigurationsfel."
+  "tlsTrustFailure": "Anslutningstestet misslyckades: servercertifikatet är inte betrott eller så stämmer inte värdnamnet.", "tlsClientIdentityFailure": "Anslutningstestet misslyckades: servern avvisade klientcertifikatet eller så är det inte tillgängligt.", "tlsMaterialUnavailable": "Anslutningstestet misslyckades: importerat certifikatmaterial är inte tillgängligt. Importera det igen.", "tlsConfigurationFailure": "Anslutningstestet misslyckades: TLS-konfigurationsfel.",
+  "appLock": "Applås",
+  "appLockOnSubtitle": "Kräv fingeravtryck, Face ID eller enhetens lösenkod för att öppna appen",
+  "appLockOffSubtitle": "Öppna appen utan autentisering",
+  "appLockUnsupported": "Den här enheten stöder inte biometrisk autentisering eller enhetsautentisering",
+  "appLockScreenTitle": "Appen är låst",
+  "appLockUnlock": "Lås upp",
+  "appLockReason": "Autentisera för att låsa upp appen"
 }

@@ -1039,5 +1039,12 @@
   "tlsTrustFailure": "Test připojení selhal: certifikát serveru je nedůvěryhodný nebo se neshoduje jeho název hostitele.",
   "tlsClientIdentityFailure": "Test připojení selhal: server odmítl klientský certifikát nebo je nedostupný.",
   "tlsMaterialUnavailable": "Test připojení selhal: importované podklady certifikátu nejsou dostupné. Importujte je znovu.",
-  "tlsConfigurationFailure": "Test připojení selhal: chyba konfigurace TLS."
+  "tlsConfigurationFailure": "Test připojení selhal: chyba konfigurace TLS.",
+  "appLock": "Zámek aplikace",
+  "appLockOnSubtitle": "Vyžadovat otisk prstu, Face ID nebo kód zařízení k otevření aplikace",
+  "appLockOffSubtitle": "Otevírat aplikaci bez ověření",
+  "appLockUnsupported": "Toto zařízení nepodporuje biometrické ověření ani ověření zařízení",
+  "appLockScreenTitle": "Aplikace uzamčena",
+  "appLockUnlock": "Odemknout",
+  "appLockReason": "Ověřte se pro odemknutí aplikace"
 }

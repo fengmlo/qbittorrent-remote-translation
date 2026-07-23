@@ -1028,5 +1028,12 @@
   "tlsMaterialUnavailableLabel": "Materiaal niet beschikbaar",
   "keyChainRequiresOkHttp": "De Android KeyChain-identiteit werkt alleen met de OkHttp-netwerkstack; de netwerkstack van deze server is daarom ingesteld op OkHttp.",
   "credentialBundlePasswordError": "Onjuist wachtwoord of beschadigd bestand.",
-  "tlsTrustFailure": "Verbindingstest mislukt: het servercertificaat wordt niet vertrouwd of de hostnaam komt niet overeen.", "tlsClientIdentityFailure": "Verbindingstest mislukt: de server heeft het clientcertificaat geweigerd of het is niet beschikbaar.", "tlsMaterialUnavailable": "Verbindingstest mislukt: geïmporteerd certificaatmateriaal is niet beschikbaar. Importeer het opnieuw.", "tlsConfigurationFailure": "Verbindingstest mislukt: TLS-configuratiefout."
+  "tlsTrustFailure": "Verbindingstest mislukt: het servercertificaat wordt niet vertrouwd of de hostnaam komt niet overeen.", "tlsClientIdentityFailure": "Verbindingstest mislukt: de server heeft het clientcertificaat geweigerd of het is niet beschikbaar.", "tlsMaterialUnavailable": "Verbindingstest mislukt: geïmporteerd certificaatmateriaal is niet beschikbaar. Importeer het opnieuw.", "tlsConfigurationFailure": "Verbindingstest mislukt: TLS-configuratiefout.",
+  "appLock": "App-vergrendeling",
+  "appLockOnSubtitle": "Vingerafdruk, Face ID of toegangscode van het apparaat vereisen om de app te openen",
+  "appLockOffSubtitle": "App openen zonder authenticatie",
+  "appLockUnsupported": "Dit apparaat ondersteunt geen biometrische of apparaatauthenticatie",
+  "appLockScreenTitle": "App vergrendeld",
+  "appLockUnlock": "Ontgrendelen",
+  "appLockReason": "Verifieer om de app te ontgrendelen"
 }

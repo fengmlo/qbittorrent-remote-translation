@@ -1041,5 +1041,12 @@
   "tlsTrustFailure": "連線測試失敗：伺服器證書不受信任或主機名稱不相符。",
   "tlsClientIdentityFailure": "連線測試失敗：伺服器拒絕了用戶端證書，或該證書不可用。",
   "tlsMaterialUnavailable": "連線測試失敗：匯入的證書檔案不可用，請重新匯入。",
-  "tlsConfigurationFailure": "連線測試失敗：TLS 設定錯誤。"
+  "tlsConfigurationFailure": "連線測試失敗：TLS 設定錯誤。",
+  "appLock": "應用程式鎖",
+  "appLockOnSubtitle": "需要指紋、Face ID 或裝置密碼才能開啟應用程式",
+  "appLockOffSubtitle": "開啟應用程式時無需驗證",
+  "appLockUnsupported": "此裝置不支援生物辨識或裝置驗證",
+  "appLockScreenTitle": "應用程式已鎖定",
+  "appLockUnlock": "解鎖",
+  "appLockReason": "驗證以解鎖應用程式"
 }

@@ -1039,5 +1039,12 @@
   "tlsTrustFailure": "Prueba de conexión fallida: el certificado del servidor no es de confianza o su nombre de host no coincide.",
   "tlsClientIdentityFailure": "Prueba de conexión fallida: el servidor rechazó el certificado de cliente o no está disponible.",
   "tlsMaterialUnavailable": "Prueba de conexión fallida: el material del certificado importado no está disponible. Impórtelo de nuevo.",
-  "tlsConfigurationFailure": "Prueba de conexión fallida: error de configuración de TLS."
+  "tlsConfigurationFailure": "Prueba de conexión fallida: error de configuración de TLS.",
+  "appLock": "Bloqueo de la app",
+  "appLockOnSubtitle": "Requerir huella, Face ID o código del dispositivo para abrir la app",
+  "appLockOffSubtitle": "Abrir la app sin autenticación",
+  "appLockUnsupported": "Este dispositivo no admite autenticación biométrica ni del dispositivo",
+  "appLockScreenTitle": "App bloqueada",
+  "appLockUnlock": "Desbloquear",
+  "appLockReason": "Autentícate para desbloquear la app"
 }

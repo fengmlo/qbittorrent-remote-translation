@@ -1028,5 +1028,12 @@
   "tlsMaterialUnavailableLabel": "Az anyag nem érhető el",
   "keyChainRequiresOkHttp": "Az Android KeyChain identitás csak az OkHttp hálózati veremmel működik, ezért a szerver hálózati verme OkHttp-re lett állítva.",
   "credentialBundlePasswordError": "Hibás jelszó vagy sérült fájl.",
-  "tlsTrustFailure": "A kapcsolatteszt meghiúsult: a szerver tanúsítványa nem megbízható, vagy a hostneve nem egyezik.", "tlsClientIdentityFailure": "A kapcsolatteszt meghiúsult: a szerver elutasította a klienstanúsítványt, vagy az nem érhető el.", "tlsMaterialUnavailable": "A kapcsolatteszt meghiúsult: az importált tanúsítványanyag nem érhető el. Importálja újra.", "tlsConfigurationFailure": "A kapcsolatteszt meghiúsult: TLS-konfigurációs hiba."
+  "tlsTrustFailure": "A kapcsolatteszt meghiúsult: a szerver tanúsítványa nem megbízható, vagy a hostneve nem egyezik.", "tlsClientIdentityFailure": "A kapcsolatteszt meghiúsult: a szerver elutasította a klienstanúsítványt, vagy az nem érhető el.", "tlsMaterialUnavailable": "A kapcsolatteszt meghiúsult: az importált tanúsítványanyag nem érhető el. Importálja újra.", "tlsConfigurationFailure": "A kapcsolatteszt meghiúsult: TLS-konfigurációs hiba.",
+  "appLock": "Alkalmazászár",
+  "appLockOnSubtitle": "Ujjlenyomat, Face ID vagy az eszköz jelkódjának megkövetelése az alkalmazás megnyitásához",
+  "appLockOffSubtitle": "Az alkalmazás megnyitása hitelesítés nélkül",
+  "appLockUnsupported": "Ez az eszköz nem támogatja a biometrikus vagy eszközalapú hitelesítést",
+  "appLockScreenTitle": "Alkalmazás zárolva",
+  "appLockUnlock": "Feloldás",
+  "appLockReason": "Hitelesítsen az alkalmazás feloldásához"
 }

@@ -1046,5 +1046,12 @@
   "tlsTrustFailure": "Verbindungstest fehlgeschlagen: Das Serverzertifikat ist nicht vertrauenswürdig oder der Hostname stimmt nicht überein.",
   "tlsClientIdentityFailure": "Verbindungstest fehlgeschlagen: Der Server hat das Client-Zertifikat abgelehnt oder es ist nicht verfügbar.",
   "tlsMaterialUnavailable": "Verbindungstest fehlgeschlagen: Importiertes Zertifikatmaterial ist nicht verfügbar. Bitte erneut importieren.",
-  "tlsConfigurationFailure": "Verbindungstest fehlgeschlagen: TLS-Konfigurationsfehler."
+  "tlsConfigurationFailure": "Verbindungstest fehlgeschlagen: TLS-Konfigurationsfehler.",
+  "appLock": "App-Sperre",
+  "appLockOnSubtitle": "Fingerabdruck, Face ID oder Gerätecode zum Öffnen der App erforderlich",
+  "appLockOffSubtitle": "App ohne Authentifizierung öffnen",
+  "appLockUnsupported": "Dieses Gerät unterstützt keine biometrische oder Geräteauthentifizierung",
+  "appLockScreenTitle": "App gesperrt",
+  "appLockUnlock": "Entsperren",
+  "appLockReason": "Zum Entsperren der App authentifizieren"
 }

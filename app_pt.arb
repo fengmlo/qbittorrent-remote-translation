@@ -1021,5 +1021,12 @@
   "tlsMaterialUnavailableLabel": "Material indisponível",
   "keyChainRequiresOkHttp": "A identidade do Android KeyChain funciona apenas com a pilha de rede OkHttp; a pilha de rede deste servidor foi definida como OkHttp.",
   "credentialBundlePasswordError": "Senha incorreta ou arquivo corrompido.",
-  "tlsTrustFailure": "Teste de conexão falhou: o certificado do servidor não é confiável ou seu nome de host não coincide.", "tlsClientIdentityFailure": "Teste de conexão falhou: o servidor rejeitou o certificado do cliente ou ele está indisponível.", "tlsMaterialUnavailable": "Teste de conexão falhou: o material do certificado importado está indisponível. Importe-o novamente.", "tlsConfigurationFailure": "Teste de conexão falhou: erro de configuração do TLS."
+  "tlsTrustFailure": "Teste de conexão falhou: o certificado do servidor não é confiável ou seu nome de host não coincide.", "tlsClientIdentityFailure": "Teste de conexão falhou: o servidor rejeitou o certificado do cliente ou ele está indisponível.", "tlsMaterialUnavailable": "Teste de conexão falhou: o material do certificado importado está indisponível. Importe-o novamente.", "tlsConfigurationFailure": "Teste de conexão falhou: erro de configuração do TLS.",
+  "appLock": "Bloqueio do app",
+  "appLockOnSubtitle": "Exigir impressão digital, Face ID ou senha do dispositivo para abrir o app",
+  "appLockOffSubtitle": "Abrir o app sem autenticação",
+  "appLockUnsupported": "Este dispositivo não é compatível com autenticação biométrica ou do dispositivo",
+  "appLockScreenTitle": "App bloqueado",
+  "appLockUnlock": "Desbloquear",
+  "appLockReason": "Autentique-se para desbloquear o app"
 }

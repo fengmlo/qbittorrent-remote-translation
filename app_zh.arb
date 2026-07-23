@@ -1041,5 +1041,12 @@
   "tlsTrustFailure": "连接测试失败：服务器证书不受信任或主机名不匹配。",
   "tlsClientIdentityFailure": "连接测试失败：服务器拒绝了客户端证书，或该证书不可用。",
   "tlsMaterialUnavailable": "连接测试失败：导入的证书文件不可用，请重新导入。",
-  "tlsConfigurationFailure": "连接测试失败：TLS 配置错误。"
+  "tlsConfigurationFailure": "连接测试失败：TLS 配置错误。",
+  "appLock": "应用锁",
+  "appLockOnSubtitle": "需要指纹、Face ID 或设备密码才能打开应用",
+  "appLockOffSubtitle": "打开应用时无需验证",
+  "appLockUnsupported": "此设备不支持生物识别或设备验证",
+  "appLockScreenTitle": "应用已锁定",
+  "appLockUnlock": "解锁",
+  "appLockReason": "验证以解锁应用"
 }
