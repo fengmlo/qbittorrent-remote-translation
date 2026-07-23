@@ -747,9 +747,26 @@
   "useTransparentNaviBarOnSubtitle": "Make android navigation bar transparent，no effect on some devices",
   "useTransparentNaviBarOffSubtitle": "Use default setting",
   "notifyWhenDownloadComplete": "Notify when download complete",
-  "notifyWhenDownloadCompleteSubtitle": "Will continue to refresh the torrent list in the background",
+  "notifyWhenDownloadCompleteSubtitle": "Periodically checks for completed downloads in the background",
   "backgroundRefreshInterval": "Background refresh interval",
   "backgroundRefreshIntervalSubtitle": "Background torrent list update Interval",
+  "backgroundPollIntervalSubtitle": "Notifications may be delayed by system scheduling",
+  "backgroundPollIntervalMinutes": "{interval} min",
+  "@backgroundPollIntervalMinutes": {
+    "placeholders": {
+      "interval": {
+        "type": "int"
+      }
+    }
+  },
+  "backgroundPollIntervalHours": "{hours} h",
+  "@backgroundPollIntervalHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
   "backgroundServiceNotice": "Background refresh service is running",
   "downloadComplete": "Download completed",
   "backgroundServiceName": "Background refresh service",
