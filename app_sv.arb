@@ -1007,7 +1007,12 @@
   "skipHostnameVerificationHint": "Endast det importerade certifikatet godkänns, värdnamnet ignoreras – importera serverns eget certifikat snarare än en CA. Används vid anslutning via en IP-adress som inte ingår i certifikatet.",
   "networkStack": "Nätverksstack", "networkStackReconfigureHint": "Återuppbygg den aktuella serveranslutningen efter byte", "inheritGlobal": "Följ globala", "activeNetworkStack": "För närvarande aktiv: {stack}", "customCa": "Anpassat certifikat", "customCaHint": "Importera serverns självsignerade certifikat, eller den CA som utfärdade det, för att lita på servern (certifikatets värdnamn måste matcha adressen)", "importAction": "Importera", "replaceAction": "Ersätt", "clientCertificate": "Klientcertifikat (mTLS)", "importPkcs12": "Importera PKCS#12", "selectAndroidKeyChain": "Välj Android KeyChain", "noClientCertificate": "Använd inte klientcertifikat", "trustAllCertificates": "Lita på alla certifikat?", "trustAllCertificatesWarning": "Detta inaktiverar verifiering av servercertifikat och kan göra att anslutningen avlyssnas. Den importerade anpassade CA-certifikatet kommer inte längre att användas.", "trustAnyway": "Lita på ändå", "pkcs12Password": "PKCS#12-lösenord",
   "certificateImportFailed": "Import misslyckades: filen är inte ett certifikat som stöds",
-  "pkcs12ImportFailed": "Import misslyckades: felaktigt lösenord eller PKCS#12-fil som inte stöds", "exportCredentialBundle": "Exportera serverns autentiseringspaket", "credentialBundleHint": "Innehåller importerat CA/P12; ett säkerhetskopieringslösenord krävs; Android KeyChain exporteras inte", "choosePasswordAndExport": "Välj ett lösenord och exportera", "importCredentialBundle": "Importera serverns autentiseringspaket", "backupPassword": "Säkerhetskopieringslösenord",
+  "pkcs12ImportFailed": "Import misslyckades: felaktigt lösenord eller PKCS#12-fil som inte stöds", "backupPassword": "Säkerhetskopieringslösenord",
+  "includeCredentialsOption": "Certifikat och nycklar (lösenord krävs)",
+  "backupPasswordHelper": "Valfritt. Om det anges krypteras hela säkerhetskopian; använd ett starkt lösenord.",
+  "backupPasswordRequired": "Ett säkerhetskopieringslösenord krävs för att exportera certifikat och nycklar.",
+  "backupPasswordAsciiOnly": "Säkerhetskopieringslösenordet kan endast innehålla ASCII-tecken.",
+  "enterBackupPassword": "Ange säkerhetskopieringslösenord",
   "networkStackDioPros": "Stabil och beprövad",
   "networkStackDioCons": "Ingen systemproxy eller vissa certifikatscenarier",
   "networkStackOkHttpPros": "Fungerar med systemproxy och har fullt certifikatstöd",
@@ -1015,7 +1020,6 @@
   "certificateExpires": "Går ut {date}",
   "tlsMaterialUnavailableLabel": "Materialet är inte tillgängligt",
   "keyChainRequiresOkHttp": "Android KeyChain-identiteten fungerar endast med nätverksstacken OkHttp, så serverns nätverksstack har ställts in på OkHttp.",
-  "credentialBundleRestoreWarning": "Återställning av det här paketet ersätter hela den aktuella serverlistan med servrarna i paketet.",
   "credentialBundlePasswordError": "Fel lösenord eller skadad fil.",
   "tlsTrustFailure": "Anslutningstestet misslyckades: servercertifikatet är inte betrott eller så stämmer inte värdnamnet.", "tlsClientIdentityFailure": "Anslutningstestet misslyckades: servern avvisade klientcertifikatet eller så är det inte tillgängligt.", "tlsMaterialUnavailable": "Anslutningstestet misslyckades: importerat certifikatmaterial är inte tillgängligt. Importera det igen.", "tlsConfigurationFailure": "Anslutningstestet misslyckades: TLS-konfigurationsfel."
 }

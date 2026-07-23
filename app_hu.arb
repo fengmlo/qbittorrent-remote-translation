@@ -1014,7 +1014,12 @@
   "skipHostnameVerificationHint": "Csak maga az importált tanúsítvány fogadható el, a gépnév figyelmen kívül hagyásával – a szerver saját tanúsítványát importálja, ne egy CA-t. Akkor használja, ha olyan IP-címmel csatlakozik, amelyet a tanúsítvány nem tartalmaz.",
   "networkStack": "Hálózati verem", "networkStackReconfigureHint": "Váltás után újraépíti a jelenlegi szerverkapcsolatot", "inheritGlobal": "Globális beállítás követése", "activeNetworkStack": "Jelenleg aktív: {stack}", "customCa": "Egyéni tanúsítvány", "customCaHint": "Importáld a szerver önaláírt tanúsítványát vagy az azt kiállító CA-t, hogy megbízz a szerverben (a tanúsítvány gépnevének egyeznie kell a címmel)", "importAction": "Importálás", "replaceAction": "Cseréje", "clientCertificate": "Klienstanúsítvány (mTLS)", "importPkcs12": "PKCS#12 importálása", "selectAndroidKeyChain": "Android KeyChain kiválasztása", "noClientCertificate": "Ne használjon klienstanúsítványt", "trustAllCertificates": "Megbízik az összes tanúsítványban?", "trustAllCertificatesWarning": "Ez letiltja a szerver tanúsítványának ellenőrzését, így a kapcsolat elfoghatóvá válhat. Az importált egyedi CA a továbbiakban nem lesz használatban.", "trustAnyway": "Mégis megbízom benne", "pkcs12Password": "PKCS#12 jelszó",
   "certificateImportFailed": "Sikertelen importálás: a fájl nem támogatott tanúsítvány",
-  "pkcs12ImportFailed": "Sikertelen importálás: helytelen jelszó vagy nem támogatott PKCS#12 fájl", "exportCredentialBundle": "Szerver hitelesítési csomag exportálása", "credentialBundleHint": "Tartalmazza az importált CA/P12 fájlokat; biztonsági jelszó szükséges; az Android KeyChain nem kerül exportálásra", "choosePasswordAndExport": "Jelszó megadása és exportálás", "importCredentialBundle": "Szerver hitelesítési csomag importálása", "backupPassword": "Biztonsági mentés jelszava",
+  "pkcs12ImportFailed": "Sikertelen importálás: helytelen jelszó vagy nem támogatott PKCS#12 fájl", "backupPassword": "Biztonsági mentés jelszava",
+  "includeCredentialsOption": "Tanúsítványok és kulcsok (jelszó szükséges)",
+  "backupPasswordHelper": "Opcionális. Ha be van állítva, a teljes biztonsági mentés titkosítva lesz; használjon erős jelszót.",
+  "backupPasswordRequired": "A tanúsítványok és kulcsok exportálásához a biztonsági mentés jelszava szükséges.",
+  "backupPasswordAsciiOnly": "A biztonsági mentés jelszava csak ASCII karaktereket tartalmazhat.",
+  "enterBackupPassword": "Adja meg a biztonsági mentés jelszavát",
   "networkStackDioPros": "Stabil és érett",
   "networkStackDioCons": "Nincs rendszer-proxy vagy egyes tanúsítványkezelési beállítások",
   "networkStackOkHttpPros": "Működik a rendszer-proxyval és teljes tanúsítványtámogatással",
@@ -1022,7 +1027,6 @@
   "certificateExpires": "Lejárat: {date}",
   "tlsMaterialUnavailableLabel": "Az anyag nem érhető el",
   "keyChainRequiresOkHttp": "Az Android KeyChain identitás csak az OkHttp hálózati veremmel működik, ezért a szerver hálózati verme OkHttp-re lett állítva.",
-  "credentialBundleRestoreWarning": "A csomag visszaállítása a teljes jelenlegi szerverlistát a csomagban lévő szerverekre cseréli.",
   "credentialBundlePasswordError": "Hibás jelszó vagy sérült fájl.",
   "tlsTrustFailure": "A kapcsolatteszt meghiúsult: a szerver tanúsítványa nem megbízható, vagy a hostneve nem egyezik.", "tlsClientIdentityFailure": "A kapcsolatteszt meghiúsult: a szerver elutasította a klienstanúsítványt, vagy az nem érhető el.", "tlsMaterialUnavailable": "A kapcsolatteszt meghiúsult: az importált tanúsítványanyag nem érhető el. Importálja újra.", "tlsConfigurationFailure": "A kapcsolatteszt meghiúsult: TLS-konfigurációs hiba."
 }

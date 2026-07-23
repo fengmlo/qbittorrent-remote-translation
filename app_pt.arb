@@ -1007,7 +1007,12 @@
   "skipHostnameVerificationHint": "Apenas o próprio certificado importado é aceito, ignorando o nome de host — importe o certificado do próprio servidor em vez de uma CA. Use ao se conectar por um endereço IP não incluído no certificado.",
   "networkStack": "Pilha de rede", "networkStackReconfigureHint": "Reconstrói a conexão do servidor atual após a alternância", "inheritGlobal": "Seguir o global", "activeNetworkStack": "Ativo atualmente: {stack}", "customCa": "Certificado personalizado", "customCaHint": "Importe o certificado autoassinado do servidor, ou a CA que o emitiu, para confiar no servidor (o nome do host no certificado deve corresponder ao endereço)", "importAction": "Importar", "replaceAction": "Substituir", "clientCertificate": "Certificado do cliente (mTLS)", "importPkcs12": "Importar PKCS#12", "selectAndroidKeyChain": "Selecionar Android KeyChain", "noClientCertificate": "Não usar certificado do cliente", "trustAllCertificates": "Confiar em todos os certificados?", "trustAllCertificatesWarning": "Isso desativa a verificação do certificado do servidor e pode permitir que a conexão seja interceptada. A CA personalizada importada não será mais usada.", "trustAnyway": "Confiar mesmo assim", "pkcs12Password": "Senha do PKCS#12",
   "certificateImportFailed": "Falha ao importar: o arquivo não é um certificado suportado",
-  "pkcs12ImportFailed": "Falha ao importar: senha incorreta ou arquivo PKCS#12 não suportado", "exportCredentialBundle": "Exportar pacote de credenciais do servidor", "credentialBundleHint": "Inclui CA/P12 importados; uma senha de backup é necessária; Android KeyChain não é exportado", "choosePasswordAndExport": "Escolher uma senha e exportar", "importCredentialBundle": "Importar pacote de credenciais do servidor", "backupPassword": "Senha do backup",
+  "pkcs12ImportFailed": "Falha ao importar: senha incorreta ou arquivo PKCS#12 não suportado", "backupPassword": "Senha do backup",
+  "includeCredentialsOption": "Certificados e chaves (senha necessária)",
+  "backupPasswordHelper": "Opcional. Quando definida, todo o backup é criptografado; use uma senha forte.",
+  "backupPasswordRequired": "Uma senha do backup é necessária para exportar certificados e chaves.",
+  "backupPasswordAsciiOnly": "A senha do backup pode conter apenas caracteres ASCII.",
+  "enterBackupPassword": "Digite a senha do backup",
   "networkStackDioPros": "Estável e maduro",
   "networkStackDioCons": "Sem proxy do sistema ou alguns cenários de certificado",
   "networkStackOkHttpPros": "Funciona com proxy do sistema e suporte completo a certificados",
@@ -1015,7 +1020,6 @@
   "certificateExpires": "Expira em {date}",
   "tlsMaterialUnavailableLabel": "Material indisponível",
   "keyChainRequiresOkHttp": "A identidade do Android KeyChain funciona apenas com a pilha de rede OkHttp; a pilha de rede deste servidor foi definida como OkHttp.",
-  "credentialBundleRestoreWarning": "Restaurar este pacote substitui toda a lista atual de servidores pelos servidores contidos nele.",
   "credentialBundlePasswordError": "Senha incorreta ou arquivo corrompido.",
   "tlsTrustFailure": "Teste de conexão falhou: o certificado do servidor não é confiável ou seu nome de host não coincide.", "tlsClientIdentityFailure": "Teste de conexão falhou: o servidor rejeitou o certificado do cliente ou ele está indisponível.", "tlsMaterialUnavailable": "Teste de conexão falhou: o material do certificado importado está indisponível. Importe-o novamente.", "tlsConfigurationFailure": "Teste de conexão falhou: erro de configuração do TLS."
 }

@@ -1014,7 +1014,12 @@
   "skipHostnameVerificationHint": "호스트 이름을 무시하고 가져온 인증서 자체만 허용됩니다. CA가 아닌 서버 자체의 인증서를 가져오세요. 인증서에 포함되지 않은 IP 주소로 연결할 때 사용합니다.",
   "networkStack": "네트워크 스택", "networkStackReconfigureHint": "전환 후 현재 서버 연결을 다시 생성합니다", "inheritGlobal": "전역 설정 따르기", "activeNetworkStack": "현재 활성: {stack}", "customCa": "사용자 지정 인증서", "customCaHint": "서버의 자체 서명 인증서 또는 이를 발급한 CA를 가져와 서버를 신뢰합니다(인증서의 호스트 이름이 주소와 일치해야 함)", "importAction": "가져오기", "replaceAction": "교체", "clientCertificate": "클라이언트 인증서 (mTLS)", "importPkcs12": "PKCS#12 가져오기", "selectAndroidKeyChain": "Android KeyChain 선택", "noClientCertificate": "클라이언트 인증서 사용 안 함", "trustAllCertificates": "모든 인증서를 신뢰하시겠습니까?", "trustAllCertificatesWarning": "이 옵션은 서버 인증서 검증을 비활성화하며 연결이 가로채질 수 있습니다. 가져온 사용자 지정 CA는 더 이상 사용되지 않습니다.", "trustAnyway": "그래도 신뢰", "pkcs12Password": "PKCS#12 비밀번호",
   "certificateImportFailed": "가져오기 실패: 지원되지 않는 인증서 파일입니다",
-  "pkcs12ImportFailed": "가져오기 실패: 올바르지 않은 비밀번호이거나 지원되지 않는 PKCS#12 파일입니다", "exportCredentialBundle": "서버 자격 증명 번들 내보내기", "credentialBundleHint": "가져온 CA/P12가 포함됩니다. 백업 비밀번호가 필요합니다. Android KeyChain은 내보내지지 않습니다", "choosePasswordAndExport": "비밀번호를 설정하고 내보내기", "importCredentialBundle": "서버 자격 증명 번들 가져오기", "backupPassword": "백업 비밀번호",
+  "pkcs12ImportFailed": "가져오기 실패: 올바르지 않은 비밀번호이거나 지원되지 않는 PKCS#12 파일입니다", "backupPassword": "백업 비밀번호",
+  "includeCredentialsOption": "인증서 및 키(비밀번호 필수)",
+  "backupPasswordHelper": "선택 사항. 설정 시 백업 전체가 암호화됩니다. 강력한 비밀번호를 사용하세요.",
+  "backupPasswordRequired": "인증서와 키를 내보내려면 백업 비밀번호가 필요합니다.",
+  "backupPasswordAsciiOnly": "백업 비밀번호는 ASCII 문자만 포함할 수 있습니다.",
+  "enterBackupPassword": "백업 비밀번호 입력",
   "networkStackDioPros": "안정적이고 성숙함",
   "networkStackDioCons": "시스템 프록시 및 일부 인증서 시나리오 미지원",
   "networkStackOkHttpPros": "시스템 프록시 동작 및 완벽한 인증서 지원",
@@ -1022,7 +1027,6 @@
   "certificateExpires": "만료일: {date}",
   "tlsMaterialUnavailableLabel": "인증서 자료 없음",
   "keyChainRequiresOkHttp": "Android KeyChain 신원은 OkHttp 네트워크 스택에서만 사용할 수 있으므로 이 서버의 네트워크 스택이 OkHttp로 설정되었습니다.",
-  "credentialBundleRestoreWarning": "이 번들을 복원하면 현재 서버 목록 전체가 번들에 포함된 서버로 교체됩니다.",
   "credentialBundlePasswordError": "비밀번호가 잘못되었거나 파일이 손상되었습니다.",
   "tlsTrustFailure": "연결 테스트 실패: 서버 인증서를 신뢰할 수 없거나 호스트 이름이 일치하지 않습니다.", "tlsClientIdentityFailure": "연결 테스트 실패: 서버가 클라이언트 인증서를 거부했거나 사용할 수 없습니다.", "tlsMaterialUnavailable": "연결 테스트 실패: 가져온 인증서 자료를 사용할 수 없습니다. 다시 가져오세요.", "tlsConfigurationFailure": "연결 테스트 실패: TLS 구성 오류."
 }

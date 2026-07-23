@@ -1017,11 +1017,15 @@
   "importAction": "Importer", "replaceAction": "Remplacer", "clientCertificate": "Certificat client (mTLS)", "importPkcs12": "Importer PKCS#12", "selectAndroidKeyChain": "Sélectionner Android KeyChain", "noClientCertificate": "Ne pas utiliser de certificat client",
   "trustAllCertificates": "Faire confiance à tous les certificats ?", "trustAllCertificatesWarning": "Cela désactive la vérification du certificat du serveur et peut permettre l'interception de la connexion. La CA personnalisée importée ne sera plus utilisée.", "trustAnyway": "Faire confiance quand même", "pkcs12Password": "Mot de passe PKCS#12",
   "certificateImportFailed": "Échec de l'importation : le fichier n'est pas un certificat pris en charge",
-  "pkcs12ImportFailed": "Échec de l'importation : mot de passe incorrect ou fichier PKCS#12 non pris en charge", "exportCredentialBundle": "Exporter le bundle d'identifiants du serveur", "credentialBundleHint": "Inclut la CA/P12 importée ; un mot de passe de sauvegarde est requis ; Android KeyChain n'est pas exporté", "choosePasswordAndExport": "Choisir un mot de passe et exporter", "importCredentialBundle": "Importer le bundle d'identifiants du serveur", "backupPassword": "Mot de passe de sauvegarde",
+  "pkcs12ImportFailed": "Échec de l'importation : mot de passe incorrect ou fichier PKCS#12 non pris en charge", "backupPassword": "Mot de passe de sauvegarde",
+  "includeCredentialsOption": "Certificats et clés (mot de passe requis)",
+  "backupPasswordHelper": "Facultatif. S'il est défini, l'intégralité de la sauvegarde sera chiffrée ; utilisez un mot de passe fort.",
+  "backupPasswordRequired": "Un mot de passe de sauvegarde est requis pour exporter les certificats et les clés.",
+  "backupPasswordAsciiOnly": "Le mot de passe de sauvegarde ne peut contenir que des caractères ASCII.",
+  "enterBackupPassword": "Saisir le mot de passe de sauvegarde",
   "certificateExpires": "Expire le {date}",
   "tlsMaterialUnavailableLabel": "Matériel indisponible",
   "keyChainRequiresOkHttp": "L'identité Android KeyChain ne fonctionne qu'avec la pile réseau OkHttp ; la pile réseau de ce serveur a donc été définie sur OkHttp.",
-  "credentialBundleRestoreWarning": "La restauration de ce bundle remplace toute la liste actuelle des serveurs par ceux qu'il contient.",
   "credentialBundlePasswordError": "Mot de passe incorrect ou fichier corrompu.",
   "tlsTrustFailure": "Échec du test de connexion : le certificat du serveur n'est pas approuvé ou son nom d'hôte ne correspond pas.", "tlsClientIdentityFailure": "Échec du test de connexion : le serveur a rejeté le certificat client ou il est indisponible.", "tlsMaterialUnavailable": "Échec du test de connexion : le matériel de certificat importé est indisponible. Veuillez l'importer à nouveau.", "tlsConfigurationFailure": "Échec du test de connexion : erreur de configuration TLS."
 }
