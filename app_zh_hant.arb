@@ -1046,7 +1046,6 @@
   "appLockOnSubtitle": "需要指紋、Face ID 或裝置密碼才能開啟應用程式",
   "appLockOffSubtitle": "開啟應用程式時無需驗證",
   "appLockUnsupported": "此裝置不支援生物辨識或裝置驗證",
-  "appLockScreenTitle": "應用程式已鎖定",
   "appLockUnlock": "解鎖",
   "appLockReason": "驗證以解鎖應用程式",
   "appLockGrace": "鎖定寬限期",

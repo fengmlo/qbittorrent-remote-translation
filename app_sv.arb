@@ -1026,7 +1026,6 @@
   "appLockOnSubtitle": "Kräv fingeravtryck, Face ID eller enhetens lösenkod för att öppna appen",
   "appLockOffSubtitle": "Öppna appen utan autentisering",
   "appLockUnsupported": "Den här enheten stöder inte biometrisk autentisering eller enhetsautentisering",
-  "appLockScreenTitle": "Appen är låst",
   "appLockUnlock": "Lås upp",
   "appLockReason": "Autentisera för att låsa upp appen",
   "appLockGrace": "Respittid för låsning",

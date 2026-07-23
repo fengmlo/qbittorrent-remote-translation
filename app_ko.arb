@@ -1033,7 +1033,6 @@
   "appLockOnSubtitle": "앱을 열려면 지문, Face ID 또는 기기 암호가 필요합니다",
   "appLockOffSubtitle": "인증 없이 앱 열기",
   "appLockUnsupported": "이 기기는 생체 인증 또는 기기 인증을 지원하지 않습니다",
-  "appLockScreenTitle": "앱이 잠김",
   "appLockUnlock": "잠금 해제",
   "appLockReason": "인증하여 앱 잠금 해제",
   "appLockGrace": "잠금 유예 기간",

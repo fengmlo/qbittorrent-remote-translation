@@ -1103,7 +1103,6 @@
   "appLockOnSubtitle": "Require fingerprint, Face ID or device passcode to open the app",
   "appLockOffSubtitle": "Open the app without authentication",
   "appLockUnsupported": "This device doesn't support biometric or device authentication",
-  "appLockScreenTitle": "App locked",
   "appLockUnlock": "Unlock",
   "appLockReason": "Authenticate to unlock the app",
   "appLockGrace": "Lock grace period",

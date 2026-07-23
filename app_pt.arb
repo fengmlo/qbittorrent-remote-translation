@@ -1026,7 +1026,6 @@
   "appLockOnSubtitle": "Exigir impressão digital, Face ID ou senha do dispositivo para abrir o app",
   "appLockOffSubtitle": "Abrir o app sem autenticação",
   "appLockUnsupported": "Este dispositivo não é compatível com autenticação biométrica ou do dispositivo",
-  "appLockScreenTitle": "App bloqueado",
   "appLockUnlock": "Desbloquear",
   "appLockReason": "Autentique-se para desbloquear o app",
   "appLockGrace": "Tempo de carência de bloqueio",

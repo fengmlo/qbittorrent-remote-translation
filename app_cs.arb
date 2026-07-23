@@ -1044,7 +1044,6 @@
   "appLockOnSubtitle": "Vyžadovat otisk prstu, Face ID nebo kód zařízení k otevření aplikace",
   "appLockOffSubtitle": "Otevírat aplikaci bez ověření",
   "appLockUnsupported": "Toto zařízení nepodporuje biometrické ověření ani ověření zařízení",
-  "appLockScreenTitle": "Aplikace uzamčena",
   "appLockUnlock": "Odemknout",
   "appLockReason": "Ověřte se pro odemknutí aplikace",
   "appLockGrace": "Doba odkladu uzamčení",

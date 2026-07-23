@@ -1026,7 +1026,6 @@
   "appLockOnSubtitle": "Wymagaj odcisku palca, Face ID lub kodu urządzenia do otwarcia aplikacji",
   "appLockOffSubtitle": "Otwieraj aplikację bez uwierzytelniania",
   "appLockUnsupported": "To urządzenie nie obsługuje uwierzytelniania biometrycznego ani uwierzytelniania urządzenia",
-  "appLockScreenTitle": "Aplikacja zablokowana",
   "appLockUnlock": "Odblokuj",
   "appLockReason": "Uwierzytelnij się, aby odblokować aplikację",
   "appLockGrace": "Okres karencji blokady",

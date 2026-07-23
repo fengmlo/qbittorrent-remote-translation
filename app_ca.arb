@@ -1044,7 +1044,6 @@
   "appLockOnSubtitle": "Requereix empremta digital, Face ID o el codi del dispositiu per obrir l'aplicació",
   "appLockOffSubtitle": "Obre l'aplicació sense autenticació",
   "appLockUnsupported": "Aquest dispositiu no admet l'autenticació biomètrica ni la del dispositiu",
-  "appLockScreenTitle": "Aplicació bloquejada",
   "appLockUnlock": "Desbloqueja",
   "appLockReason": "Autentiqueu-vos per desbloquejar l'aplicació",
   "appLockGrace": "Període de gràcia de bloqueig",

@@ -1051,7 +1051,6 @@
   "appLockOnSubtitle": "Fingerabdruck, Face ID oder Gerätecode zum Öffnen der App erforderlich",
   "appLockOffSubtitle": "App ohne Authentifizierung öffnen",
   "appLockUnsupported": "Dieses Gerät unterstützt keine biometrische oder Geräteauthentifizierung",
-  "appLockScreenTitle": "App gesperrt",
   "appLockUnlock": "Entsperren",
   "appLockReason": "Zum Entsperren der App authentifizieren",
   "appLockGrace": "Sperrfrist",

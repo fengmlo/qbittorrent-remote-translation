@@ -1033,7 +1033,6 @@
   "appLockOnSubtitle": "Ujjlenyomat, Face ID vagy az eszköz jelkódjának megkövetelése az alkalmazás megnyitásához",
   "appLockOffSubtitle": "Az alkalmazás megnyitása hitelesítés nélkül",
   "appLockUnsupported": "Ez az eszköz nem támogatja a biometrikus vagy eszközalapú hitelesítést",
-  "appLockScreenTitle": "Alkalmazás zárolva",
   "appLockUnlock": "Feloldás",
   "appLockReason": "Hitelesítsen az alkalmazás feloldásához",
   "appLockGrace": "Zárolási türelmi idő",

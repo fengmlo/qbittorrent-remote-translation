@@ -1033,7 +1033,6 @@
   "appLockOnSubtitle": "アプリを開くのに指紋、Face ID、またはデバイスのパスコードを要求",
   "appLockOffSubtitle": "認証なしでアプリを開く",
   "appLockUnsupported": "このデバイスは生体認証またはデバイス認証に対応していません",
-  "appLockScreenTitle": "アプリはロックされています",
   "appLockUnlock": "ロック解除",
   "appLockReason": "認証してアプリのロックを解除",
   "appLockGrace": "ロックの猶予期間",

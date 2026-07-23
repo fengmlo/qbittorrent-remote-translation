@@ -1032,7 +1032,6 @@
   "appLockOnSubtitle": "Exiger une empreinte, Face ID ou le code de l'appareil pour ouvrir l'application",
   "appLockOffSubtitle": "Ouvrir l'application sans authentification",
   "appLockUnsupported": "Cet appareil ne prend pas en charge l'authentification biométrique ou par appareil",
-  "appLockScreenTitle": "Application verrouillée",
   "appLockUnlock": "Déverrouiller",
   "appLockReason": "Authentifiez-vous pour déverrouiller l'application",
   "appLockGrace": "Délai avant verrouillage",

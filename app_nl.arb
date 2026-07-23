@@ -1033,7 +1033,6 @@
   "appLockOnSubtitle": "Vingerafdruk, Face ID of toegangscode van het apparaat vereisen om de app te openen",
   "appLockOffSubtitle": "App openen zonder authenticatie",
   "appLockUnsupported": "Dit apparaat ondersteunt geen biometrische of apparaatauthenticatie",
-  "appLockScreenTitle": "App vergrendeld",
   "appLockUnlock": "Ontgrendelen",
   "appLockReason": "Verifieer om de app te ontgrendelen",
   "appLockGrace": "Vergrendelingsuitstel",
