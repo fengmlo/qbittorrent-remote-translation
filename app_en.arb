@@ -767,6 +767,27 @@
       }
     }
   },
+  "notificationServers": "Servers to notify",
+  "notificationServersAll": "All servers",
+  "notificationServersSelected": "{count,plural, =1{{count} server selected} other{{count} servers selected}}",
+  "@notificationServersSelected": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "downloadCompleteOnServer": "{title} · {server}",
+  "@downloadCompleteOnServer": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "server": {
+        "type": "String"
+      }
+    }
+  },
   "backgroundServiceNotice": "Background refresh service is running",
   "downloadComplete": "Download completed",
   "backgroundServiceName": "Background refresh service",
