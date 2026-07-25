@@ -1131,5 +1131,34 @@
   "@appLockGraceValueMinutes": {"placeholders": {"minutes": {}}},
   "privacyScreen": "Privacy screen",
   "privacyScreenOnSubtitle": "Cover screen content when switching apps",
-  "privacyScreenOffSubtitle": "App content stays visible when switching apps"
+  "privacyScreenOffSubtitle": "App content stays visible when switching apps",
+  "durationAgo": "{duration} ago",
+  "@durationAgo": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "fieldLastActivity": "Last activity",
+  "fieldQueuePosition": "Queue position",
+  "fieldCategoryTags": "Category + tags",
+  "fieldStatusProgress": "Status + progress",
+  "fieldProgressBar": "Progress bar",
+  "fieldDownloadedCombo": "Downloaded (total)",
+  "fieldUploadedCombo": "Uploaded (ratio)",
+  "listDisplayCustomizeTitle": "Customize list display",
+  "listDisplayCustomizeSubtitle": "Fields, layout and alignment of the torrent list rows",
+  "listDisplayResetConfirm": "Restore the default list layout? Your customization will be cleared.",
+  "listDisplayAddRow": "Add row",
+  "listDisplayPoolGroupCombo": "Combined fields",
+  "listDisplayPoolGroupSpecial": "Special",
+  "listDisplayPoolGroupSingle": "Individual fields",
+  "listDisplayPoolGroupLong": "Long fields",
+  "listDisplayPoolHint": "Field pool: tap a highlighted field to add it to the row, or drag a field here to remove it",
+  "listDisplayWidth": "Width",
+  "listDisplayAlign": "Alignment",
+  "listDisplayStatusIcon": "Status icon",
+  "listDisplayPreview": "Preview",
+  "listDisplayLayout": "Layout"
 }
