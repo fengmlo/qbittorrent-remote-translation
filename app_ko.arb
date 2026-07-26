@@ -575,6 +575,7 @@
   "presetOverwriteHint": "이 이름의 기존 프리셋을 덮어씁니다",
   "presetDuplicateName": "이름이 이미 존재합니다",
   "presetPluginsUnavailable": "프리셋 플러그인을 사용할 수 없어 활성화된 경우만으로 전환되었습니다",
+  "sortMoreDimensions": "더 보기",
   "customSortMenu": "사용자 지정",
   "customSortTitle": "사용자 지정 정렬",
   "customSortAddLevel": "정렬 레벨 추가",

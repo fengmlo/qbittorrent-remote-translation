@@ -636,6 +636,7 @@
   "presetOverwriteHint": "Overwrites the existing preset with this name",
   "presetDuplicateName": "Name already exists",
   "presetPluginsUnavailable": "Preset plugins are unavailable, switched to only enabled plugins",
+  "sortMoreDimensions": "More",
   "customSortMenu": "Custom",
   "customSortTitle": "Custom sort",
   "customSortAddLevel": "Add sort level",

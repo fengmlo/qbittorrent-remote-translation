@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Перезаписывает существующую предустановку с этим именем",
   "presetDuplicateName": "Имя уже существует",
   "presetPluginsUnavailable": "Плагины предустановки недоступны, переключено на только включенные",
+  "sortMoreDimensions": "Ещё",
   "customSortMenu": "Пользовательский",
   "customSortTitle": "Пользовательская сортировка",
   "customSortAddLevel": "Добавить уровень сортировки",

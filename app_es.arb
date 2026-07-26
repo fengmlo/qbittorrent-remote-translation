@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Sobrescribe el preajuste existente con este nombre",
   "presetDuplicateName": "El nombre ya existe",
   "presetPluginsUnavailable": "Los plugins del preajuste no están disponibles, se cambió a solo habilitados",
+  "sortMoreDimensions": "Más",
   "customSortMenu": "Personalizado",
   "customSortTitle": "Ordenación personalizada",
   "customSortAddLevel": "Añadir nivel de ordenación",

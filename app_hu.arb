@@ -575,6 +575,7 @@
   "presetOverwriteHint": "Felülírja a már létező előbeállítást ezen a néven",
   "presetDuplicateName": "A név már létezik",
   "presetPluginsUnavailable": "Az előbeállítás moduljai nem érhetők el, átváltva a csak az engedélyezettekre",
+  "sortMoreDimensions": "Több",
   "customSortMenu": "Egyedi",
   "customSortTitle": "Egyedi rendezés",
   "customSortAddLevel": "Rendezési szint hozzáadása",

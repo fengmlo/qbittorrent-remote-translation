@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Nadpisuje istniejący szablon o tej nazwie",
   "presetDuplicateName": "Nazwa już istnieje",
   "presetPluginsUnavailable": "Wtyczki szablonu są niedostępne, przełączono na tylko włączone",
+  "sortMoreDimensions": "Więcej",
   "customSortMenu": "Niestandardowy",
   "customSortTitle": "Niestandardowe sortowanie",
   "customSortAddLevel": "Dodaj poziom sortowania",

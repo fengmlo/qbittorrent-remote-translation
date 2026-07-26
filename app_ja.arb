@@ -575,6 +575,7 @@
   "presetOverwriteHint": "この名前の既存のプリセットを上書きします",
   "presetDuplicateName": "名前が既に存在します",
   "presetPluginsUnavailable": "プリセットのプラグインが利用できません。有効のみに切り替えました",
+  "sortMoreDimensions": "その他",
   "customSortMenu": "カスタム",
   "customSortTitle": "カスタムソート",
   "customSortAddLevel": "並べ替えレベルを追加",

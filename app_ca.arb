@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Sobreescriu la preconfiguració existent amb aquest nom",
   "presetDuplicateName": "El nom ja existeix",
   "presetPluginsUnavailable": "Els plugins de la preconfiguració no estan disponibles, s'ha canviat a només habilitats",
+  "sortMoreDimensions": "Més",
   "customSortMenu": "Personalitzat",
   "customSortTitle": "Ordenació personalitzada",
   "customSortAddLevel": "Afegeix un nivell d'ordenació",

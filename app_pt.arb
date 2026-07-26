@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Sobrescreve a predefinição existente com este nome",
   "presetDuplicateName": "O nome já existe",
   "presetPluginsUnavailable": "Os plugins da predefinição estão indisponíveis, alterado para somente habilitado",
+  "sortMoreDimensions": "Mais",
   "customSortMenu": "Personalizado",
   "customSortTitle": "Ordenação personalizada",
   "customSortAddLevel": "Adicionar nível de ordenação",

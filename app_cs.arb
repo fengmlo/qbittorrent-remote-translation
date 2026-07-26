@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Přepíše existující předvolbu s tímto názvem",
   "presetDuplicateName": "Název již existuje",
   "presetPluginsUnavailable": "Pluginy předvolby nejsou dostupné, přepnuto na pouze povolené",
+  "sortMoreDimensions": "Více",
   "customSortMenu": "Vlastní",
   "customSortTitle": "Vlastní řazení",
   "customSortAddLevel": "Přidat úroveň řazení",

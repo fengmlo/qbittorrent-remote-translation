@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Перезаписує існуючий шаблон з цим ім'ям",
   "presetDuplicateName": "Назва вже існує",
   "presetPluginsUnavailable": "Шаблонні плагіни недоступні, переключено на тільки увімкнені",
+  "sortMoreDimensions": "Ще",
   "customSortMenu": "Користувацький",
   "customSortTitle": "Користувацьке сортування",
   "customSortAddLevel": "Додати рівень сортування",

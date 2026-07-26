@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Skriver över den befintliga förinställningen med detta namn",
   "presetDuplicateName": "Namnet finns redan",
   "presetPluginsUnavailable": "Förinställningens tillägg är inte tillgängliga, ändrade till endast aktiverade",
+  "sortMoreDimensions": "Mer",
   "customSortMenu": "Anpassad",
   "customSortTitle": "Anpassad sortering",
   "customSortAddLevel": "Lägg till sorteringsnivå",

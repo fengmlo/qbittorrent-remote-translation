@@ -575,6 +575,7 @@
   "presetOverwriteHint": "Overschrijft de bestaande voorinstelling met deze naam",
   "presetDuplicateName": "Naam bestaat al",
   "presetPluginsUnavailable": "Vooringestelde plugins zijn niet beschikbaar, overgeschakeld naar alleen ingeschakeld",
+  "sortMoreDimensions": "Meer",
   "customSortMenu": "Aangepast",
   "customSortTitle": "Aangepaste sortering",
   "customSortAddLevel": "Sorteerniveau toevoegen",

@@ -577,6 +577,7 @@
   "presetOverwriteHint": "Écrase le préréglage existant portant ce nom",
   "presetDuplicateName": "Le nom existe déjà",
   "presetPluginsUnavailable": "Les greffons du préréglage ne sont pas disponibles, basculé sur activés uniquement",
+  "sortMoreDimensions": "Plus",
   "customSortMenu": "Personnalisé",
   "customSortTitle": "Tri personnalisé",
   "customSortAddLevel": "Ajouter un niveau de tri",

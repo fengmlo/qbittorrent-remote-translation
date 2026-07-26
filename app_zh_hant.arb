@@ -582,6 +582,7 @@
   "presetOverwriteHint": "覆蓋同名的現有預設",
   "presetDuplicateName": "名稱已存在",
   "presetPluginsUnavailable": "預設附加元件不可用，已切換為僅啟用的",
+  "sortMoreDimensions": "更多",
   "customSortMenu": "自訂",
   "customSortTitle": "自訂排序",
   "customSortAddLevel": "新增排序層級",
