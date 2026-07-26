@@ -542,7 +542,7 @@
   "mibPerSec": "MB/s",
   "gibPerSec": "GB/s",
   "tibPerSec": "TB/s",
-  "remaining": "Remaining",
+  "remaining": "Restante",
   "resumeAll": "retomar tudo",
   "pauseAll": "Pause tudo",
   "startAll": "Iniciar tudo",
