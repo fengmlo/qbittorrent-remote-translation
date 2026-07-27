@@ -4,8 +4,7 @@
   "selectFileCount": "{count,plural, =1{{count} Datei} other{{count} Dateien}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Auswahl umkehren",
@@ -360,31 +359,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} Tracker} other{{count} Tracker}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} Peer} other{{count} Peers}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Ausgewählte Tracker entfernen",
   "removeSelectedTrackersMessage": "{count,plural, =1{Der folgende Tracker wird aus diesem Torrent entfernt. Dies kann nicht rückgängig gemacht werden:} other{Die folgenden {count} Tracker werden aus diesem Torrent entfernt. Dies kann nicht rückgängig gemacht werden:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Ausgewählte Peers bannen",
   "banSelectedPeersMessage": "{count,plural, =1{Der folgende Peer wird dauerhaft gebannt:} other{Die folgenden {count} Peers werden dauerhaft gebannt:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "{count} bannen",
@@ -563,8 +558,7 @@
   "customPluginsCount": "Benutzerdefiniert ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Plugins auswählen",
@@ -1088,6 +1082,16 @@
   "listDisplayPoolHint": "Feldpool: Tippe auf ein hervorgehobenes Feld, um es zur Zeile hinzuzufügen, oder ziehe ein Feld hierher, um es zu entfernen",
   "listDisplayWidth": "Breite",
   "listDisplayAlign": "Ausrichtung",
+  "listDisplayLabel": "Beschriftung",
+  "listDisplayLabelText": "Text",
+  "listDisplayLabelNone": "Keine",
+  "listDisplayMoreIcons": "Weitere Icons",
+  "iconGroupTransfer": "Übertragung",
+  "iconGroupRate": "Rate & Metriken",
+  "iconGroupNetwork": "Peers & Netzwerk",
+  "iconGroupStorage": "Dateien & Speicher",
+  "iconGroupStatus": "Status & Markierungen",
+  "iconGroupTime": "Zeit & Reihenfolge",
   "listDisplayStatusIcon": "Statussymbol",
   "listDisplayPreview": "Vorschau",
   "listDisplayLayout": "Layout",

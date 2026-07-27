@@ -4,8 +4,7 @@
   "selectFileCount": "{count,plural, =1{{count} ファイル} other{{count} ファイル}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "選択を反転",
@@ -360,31 +359,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} トラッカー} other{{count} トラッカー}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} ピア} other{{count} ピア}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "選択したトラッカーを削除",
   "removeSelectedTrackersMessage": "{count,plural, =1{以下のトラッカーをこのトレントから削除します。この操作は取り消せません:} other{以下の {count} 件のトラッカーをこのトレントから削除します。この操作は取り消せません:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "選択したピアを禁止",
   "banSelectedPeersMessage": "{count,plural, =1{以下のピアを永久に禁止します:} other{以下の {count} 件のピアを永久に禁止します:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "{count} 件を禁止",
@@ -563,8 +558,7 @@
   "customPluginsCount": "カスタム ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "プラグインを選択",
@@ -1020,9 +1014,25 @@
   "noCertificateConfig": "未設定",
   "skipHostnameVerification": "ホスト名の検証をスキップ",
   "skipHostnameVerificationHint": "インポートされた証明書自体のみが受け入れられ、ホスト名は無視されます。CAではなくサーバー独自の証明書をインポートしてください。証明書に含まれていないIPアドレスで接続する場合に使用します。",
-  "networkStack": "ネットワークスタック", "networkStackReconfigureHint": "切り替え後に現在のサーバー接続を再構築します", "inheritGlobal": "全体設定に従う", "activeNetworkStack": "現在アクティブ: {stack}", "customCa": "カスタム証明書", "customCaHint": "サーバーの自己署名証明書、またはそれを発行した CA をインポートしてサーバーを信頼します（証明書のホスト名はアドレスと一致する必要があります）", "importAction": "インポート", "replaceAction": "置換", "clientCertificate": "クライアント証明書 (mTLS)", "importPkcs12": "PKCS#12 をインポート", "selectAndroidKeyChain": "Android KeyChain を選択", "noClientCertificate": "クライアント証明書を使用しない", "trustAllCertificates": "すべての証明書を信頼しますか？", "trustAllCertificatesWarning": "これによりサーバー証明書の検証が無効になり、通信が傍受される可能性があります。インポートしたカスタム CA は使用されなくなります。", "trustAnyway": "強制的に信頼", "pkcs12Password": "PKCS#12 パスワード",
+  "networkStack": "ネットワークスタック",
+  "networkStackReconfigureHint": "切り替え後に現在のサーバー接続を再構築します",
+  "inheritGlobal": "全体設定に従う",
+  "activeNetworkStack": "現在アクティブ: {stack}",
+  "customCa": "カスタム証明書",
+  "customCaHint": "サーバーの自己署名証明書、またはそれを発行した CA をインポートしてサーバーを信頼します（証明書のホスト名はアドレスと一致する必要があります）",
+  "importAction": "インポート",
+  "replaceAction": "置換",
+  "clientCertificate": "クライアント証明書 (mTLS)",
+  "importPkcs12": "PKCS#12 をインポート",
+  "selectAndroidKeyChain": "Android KeyChain を選択",
+  "noClientCertificate": "クライアント証明書を使用しない",
+  "trustAllCertificates": "すべての証明書を信頼しますか？",
+  "trustAllCertificatesWarning": "これによりサーバー証明書の検証が無効になり、通信が傍受される可能性があります。インポートしたカスタム CA は使用されなくなります。",
+  "trustAnyway": "強制的に信頼",
+  "pkcs12Password": "PKCS#12 パスワード",
   "certificateImportFailed": "インポート失敗: サポートされていない証明書ファイルです",
-  "pkcs12ImportFailed": "インポート失敗: パスワードが正しくないか、サポートされていないPKCS#12ファイルです", "backupPassword": "バックアップ用パスワード",
+  "pkcs12ImportFailed": "インポート失敗: パスワードが正しくないか、サポートされていないPKCS#12ファイルです",
+  "backupPassword": "バックアップ用パスワード",
   "includeCredentialsOption": "証明書とキー（パスワード必須）",
   "backupPasswordHelper": "任意。設定するとバックアップ全体が暗号化されます。強固なパスワードを使用してください。",
   "backupPasswordRequired": "証明書とキーをエクスポートするには、バックアップ用パスワードが必要です。",
@@ -1036,7 +1046,10 @@
   "tlsMaterialUnavailableLabel": "証明書データがありません",
   "keyChainRequiresOkHttp": "Android KeyChain の ID は OkHttp ネットワークスタックでのみ使用できるため、このサーバーのネットワークスタックを OkHttp に設定しました。",
   "credentialBundlePasswordError": "パスワードが正しくないか、ファイルが破損しています。",
-  "tlsTrustFailure": "接続テストに失敗しました: サーバー証明書が信頼できないか、ホスト名が一致しません。", "tlsClientIdentityFailure": "接続テストに失敗しました: サーバーがクライアント証明書を拒否したか、利用できません。", "tlsMaterialUnavailable": "接続テストに失敗しました: インポートした証明書データが利用できません。再度インポートしてください。", "tlsConfigurationFailure": "接続テストに失敗しました: TLS 設定エラー。",
+  "tlsTrustFailure": "接続テストに失敗しました: サーバー証明書が信頼できないか、ホスト名が一致しません。",
+  "tlsClientIdentityFailure": "接続テストに失敗しました: サーバーがクライアント証明書を拒否したか、利用できません。",
+  "tlsMaterialUnavailable": "接続テストに失敗しました: インポートした証明書データが利用できません。再度インポートしてください。",
+  "tlsConfigurationFailure": "接続テストに失敗しました: TLS 設定エラー。",
   "appLock": "アプリロック",
   "appLockOnSubtitle": "アプリを開くのに指紋、Face ID、またはデバイスのパスコードを要求",
   "appLockOffSubtitle": "認証なしでアプリを開く",
@@ -1070,6 +1083,16 @@
   "listDisplayPoolHint": "フィールド一覧：ハイライトされたフィールドをタップして行に追加、またはここへドラッグして削除",
   "listDisplayWidth": "幅",
   "listDisplayAlign": "配置",
+  "listDisplayLabel": "ラベル",
+  "listDisplayLabelText": "テキスト",
+  "listDisplayLabelNone": "なし",
+  "listDisplayMoreIcons": "その他のアイコン",
+  "iconGroupTransfer": "転送",
+  "iconGroupRate": "速度と指標",
+  "iconGroupNetwork": "ピアとネットワーク",
+  "iconGroupStorage": "ファイルとストレージ",
+  "iconGroupStatus": "ステータスとマーク",
+  "iconGroupTime": "時間と順序",
   "listDisplayStatusIcon": "状態アイコン",
   "listDisplayPreview": "プレビュー",
   "listDisplayLayout": "レイアウト",

@@ -5,16 +5,14 @@
   "selectFileCount": "{count,plural, other{{count}個檔案}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "反選",
   "selectTorrentCount": "{count,plural, other{{count}個種子}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "沒有種子",
@@ -64,8 +62,7 @@
   "deleteTorrentDialogMessage": "{count,plural, other{確定刪除{count}個種子嗎？}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "同時刪除檔案",
@@ -118,8 +115,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -229,8 +225,7 @@
   "refreshIntervalInfo": "{interval,plural, other{{interval} 秒}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "設定",
@@ -356,31 +351,27 @@
   "selectTrackerCount": "{count,plural, other{{count} 個 Tracker}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, other{{count} 個節點}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "移除選取的 Tracker",
   "removeSelectedTrackersMessage": "{count,plural, other{將從目前的種子移除以下 {count} 個 Tracker，此操作無法復原：}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "永遠封鎖選取的節點",
   "banSelectedPeersMessage": "{count,plural, other{將永遠封鎖以下 {count} 個節點：}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "封鎖 {count} 個",
@@ -448,8 +439,7 @@
   "selectedItemCount": "{count,plural, other{{count}個項目}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "新訂閱",
@@ -485,13 +475,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (已完成 {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "完成於",
@@ -502,37 +490,29 @@
   "connectionsInfo": "{connectionsNum} (最大 {connectionsLimit})",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} (本次會話 {transferredInSession})",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} (總計 {totalSeedsOrPeers})",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} (平均 {speedAvg})",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "下次匯報",
@@ -570,8 +550,7 @@
   "customPluginsCount": "自選 ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "選擇附加元件",
@@ -680,10 +659,8 @@
   "filterResult": "結果 (顯示 {filterResult} ，總計 {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "清空輸入",
@@ -735,7 +712,6 @@
   "inputUserHint": "輸入現有使用者",
   "unregister": "取消註冊",
   "unregisterMessage": "您確定要取消註冊嗎？這會將目前裝置從你的裝置清單中移除，如果這是您的最後一台裝置，那麼您的使用者將被取消註冊",
-  "retry": "重試",
   "getTokenFailed": "無法取得裝置資訊",
   "generatingUser": "正在生成使用者",
   "generateUserSuccess": "生成使用者成功",
@@ -765,8 +741,7 @@
   "torrentExported": "{count}個.torrent檔案已匯出到Download資料夾",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "AMOLED主題",
@@ -1083,6 +1058,16 @@
   "listDisplayPoolHint": "欄位池：點擊高亮欄位將其加入該列，或將欄位拖曳到此處移除",
   "listDisplayWidth": "寬度",
   "listDisplayAlign": "對齊",
+  "listDisplayLabel": "前綴",
+  "listDisplayLabelText": "文字",
+  "listDisplayLabelNone": "無",
+  "listDisplayMoreIcons": "更多圖示",
+  "iconGroupTransfer": "傳輸方向",
+  "iconGroupRate": "速率與度量",
+  "iconGroupNetwork": "節點與網路",
+  "iconGroupStorage": "檔案與儲存",
+  "iconGroupStatus": "狀態與標記",
+  "iconGroupTime": "時間與順序",
   "listDisplayStatusIcon": "狀態圖示",
   "listDisplayPreview": "預覽",
   "listDisplayLayout": "佈局",

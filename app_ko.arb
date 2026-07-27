@@ -4,8 +4,7 @@
   "selectFileCount": "{count,plural, =1{{count}개 파일} other{{count}개 파일}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "선택 반전",
@@ -360,31 +359,27 @@
   "selectTrackerCount": "{count,plural, =1{{count}개 트래커} other{{count}개 트래커}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count}개 피어} other{{count}개 피어}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "선택한 트래커 제거",
   "removeSelectedTrackersMessage": "{count,plural, =1{다음 트래커가 이 토렌트에서 제거됩니다. 이 작업은 되돌릴 수 없습니다:} other{다음 트래커 {count}개가 이 토렌트에서 제거됩니다. 이 작업은 되돌릴 수 없습니다:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "선택한 피어 차단",
   "banSelectedPeersMessage": "{count,plural, =1{다음 피어가 영구적으로 차단됩니다:} other{다음 피어 {count}개가 영구적으로 차단됩니다:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "{count}개 차단",
@@ -563,8 +558,7 @@
   "customPluginsCount": "사용자 지정 ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "플러그인 선택",
@@ -1020,9 +1014,25 @@
   "noCertificateConfig": "설정되지 않음",
   "skipHostnameVerification": "호스트 이름 검증 건너뛰기",
   "skipHostnameVerificationHint": "호스트 이름을 무시하고 가져온 인증서 자체만 허용됩니다. CA가 아닌 서버 자체의 인증서를 가져오세요. 인증서에 포함되지 않은 IP 주소로 연결할 때 사용합니다.",
-  "networkStack": "네트워크 스택", "networkStackReconfigureHint": "전환 후 현재 서버 연결을 다시 생성합니다", "inheritGlobal": "전역 설정 따르기", "activeNetworkStack": "현재 활성: {stack}", "customCa": "사용자 지정 인증서", "customCaHint": "서버의 자체 서명 인증서 또는 이를 발급한 CA를 가져와 서버를 신뢰합니다(인증서의 호스트 이름이 주소와 일치해야 함)", "importAction": "가져오기", "replaceAction": "교체", "clientCertificate": "클라이언트 인증서 (mTLS)", "importPkcs12": "PKCS#12 가져오기", "selectAndroidKeyChain": "Android KeyChain 선택", "noClientCertificate": "클라이언트 인증서 사용 안 함", "trustAllCertificates": "모든 인증서를 신뢰하시겠습니까?", "trustAllCertificatesWarning": "이 옵션은 서버 인증서 검증을 비활성화하며 연결이 가로채질 수 있습니다. 가져온 사용자 지정 CA는 더 이상 사용되지 않습니다.", "trustAnyway": "그래도 신뢰", "pkcs12Password": "PKCS#12 비밀번호",
+  "networkStack": "네트워크 스택",
+  "networkStackReconfigureHint": "전환 후 현재 서버 연결을 다시 생성합니다",
+  "inheritGlobal": "전역 설정 따르기",
+  "activeNetworkStack": "현재 활성: {stack}",
+  "customCa": "사용자 지정 인증서",
+  "customCaHint": "서버의 자체 서명 인증서 또는 이를 발급한 CA를 가져와 서버를 신뢰합니다(인증서의 호스트 이름이 주소와 일치해야 함)",
+  "importAction": "가져오기",
+  "replaceAction": "교체",
+  "clientCertificate": "클라이언트 인증서 (mTLS)",
+  "importPkcs12": "PKCS#12 가져오기",
+  "selectAndroidKeyChain": "Android KeyChain 선택",
+  "noClientCertificate": "클라이언트 인증서 사용 안 함",
+  "trustAllCertificates": "모든 인증서를 신뢰하시겠습니까?",
+  "trustAllCertificatesWarning": "이 옵션은 서버 인증서 검증을 비활성화하며 연결이 가로채질 수 있습니다. 가져온 사용자 지정 CA는 더 이상 사용되지 않습니다.",
+  "trustAnyway": "그래도 신뢰",
+  "pkcs12Password": "PKCS#12 비밀번호",
   "certificateImportFailed": "가져오기 실패: 지원되지 않는 인증서 파일입니다",
-  "pkcs12ImportFailed": "가져오기 실패: 올바르지 않은 비밀번호이거나 지원되지 않는 PKCS#12 파일입니다", "backupPassword": "백업 비밀번호",
+  "pkcs12ImportFailed": "가져오기 실패: 올바르지 않은 비밀번호이거나 지원되지 않는 PKCS#12 파일입니다",
+  "backupPassword": "백업 비밀번호",
   "includeCredentialsOption": "인증서 및 키(비밀번호 필수)",
   "backupPasswordHelper": "선택 사항. 설정 시 백업 전체가 암호화됩니다. 강력한 비밀번호를 사용하세요.",
   "backupPasswordRequired": "인증서와 키를 내보내려면 백업 비밀번호가 필요합니다.",
@@ -1036,7 +1046,10 @@
   "tlsMaterialUnavailableLabel": "인증서 자료 없음",
   "keyChainRequiresOkHttp": "Android KeyChain 신원은 OkHttp 네트워크 스택에서만 사용할 수 있으므로 이 서버의 네트워크 스택이 OkHttp로 설정되었습니다.",
   "credentialBundlePasswordError": "비밀번호가 잘못되었거나 파일이 손상되었습니다.",
-  "tlsTrustFailure": "연결 테스트 실패: 서버 인증서를 신뢰할 수 없거나 호스트 이름이 일치하지 않습니다.", "tlsClientIdentityFailure": "연결 테스트 실패: 서버가 클라이언트 인증서를 거부했거나 사용할 수 없습니다.", "tlsMaterialUnavailable": "연결 테스트 실패: 가져온 인증서 자료를 사용할 수 없습니다. 다시 가져오세요.", "tlsConfigurationFailure": "연결 테스트 실패: TLS 구성 오류.",
+  "tlsTrustFailure": "연결 테스트 실패: 서버 인증서를 신뢰할 수 없거나 호스트 이름이 일치하지 않습니다.",
+  "tlsClientIdentityFailure": "연결 테스트 실패: 서버가 클라이언트 인증서를 거부했거나 사용할 수 없습니다.",
+  "tlsMaterialUnavailable": "연결 테스트 실패: 가져온 인증서 자료를 사용할 수 없습니다. 다시 가져오세요.",
+  "tlsConfigurationFailure": "연결 테스트 실패: TLS 구성 오류.",
   "appLock": "앱 잠금",
   "appLockOnSubtitle": "앱을 열려면 지문, Face ID 또는 기기 암호가 필요합니다",
   "appLockOffSubtitle": "인증 없이 앱 열기",
@@ -1070,6 +1083,16 @@
   "listDisplayPoolHint": "필드 목록: 강조된 필드를 탭하여 행에 추가하거나 이곳으로 드래그하여 제거",
   "listDisplayWidth": "너비",
   "listDisplayAlign": "정렬",
+  "listDisplayLabel": "레이블",
+  "listDisplayLabelText": "텍스트",
+  "listDisplayLabelNone": "없음",
+  "listDisplayMoreIcons": "아이콘 더보기",
+  "iconGroupTransfer": "전송",
+  "iconGroupRate": "속도 및 지표",
+  "iconGroupNetwork": "피어 및 네트워크",
+  "iconGroupStorage": "파일 및 저장소",
+  "iconGroupStatus": "상태 및 표시",
+  "iconGroupTime": "시간 및 순서",
   "listDisplayStatusIcon": "상태 아이콘",
   "listDisplayPreview": "미리보기",
   "listDisplayLayout": "레이아웃",

@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} plik} few{{count} pliki} other{{count} plików}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Odwróć zaznaczenie",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentów}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Brak torrentów",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Czy na pewno chcesz usunąć wybrany {count} torrent?} few{Czy na pewno chcesz usunąć wybrane {count} torrenty?} other{Czy na pewno chcesz usunąć wybranych {count} torrentów?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Usuń pliki",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} sek} other{{interval} sek}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Preferencje",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} few{{count} trackery} other{{count} trackerów}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} partner} few{{count} partnerów} other{{count} partnerów}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Usuń wybrane trackery",
   "removeSelectedTrackersMessage": "{count,plural, =1{Następujący tracker zostanie usunięty z tego torrenta. Tej operacji nie można cofnąć:} few{Następujące {count} trackery zostaną usunięte z tego torrenta. Tej operacji nie można cofnąć:} other{Następujących {count} trackerów zostanie usuniętych z tego torrenta. Tej operacji nie można cofnąć:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Zablokuj wybranych partnerów",
   "banSelectedPeersMessage": "{count,plural, =1{Następujący partner zostanie zablokowany na stałe:} few{Następujący {count} partnerzy zostaną zablokowani na stałe:} other{Następujących {count} partnerów zostanie zablokowanych na stałe:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Zablokuj {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} pozycja} few{{count} pozycje} other{{count} pozycji}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Nowa subskrypcja",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (ma {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Ukończono",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} w tej sesji)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} łącznie)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} śr.)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Rozgłoszenie za",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Własne ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Wybierz wtyczki",
@@ -675,10 +654,8 @@
   "filterResult": "Wyniki (pokazywanie {filterResult} z {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Wyczyść dane wejściowe",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} plik .torrent} other{{count} pliki/ów .torrent}} wyeksportowano do folderu Pobrane",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "Motyw AMOLED",
@@ -1013,9 +989,25 @@
   "noCertificateConfig": "Nieskonfigurowane",
   "skipHostnameVerification": "Pomiń weryfikację nazwy hosta",
   "skipHostnameVerificationHint": "Akceptowany jest tylko sam zaimportowany certyfikat, z pominięciem nazwy hosta — zaimportuj własny certyfikat serwera, a nie CA. Używaj w przypadku łączenia się przez adres IP nieujęty w certyfikacie.",
-  "networkStack": "Stos sieciowy", "networkStackReconfigureHint": "Odtwarza bieżące połączenie z serwerem po przełączeniu", "inheritGlobal": "Użyj ustawień globalnych", "activeNetworkStack": "Obecnie aktywny: {stack}", "customCa": "Certyfikat niestandardowy", "customCaHint": "Zaimportuj samopodpisany certyfikat serwera lub CA, który go wydał, aby zaufać serwerowi (nazwa hosta w certyfikacie musi odpowiadać adresowi)", "importAction": "Importuj", "replaceAction": "Zastąp", "clientCertificate": "Certyfikat klienta (mTLS)", "importPkcs12": "Importuj PKCS#12", "selectAndroidKeyChain": "Wybierz Android KeyChain", "noClientCertificate": "Nie używaj certyfikatu klienta", "trustAllCertificates": "Ufać wszystkim certyfikatom?", "trustAllCertificatesWarning": "Wyłącza to weryfikację certyfikatu serwera i może umożliwić przechwycenie połączenia. Zaimportowany niestandardowy CA nie będzie już używany.", "trustAnyway": "Mimo to ufaj", "pkcs12Password": "Hasło PKCS#12",
+  "networkStack": "Stos sieciowy",
+  "networkStackReconfigureHint": "Odtwarza bieżące połączenie z serwerem po przełączeniu",
+  "inheritGlobal": "Użyj ustawień globalnych",
+  "activeNetworkStack": "Obecnie aktywny: {stack}",
+  "customCa": "Certyfikat niestandardowy",
+  "customCaHint": "Zaimportuj samopodpisany certyfikat serwera lub CA, który go wydał, aby zaufać serwerowi (nazwa hosta w certyfikacie musi odpowiadać adresowi)",
+  "importAction": "Importuj",
+  "replaceAction": "Zastąp",
+  "clientCertificate": "Certyfikat klienta (mTLS)",
+  "importPkcs12": "Importuj PKCS#12",
+  "selectAndroidKeyChain": "Wybierz Android KeyChain",
+  "noClientCertificate": "Nie używaj certyfikatu klienta",
+  "trustAllCertificates": "Ufać wszystkim certyfikatom?",
+  "trustAllCertificatesWarning": "Wyłącza to weryfikację certyfikatu serwera i może umożliwić przechwycenie połączenia. Zaimportowany niestandardowy CA nie będzie już używany.",
+  "trustAnyway": "Mimo to ufaj",
+  "pkcs12Password": "Hasło PKCS#12",
   "certificateImportFailed": "Import nie powiódł się: plik nie jest obsługiwanym certyfikatem",
-  "pkcs12ImportFailed": "Import nie powiódł się: nieprawidłowe hasło lub nieobsługiwany plik PKCS#12", "backupPassword": "Hasło kopii zapasowej",
+  "pkcs12ImportFailed": "Import nie powiódł się: nieprawidłowe hasło lub nieobsługiwany plik PKCS#12",
+  "backupPassword": "Hasło kopii zapasowej",
   "includeCredentialsOption": "Certyfikaty i klucze (wymagane hasło)",
   "backupPasswordHelper": "Opcjonalne. Po ustawieniu cała kopia zapasowa zostanie zaszyfrowana; użyj silnego hasła.",
   "backupPasswordRequired": "Do wyeksportowania certyfikatów i kluczy wymagane jest hasło kopii zapasowej.",
@@ -1029,7 +1021,10 @@
   "tlsMaterialUnavailableLabel": "Materiał niedostępny",
   "keyChainRequiresOkHttp": "Tożsamość Android KeyChain działa tylko ze stosem sieciowym OkHttp, dlatego stos sieciowy tego serwera został ustawiony na OkHttp.",
   "credentialBundlePasswordError": "Nieprawidłowe hasło lub uszkodzony plik.",
-  "tlsTrustFailure": "Test połączenia nie powiódł się: certyfikat serwera jest niezaufany lub jego nazwa hosta się nie zgadza.", "tlsClientIdentityFailure": "Test połączenia nie powiódł się: serwer odrzucił certyfikat klienta lub jest on niedostępny.", "tlsMaterialUnavailable": "Test połączenia nie powiódł się: zaimportowane materiały certyfikatu są niedostępne. Zaimportuj je ponownie.", "tlsConfigurationFailure": "Test połączenia nie powiódł się: błąd konfiguracji TLS.",
+  "tlsTrustFailure": "Test połączenia nie powiódł się: certyfikat serwera jest niezaufany lub jego nazwa hosta się nie zgadza.",
+  "tlsClientIdentityFailure": "Test połączenia nie powiódł się: serwer odrzucił certyfikat klienta lub jest on niedostępny.",
+  "tlsMaterialUnavailable": "Test połączenia nie powiódł się: zaimportowane materiały certyfikatu są niedostępne. Zaimportuj je ponownie.",
+  "tlsConfigurationFailure": "Test połączenia nie powiódł się: błąd konfiguracji TLS.",
   "appLock": "Blokada aplikacji",
   "appLockOnSubtitle": "Wymagaj odcisku palca, Face ID lub kodu urządzenia do otwarcia aplikacji",
   "appLockOffSubtitle": "Otwieraj aplikację bez uwierzytelniania",
@@ -1063,6 +1058,16 @@
   "listDisplayPoolHint": "Pula pól: dotknij podświetlonego pola, aby dodać je do wiersza, lub przeciągnij pole tutaj, aby je usunąć",
   "listDisplayWidth": "Szerokość",
   "listDisplayAlign": "Wyrównanie",
+  "listDisplayLabel": "Etykieta",
+  "listDisplayLabelText": "Tekst",
+  "listDisplayLabelNone": "Brak",
+  "listDisplayMoreIcons": "Więcej ikon",
+  "iconGroupTransfer": "Transfer",
+  "iconGroupRate": "Prędkość i metryki",
+  "iconGroupNetwork": "Partnerzy i sieć",
+  "iconGroupStorage": "Pliki i pamięć",
+  "iconGroupStatus": "Stan i znaczniki",
+  "iconGroupTime": "Czas i kolejność",
   "listDisplayStatusIcon": "Ikona stanu",
   "listDisplayPreview": "Podgląd",
   "listDisplayLayout": "Układ",

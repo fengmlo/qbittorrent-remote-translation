@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} файл} few{{count} файли} many{{count} файлів} other{{count} файлів}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Інвертувати виділення",
   "selectTorrentCount": "{count,plural, one{{count} торент} few{{count} торенти} many{{count} торентів} other{{count} торентів}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Немає торентів",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Ви впевнені, що хочете видалити вибраний {count} торент?} few{Ви впевнені, що хочете видалити вибрані {count} торенти?} many{Ви впевнені, що хочете видалити вибрані {count} торентів?} other{Ви впевнені, що хочете видалити вибрані {count} торентів?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Видалити файли",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} секунда} few{{interval} секунди} many{{interval} секунд} other{{interval} секунд}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Налаштування",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} трекер} few{{count} трекери} many{{count} трекерів} other{{count} трекерів}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} пір} few{{count} піри} many{{count} пірів} other{{count} пірів}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Видалити вибрані трекери",
   "removeSelectedTrackersMessage": "{count,plural, =1{Наведений нижче трекер буде видалено з цього торента. Цю дію не можна скасувати:} few{Наведені нижче {count} трекери буде видалено з цього торента. Цю дію не можна скасувати:} many{Наведені нижче {count} трекерів буде видалено з цього торента. Цю дію не можна скасувати:} other{Наведені нижче {count} трекерів буде видалено з цього торента. Цю дію не можна скасувати:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Заблокувати вибрані піри",
   "banSelectedPeersMessage": "{count,plural, =1{Наведений нижче пір буде заблоковано назавжди:} few{Наведені нижче {count} піри буде заблоковано назавжди:} many{Наведені нижче {count} пірів буде заблоковано назавжди:} other{Наведені нижче {count} пірів буде заблоковано назавжди:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Заблокувати {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} елемент} few{{count} елементи} many{{count} елементів} other{{count} елементів}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Нова підписка",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (є {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Дата завершення",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} макс.)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} ця сесія)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} всього)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} сер.)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Переоголошення через",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Власні ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Вибрати плагіни",
@@ -675,10 +654,8 @@
   "filterResult": "Результати (показано {filterResult} з {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Очистити поле",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} .torrent файл} few{{count} .torrent файли} many{{count} .torrent файлів} other{{count} .torrent файлів}} експортовано в папку Завантаження",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "AMOLED тема",
@@ -1013,9 +989,25 @@
   "noCertificateConfig": "Не налаштовано",
   "skipHostnameVerification": "Пропустити перевірку імені хоста",
   "skipHostnameVerificationHint": "Приймається лише сам імпортований сертифікат, ім'я хоста ігнорується — імпортуйте власний сертифікат сервера, а не CA. Використовуйте під час підключення за IP-адресою, яка не вказана в сертифікаті.",
-  "networkStack": "Мережевий стек", "networkStackReconfigureHint": "Перестворює поточне підключення до сервера після перемикання", "inheritGlobal": "За глобальним налаштуванням", "activeNetworkStack": "Зараз активно: {stack}", "customCa": "Власний сертифікат", "customCaHint": "Імпортуйте самопідписаний сертифікат сервера або CA, що його видав, щоб довіряти серверу (ім'я хоста в сертифікаті має збігатися з адресою)", "importAction": "Імпортувати", "replaceAction": "Замінити", "clientCertificate": "Клієнтський сертифікат (mTLS)", "importPkcs12": "Імпортувати PKCS#12", "selectAndroidKeyChain": "Вибрати Android KeyChain", "noClientCertificate": "Не використовувати клієнтський сертифікат", "trustAllCertificates": "Довіряти всім сертифікатам?", "trustAllCertificatesWarning": "Це вимикає перевірку сертифіката сервера та може дозволити перехоплення з'єднання. Імпортований власний CA більше не буде використовуватися.", "trustAnyway": "Все одно довіряти", "pkcs12Password": "Пароль PKCS#12",
+  "networkStack": "Мережевий стек",
+  "networkStackReconfigureHint": "Перестворює поточне підключення до сервера після перемикання",
+  "inheritGlobal": "За глобальним налаштуванням",
+  "activeNetworkStack": "Зараз активно: {stack}",
+  "customCa": "Власний сертифікат",
+  "customCaHint": "Імпортуйте самопідписаний сертифікат сервера або CA, що його видав, щоб довіряти серверу (ім'я хоста в сертифікаті має збігатися з адресою)",
+  "importAction": "Імпортувати",
+  "replaceAction": "Замінити",
+  "clientCertificate": "Клієнтський сертифікат (mTLS)",
+  "importPkcs12": "Імпортувати PKCS#12",
+  "selectAndroidKeyChain": "Вибрати Android KeyChain",
+  "noClientCertificate": "Не використовувати клієнтський сертифікат",
+  "trustAllCertificates": "Довіряти всім сертифікатам?",
+  "trustAllCertificatesWarning": "Це вимикає перевірку сертифіката сервера та може дозволити перехоплення з'єднання. Імпортований власний CA більше не буде використовуватися.",
+  "trustAnyway": "Все одно довіряти",
+  "pkcs12Password": "Пароль PKCS#12",
   "certificateImportFailed": "Помилка імпорту: файл не є підтримуваним сертифікатом",
-  "pkcs12ImportFailed": "Помилка імпорту: невірний пароль або непідтримуваний файл PKCS#12", "backupPassword": "Пароль резервної копії",
+  "pkcs12ImportFailed": "Помилка імпорту: невірний пароль або непідтримуваний файл PKCS#12",
+  "backupPassword": "Пароль резервної копії",
   "includeCredentialsOption": "Сертифікати та ключі (потрібен пароль)",
   "backupPasswordHelper": "Необов'язково. Якщо встановлено, резервна копія буде повністю зашифрована; використовуйте надійний пароль.",
   "backupPasswordRequired": "Для експорту сертифікатів та ключів потрібен пароль резервної копії.",
@@ -1029,7 +1021,10 @@
   "tlsMaterialUnavailableLabel": "Матеріал недоступний",
   "keyChainRequiresOkHttp": "Посвідчення Android KeyChain працює лише з мережевим стеком OkHttp, тому мережевий стек цього сервера встановлено на OkHttp.",
   "credentialBundlePasswordError": "Неправильний пароль або пошкоджений файл.",
-  "tlsTrustFailure": "Тест з'єднання не вдався: сертифікат сервера не є довіреним або його ім'я хоста не збігається.", "tlsClientIdentityFailure": "Тест з'єднання не вдався: сервер відхилив клієнтський сертифікат або він недоступний.", "tlsMaterialUnavailable": "Тест з'єднання не вдався: імпортовані дані сертифіката недоступні. Імпортуйте їх знову.", "tlsConfigurationFailure": "Тест з'єднання не вдався: помилка конфігурації TLS.",
+  "tlsTrustFailure": "Тест з'єднання не вдався: сертифікат сервера не є довіреним або його ім'я хоста не збігається.",
+  "tlsClientIdentityFailure": "Тест з'єднання не вдався: сервер відхилив клієнтський сертифікат або він недоступний.",
+  "tlsMaterialUnavailable": "Тест з'єднання не вдався: імпортовані дані сертифіката недоступні. Імпортуйте їх знову.",
+  "tlsConfigurationFailure": "Тест з'єднання не вдався: помилка конфігурації TLS.",
   "appLock": "Блокування застосунку",
   "appLockOnSubtitle": "Вимагати відбиток пальця, Face ID або код-пароль пристрою для відкриття застосунку",
   "appLockOffSubtitle": "Відкривати застосунок без автентифікації",
@@ -1063,6 +1058,16 @@
   "listDisplayPoolHint": "Пул полів: торкніться підсвіченого поля, щоб додати його до рядка, або перетягніть поле сюди, щоб прибрати",
   "listDisplayWidth": "Ширина",
   "listDisplayAlign": "Вирівнювання",
+  "listDisplayLabel": "Мітка",
+  "listDisplayLabelText": "Текст",
+  "listDisplayLabelNone": "Немає",
+  "listDisplayMoreIcons": "Більше піктограм",
+  "iconGroupTransfer": "Передавання",
+  "iconGroupRate": "Швидкість та метрики",
+  "iconGroupNetwork": "Піри та мережа",
+  "iconGroupStorage": "Файли та сховище",
+  "iconGroupStatus": "Стан та позначки",
+  "iconGroupTime": "Час та порядок",
   "listDisplayStatusIcon": "Значок стану",
   "listDisplayPreview": "Попередній перегляд",
   "listDisplayLayout": "Компонування",

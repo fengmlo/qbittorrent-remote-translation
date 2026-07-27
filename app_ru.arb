@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} файл} few{{count} файла} many{{count} файлов} other{{count} файлов}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Инвертировать выделение",
   "selectTorrentCount": "{count,plural, one{{count} торрент} few{{count} торрента} many{{count} торрентов} other{{count} торрентов}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Торрентов нет",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Вы точно хотите удалить {count} торрент?} few{Вы точно хотите удалить {count} торрента?} many{Вы точно хотите удалить {count} торрентов?} other{Вы точно хотите удалить {count} торрентов?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Удалить файлы",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} секунда} few{{interval} секунды} many{{interval} секунд} other{{interval} секунд}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Настройки",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} трекер} few{{count} трекера} many{{count} трекеров} other{{count} трекеров}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} пир} few{{count} пира} many{{count} пиров} other{{count} пиров}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Удалить выбранные трекеры",
   "removeSelectedTrackersMessage": "{count,plural, =1{Следующий трекер будет удалён из этого торрента. Это действие нельзя отменить:} few{Следующие {count} трекера будут удалены из этого торрента. Это действие нельзя отменить:} many{Следующие {count} трекеров будут удалены из этого торрента. Это действие нельзя отменить:} other{Следующие {count} трекеров будут удалены из этого торрента. Это действие нельзя отменить:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Заблокировать выбранных пиров",
   "banSelectedPeersMessage": "{count,plural, =1{Следующий пир будет навсегда заблокирован:} few{Следующие {count} пира будут навсегда заблокированы:} many{Следующие {count} пиров будут навсегда заблокированы:} other{Следующие {count} пиров будут навсегда заблокированы:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Заблокировать {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} элемент} few{{count} элемента} many{{count} элементов} other{{count} элементов}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Новая подписка",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (из них есть {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Дата завершения",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} максимум)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} за сеанс)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} всего)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} средняя)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Следующий анонс",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Пользовательские ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Выбор плагинов",
@@ -675,10 +654,8 @@
   "filterResult": "Результаты (показано {filterResult} из {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Очистить ввод",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} .torrent файл} few{{count} .torrent файла} many{{count} .torrent файлов} other{{count} .torrent файлов}} экспортирован(о) в папку Download",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "Тема AMOLED",
@@ -1013,9 +989,25 @@
   "noCertificateConfig": "Не настроено",
   "skipHostnameVerification": "Пропустить проверку имени хоста",
   "skipHostnameVerificationHint": "Принимается только сам импортированный сертификат, имя хоста игнорируется — импортируйте собственный сертификат сервера, а не CA. Используется при подключении по IP-адресу, не указанному в сертификате.",
-  "networkStack": "Сетевой стек", "networkStackReconfigureHint": "Пересоздаёт текущее подключение к серверу после переключения", "inheritGlobal": "Следовать глобальным", "activeNetworkStack": "Сейчас активно: {stack}", "customCa": "Пользовательский сертификат", "customCaHint": "Импортируйте самоподписанный сертификат сервера или CA, который его выпустил, чтобы доверять серверу (имя узла в сертификате должно совпадать с адресом)", "importAction": "Импортировать", "replaceAction": "Заменить", "clientCertificate": "Клиентский сертификат (mTLS)", "importPkcs12": "Импортировать PKCS#12", "selectAndroidKeyChain": "Выбрать Android KeyChain", "noClientCertificate": "Не использовать клиентский сертификат", "trustAllCertificates": "Доверять всем сертификатам?", "trustAllCertificatesWarning": "Это отключает проверку сертификата сервера и может привести к перехвату соединения. Импортированный пользовательский CA больше не будет использоваться.", "trustAnyway": "Всё равно доверять", "pkcs12Password": "Пароль PKCS#12",
+  "networkStack": "Сетевой стек",
+  "networkStackReconfigureHint": "Пересоздаёт текущее подключение к серверу после переключения",
+  "inheritGlobal": "Следовать глобальным",
+  "activeNetworkStack": "Сейчас активно: {stack}",
+  "customCa": "Пользовательский сертификат",
+  "customCaHint": "Импортируйте самоподписанный сертификат сервера или CA, который его выпустил, чтобы доверять серверу (имя узла в сертификате должно совпадать с адресом)",
+  "importAction": "Импортировать",
+  "replaceAction": "Заменить",
+  "clientCertificate": "Клиентский сертификат (mTLS)",
+  "importPkcs12": "Импортировать PKCS#12",
+  "selectAndroidKeyChain": "Выбрать Android KeyChain",
+  "noClientCertificate": "Не использовать клиентский сертификат",
+  "trustAllCertificates": "Доверять всем сертификатам?",
+  "trustAllCertificatesWarning": "Это отключает проверку сертификата сервера и может привести к перехвату соединения. Импортированный пользовательский CA больше не будет использоваться.",
+  "trustAnyway": "Всё равно доверять",
+  "pkcs12Password": "Пароль PKCS#12",
   "certificateImportFailed": "Ошибка импорта: файл не является поддерживаемым сертификатом",
-  "pkcs12ImportFailed": "Ошибка импорта: неверный пароль или неподдерживаемый файл PKCS#12", "backupPassword": "Пароль резервной копии",
+  "pkcs12ImportFailed": "Ошибка импорта: неверный пароль или неподдерживаемый файл PKCS#12",
+  "backupPassword": "Пароль резервной копии",
   "includeCredentialsOption": "Сертификаты и ключи (требуется пароль)",
   "backupPasswordHelper": "Необязательно. Если установлен, резервная копия будет полностью зашифрована; используйте надёжный пароль.",
   "backupPasswordRequired": "Для экспорта сертификатов и ключей требуется пароль резервной копии.",
@@ -1029,7 +1021,10 @@
   "tlsMaterialUnavailableLabel": "Материал недоступен",
   "keyChainRequiresOkHttp": "Удостоверение Android KeyChain работает только с сетевым стеком OkHttp, поэтому сетевой стек этого сервера установлен на OkHttp.",
   "credentialBundlePasswordError": "Неверный пароль или повреждённый файл.",
-  "tlsTrustFailure": "Тест подключения не удался: сертификат сервера не является доверенным или его имя хоста не совпадает.", "tlsClientIdentityFailure": "Тест подключения не удался: сервер отклонил клиентский сертификат или он недоступен.", "tlsMaterialUnavailable": "Тест подключения не удался: импортированные данные сертификата недоступны. Импортируйте их снова.", "tlsConfigurationFailure": "Тест подключения не удался: ошибка конфигурации TLS.",
+  "tlsTrustFailure": "Тест подключения не удался: сертификат сервера не является доверенным или его имя хоста не совпадает.",
+  "tlsClientIdentityFailure": "Тест подключения не удался: сервер отклонил клиентский сертификат или он недоступен.",
+  "tlsMaterialUnavailable": "Тест подключения не удался: импортированные данные сертификата недоступны. Импортируйте их снова.",
+  "tlsConfigurationFailure": "Тест подключения не удался: ошибка конфигурации TLS.",
   "appLock": "Блокировка приложения",
   "appLockOnSubtitle": "Требовать отпечаток пальца, Face ID или код-пароль устройства для открытия приложения",
   "appLockOffSubtitle": "Открывать приложение без аутентификации",
@@ -1063,6 +1058,16 @@
   "listDisplayPoolHint": "Пул полей: нажмите на подсвеченное поле, чтобы добавить его в строку, или перетащите поле сюда, чтобы убрать",
   "listDisplayWidth": "Ширина",
   "listDisplayAlign": "Выравнивание",
+  "listDisplayLabel": "Префикс",
+  "listDisplayLabelText": "Текст",
+  "listDisplayLabelNone": "Нет",
+  "listDisplayMoreIcons": "Ещё значки",
+  "iconGroupTransfer": "Передача",
+  "iconGroupRate": "Скорость и метрики",
+  "iconGroupNetwork": "Пиры и сеть",
+  "iconGroupStorage": "Файлы и хранилище",
+  "iconGroupStatus": "Статус и отметки",
+  "iconGroupTime": "Время и порядок",
   "listDisplayStatusIcon": "Значок статуса",
   "listDisplayPreview": "Предпросмотр",
   "listDisplayLayout": "Компоновка",

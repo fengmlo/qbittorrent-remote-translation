@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} arquivo} other{{count} arquivos}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Inverter seleção",
   "selectTorrentCount": "{count,plural, one{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Sem Torrent",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Tem certeza de excluir o selecionado {count} torrent?} other{você tem certeza de excluir o selecionado {count} torrents?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Deletar arquivos",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} sec} other{{interval} segs}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Preferências",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} rastreador} other{{count} rastreadores}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} colega} other{{count} colegas}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Remover rastreadores selecionados",
   "removeSelectedTrackersMessage": "{count,plural, =1{O rastreador a seguir será removido deste torrent. Esta ação não pode ser desfeita:} other{Os {count} rastreadores a seguir serão removidos deste torrent. Esta ação não pode ser desfeita:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Banir colegas selecionados",
   "banSelectedPeersMessage": "{count,plural, =1{O colega a seguir será banido permanentemente:} other{Os {count} colegas a seguir serão banidos permanentemente:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Banir {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} item} other{{count} items}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Nova assinatura",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (tem {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Concluído em",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} nesta sessão)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} total)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} avg.)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "reanuncie em",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Personalizados ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Selecionar plugins",
@@ -675,10 +654,8 @@
   "filterResult": "Resultados (mostrando {filterResult} fora de {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Limpar entrada",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} arquivo .torrent} other{{count} arquivos .torrent}} exportados para a pasta Download",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "Tema AMOLED",
@@ -1013,9 +989,25 @@
   "noCertificateConfig": "Não configurado",
   "skipHostnameVerification": "Ignorar verificação do nome do host",
   "skipHostnameVerificationHint": "Apenas o próprio certificado importado é aceito, ignorando o nome de host — importe o certificado do próprio servidor em vez de uma CA. Use ao se conectar por um endereço IP não incluído no certificado.",
-  "networkStack": "Pilha de rede", "networkStackReconfigureHint": "Reconstrói a conexão do servidor atual após a alternância", "inheritGlobal": "Seguir o global", "activeNetworkStack": "Ativo atualmente: {stack}", "customCa": "Certificado personalizado", "customCaHint": "Importe o certificado autoassinado do servidor, ou a CA que o emitiu, para confiar no servidor (o nome do host no certificado deve corresponder ao endereço)", "importAction": "Importar", "replaceAction": "Substituir", "clientCertificate": "Certificado do cliente (mTLS)", "importPkcs12": "Importar PKCS#12", "selectAndroidKeyChain": "Selecionar Android KeyChain", "noClientCertificate": "Não usar certificado do cliente", "trustAllCertificates": "Confiar em todos os certificados?", "trustAllCertificatesWarning": "Isso desativa a verificação do certificado do servidor e pode permitir que a conexão seja interceptada. A CA personalizada importada não será mais usada.", "trustAnyway": "Confiar mesmo assim", "pkcs12Password": "Senha do PKCS#12",
+  "networkStack": "Pilha de rede",
+  "networkStackReconfigureHint": "Reconstrói a conexão do servidor atual após a alternância",
+  "inheritGlobal": "Seguir o global",
+  "activeNetworkStack": "Ativo atualmente: {stack}",
+  "customCa": "Certificado personalizado",
+  "customCaHint": "Importe o certificado autoassinado do servidor, ou a CA que o emitiu, para confiar no servidor (o nome do host no certificado deve corresponder ao endereço)",
+  "importAction": "Importar",
+  "replaceAction": "Substituir",
+  "clientCertificate": "Certificado do cliente (mTLS)",
+  "importPkcs12": "Importar PKCS#12",
+  "selectAndroidKeyChain": "Selecionar Android KeyChain",
+  "noClientCertificate": "Não usar certificado do cliente",
+  "trustAllCertificates": "Confiar em todos os certificados?",
+  "trustAllCertificatesWarning": "Isso desativa a verificação do certificado do servidor e pode permitir que a conexão seja interceptada. A CA personalizada importada não será mais usada.",
+  "trustAnyway": "Confiar mesmo assim",
+  "pkcs12Password": "Senha do PKCS#12",
   "certificateImportFailed": "Falha ao importar: o arquivo não é um certificado suportado",
-  "pkcs12ImportFailed": "Falha ao importar: senha incorreta ou arquivo PKCS#12 não suportado", "backupPassword": "Senha do backup",
+  "pkcs12ImportFailed": "Falha ao importar: senha incorreta ou arquivo PKCS#12 não suportado",
+  "backupPassword": "Senha do backup",
   "includeCredentialsOption": "Certificados e chaves (senha necessária)",
   "backupPasswordHelper": "Opcional. Quando definida, todo o backup é criptografado; use uma senha forte.",
   "backupPasswordRequired": "Uma senha do backup é necessária para exportar certificados e chaves.",
@@ -1029,7 +1021,10 @@
   "tlsMaterialUnavailableLabel": "Material indisponível",
   "keyChainRequiresOkHttp": "A identidade do Android KeyChain funciona apenas com a pilha de rede OkHttp; a pilha de rede deste servidor foi definida como OkHttp.",
   "credentialBundlePasswordError": "Senha incorreta ou arquivo corrompido.",
-  "tlsTrustFailure": "Teste de conexão falhou: o certificado do servidor não é confiável ou seu nome de host não coincide.", "tlsClientIdentityFailure": "Teste de conexão falhou: o servidor rejeitou o certificado do cliente ou ele está indisponível.", "tlsMaterialUnavailable": "Teste de conexão falhou: o material do certificado importado está indisponível. Importe-o novamente.", "tlsConfigurationFailure": "Teste de conexão falhou: erro de configuração do TLS.",
+  "tlsTrustFailure": "Teste de conexão falhou: o certificado do servidor não é confiável ou seu nome de host não coincide.",
+  "tlsClientIdentityFailure": "Teste de conexão falhou: o servidor rejeitou o certificado do cliente ou ele está indisponível.",
+  "tlsMaterialUnavailable": "Teste de conexão falhou: o material do certificado importado está indisponível. Importe-o novamente.",
+  "tlsConfigurationFailure": "Teste de conexão falhou: erro de configuração do TLS.",
   "appLock": "Bloqueio do app",
   "appLockOnSubtitle": "Exigir impressão digital, Face ID ou senha do dispositivo para abrir o app",
   "appLockOffSubtitle": "Abrir o app sem autenticação",
@@ -1063,6 +1058,16 @@
   "listDisplayPoolHint": "Campos disponíveis: toque em um campo destacado para adicioná-lo à linha, ou arraste um campo até aqui para removê-lo",
   "listDisplayWidth": "Largura",
   "listDisplayAlign": "Alinhamento",
+  "listDisplayLabel": "Etiqueta",
+  "listDisplayLabelText": "Texto",
+  "listDisplayLabelNone": "Nenhuma",
+  "listDisplayMoreIcons": "Mais ícones",
+  "iconGroupTransfer": "Transferência",
+  "iconGroupRate": "Velocidade e métricas",
+  "iconGroupNetwork": "Pares e rede",
+  "iconGroupStorage": "Ficheiros e armazenamento",
+  "iconGroupStatus": "Estado e marcas",
+  "iconGroupTime": "Tempo e ordem",
   "listDisplayStatusIcon": "Ícone de estado",
   "listDisplayPreview": "Pré-visualização",
   "listDisplayLayout": "Layout",

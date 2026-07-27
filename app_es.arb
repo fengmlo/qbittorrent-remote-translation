@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} archivo} other{{count} archivos}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Invertir selección",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Sin torrents",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{¿Seguro que quieres eliminar los {count} torrent(s) seleccionados?} other{¿Seguro que quieres eliminar los {count} torrent(s) seleccionados?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Eliminar archivos",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} sec} other{{interval} secs}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Preferencias",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} par} other{{count} pares}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Eliminar trackers seleccionados",
   "removeSelectedTrackersMessage": "{count,plural, =1{Se eliminará el siguiente tracker de este torrent. Esta acción no se puede deshacer:} other{Se eliminarán los siguientes {count} trackers de este torrent. Esta acción no se puede deshacer:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Bloquear pares seleccionados",
   "banSelectedPeersMessage": "{count,plural, =1{Se bloqueará para siempre el siguiente par:} other{Se bloquearán para siempre los siguientes {count} pares:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Bloquear {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} item} other{{count} items}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Nueva suscripción",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (tiene {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Completado en",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} máx)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} esta sesión)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} totales)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} media)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Reanunciar en",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Personalizados ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Seleccionar plugins",
@@ -675,10 +654,8 @@
   "filterResult": "Resultados (mostrando {filterResult} de {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Limpiar entrada",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} file .torrent } other{{count} .torrent files}} exportado en la carpeta de descargas",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "Tema AMOLED",
@@ -1081,6 +1057,16 @@
   "listDisplayPoolHint": "Campos disponibles: toca un campo resaltado para añadirlo a la fila, o arrastra un campo aquí para quitarlo",
   "listDisplayWidth": "Ancho",
   "listDisplayAlign": "Alineación",
+  "listDisplayLabel": "Prefijo",
+  "listDisplayLabelText": "Texto",
+  "listDisplayLabelNone": "Ninguna",
+  "listDisplayMoreIcons": "Más iconos",
+  "iconGroupTransfer": "Transferencia",
+  "iconGroupRate": "Velocidad y métricas",
+  "iconGroupNetwork": "Pares y red",
+  "iconGroupStorage": "Archivos y almacenamiento",
+  "iconGroupStatus": "Estado y marcas",
+  "iconGroupTime": "Tiempo y orden",
   "listDisplayStatusIcon": "Icono de estado",
   "listDisplayPreview": "Vista previa",
   "listDisplayLayout": "Distribución",

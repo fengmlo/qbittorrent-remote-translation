@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} soubor} few{{count} soubory} other{{count} souborů}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Invertovat výběr",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentů}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Žádný Torrent",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Opravdu chcete smazat tento {count} torrent?} few{Opravdu chcete smazat tyto {count} torrenty?} other{Opravdu chcete smazat těchto {count} torrentů?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Odstranit i soubory",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} sek} other{{interval} sek}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Předvolby",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} few{{count} trackery} other{{count} trackerů}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} protějšek} few{{count} protějšky} other{{count} protějšků}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Odebrat vybrané trackery",
   "removeSelectedTrackersMessage": "{count,plural, =1{Z tohoto torrentu bude odebrán následující tracker. Tuto akci nelze vrátit zpět:} few{Z tohoto torrentu budou odebrány následující {count} trackery. Tuto akci nelze vrátit zpět:} other{Z tohoto torrentu bude odebráno následujících {count} trackerů. Tuto akci nelze vrátit zpět:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Zablokovat vybrané protějšky",
   "banSelectedPeersMessage": "{count,plural, =1{Následující protějšek bude trvale zablokován:} few{Následující {count} protějšky budou trvale zablokovány:} other{Následujících {count} protějšků bude trvale zablokováno:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Zablokovat {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} položka} few{{count} položky} other{{count} položek}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Nový odběr",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (z nichž jsou {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Dokončeno",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} toto sezení)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} celkem)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} prům.)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Znovu-oznámit za",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Vlastní ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Vybrat pluginy",
@@ -675,10 +654,8 @@
   "filterResult": "Výsledky (zobrazuje se {filterResult} z celkových {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Vymazat vstup",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} .torrent soubor} other{{count} .torrent soubory}} exportovány do složky Stahování",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "AMOLED téma",
@@ -1081,6 +1057,16 @@
   "listDisplayPoolHint": "Zásobník polí: klepnutím na zvýrazněné pole jej přidáte do řádku, přetažením pole sem jej odeberete",
   "listDisplayWidth": "Šířka",
   "listDisplayAlign": "Zarovnání",
+  "listDisplayLabel": "Předpona",
+  "listDisplayLabelText": "Text",
+  "listDisplayLabelNone": "Žádný",
+  "listDisplayMoreIcons": "Více ikon",
+  "iconGroupTransfer": "Přenos",
+  "iconGroupRate": "Rychlost a metriky",
+  "iconGroupNetwork": "Peery a síť",
+  "iconGroupStorage": "Soubory a úložiště",
+  "iconGroupStatus": "Stav a značky",
+  "iconGroupTime": "Čas a pořadí",
   "listDisplayStatusIcon": "Ikona stavu",
   "listDisplayPreview": "Náhled",
   "listDisplayLayout": "Rozložení",

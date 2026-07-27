@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} fil} other{{count} filer}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Invertera markering",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Ingen torrent",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Är du säker på att du vill ta bort {count} vald torrent?} other{Är du säker på att du vill ta bort {count} valda torrents?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Ta bort filer",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} sek} other{{interval} sek}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Inställningar",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peers}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Ta bort valda trackers",
   "removeSelectedTrackersMessage": "{count,plural, =1{Följande tracker tas bort från den här torrenten. Detta kan inte ångras:} other{Följande {count} trackers tas bort från den här torrenten. Detta kan inte ångras:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Banna valda peers",
   "banSelectedPeersMessage": "{count,plural, =1{Följande peer bannas permanent:} other{Följande {count} peers bannas permanent:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Banna {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} vald} other{{count} valda}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Ny prenumeration",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (har {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Slutförd",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} denna session)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} totalt)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} snitt)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Återannonsera om",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Anpassade ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Välj tillägg",
@@ -675,10 +654,8 @@
   "filterResult": "Resultat (visar {filterResult} av {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Rensa inmatning",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} .torrent fil} other{{count} .torrent filer}} exporterade till mappen Hämtningar",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "AMOLED-tema",
@@ -1013,9 +989,25 @@
   "noCertificateConfig": "Inte konfigurerad",
   "skipHostnameVerification": "Hoppa över värdnamnskontroll",
   "skipHostnameVerificationHint": "Endast det importerade certifikatet godkänns, värdnamnet ignoreras – importera serverns eget certifikat snarare än en CA. Används vid anslutning via en IP-adress som inte ingår i certifikatet.",
-  "networkStack": "Nätverksstack", "networkStackReconfigureHint": "Återuppbygg den aktuella serveranslutningen efter byte", "inheritGlobal": "Följ globala", "activeNetworkStack": "För närvarande aktiv: {stack}", "customCa": "Anpassat certifikat", "customCaHint": "Importera serverns självsignerade certifikat, eller den CA som utfärdade det, för att lita på servern (certifikatets värdnamn måste matcha adressen)", "importAction": "Importera", "replaceAction": "Ersätt", "clientCertificate": "Klientcertifikat (mTLS)", "importPkcs12": "Importera PKCS#12", "selectAndroidKeyChain": "Välj Android KeyChain", "noClientCertificate": "Använd inte klientcertifikat", "trustAllCertificates": "Lita på alla certifikat?", "trustAllCertificatesWarning": "Detta inaktiverar verifiering av servercertifikat och kan göra att anslutningen avlyssnas. Den importerade anpassade CA-certifikatet kommer inte längre att användas.", "trustAnyway": "Lita på ändå", "pkcs12Password": "PKCS#12-lösenord",
+  "networkStack": "Nätverksstack",
+  "networkStackReconfigureHint": "Återuppbygg den aktuella serveranslutningen efter byte",
+  "inheritGlobal": "Följ globala",
+  "activeNetworkStack": "För närvarande aktiv: {stack}",
+  "customCa": "Anpassat certifikat",
+  "customCaHint": "Importera serverns självsignerade certifikat, eller den CA som utfärdade det, för att lita på servern (certifikatets värdnamn måste matcha adressen)",
+  "importAction": "Importera",
+  "replaceAction": "Ersätt",
+  "clientCertificate": "Klientcertifikat (mTLS)",
+  "importPkcs12": "Importera PKCS#12",
+  "selectAndroidKeyChain": "Välj Android KeyChain",
+  "noClientCertificate": "Använd inte klientcertifikat",
+  "trustAllCertificates": "Lita på alla certifikat?",
+  "trustAllCertificatesWarning": "Detta inaktiverar verifiering av servercertifikat och kan göra att anslutningen avlyssnas. Den importerade anpassade CA-certifikatet kommer inte längre att användas.",
+  "trustAnyway": "Lita på ändå",
+  "pkcs12Password": "PKCS#12-lösenord",
   "certificateImportFailed": "Import misslyckades: filen är inte ett certifikat som stöds",
-  "pkcs12ImportFailed": "Import misslyckades: felaktigt lösenord eller PKCS#12-fil som inte stöds", "backupPassword": "Säkerhetskopieringslösenord",
+  "pkcs12ImportFailed": "Import misslyckades: felaktigt lösenord eller PKCS#12-fil som inte stöds",
+  "backupPassword": "Säkerhetskopieringslösenord",
   "includeCredentialsOption": "Certifikat och nycklar (lösenord krävs)",
   "backupPasswordHelper": "Valfritt. Om det anges krypteras hela säkerhetskopian; använd ett starkt lösenord.",
   "backupPasswordRequired": "Ett säkerhetskopieringslösenord krävs för att exportera certifikat och nycklar.",
@@ -1029,7 +1021,10 @@
   "tlsMaterialUnavailableLabel": "Materialet är inte tillgängligt",
   "keyChainRequiresOkHttp": "Android KeyChain-identiteten fungerar endast med nätverksstacken OkHttp, så serverns nätverksstack har ställts in på OkHttp.",
   "credentialBundlePasswordError": "Fel lösenord eller skadad fil.",
-  "tlsTrustFailure": "Anslutningstestet misslyckades: servercertifikatet är inte betrott eller så stämmer inte värdnamnet.", "tlsClientIdentityFailure": "Anslutningstestet misslyckades: servern avvisade klientcertifikatet eller så är det inte tillgängligt.", "tlsMaterialUnavailable": "Anslutningstestet misslyckades: importerat certifikatmaterial är inte tillgängligt. Importera det igen.", "tlsConfigurationFailure": "Anslutningstestet misslyckades: TLS-konfigurationsfel.",
+  "tlsTrustFailure": "Anslutningstestet misslyckades: servercertifikatet är inte betrott eller så stämmer inte värdnamnet.",
+  "tlsClientIdentityFailure": "Anslutningstestet misslyckades: servern avvisade klientcertifikatet eller så är det inte tillgängligt.",
+  "tlsMaterialUnavailable": "Anslutningstestet misslyckades: importerat certifikatmaterial är inte tillgängligt. Importera det igen.",
+  "tlsConfigurationFailure": "Anslutningstestet misslyckades: TLS-konfigurationsfel.",
   "appLock": "Applås",
   "appLockOnSubtitle": "Kräv fingeravtryck, Face ID eller enhetens lösenkod för att öppna appen",
   "appLockOffSubtitle": "Öppna appen utan autentisering",
@@ -1063,6 +1058,16 @@
   "listDisplayPoolHint": "Fältpool: tryck på ett markerat fält för att lägga till det i raden, eller dra ett fält hit för att ta bort det",
   "listDisplayWidth": "Bredd",
   "listDisplayAlign": "Justering",
+  "listDisplayLabel": "Etikett",
+  "listDisplayLabelText": "Text",
+  "listDisplayLabelNone": "Ingen",
+  "listDisplayMoreIcons": "Fler ikoner",
+  "iconGroupTransfer": "Överföring",
+  "iconGroupRate": "Hastighet och mätvärden",
+  "iconGroupNetwork": "Peers och nätverk",
+  "iconGroupStorage": "Filer och lagring",
+  "iconGroupStatus": "Status och markeringar",
+  "iconGroupTime": "Tid och ordning",
   "listDisplayStatusIcon": "Statusikon",
   "listDisplayPreview": "Förhandsvisning",
   "listDisplayLayout": "Layout",

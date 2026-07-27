@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} file} other{{count} files}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Invert selection",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "No Torrent",
@@ -57,8 +55,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Are you sure to delete the selected {count} torrent?} other{Are you sure to delete the selected {count} torrents?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Delete files",
@@ -111,8 +108,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -222,8 +218,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} sec} other{{interval} secs}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Preferences",
@@ -332,8 +327,7 @@
   "removeTrackerFromAllMessage": "Are you sure you want to remove tracker \"{host}\" from all torrents?",
   "@removeTrackerFromAllMessage": {
     "placeholders": {
-      "host": {
-      }
+      "host": {}
     }
   },
   "editUrlTitle": "Edit url",
@@ -404,31 +398,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peers}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Remove selected trackers",
   "removeSelectedTrackersMessage": "{count,plural, =1{The following tracker will be removed from this torrent. This cannot be undone:} other{The following {count} trackers will be removed from this torrent. This cannot be undone:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Ban selected peers",
   "banSelectedPeersMessage": "{count,plural, =1{The following peer will be banned permanently:} other{The following {count} peers will be banned permanently:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Ban {count}",
@@ -496,8 +486,7 @@
   "selectedItemCount": "{count,plural, =1{{count} item} other{{count} items}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "New subscription",
@@ -539,13 +528,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (have {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Completed On",
@@ -556,37 +543,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} this session)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} total)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} avg.)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Reannounce In",
@@ -624,8 +603,7 @@
   "customPluginsCount": "Custom ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Select plugins",
@@ -734,10 +712,8 @@
   "filterResult": "Results (showing {filterResult} out of {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Clear input",
@@ -820,7 +796,6 @@
   "inputUserHint": "Input an existing user",
   "unregister": "Unregister",
   "unregisterMessage": "Are you sure you want to unregister? This will remove the current device from your device list, if this is your last device then your user will be deleted",
-  "retry": "Retry",
   "getTokenFailed": "Can not get device info",
   "generatingUser": "Generating user",
   "generateUserSuccess": "Generate user success",
@@ -850,8 +825,7 @@
   "torrentExported": "{count,plural, =1{{count} .torrent file} other{{count} .torrent files}} exported to the Download folder",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "AMOLED theme",
@@ -913,14 +887,31 @@
   "shareLimitActionEnableSuperSeeding": "Enable super seeding for torrent",
   "infoHashV1": "Info Hash V1",
   "applyBatchToUnmodified": "{count,plural, =1{Apply batch settings to {count} unmodified torrent} other{Apply batch settings to {count} unmodified torrents}}",
-  "@applyBatchToUnmodified": {"placeholders": {"count": {}}},
+  "@applyBatchToUnmodified": {
+    "placeholders": {
+      "count": {}
+    }
+  },
   "batchSettingsAppliedTo": "{count,plural, =1{Applied batch settings to {count} torrent} other{Applied batch settings to {count} torrents}}",
-  "@batchSettingsAppliedTo": {"placeholders": {"count": {}}},
+  "@batchSettingsAppliedTo": {
+    "placeholders": {
+      "count": {}
+    }
+  },
   "fileSelectionNotApplied": "Added; file selection not applied",
   "torrentAlreadyExists": "Torrent already exists",
   "torrentExistsOrFailed": "Torrent already exists or could not be added",
   "addPartialResult": "Added {added}, {failed} failed",
-  "@addPartialResult": {"placeholders": {"added": {"type": "int"}, "failed": {"type": "int"}}},
+  "@addPartialResult": {
+    "placeholders": {
+      "added": {
+        "type": "int"
+      },
+      "failed": {
+        "type": "int"
+      }
+    }
+  },
   "unlockLockedDesc": "Watch a short ad to unlock this feature for a while.",
   "unlockWatchAd": "Watch ad to unlock",
   "adNotAvailableRetry": "Ad not available, please try again later",
@@ -935,7 +926,13 @@
   "peerLogBanned": "Banned",
   "peerLogBlocked": "Blocked",
   "peerLogReason": "Reason: {reason}",
-  "@peerLogReason": {"placeholders": {"reason": {"type": "String"}}},
+  "@peerLogReason": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
   "clearAll": "Clear all",
   "seedingLimits": "Seeding Limits",
   "whenRatioReaches": "When ratio reaches",
@@ -1080,9 +1077,22 @@
   "serverDirectories": "Directories on server",
   "connectionTimeout": "Connection timeout",
   "connectionTimeoutValue": "{seconds,plural, =1{{seconds} second} other{{seconds} seconds}}",
-  "@connectionTimeoutValue": {"placeholders": {"seconds": {}}},
+  "@connectionTimeoutValue": {
+    "placeholders": {
+      "seconds": {}
+    }
+  },
   "connectionTimeoutInvalid": "Enter a number between {min} and {max}",
-  "@connectionTimeoutInvalid": {"placeholders": {"min": {"type": "int"}, "max": {"type": "int"}}},
+  "@connectionTimeoutInvalid": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
   "setAsDefaultFilter": "Set as default",
   "clearDefaultFilter": "Clear default",
   "macAddress": "MAC address",
@@ -1130,7 +1140,13 @@
   "backupPasswordAsciiOnly": "The backup password can only contain ASCII characters.",
   "enterBackupPassword": "Enter backup password",
   "certificateExpires": "Expires {date}",
-  "@certificateExpires": {"placeholders": {"date": {"type": "String"}}},
+  "@certificateExpires": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
   "tlsMaterialUnavailableLabel": "Material unavailable",
   "keyChainRequiresOkHttp": "The Android KeyChain identity works only with the OkHttp network stack, so this server's network stack is set to OkHttp.",
   "credentialBundlePasswordError": "Incorrect password or corrupted file.",
@@ -1148,9 +1164,17 @@
   "appLockGraceHint": "How long the app can stay in the background before authentication is required again",
   "appLockGraceImmediate": "Immediately",
   "appLockGraceValueSeconds": "{seconds,plural, =1{{seconds} second} other{{seconds} seconds}}",
-  "@appLockGraceValueSeconds": {"placeholders": {"seconds": {}}},
+  "@appLockGraceValueSeconds": {
+    "placeholders": {
+      "seconds": {}
+    }
+  },
   "appLockGraceValueMinutes": "{minutes,plural, =1{{minutes} minute} other{{minutes} minutes}}",
-  "@appLockGraceValueMinutes": {"placeholders": {"minutes": {}}},
+  "@appLockGraceValueMinutes": {
+    "placeholders": {
+      "minutes": {}
+    }
+  },
   "privacyScreen": "Privacy screen",
   "privacyScreenOnSubtitle": "Cover screen content when switching apps",
   "privacyScreenOffSubtitle": "App content stays visible when switching apps",
@@ -1180,13 +1204,35 @@
   "listDisplayPoolHint": "Field pool: tap a highlighted field to add it to the row, or drag a field here to remove it",
   "listDisplayWidth": "Width",
   "listDisplayAlign": "Alignment",
+  "listDisplayLabel": "Label",
+  "listDisplayLabelText": "Text",
+  "listDisplayLabelNone": "None",
+  "listDisplayMoreIcons": "More icons",
+  "iconGroupTransfer": "Transfer",
+  "iconGroupRate": "Rate & metrics",
+  "iconGroupNetwork": "Peers & network",
+  "iconGroupStorage": "Files & storage",
+  "iconGroupStatus": "Status & marks",
+  "iconGroupTime": "Time & order",
   "listDisplayStatusIcon": "Status icon",
   "listDisplayPreview": "Preview",
   "listDisplayLayout": "Layout",
   "multiSelectFilters": "Multi-select filters",
   "drawerFilterCount": "{count,plural, =1{{count} filter} other{{count} filters}}",
-  "@drawerFilterCount": {"placeholders": {"count": {"type": "int"}}},
+  "@drawerFilterCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "drawerNoFilters": "No filters",
   "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
-  "@torrentCount": {"placeholders": {"count": {"type": "int"}}}
+  "@torrentCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
 }

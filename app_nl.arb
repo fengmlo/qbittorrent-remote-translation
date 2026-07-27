@@ -4,8 +4,7 @@
   "selectFileCount": "{count,plural, =1{{count} bestand} other{{count} bestanden}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Selectie omkeren",
@@ -360,31 +359,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peers}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Geselecteerde trackers verwijderen",
   "removeSelectedTrackersMessage": "{count,plural, =1{De volgende tracker wordt uit deze torrent verwijderd. Dit kan niet ongedaan worden gemaakt:} other{De volgende {count} trackers worden uit deze torrent verwijderd. Dit kan niet ongedaan worden gemaakt:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Geselecteerde peers verbannen",
   "banSelectedPeersMessage": "{count,plural, =1{De volgende peer wordt permanent verbannen:} other{De volgende {count} peers worden permanent verbannen:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "{count} verbannen",
@@ -563,8 +558,7 @@
   "customPluginsCount": "Aangepast ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Plugins selecteren",
@@ -1020,9 +1014,25 @@
   "noCertificateConfig": "Niet geconfigureerd",
   "skipHostnameVerification": "Hostnaamverificatie overslaan",
   "skipHostnameVerificationHint": "Alleen het geïmporteerde certificaat zelf wordt geaccepteerd, waarbij de hostnaam wordt genegeerd — importeer het eigen certificaat van de server in plaats van een CA. Gebruik dit wanneer u verbindt via een IP-adres dat niet in het certificaat staat.",
-  "networkStack": "Netwerkstack", "networkStackReconfigureHint": "Herbouwt de huidige serververbinding na het overschakelen", "inheritGlobal": "Volg globaal", "activeNetworkStack": "Momenteel actief: {stack}", "customCa": "Aangepast certificaat", "customCaHint": "Importeer het zelfondertekende certificaat van de server, of de CA die het heeft uitgegeven, om de server te vertrouwen (de hostnaam in het certificaat moet overeenkomen met het adres)", "importAction": "Importeren", "replaceAction": "Vervangen", "clientCertificate": "Clientcertificaat (mTLS)", "importPkcs12": "PKCS#12 importeren", "selectAndroidKeyChain": "Selecteer Android KeyChain", "noClientCertificate": "Geen clientcertificaat gebruiken", "trustAllCertificates": "Alle certificaten vertrouwen?", "trustAllCertificatesWarning": "Dit schakelt de verificatie van het servercertificaat uit en kan ervoor zorgen dat de verbinding wordt onderschept. De geïmporteerde aangepaste CA wordt niet langer gebruikt.", "trustAnyway": "Toch vertrouwen", "pkcs12Password": "PKCS#12-wachtwoord",
+  "networkStack": "Netwerkstack",
+  "networkStackReconfigureHint": "Herbouwt de huidige serververbinding na het overschakelen",
+  "inheritGlobal": "Volg globaal",
+  "activeNetworkStack": "Momenteel actief: {stack}",
+  "customCa": "Aangepast certificaat",
+  "customCaHint": "Importeer het zelfondertekende certificaat van de server, of de CA die het heeft uitgegeven, om de server te vertrouwen (de hostnaam in het certificaat moet overeenkomen met het adres)",
+  "importAction": "Importeren",
+  "replaceAction": "Vervangen",
+  "clientCertificate": "Clientcertificaat (mTLS)",
+  "importPkcs12": "PKCS#12 importeren",
+  "selectAndroidKeyChain": "Selecteer Android KeyChain",
+  "noClientCertificate": "Geen clientcertificaat gebruiken",
+  "trustAllCertificates": "Alle certificaten vertrouwen?",
+  "trustAllCertificatesWarning": "Dit schakelt de verificatie van het servercertificaat uit en kan ervoor zorgen dat de verbinding wordt onderschept. De geïmporteerde aangepaste CA wordt niet langer gebruikt.",
+  "trustAnyway": "Toch vertrouwen",
+  "pkcs12Password": "PKCS#12-wachtwoord",
   "certificateImportFailed": "Import mislukt: het bestand is geen ondersteund certificaat",
-  "pkcs12ImportFailed": "Import mislukt: onjuist wachtwoord of niet-ondersteund PKCS#12-bestand", "backupPassword": "Back-upwachtwoord",
+  "pkcs12ImportFailed": "Import mislukt: onjuist wachtwoord of niet-ondersteund PKCS#12-bestand",
+  "backupPassword": "Back-upwachtwoord",
   "includeCredentialsOption": "Certificaten en sleutels (wachtwoord vereist)",
   "backupPasswordHelper": "Optioneel. Indien ingesteld, wordt de volledige back-up versleuteld; gebruik een sterk wachtwoord.",
   "backupPasswordRequired": "Er is een back-upwachtwoord vereist om certificaten en sleutels te exporteren.",
@@ -1036,7 +1046,10 @@
   "tlsMaterialUnavailableLabel": "Materiaal niet beschikbaar",
   "keyChainRequiresOkHttp": "De Android KeyChain-identiteit werkt alleen met de OkHttp-netwerkstack; de netwerkstack van deze server is daarom ingesteld op OkHttp.",
   "credentialBundlePasswordError": "Onjuist wachtwoord of beschadigd bestand.",
-  "tlsTrustFailure": "Verbindingstest mislukt: het servercertificaat wordt niet vertrouwd of de hostnaam komt niet overeen.", "tlsClientIdentityFailure": "Verbindingstest mislukt: de server heeft het clientcertificaat geweigerd of het is niet beschikbaar.", "tlsMaterialUnavailable": "Verbindingstest mislukt: geïmporteerd certificaatmateriaal is niet beschikbaar. Importeer het opnieuw.", "tlsConfigurationFailure": "Verbindingstest mislukt: TLS-configuratiefout.",
+  "tlsTrustFailure": "Verbindingstest mislukt: het servercertificaat wordt niet vertrouwd of de hostnaam komt niet overeen.",
+  "tlsClientIdentityFailure": "Verbindingstest mislukt: de server heeft het clientcertificaat geweigerd of het is niet beschikbaar.",
+  "tlsMaterialUnavailable": "Verbindingstest mislukt: geïmporteerd certificaatmateriaal is niet beschikbaar. Importeer het opnieuw.",
+  "tlsConfigurationFailure": "Verbindingstest mislukt: TLS-configuratiefout.",
   "appLock": "App-vergrendeling",
   "appLockOnSubtitle": "Vingerafdruk, Face ID of toegangscode van het apparaat vereisen om de app te openen",
   "appLockOffSubtitle": "App openen zonder authenticatie",
@@ -1070,6 +1083,16 @@
   "listDisplayPoolHint": "Veldenpool: tik op een gemarkeerd veld om het aan de rij toe te voegen, of sleep een veld hierheen om het te verwijderen",
   "listDisplayWidth": "Breedte",
   "listDisplayAlign": "Uitlijning",
+  "listDisplayLabel": "Voorvoegsel",
+  "listDisplayLabelText": "Tekst",
+  "listDisplayLabelNone": "Geen",
+  "listDisplayMoreIcons": "Meer pictogrammen",
+  "iconGroupTransfer": "Overdracht",
+  "iconGroupRate": "Snelheid & statistieken",
+  "iconGroupNetwork": "Peers & netwerk",
+  "iconGroupStorage": "Bestanden & opslag",
+  "iconGroupStatus": "Status & markeringen",
+  "iconGroupTime": "Tijd & volgorde",
   "listDisplayStatusIcon": "Statuspictogram",
   "listDisplayPreview": "Voorbeeld",
   "listDisplayLayout": "Indeling",

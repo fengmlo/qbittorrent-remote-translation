@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} fitxer} other{{count} fitxers}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Inverteix la selecció",
   "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Sense torrents",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Segur que vols eliminar els {count} torrent(s) sel·leccionat(s)?} other{Segur que vols eliminar els {count} torrent(s) sel·leccionat(s)?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Eliminar arxius",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} sec} other{{interval} secs}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Preferències",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peers}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Eliminar els trackers seleccionats",
   "removeSelectedTrackersMessage": "{count,plural, =1{S'eliminarà el tracker següent d'aquest torrent. Aquesta acció no es pot desfer:} other{S'eliminaran els {count} trackers següents d'aquest torrent. Aquesta acció no es pot desfer:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Bloquejar els peers seleccionats",
   "banSelectedPeersMessage": "{count,plural, =1{Es bloquejarà per sempre el peer següent:} other{Es bloquejaran per sempre els {count} peers següents:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Bloquejar {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} item} other{{count} items}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Nova subscripció",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (té {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Completat el",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} màx)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} aquesta sessió)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} totals)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} mitjana)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Reanunciar en",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Personalitzats ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Selecciona els plugins",
@@ -675,10 +654,8 @@
   "filterResult": "Resultats (mostrant {filterResult} de {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Netejar entrada",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} file .torrent } other{{count} .torrent files}} exportat a la carpeta de baixades",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "Estil AMOLED",
@@ -1081,6 +1057,16 @@
   "listDisplayPoolHint": "Camps disponibles: toqueu un camp ressaltat per afegir-lo a la fila, o arrossegueu un camp aquí per treure'l",
   "listDisplayWidth": "Amplada",
   "listDisplayAlign": "Alineació",
+  "listDisplayLabel": "Prefix",
+  "listDisplayLabelText": "Text",
+  "listDisplayLabelNone": "Cap",
+  "listDisplayMoreIcons": "Més icones",
+  "iconGroupTransfer": "Transferència",
+  "iconGroupRate": "Velocitat i mètriques",
+  "iconGroupNetwork": "Pars i xarxa",
+  "iconGroupStorage": "Fitxers i emmagatzematge",
+  "iconGroupStatus": "Estat i marques",
+  "iconGroupTime": "Temps i ordre",
   "listDisplayStatusIcon": "Icona d'estat",
   "listDisplayPreview": "Previsualització",
   "listDisplayLayout": "Disposició",

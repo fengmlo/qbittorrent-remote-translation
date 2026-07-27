@@ -4,16 +4,14 @@
   "selectFileCount": "{count,plural, =1{{count} fichier} other{{count} fichiers}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Inverser la sélection",
   "selectTorrentCount": "{count,plural, one{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "listEmpty": "Aucun torrent",
@@ -63,8 +61,7 @@
   "deleteTorrentDialogMessage": "{count,plural, =1{Voulez-vous vraiment supprimer le {count} torrent sélectionné ?} other{Voulez-vous vraiment supprimer les {count} torrents sélectionnés ?}}",
   "@deleteTorrentDialogMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "alsoDeleteFile": "Supprimer les fichiers",
@@ -117,8 +114,7 @@
       "totalSize": {
         "type": "String"
       },
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       }
@@ -228,8 +224,7 @@
   "refreshIntervalInfo": "{interval,plural, =1{{interval} s} other{{interval} s}}",
   "@refreshIntervalInfo": {
     "placeholders": {
-      "interval": {
-      }
+      "interval": {}
     }
   },
   "preferences": "Préférences",
@@ -359,31 +354,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} trackers}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} pair} other{{count} pairs}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Supprimer les trackers sélectionnés",
   "removeSelectedTrackersMessage": "{count,plural, =1{Le tracker suivant sera supprimé de ce torrent. Cette action est irréversible :} other{Les {count} trackers suivants seront supprimés de ce torrent. Cette action est irréversible :}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Bannir les pairs sélectionnés",
   "banSelectedPeersMessage": "{count,plural, =1{Le pair suivant sera banni définitivement :} other{Les {count} pairs suivants seront bannis définitivement :}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "Bannir {count}",
@@ -443,8 +434,7 @@
   "selectedItemCount": "{count,plural, =1{{count} élément} other{{count} éléments}}",
   "@selectedItemCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "newSubscription": "Nouvel abonnement",
@@ -480,13 +470,11 @@
   "piecesInfo": "{piecesNum} × {pieceSize} (reçu : {pieceHave})",
   "@piecesInfo": {
     "placeholders": {
-      "piecesNum": {
-      },
+      "piecesNum": {},
       "pieceSize": {
         "type": "String"
       },
-      "pieceHave": {
-      }
+      "pieceHave": {}
     }
   },
   "completedOnTitle": "Terminé le",
@@ -497,37 +485,29 @@
   "connectionsInfo": "{connectionsNum} ({connectionsLimit} max)",
   "@connectionsInfo": {
     "placeholders": {
-      "connectionsNum": {
-      },
-      "connectionsLimit": {
-      }
+      "connectionsNum": {},
+      "connectionsLimit": {}
     }
   },
   "transferInfo": "{transferred} ({transferredInSession} cette session)",
   "@transferInfo": {
     "placeholders": {
-      "transferred": {
-      },
-      "transferredInSession": {
-      }
+      "transferred": {},
+      "transferredInSession": {}
     }
   },
   "seedsOrPeersInfo": "{seedsOrPeers} ({totalSeedsOrPeers} au total)",
   "@seedsOrPeersInfo": {
     "placeholders": {
-      "seedsOrPeers": {
-      },
-      "totalSeedsOrPeers": {
-      }
+      "seedsOrPeers": {},
+      "totalSeedsOrPeers": {}
     }
   },
   "speedInfo": "{speed} ({speedAvg} moy.)",
   "@speedInfo": {
     "placeholders": {
-      "speed": {
-      },
-      "speedAvg": {
-      }
+      "speed": {},
+      "speedAvg": {}
     }
   },
   "reannounceInTitle": "Réannonce dans",
@@ -565,8 +545,7 @@
   "customPluginsCount": "Personnalisés ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Sélectionner les greffons",
@@ -675,10 +654,8 @@
   "filterResult": "Résultats ({filterResult} sur {totalResult})",
   "@filterResult": {
     "placeholders": {
-      "filterResult": {
-      },
-      "totalResult": {
-      }
+      "filterResult": {},
+      "totalResult": {}
     }
   },
   "clearInput": "Effacer la saisie",
@@ -760,8 +737,7 @@
   "torrentExported": "{count,plural, =1{{count} fichier .torrent exporté} other{{count} fichiers .torrent exportés}} dans le dossier Téléchargements",
   "@torrentExported": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "amoledThemeTitle": "Thème AMOLED",
@@ -1022,10 +998,19 @@
   "customCaHint": "Importez le certificat auto-signé du serveur, ou l'AC qui l'a émis, pour faire confiance au serveur (le nom d'hôte du certificat doit correspondre à l'adresse)",
   "skipHostnameVerification": "Ignorer la vérification du nom d'hôte",
   "skipHostnameVerificationHint": "Seul le certificat importé lui-même est accepté, en ignorant le nom d'hôte — importez le certificat propre du serveur plutôt qu'une CA. À utiliser lors d'une connexion via une adresse IP non incluse dans le certificat.",
-  "importAction": "Importer", "replaceAction": "Remplacer", "clientCertificate": "Certificat client (mTLS)", "importPkcs12": "Importer PKCS#12", "selectAndroidKeyChain": "Sélectionner Android KeyChain", "noClientCertificate": "Ne pas utiliser de certificat client",
-  "trustAllCertificates": "Faire confiance à tous les certificats ?", "trustAllCertificatesWarning": "Cela désactive la vérification du certificat du serveur et peut permettre l'interception de la connexion. La CA personnalisée importée ne sera plus utilisée.", "trustAnyway": "Faire confiance quand même", "pkcs12Password": "Mot de passe PKCS#12",
+  "importAction": "Importer",
+  "replaceAction": "Remplacer",
+  "clientCertificate": "Certificat client (mTLS)",
+  "importPkcs12": "Importer PKCS#12",
+  "selectAndroidKeyChain": "Sélectionner Android KeyChain",
+  "noClientCertificate": "Ne pas utiliser de certificat client",
+  "trustAllCertificates": "Faire confiance à tous les certificats ?",
+  "trustAllCertificatesWarning": "Cela désactive la vérification du certificat du serveur et peut permettre l'interception de la connexion. La CA personnalisée importée ne sera plus utilisée.",
+  "trustAnyway": "Faire confiance quand même",
+  "pkcs12Password": "Mot de passe PKCS#12",
   "certificateImportFailed": "Échec de l'importation : le fichier n'est pas un certificat pris en charge",
-  "pkcs12ImportFailed": "Échec de l'importation : mot de passe incorrect ou fichier PKCS#12 non pris en charge", "backupPassword": "Mot de passe de sauvegarde",
+  "pkcs12ImportFailed": "Échec de l'importation : mot de passe incorrect ou fichier PKCS#12 non pris en charge",
+  "backupPassword": "Mot de passe de sauvegarde",
   "includeCredentialsOption": "Certificats et clés (mot de passe requis)",
   "backupPasswordHelper": "Facultatif. S'il est défini, l'intégralité de la sauvegarde sera chiffrée ; utilisez un mot de passe fort.",
   "backupPasswordRequired": "Un mot de passe de sauvegarde est requis pour exporter les certificats et les clés.",
@@ -1035,7 +1020,10 @@
   "tlsMaterialUnavailableLabel": "Matériel indisponible",
   "keyChainRequiresOkHttp": "L'identité Android KeyChain ne fonctionne qu'avec la pile réseau OkHttp ; la pile réseau de ce serveur a donc été définie sur OkHttp.",
   "credentialBundlePasswordError": "Mot de passe incorrect ou fichier corrompu.",
-  "tlsTrustFailure": "Échec du test de connexion : le certificat du serveur n'est pas approuvé ou son nom d'hôte ne correspond pas.", "tlsClientIdentityFailure": "Échec du test de connexion : le serveur a rejeté le certificat client ou il est indisponible.", "tlsMaterialUnavailable": "Échec du test de connexion : le matériel de certificat importé est indisponible. Veuillez l'importer à nouveau.", "tlsConfigurationFailure": "Échec du test de connexion : erreur de configuration TLS.",
+  "tlsTrustFailure": "Échec du test de connexion : le certificat du serveur n'est pas approuvé ou son nom d'hôte ne correspond pas.",
+  "tlsClientIdentityFailure": "Échec du test de connexion : le serveur a rejeté le certificat client ou il est indisponible.",
+  "tlsMaterialUnavailable": "Échec du test de connexion : le matériel de certificat importé est indisponible. Veuillez l'importer à nouveau.",
+  "tlsConfigurationFailure": "Échec du test de connexion : erreur de configuration TLS.",
   "appLock": "Verrouillage de l'application",
   "appLockOnSubtitle": "Exiger une empreinte, Face ID ou le code de l'appareil pour ouvrir l'application",
   "appLockOffSubtitle": "Ouvrir l'application sans authentification",
@@ -1069,6 +1057,16 @@
   "listDisplayPoolHint": "Réservoir de champs : touchez un champ en surbrillance pour l'ajouter à la ligne, ou faites glisser un champ ici pour le retirer",
   "listDisplayWidth": "Largeur",
   "listDisplayAlign": "Alignement",
+  "listDisplayLabel": "Préfixe",
+  "listDisplayLabelText": "Texte",
+  "listDisplayLabelNone": "Aucune",
+  "listDisplayMoreIcons": "Plus d'icônes",
+  "iconGroupTransfer": "Transfert",
+  "iconGroupRate": "Vitesse et métriques",
+  "iconGroupNetwork": "Pairs et réseau",
+  "iconGroupStorage": "Fichiers et stockage",
+  "iconGroupStatus": "Statut et repères",
+  "iconGroupTime": "Temps et ordre",
   "listDisplayStatusIcon": "Icône d'état",
   "listDisplayPreview": "Aperçu",
   "listDisplayLayout": "Disposition",

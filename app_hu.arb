@@ -4,8 +4,7 @@
   "selectFileCount": "{count,plural, =1{{count} fájl} other{{count} fájl}}",
   "@selectFileCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "invertSelection": "Kijelölés megfordítása",
@@ -360,31 +359,27 @@
   "selectTrackerCount": "{count,plural, =1{{count} tracker} other{{count} tracker}}",
   "@selectTrackerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPeerCount": "{count,plural, =1{{count} peer} other{{count} peer}}",
   "@selectPeerCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "removeSelectedTrackers": "Kijelölt trackerek eltávolítása",
   "removeSelectedTrackersMessage": "{count,plural, =1{A következő tracker eltávolításra kerül erről a torrentről. Ez a művelet nem vonható vissza:} other{A következő {count} tracker eltávolításra kerül erről a torrentről. Ez a művelet nem vonható vissza:}}",
   "@removeSelectedTrackersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banSelectedPeers": "Kijelölt peerek kitiltása",
   "banSelectedPeersMessage": "{count,plural, =1{A következő peer véglegesen kitiltásra kerül:} other{A következő {count} peer véglegesen kitiltásra kerül:}}",
   "@banSelectedPeersMessage": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "banNPeers": "{count} kitiltása",
@@ -563,8 +558,7 @@
   "customPluginsCount": "Egyéni ({count})",
   "@customPluginsCount": {
     "placeholders": {
-      "count": {
-      }
+      "count": {}
     }
   },
   "selectPlugins": "Modulok kiválasztása",
@@ -1020,9 +1014,25 @@
   "noCertificateConfig": "Nincs konfigurálva",
   "skipHostnameVerification": "Gépnév-ellenőrzés kihagyása",
   "skipHostnameVerificationHint": "Csak maga az importált tanúsítvány fogadható el, a gépnév figyelmen kívül hagyásával – a szerver saját tanúsítványát importálja, ne egy CA-t. Akkor használja, ha olyan IP-címmel csatlakozik, amelyet a tanúsítvány nem tartalmaz.",
-  "networkStack": "Hálózati verem", "networkStackReconfigureHint": "Váltás után újraépíti a jelenlegi szerverkapcsolatot", "inheritGlobal": "Globális beállítás követése", "activeNetworkStack": "Jelenleg aktív: {stack}", "customCa": "Egyéni tanúsítvány", "customCaHint": "Importáld a szerver önaláírt tanúsítványát vagy az azt kiállító CA-t, hogy megbízz a szerverben (a tanúsítvány gépnevének egyeznie kell a címmel)", "importAction": "Importálás", "replaceAction": "Cseréje", "clientCertificate": "Klienstanúsítvány (mTLS)", "importPkcs12": "PKCS#12 importálása", "selectAndroidKeyChain": "Android KeyChain kiválasztása", "noClientCertificate": "Ne használjon klienstanúsítványt", "trustAllCertificates": "Megbízik az összes tanúsítványban?", "trustAllCertificatesWarning": "Ez letiltja a szerver tanúsítványának ellenőrzését, így a kapcsolat elfoghatóvá válhat. Az importált egyedi CA a továbbiakban nem lesz használatban.", "trustAnyway": "Mégis megbízom benne", "pkcs12Password": "PKCS#12 jelszó",
+  "networkStack": "Hálózati verem",
+  "networkStackReconfigureHint": "Váltás után újraépíti a jelenlegi szerverkapcsolatot",
+  "inheritGlobal": "Globális beállítás követése",
+  "activeNetworkStack": "Jelenleg aktív: {stack}",
+  "customCa": "Egyéni tanúsítvány",
+  "customCaHint": "Importáld a szerver önaláírt tanúsítványát vagy az azt kiállító CA-t, hogy megbízz a szerverben (a tanúsítvány gépnevének egyeznie kell a címmel)",
+  "importAction": "Importálás",
+  "replaceAction": "Cseréje",
+  "clientCertificate": "Klienstanúsítvány (mTLS)",
+  "importPkcs12": "PKCS#12 importálása",
+  "selectAndroidKeyChain": "Android KeyChain kiválasztása",
+  "noClientCertificate": "Ne használjon klienstanúsítványt",
+  "trustAllCertificates": "Megbízik az összes tanúsítványban?",
+  "trustAllCertificatesWarning": "Ez letiltja a szerver tanúsítványának ellenőrzését, így a kapcsolat elfoghatóvá válhat. Az importált egyedi CA a továbbiakban nem lesz használatban.",
+  "trustAnyway": "Mégis megbízom benne",
+  "pkcs12Password": "PKCS#12 jelszó",
   "certificateImportFailed": "Sikertelen importálás: a fájl nem támogatott tanúsítvány",
-  "pkcs12ImportFailed": "Sikertelen importálás: helytelen jelszó vagy nem támogatott PKCS#12 fájl", "backupPassword": "Biztonsági mentés jelszava",
+  "pkcs12ImportFailed": "Sikertelen importálás: helytelen jelszó vagy nem támogatott PKCS#12 fájl",
+  "backupPassword": "Biztonsági mentés jelszava",
   "includeCredentialsOption": "Tanúsítványok és kulcsok (jelszó szükséges)",
   "backupPasswordHelper": "Opcionális. Ha be van állítva, a teljes biztonsági mentés titkosítva lesz; használjon erős jelszót.",
   "backupPasswordRequired": "A tanúsítványok és kulcsok exportálásához a biztonsági mentés jelszava szükséges.",
@@ -1036,7 +1046,10 @@
   "tlsMaterialUnavailableLabel": "Az anyag nem érhető el",
   "keyChainRequiresOkHttp": "Az Android KeyChain identitás csak az OkHttp hálózati veremmel működik, ezért a szerver hálózati verme OkHttp-re lett állítva.",
   "credentialBundlePasswordError": "Hibás jelszó vagy sérült fájl.",
-  "tlsTrustFailure": "A kapcsolatteszt meghiúsult: a szerver tanúsítványa nem megbízható, vagy a hostneve nem egyezik.", "tlsClientIdentityFailure": "A kapcsolatteszt meghiúsult: a szerver elutasította a klienstanúsítványt, vagy az nem érhető el.", "tlsMaterialUnavailable": "A kapcsolatteszt meghiúsult: az importált tanúsítványanyag nem érhető el. Importálja újra.", "tlsConfigurationFailure": "A kapcsolatteszt meghiúsult: TLS-konfigurációs hiba.",
+  "tlsTrustFailure": "A kapcsolatteszt meghiúsult: a szerver tanúsítványa nem megbízható, vagy a hostneve nem egyezik.",
+  "tlsClientIdentityFailure": "A kapcsolatteszt meghiúsult: a szerver elutasította a klienstanúsítványt, vagy az nem érhető el.",
+  "tlsMaterialUnavailable": "A kapcsolatteszt meghiúsult: az importált tanúsítványanyag nem érhető el. Importálja újra.",
+  "tlsConfigurationFailure": "A kapcsolatteszt meghiúsult: TLS-konfigurációs hiba.",
   "appLock": "Alkalmazászár",
   "appLockOnSubtitle": "Ujjlenyomat, Face ID vagy az eszköz jelkódjának megkövetelése az alkalmazás megnyitásához",
   "appLockOffSubtitle": "Az alkalmazás megnyitása hitelesítés nélkül",
@@ -1070,6 +1083,16 @@
   "listDisplayPoolHint": "Mezőkészlet: koppints egy kiemelt mezőre a sorhoz adáshoz, vagy húzz ide egy mezőt az eltávolításhoz",
   "listDisplayWidth": "Szélesség",
   "listDisplayAlign": "Igazítás",
+  "listDisplayLabel": "Előtag",
+  "listDisplayLabelText": "Szöveg",
+  "listDisplayLabelNone": "Nincs",
+  "listDisplayMoreIcons": "További ikonok",
+  "iconGroupTransfer": "Átvitel",
+  "iconGroupRate": "Sebesség és mutatók",
+  "iconGroupNetwork": "Partnerek és hálózat",
+  "iconGroupStorage": "Fájlok és tárhely",
+  "iconGroupStatus": "Állapot és jelölések",
+  "iconGroupTime": "Idő és sorrend",
   "listDisplayStatusIcon": "Állapotikon",
   "listDisplayPreview": "Előnézet",
   "listDisplayLayout": "Elrendezés",
