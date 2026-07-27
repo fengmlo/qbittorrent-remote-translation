@@ -9,7 +9,7 @@
     }
   },
   "invertSelection": "Inverter seleção",
-  "selectTorrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
+  "selectTorrentCount": "{count,plural, one{{count} torrent} other{{count} torrents}}",
   "@selectTorrentCount": {
     "placeholders": {
       "count": {
@@ -1065,5 +1065,9 @@
   "listDisplayAlign": "Alinhamento",
   "listDisplayStatusIcon": "Ícone de estado",
   "listDisplayPreview": "Pré-visualização",
-  "listDisplayLayout": "Layout"
+  "listDisplayLayout": "Layout",
+  "multiSelectFilters": "Seleção múltipla de filtros",
+  "drawerFilterCount": "{count,plural, one{{count} filtro} other{{count} filtros}}",
+  "drawerNoFilters": "Nenhum filtro",
+  "torrentCount": "{count,plural, one{{count} torrent} other{{count} torrents}}"
 }

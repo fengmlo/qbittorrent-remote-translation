@@ -1072,5 +1072,9 @@
   "listDisplayAlign": "Igazítás",
   "listDisplayStatusIcon": "Állapotikon",
   "listDisplayPreview": "Előnézet",
-  "listDisplayLayout": "Elrendezés"
+  "listDisplayLayout": "Elrendezés",
+  "multiSelectFilters": "Többszörös szűrőkijelölés",
+  "drawerFilterCount": "{count,plural, =1{{count} szűrő} other{{count} szűrő}}",
+  "drawerNoFilters": "Nincs szűrő",
+  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrent}}"
 }

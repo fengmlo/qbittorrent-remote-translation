@@ -1072,5 +1072,9 @@
   "listDisplayAlign": "Uitlijning",
   "listDisplayStatusIcon": "Statuspictogram",
   "listDisplayPreview": "Voorbeeld",
-  "listDisplayLayout": "Indeling"
+  "listDisplayLayout": "Indeling",
+  "multiSelectFilters": "Meervoudige filterselectie",
+  "drawerFilterCount": "{count,plural, =1{{count} filter} other{{count} filters}}",
+  "drawerNoFilters": "Geen filters",
+  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}"
 }

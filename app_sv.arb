@@ -1065,5 +1065,9 @@
   "listDisplayAlign": "Justering",
   "listDisplayStatusIcon": "Statusikon",
   "listDisplayPreview": "Förhandsvisning",
-  "listDisplayLayout": "Layout"
+  "listDisplayLayout": "Layout",
+  "multiSelectFilters": "Välj flera filter",
+  "drawerFilterCount": "{count,plural, =1{{count} filter} other{{count} filter}}",
+  "drawerNoFilters": "Inga filter",
+  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}"
 }

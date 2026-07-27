@@ -9,7 +9,7 @@
     }
   },
   "invertSelection": "Інвертувати виділення",
-  "selectTorrentCount": "{count,plural, =1{{count} торент} few{{count} торенти} many{{count} торентів} other{{count} торентів}}",
+  "selectTorrentCount": "{count,plural, one{{count} торент} few{{count} торенти} many{{count} торентів} other{{count} торентів}}",
   "@selectTorrentCount": {
     "placeholders": {
       "count": {
@@ -1065,5 +1065,9 @@
   "listDisplayAlign": "Вирівнювання",
   "listDisplayStatusIcon": "Значок стану",
   "listDisplayPreview": "Попередній перегляд",
-  "listDisplayLayout": "Компонування"
+  "listDisplayLayout": "Компонування",
+  "multiSelectFilters": "Множинний вибір фільтрів",
+  "drawerFilterCount": "{count,plural, one{{count} фільтр} few{{count} фільтри} many{{count} фільтрів} other{{count} фільтрів}}",
+  "drawerNoFilters": "Без фільтрів",
+  "torrentCount": "{count,plural, one{{count} торент} few{{count} торенти} many{{count} торентів} other{{count} торентів}}"
 }

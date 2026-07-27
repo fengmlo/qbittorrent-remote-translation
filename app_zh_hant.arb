@@ -1085,5 +1085,9 @@
   "listDisplayAlign": "對齊",
   "listDisplayStatusIcon": "狀態圖示",
   "listDisplayPreview": "預覽",
-  "listDisplayLayout": "佈局"
+  "listDisplayLayout": "佈局",
+  "multiSelectFilters": "多選過濾器",
+  "drawerFilterCount": "{count,plural, other{{count} 個過濾器}}",
+  "drawerNoFilters": "無過濾器",
+  "torrentCount": "{count,plural, other{{count}個種子}}"
 }

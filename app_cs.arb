@@ -1083,5 +1083,9 @@
   "listDisplayAlign": "Zarovnání",
   "listDisplayStatusIcon": "Ikona stavu",
   "listDisplayPreview": "Náhled",
-  "listDisplayLayout": "Rozložení"
+  "listDisplayLayout": "Rozložení",
+  "multiSelectFilters": "Vícenásobný výběr filtrů",
+  "drawerFilterCount": "{count,plural, =1{{count} filtr} few{{count} filtry} other{{count} filtrů}}",
+  "drawerNoFilters": "Bez filtrů",
+  "torrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentů}}"
 }

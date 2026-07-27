@@ -1090,5 +1090,9 @@
   "listDisplayAlign": "Ausrichtung",
   "listDisplayStatusIcon": "Statussymbol",
   "listDisplayPreview": "Vorschau",
-  "listDisplayLayout": "Layout"
+  "listDisplayLayout": "Layout",
+  "multiSelectFilters": "Filter-Mehrfachauswahl",
+  "drawerFilterCount": "{count,plural, =1{{count} Filter} other{{count} Filter}}",
+  "drawerNoFilters": "Keine Filter",
+  "torrentCount": "{count,plural, =1{{count} Torrent} other{{count} Torrents}}"
 }

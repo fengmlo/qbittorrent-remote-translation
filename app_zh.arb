@@ -1085,5 +1085,9 @@
   "listDisplayAlign": "对齐",
   "listDisplayStatusIcon": "状态图标",
   "listDisplayPreview": "预览",
-  "listDisplayLayout": "布局"
+  "listDisplayLayout": "布局",
+  "multiSelectFilters": "多选过滤器",
+  "drawerFilterCount": "{count,plural, other{{count} 个过滤器}}",
+  "drawerNoFilters": "无过滤器",
+  "torrentCount": "{count,plural, other{{count}个种子}}"
 }

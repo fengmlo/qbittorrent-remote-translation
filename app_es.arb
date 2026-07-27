@@ -1083,5 +1083,9 @@
   "listDisplayAlign": "Alineación",
   "listDisplayStatusIcon": "Icono de estado",
   "listDisplayPreview": "Vista previa",
-  "listDisplayLayout": "Distribución"
+  "listDisplayLayout": "Distribución",
+  "multiSelectFilters": "Selección múltiple de filtros",
+  "drawerFilterCount": "{count,plural, =1{{count} filtro} other{{count} filtros}}",
+  "drawerNoFilters": "Sin filtros",
+  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}"
 }

@@ -1072,5 +1072,9 @@
   "listDisplayAlign": "配置",
   "listDisplayStatusIcon": "状態アイコン",
   "listDisplayPreview": "プレビュー",
-  "listDisplayLayout": "レイアウト"
+  "listDisplayLayout": "レイアウト",
+  "multiSelectFilters": "フィルタの複数選択",
+  "drawerFilterCount": "{count,plural, =1{{count} 個のフィルタ} other{{count} 個のフィルタ}}",
+  "drawerNoFilters": "フィルタなし",
+  "torrentCount": "{count,plural, =1{{count} Torrent} other{{count} Torrent}}"
 }

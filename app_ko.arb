@@ -1072,5 +1072,9 @@
   "listDisplayAlign": "정렬",
   "listDisplayStatusIcon": "상태 아이콘",
   "listDisplayPreview": "미리보기",
-  "listDisplayLayout": "레이아웃"
+  "listDisplayLayout": "레이아웃",
+  "multiSelectFilters": "필터 다중 선택",
+  "drawerFilterCount": "{count,plural, =1{{count}개 필터} other{{count}개 필터}}",
+  "drawerNoFilters": "필터 없음",
+  "torrentCount": "{count,plural, =1{{count}개 토렌트} other{{count}개 토렌트}}"
 }

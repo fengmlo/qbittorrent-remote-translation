@@ -9,7 +9,7 @@
     }
   },
   "invertSelection": "Инвертировать выделение",
-  "selectTorrentCount": "{count,plural, =1{{count} торрент} few{{count} торрента} many{{count} торрентов} other{{count} торрентов}}",
+  "selectTorrentCount": "{count,plural, one{{count} торрент} few{{count} торрента} many{{count} торрентов} other{{count} торрентов}}",
   "@selectTorrentCount": {
     "placeholders": {
       "count": {
@@ -1065,5 +1065,9 @@
   "listDisplayAlign": "Выравнивание",
   "listDisplayStatusIcon": "Значок статуса",
   "listDisplayPreview": "Предпросмотр",
-  "listDisplayLayout": "Компоновка"
+  "listDisplayLayout": "Компоновка",
+  "multiSelectFilters": "Множественный выбор фильтров",
+  "drawerFilterCount": "{count,plural, one{{count} фильтр} few{{count} фильтра} many{{count} фильтров} other{{count} фильтров}}",
+  "drawerNoFilters": "Без фильтров",
+  "torrentCount": "{count,plural, one{{count} торрент} few{{count} торрента} many{{count} торрентов} other{{count} торрентов}}"
 }

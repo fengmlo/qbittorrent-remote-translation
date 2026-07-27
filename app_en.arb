@@ -1182,5 +1182,11 @@
   "listDisplayAlign": "Alignment",
   "listDisplayStatusIcon": "Status icon",
   "listDisplayPreview": "Preview",
-  "listDisplayLayout": "Layout"
+  "listDisplayLayout": "Layout",
+  "multiSelectFilters": "Multi-select filters",
+  "drawerFilterCount": "{count,plural, =1{{count} filter} other{{count} filters}}",
+  "@drawerFilterCount": {"placeholders": {"count": {"type": "int"}}},
+  "drawerNoFilters": "No filters",
+  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
+  "@torrentCount": {"placeholders": {"count": {"type": "int"}}}
 }
