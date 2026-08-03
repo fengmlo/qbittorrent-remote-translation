@@ -691,6 +691,8 @@
   "appearance": "外观",
   "advanced": "高级",
   "about": "关于",
+  "upgradeToFullVersion": "升级到完整版",
+  "upgradeToFullVersionSubtitle": "移除所有广告并解锁全部功能",
   "resumeAllTorrentsTips": "确定开始所有种子吗？",
   "pauseAllTorrentsTips": "确定暂停所有种子吗？",
   "startAllTorrentsTips": "确定启动所有种子吗？",

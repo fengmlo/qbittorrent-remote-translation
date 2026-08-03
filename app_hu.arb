@@ -699,6 +699,8 @@
   "appearance": "Megjelenés",
   "advanced": "Speciális beállítások",
   "about": "Névjegy",
+  "upgradeToFullVersion": "Frissítés a teljes verzióra",
+  "upgradeToFullVersionSubtitle": "Hirdetések eltávolítása és az összes funkció feloldása",
   "resumeAllTorrentsTips": "Biztosan folytatni szeretné az összes torrentet?",
   "pauseAllTorrentsTips": "Biztosan szüneteltetni szeretné az összes torrentet?",
   "startAllTorrentsTips": "Biztosan elindítani szeretné az összes torrentet?",

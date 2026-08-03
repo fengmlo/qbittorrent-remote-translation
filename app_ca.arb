@@ -686,6 +686,8 @@
   "appearance": "Aparença",
   "advanced": "Avançada",
   "about": "Sobre",
+  "upgradeToFullVersion": "Actualitza a la versió completa",
+  "upgradeToFullVersionSubtitle": "Elimina tots els anuncis i desbloqueja totes les funcions",
   "resumeAllTorrentsTips": "Segur que vols reprendre tots els torrents?",
   "pauseAllTorrentsTips": "Segur que vols pausar tots els torrents?",
   "startAllTorrentsTips": "Segur que vols iniciar tots els torrents?",

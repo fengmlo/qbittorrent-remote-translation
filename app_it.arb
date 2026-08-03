@@ -686,6 +686,8 @@
   "appearance": "Aspetto",
   "advanced": "Avanzate",
   "about": "Informazioni",
+  "upgradeToFullVersion": "Passa alla versione completa",
+  "upgradeToFullVersionSubtitle": "Rimuovi tutti gli annunci e sblocca tutte le funzionalità",
   "resumeAllTorrentsTips": "Sei sicuro di voler riprendere tutti i torrent?",
   "pauseAllTorrentsTips": "Sei sicuro di voler mettere in pausa tutti i torrent?",
   "startAllTorrentsTips": "Sei sicuro di voler avviare tutti i torrent?",

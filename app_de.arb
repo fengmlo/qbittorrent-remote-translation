@@ -699,6 +699,8 @@
   "appearance": "Erscheinungsbild",
   "advanced": "Erweitert",
   "about": "Über",
+  "upgradeToFullVersion": "Auf Vollversion upgraden",
+  "upgradeToFullVersionSubtitle": "Sämtliche Werbung entfernen und alle Funktionen freischalten",
   "resumeAllTorrentsTips": "Sind Sie sicher, dass Sie alle Torrents fortsetzen möchten?",
   "pauseAllTorrentsTips": "Sind Sie sicher, dass Sie alle Torrents anhalten möchten?",
   "startAllTorrentsTips": "Sind Sie sicher, dass Sie alle Torrents starten möchten?",

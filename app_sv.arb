@@ -686,6 +686,8 @@
   "appearance": "Utseende",
   "advanced": "Avancerat",
   "about": "Om",
+  "upgradeToFullVersion": "Uppgradera till fullversionen",
+  "upgradeToFullVersionSubtitle": "Ta bort alla annonser och lås upp alla funktioner",
   "resumeAllTorrentsTips": "Är du säker på att du vill återuppta alla torrents?",
   "pauseAllTorrentsTips": "Är du säker på att du vill pausa alla torrents?",
   "startAllTorrentsTips": "Är du säker på att du vill starta alla torrents?",

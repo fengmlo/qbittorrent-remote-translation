@@ -686,6 +686,8 @@
   "appearance": "Зовнішній вигляд",
   "advanced": "Розширені",
   "about": "Про програму",
+  "upgradeToFullVersion": "Перейти на повну версію",
+  "upgradeToFullVersionSubtitle": "Прибрати всю рекламу та розблокувати всі функції",
   "resumeAllTorrentsTips": "Ви впевнені, що хочете відновити всі торенти?",
   "pauseAllTorrentsTips": "Ви впевнені, що хочете призупинити всі торенти?",
   "startAllTorrentsTips": "Ви впевнені, що хочете запустити всі торенти?",

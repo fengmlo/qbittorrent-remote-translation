@@ -691,6 +691,8 @@
   "appearance": "外觀",
   "advanced": "進階",
   "about": "關於",
+  "upgradeToFullVersion": "升級至完整版",
+  "upgradeToFullVersionSubtitle": "移除所有廣告並解鎖所有功能",
   "resumeAllTorrentsTips": "確定開始所有種子嗎？",
   "pauseAllTorrentsTips": "確定暫停所有種子嗎？",
   "startAllTorrentsTips": "確定啟動所有種子嗎？",

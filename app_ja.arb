@@ -699,6 +699,8 @@
   "appearance": "外観",
   "advanced": "詳細",
   "about": "情報",
+  "upgradeToFullVersion": "完全版にアップグレード",
+  "upgradeToFullVersionSubtitle": "すべての広告を削除し、全機能をアンロック",
   "resumeAllTorrentsTips": "すべてのTorrentを再開してもよろしいですか？",
   "pauseAllTorrentsTips": "すべてのTorrentを一時停止してもよろしいですか？",
   "startAllTorrentsTips": "すべてのTorrentを開始してもよろしいですか？",

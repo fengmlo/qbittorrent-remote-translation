@@ -686,6 +686,8 @@
   "appearance": "Внешний вид",
   "advanced": "Дополнительно",
   "about": "О приложении",
+  "upgradeToFullVersion": "Перейти на полную версию",
+  "upgradeToFullVersionSubtitle": "Убрать всю рекламу и разблокировать все функции",
   "resumeAllTorrentsTips": "Вы точно хотите возобновить все торренты?",
   "pauseAllTorrentsTips": "Вы точно хотите остановить все торренты?",
   "startAllTorrentsTips": "Вы точно хотите запустить все торренты?",

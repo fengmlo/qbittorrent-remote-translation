@@ -686,6 +686,8 @@
   "appearance": "Vzhled",
   "advanced": "Pokročilé",
   "about": "O aplikaci",
+  "upgradeToFullVersion": "Přejít na plnou verzi",
+  "upgradeToFullVersionSubtitle": "Odstranit všechny reklamy a odemknout všechny funkce",
   "resumeAllTorrentsTips": "Opravdu chcete obnovit všechny torrenty?",
   "pauseAllTorrentsTips": "Opravdu chcete pozastavit všechny torrenty?",
   "startAllTorrentsTips": "Opravdu chcete spustit všechny torrenty?",
