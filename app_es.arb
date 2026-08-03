@@ -621,7 +621,7 @@
   "queued": "En cola",
   "checking": "Comprobación",
   "queuedForChecking": "En cola para comprobar",
-  "checkingResumeData": "Comprobando datos de reanudación",
+  "checkingResumeData": "Comprob. reanudación",
   "moving": "Moviendo",
   "missingFiles": "Archivos faltantes",
   "formatYear": "a",

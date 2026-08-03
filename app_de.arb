@@ -71,7 +71,7 @@
   "appSetting": "Einstellung",
   "setCategoryDialogTittle": "Kategorie festlegen",
   "editCategory": "Kategorie ändern ...",
-  "downloadedInHomeList": "{completed} (Gesamtgröße: {totalSize})",
+  "downloadedInHomeList": "{completed} (Gesamt: {totalSize})",
   "@downloadedInHomeList": {
     "placeholders": {
       "completed": {
@@ -82,7 +82,7 @@
       }
     }
   },
-  "uploadedInHomeList": "{uploaded} (Verhältnis: {ratio})",
+  "uploadedInHomeList": "{uploaded} (Ratio: {ratio})",
   "@uploadedInHomeList": {
     "placeholders": {
       "uploaded": {
@@ -628,13 +628,13 @@
   "filterErrored": "Fehlerhaft",
   "statusFilters": "Statusfilter",
   "statusFiltersSubtitle": "Wählen Sie aus, welche Statusfilter angezeigt werden sollen",
-  "downloadingMetadata": "Metadaten werden geladen",
+  "downloadingMetadata": "Lade Metadaten",
   "forcedDl": "[F] Lädt herunter",
   "forcedUp": "[F] Seeden",
   "queued": "Eingereiht",
   "checking": "Überprüfung",
-  "queuedForChecking": "Für Überprüfung eingereiht",
-  "checkingResumeData": "Fortsetzungsdaten überprüfen",
+  "queuedForChecking": "Wartet auf Prüfung",
+  "checkingResumeData": "Prüfe Fortsetzung",
   "moving": "Verschieben",
   "missingFiles": "Fehlende Dateien",
   "formatYear": "j",

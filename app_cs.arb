@@ -71,7 +71,7 @@
   "appSetting": "Nastavení",
   "setCategoryDialogTittle": "Nastavit kategorii",
   "editCategory": "Upravit kategorii",
-  "downloadedInHomeList": "{completed} (Celková velikost: {totalSize})",
+  "downloadedInHomeList": "{completed} (Celkem: {totalSize})",
   "@downloadedInHomeList": {
     "placeholders": {
       "completed": {

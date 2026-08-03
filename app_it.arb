@@ -620,7 +620,7 @@
   "forcedUp": "[F] In Seed",
   "queued": "In Coda",
   "checking": "Controllo",
-  "queuedForChecking": "In coda per Ricontrollo dati",
+  "queuedForChecking": "Attesa ricontrollo",
   "checkingResumeData": "Controllo dati recupero",
   "moving": "Spostamento",
   "missingFiles": "Files mancanti",

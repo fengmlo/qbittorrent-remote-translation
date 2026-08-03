@@ -634,7 +634,7 @@
   "queued": "Sorban áll",
   "checking": "Ellenőrzés",
   "queuedForChecking": "Ellenőrzésre vár",
-  "checkingResumeData": "Folytatáshoz szükséges adat ellenőrzése",
+  "checkingResumeData": "Folytatás-ellenőrzés",
   "moving": "Áthelyezés",
   "missingFiles": "Hiányzó fájlok",
   "formatYear": "év",

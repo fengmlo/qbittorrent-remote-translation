@@ -71,7 +71,7 @@
   "appSetting": "Ustawienia",
   "setCategoryDialogTittle": "Ustaw kategorię",
   "editCategory": "Edytuj kategorię",
-  "downloadedInHomeList": "{completed} (Całkowity rozmiar: {totalSize})",
+  "downloadedInHomeList": "{completed} (Łącznie: {totalSize})",
   "@downloadedInHomeList": {
     "placeholders": {
       "completed": {
@@ -620,8 +620,8 @@
   "forcedUp": "[F] Seedowanie",
   "queued": "W kolejce",
   "checking": "Sprawdzanie",
-  "queuedForChecking": "W kolejce do sprawdzenia",
-  "checkingResumeData": "Sprawdzanie danych wznowienia",
+  "queuedForChecking": "Kolejka sprawdzania",
+  "checkingResumeData": "Kontrola wznowienia",
   "moving": "Przenoszenie",
   "missingFiles": "Brakujące pliki",
   "formatYear": "y",

@@ -621,7 +621,7 @@
   "queued": "Köad",
   "checking": "Kontrollerar",
   "queuedForChecking": "Köad för kontroll",
-  "checkingResumeData": "Kontrollerar återupptagningsdata",
+  "checkingResumeData": "Kontrollerar resume",
   "moving": "Flyttar",
   "missingFiles": "Saknade filer",
   "formatYear": "y",

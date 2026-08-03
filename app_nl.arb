@@ -82,7 +82,7 @@
       }
     }
   },
-  "uploadedInHomeList": "{uploaded} (verhouding: {ratio})",
+  "uploadedInHomeList": "{uploaded} (ratio: {ratio})",
   "@uploadedInHomeList": {
     "placeholders": {
       "uploaded": {
@@ -634,7 +634,7 @@
   "queued": "In wachtrij",
   "checking": "Controleren",
   "queuedForChecking": "In wachtrij voor controle",
-  "checkingResumeData": "Hervattingsgegevens controleren",
+  "checkingResumeData": "Controle hervatting",
   "moving": "Verplaatsen",
   "missingFiles": "Ontbrekende bestanden",
   "formatYear": "j",

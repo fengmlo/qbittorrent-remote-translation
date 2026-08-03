@@ -620,7 +620,7 @@
   "forcedUp": "[F] Semeando",
   "queued": "Na fila",
   "checking": "Controle",
-  "queuedForChecking": "Enfileirado para verificação",
+  "queuedForChecking": "Fila de verificação",
   "checkingResumeData": "Verificando os dados",
   "moving": "Em movimento",
   "missingFiles": "Arquivos ausentes",

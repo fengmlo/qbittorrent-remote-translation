@@ -621,7 +621,7 @@
   "queued": "En cua",
   "checking": "Comprovació",
   "queuedForChecking": "En cua per a comprovar",
-  "checkingResumeData": "Comprovant dades de represa",
+  "checkingResumeData": "Comprovant represa",
   "moving": "Movent",
   "missingFiles": "Arxius faltants",
   "formatYear": "a",
