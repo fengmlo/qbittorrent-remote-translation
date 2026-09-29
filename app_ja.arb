@@ -1004,6 +1004,13 @@
   "serverDirectories": "サーバー上のディレクトリー",
   "connectionTimeout": "接続タイムアウト",
   "connectionTimeoutValue": "{seconds} 秒",
+  "@connectionTimeoutValue": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "connectionTimeoutInvalid": "{min}～{max} の数値を入力してください",
   "setAsDefaultFilter": "デフォルトに設定",
   "clearDefaultFilter": "デフォルトを解除",
@@ -1070,7 +1077,21 @@
   "appLockGraceHint": "再認証が必要になるまでにアプリをバックグラウンドに保持できる時間",
   "appLockGraceImmediate": "すぐに",
   "appLockGraceValueSeconds": "{seconds} 秒",
+  "@appLockGraceValueSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "appLockGraceValueMinutes": "{minutes} 分",
+  "@appLockGraceValueMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "num"
+      }
+    }
+  },
   "privacyScreen": "プライバシースクリーン",
   "privacyScreenOnSubtitle": "アプリ切り替え時に画面の内容を隠す",
   "privacyScreenOffSubtitle": "アプリ切り替え時にアプリのコンテンツを表示したままにする",

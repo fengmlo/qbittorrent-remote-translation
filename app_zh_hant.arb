@@ -741,7 +741,9 @@
   "torrentExported": "{count}個.torrent檔案已匯出到Download資料夾",
   "@torrentExported": {
     "placeholders": {
-      "count": {}
+      "count": {
+        "type": "num"
+      }
     }
   },
   "amoledThemeTitle": "AMOLED主題",
@@ -980,6 +982,13 @@
   "serverDirectories": "伺服器上的目錄",
   "connectionTimeout": "連線逾時",
   "connectionTimeoutValue": "{seconds} 秒",
+  "@connectionTimeoutValue": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "connectionTimeoutInvalid": "請輸入 {min} 到 {max} 之間的數字",
   "setAsDefaultFilter": "設為預設",
   "clearDefaultFilter": "取消預設",
@@ -1045,7 +1054,21 @@
   "appLockGraceHint": "應用程式處於背景多久後需要重新驗證",
   "appLockGraceImmediate": "立即",
   "appLockGraceValueSeconds": "{seconds} 秒",
+  "@appLockGraceValueSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "appLockGraceValueMinutes": "{minutes} 分鐘",
+  "@appLockGraceValueMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "num"
+      }
+    }
+  },
   "privacyScreen": "隱私畫面",
   "privacyScreenOnSubtitle": "切換應用程式時，遮蔽螢幕顯示內容",
   "privacyScreenOffSubtitle": "切換應用程式時，保持顯示內容",

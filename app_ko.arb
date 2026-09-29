@@ -1004,6 +1004,13 @@
   "serverDirectories": "서버의 디렉터리",
   "connectionTimeout": "연결 제한 시간",
   "connectionTimeoutValue": "{seconds}초",
+  "@connectionTimeoutValue": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "connectionTimeoutInvalid": "{min}에서 {max} 사이의 숫자를 입력하세요",
   "setAsDefaultFilter": "기본으로 설정",
   "clearDefaultFilter": "기본 설정 해제",
@@ -1070,7 +1077,21 @@
   "appLockGraceHint": "재인증을 요구하기 전까지 앱이 백그라운드에 유지될 수 있는 시간",
   "appLockGraceImmediate": "즉시",
   "appLockGraceValueSeconds": "{seconds}초",
+  "@appLockGraceValueSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "appLockGraceValueMinutes": "{minutes}분",
+  "@appLockGraceValueMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "num"
+      }
+    }
+  },
   "privacyScreen": "개인정보 보호 화면",
   "privacyScreenOnSubtitle": "앱 전환 시 화면 내용 가리기",
   "privacyScreenOffSubtitle": "앱 전환 시 앱 콘텐츠가 표시된 상태로 유지됨",

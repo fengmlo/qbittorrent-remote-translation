@@ -741,7 +741,9 @@
   "torrentExported": "{count}个.torrent文件已导出到Download文件夹",
   "@torrentExported": {
     "placeholders": {
-      "count": {}
+      "count": {
+        "type": "num"
+      }
     }
   },
   "amoledThemeTitle": "AMOLED主题",
@@ -980,6 +982,13 @@
   "serverDirectories": "服务器上的目录",
   "connectionTimeout": "连接超时",
   "connectionTimeoutValue": "{seconds} 秒",
+  "@connectionTimeoutValue": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "connectionTimeoutInvalid": "请输入 {min} 到 {max} 之间的数字",
   "setAsDefaultFilter": "设为默认",
   "clearDefaultFilter": "取消默认",
@@ -1045,7 +1054,21 @@
   "appLockGraceHint": "应用处于后台多久后需要重新验证",
   "appLockGraceImmediate": "立即",
   "appLockGraceValueSeconds": "{seconds} 秒",
+  "@appLockGraceValueSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "appLockGraceValueMinutes": "{minutes} 分钟",
+  "@appLockGraceValueMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "num"
+      }
+    }
+  },
   "privacyScreen": "隐私屏",
   "privacyScreenOnSubtitle": "切换应用时，遮挡屏幕显示内容",
   "privacyScreenOffSubtitle": "切换应用时，界面内容保持可见",
