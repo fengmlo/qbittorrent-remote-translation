@@ -1089,5 +1089,19 @@
   "multiSelectFilters": "Wielokrotny wybór filtrów",
   "drawerFilterCount": "{count,plural, =1{{count} filtr} few{{count} filtry} other{{count} filtrów}}",
   "drawerNoFilters": "Brak filtrów",
-  "torrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentów}}"
+  "torrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentów}}",
+  "licenseUnverifiedTitle": "Nie udało się zweryfikować licencji",
+  "licenseNotLicensedTitle": "Brak licencji na aplikację",
+  "licenseNetworkDesc": "Nie udało się połączyć z Google Play, aby zweryfikować zakup.",
+  "licenseStaleDesc": "Google Play zwrócił nieaktualne informacje o licencji. Często zdarza się to tuż po zaktualizowaniu aplikacji.",
+  "licenseNotLicensedDesc": "Google Play nie znalazł zakupu tej aplikacji dla bieżącego konta.",
+  "licenseTrySteps": "Spróbuj wykonać następujące czynności:",
+  "licenseStepAccount": "Upewnij się, że w Sklepie Play zalogowano się na konto, na którym kupiono tę aplikację.",
+  "licenseStepClearCache": "Wyczyść pamięć podręczną i dane Sklepu Play oraz pamięć podręczną Usług Google Play, otwórz raz Sklep Play, a następnie wróć i spróbuj ponownie.",
+  "licenseStepNetwork": "Przełącz się na inną sieć lub wyłącz VPN / Prywatny DNS.",
+  "licenseStepRefund": "Upewnij się, że zamówienie nie zostało zwrócone ani anulowane.",
+  "licenseRestoreAccess": "Przywróć dostęp",
+  "licenseExit": "Zakończ",
+  "licenseContactUs": "Skontaktuj się z nami",
+  "licenseEmailCopiedTips": "Skopiowano adres e-mail: {email}"
 }

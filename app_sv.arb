@@ -1089,5 +1089,19 @@
   "multiSelectFilters": "Välj flera filter",
   "drawerFilterCount": "{count,plural, =1{{count} filter} other{{count} filter}}",
   "drawerNoFilters": "Inga filter",
-  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}"
+  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
+  "licenseUnverifiedTitle": "Det gick inte att verifiera licensen",
+  "licenseNotLicensedTitle": "Appen saknar licens",
+  "licenseNetworkDesc": "Det gick inte att nå Google Play för att verifiera köpet.",
+  "licenseStaleDesc": "Google Play returnerade inaktuell licensinformation. Detta händer ofta direkt efter en appuppdatering.",
+  "licenseNotLicensedDesc": "Google Play hittade inget köp av denna app för det aktuella kontot.",
+  "licenseTrySteps": "Försök med följande:",
+  "licenseStepAccount": "Kontrollera att du är inloggad i Play Butik med kontot som köpte appen.",
+  "licenseStepClearCache": "Rensa cacheminne och data för Play Butik samt cacheminnet för Google Play-tjänster, öppna Play Butik en gång och kom sedan tillbaka och försök igen.",
+  "licenseStepNetwork": "Byt till ett annat nätverk eller stäng av VPN / Privat DNS.",
+  "licenseStepRefund": "Kontrollera att beställningen inte har återbetalats eller avbrutits.",
+  "licenseRestoreAccess": "Återställ åtkomst",
+  "licenseExit": "Avsluta",
+  "licenseContactUs": "Kontakta oss",
+  "licenseEmailCopiedTips": "E-postadress kopierad: {email}"
 }

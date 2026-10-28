@@ -1249,5 +1249,26 @@
         "type": "int"
       }
     }
+  },
+  "licenseUnverifiedTitle": "Unable to verify license",
+  "licenseNotLicensedTitle": "Application not licensed",
+  "licenseNetworkDesc": "Couldn't reach Google Play to verify your purchase.",
+  "licenseStaleDesc": "Google Play returned outdated license information. This often happens right after an app update.",
+  "licenseNotLicensedDesc": "Google Play didn't find a purchase of this app for the current account.",
+  "licenseTrySteps": "Please try:",
+  "licenseStepAccount": "Make sure Play Store is signed in with the account that bought this app.",
+  "licenseStepClearCache": "Clear Play Store's cache and data and Google Play services' cache, open Play Store once, then come back and try again.",
+  "licenseStepNetwork": "Switch to another network, or turn off VPN / Private DNS.",
+  "licenseStepRefund": "Make sure the order wasn't refunded or canceled.",
+  "licenseRestoreAccess": "Restore Access",
+  "licenseExit": "Exit",
+  "licenseContactUs": "Contact us",
+  "licenseEmailCopiedTips": "Email address copied: {email}",
+  "@licenseEmailCopiedTips": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
   }
 }

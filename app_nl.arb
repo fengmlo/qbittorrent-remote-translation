@@ -1114,5 +1114,19 @@
   "multiSelectFilters": "Meervoudige filterselectie",
   "drawerFilterCount": "{count,plural, =1{{count} filter} other{{count} filters}}",
   "drawerNoFilters": "Geen filters",
-  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}"
+  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
+  "licenseUnverifiedTitle": "Kan licentie niet verifiëren",
+  "licenseNotLicensedTitle": "Geen licentie voor app",
+  "licenseNetworkDesc": "Kan Google Play niet bereiken om je aankoop te verifiëren.",
+  "licenseStaleDesc": "Google Play heeft verouderde licentiegegevens geretourneerd. Dit gebeurt vaak direct na een app-update.",
+  "licenseNotLicensedDesc": "Google Play heeft geen aankoop van deze app gevonden voor het huidige account.",
+  "licenseTrySteps": "Probeer het volgende:",
+  "licenseStepAccount": "Zorg dat je in de Play Store bent ingelogd met het account waarmee deze app is gekocht.",
+  "licenseStepClearCache": "Wis het cachegeheugen en de gegevens van de Play Store en het cachegeheugen van Google Play-services, open de Play Store één keer, ga terug en probeer het opnieuw.",
+  "licenseStepNetwork": "Schakel over naar een ander netwerk of schakel VPN / Privé-DNS uit.",
+  "licenseStepRefund": "Controleer of de bestelling niet is terugbetaald of geannuleerd.",
+  "licenseRestoreAccess": "Toegang herstellen",
+  "licenseExit": "Afsluiten",
+  "licenseContactUs": "Contact opnemen",
+  "licenseEmailCopiedTips": "E-mailadres gekopieerd: {email}"
 }

@@ -1089,5 +1089,19 @@
   "multiSelectFilters": "Множественный выбор фильтров",
   "drawerFilterCount": "{count,plural, one{{count} фильтр} few{{count} фильтра} many{{count} фильтров} other{{count} фильтров}}",
   "drawerNoFilters": "Без фильтров",
-  "torrentCount": "{count,plural, one{{count} торрент} few{{count} торрента} many{{count} торрентов} other{{count} торрентов}}"
+  "torrentCount": "{count,plural, one{{count} торрент} few{{count} торрента} many{{count} торрентов} other{{count} торрентов}}",
+  "licenseUnverifiedTitle": "Не удалось проверить лицензию",
+  "licenseNotLicensedTitle": "Приложение не лицензировано",
+  "licenseNetworkDesc": "Не удалось связаться с Google Play для проверки покупки.",
+  "licenseStaleDesc": "Google Play вернул устаревшие данные о лицензии. Такое часто бывает сразу после обновления приложения.",
+  "licenseNotLicensedDesc": "В текущем аккаунте Google Play не найдена покупка этого приложения.",
+  "licenseTrySteps": "Попробуйте следующее:",
+  "licenseStepAccount": "Убедитесь, что в Play Маркете выполнен вход с аккаунта, с которого было куплено это приложение.",
+  "licenseStepClearCache": "Очистите кеш и данные Play Маркета и кеш Сервисов Google Play, откройте Play Маркет один раз, затем вернитесь и повторите попытку.",
+  "licenseStepNetwork": "Переключитесь на другую сеть или отключите VPN / персональный DNS-сервер.",
+  "licenseStepRefund": "Убедитесь, что заказ не был отменен или возвращен.",
+  "licenseRestoreAccess": "Восстановить доступ",
+  "licenseExit": "Выход",
+  "licenseContactUs": "Связаться с нами",
+  "licenseEmailCopiedTips": "Адрес эл. почты скопирован: {email}"
 }

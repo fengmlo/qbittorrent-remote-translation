@@ -1114,5 +1114,19 @@
   "multiSelectFilters": "フィルタの複数選択",
   "drawerFilterCount": "{count,plural, =1{{count} 個のフィルタ} other{{count} 個のフィルタ}}",
   "drawerNoFilters": "フィルタなし",
-  "torrentCount": "{count,plural, =1{{count} Torrent} other{{count} Torrent}}"
+  "torrentCount": "{count,plural, =1{{count} Torrent} other{{count} Torrent}}",
+  "licenseUnverifiedTitle": "ライセンスを確認できません",
+  "licenseNotLicensedTitle": "ライセンスがありません",
+  "licenseNetworkDesc": "購入を確認するために Google Play に接続できませんでした。",
+  "licenseStaleDesc": "Google Play から古いライセンス情報が返されました。アプリの更新直後によく発生します。",
+  "licenseNotLicensedDesc": "現在のアカウントでこのアプリの購入が見つかりませんでした。",
+  "licenseTrySteps": "以下をお試しください:",
+  "licenseStepAccount": "このアプリを購入したアカウントで Play ストアにログインしていることを確認してください。",
+  "licenseStepClearCache": "Play ストアのキャッシュとデータ、および Google Play 開発者サービスのキャッシュを消去し、Play ストアを一度開いてから戻ってやり直してください。",
+  "licenseStepNetwork": "別のネットワークに切り替えるか、VPN またはプライベート DNS をオフにしてください。",
+  "licenseStepRefund": "注文が払い戻しまたはキャンセルされていないことを確認してください。",
+  "licenseRestoreAccess": "アクセス権を復元",
+  "licenseExit": "終了",
+  "licenseContactUs": "お問い合わせ",
+  "licenseEmailCopiedTips": "メールアドレスをコピーしました: {email}"
 }

@@ -1089,5 +1089,19 @@
   "multiSelectFilters": "Множинний вибір фільтрів",
   "drawerFilterCount": "{count,plural, one{{count} фільтр} few{{count} фільтри} many{{count} фільтрів} other{{count} фільтрів}}",
   "drawerNoFilters": "Без фільтрів",
-  "torrentCount": "{count,plural, one{{count} торент} few{{count} торенти} many{{count} торентів} other{{count} торентів}}"
+  "torrentCount": "{count,plural, one{{count} торент} few{{count} торенти} many{{count} торентів} other{{count} торентів}}",
+  "licenseUnverifiedTitle": "Не вдалося перевірити ліцензію",
+  "licenseNotLicensedTitle": "Додаток без ліцензії",
+  "licenseNetworkDesc": "Не вдалося зв'язатися з Google Play для перевірки покупки.",
+  "licenseStaleDesc": "Google Play повернув застарілі дані про ліцензію. Це часто трапляється відразу після оновлення додатка.",
+  "licenseNotLicensedDesc": "У Google Play не знайдено покупки цього додатка для поточного облікового запису.",
+  "licenseTrySteps": "Спробуйте такі дії:",
+  "licenseStepAccount": "Переконайтеся, що в Play Маркеті виконано вхід з облікового запису, з якого було придбано цей додаток.",
+  "licenseStepClearCache": "Очистьте кеш і дані Play Маркету та кеш Сервісів Google Play, один раз відкрийте Play Маркет, а потім поверніться та спробуйте знову.",
+  "licenseStepNetwork": "Перемкніться на іншу мережу або вимкніть VPN / приватний DNS.",
+  "licenseStepRefund": "Переконайтеся, що замовлення не було скасовано або повернено.",
+  "licenseRestoreAccess": "Відновити доступ",
+  "licenseExit": "Вихід",
+  "licenseContactUs": "Зв'язатися з нами",
+  "licenseEmailCopiedTips": "Електронну адресу скопійовано: {email}"
 }

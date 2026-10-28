@@ -1113,5 +1113,19 @@
   "multiSelectFilters": "Filter-Mehrfachauswahl",
   "drawerFilterCount": "{count,plural, =1{{count} Filter} other{{count} Filter}}",
   "drawerNoFilters": "Keine Filter",
-  "torrentCount": "{count,plural, =1{{count} Torrent} other{{count} Torrents}}"
+  "torrentCount": "{count,plural, =1{{count} Torrent} other{{count} Torrents}}",
+  "licenseUnverifiedTitle": "Lizenz konnte nicht überprüft werden",
+  "licenseNotLicensedTitle": "App nicht lizenziert",
+  "licenseNetworkDesc": "Google Play konnte zur Überprüfung Ihres Kaufs nicht erreicht werden.",
+  "licenseStaleDesc": "Google Play hat veraltete Lizenzinformationen zurückgegeben. Dies geschieht häufig direkt nach einem App-Update.",
+  "licenseNotLicensedDesc": "Google Play hat für das aktuelle Konto keinen Kauf dieser App gefunden.",
+  "licenseTrySteps": "Bitte versuchen Sie Folgendes:",
+  "licenseStepAccount": "Stellen Sie sicher, dass im Play Store das Konto angemeldet ist, mit dem diese App gekauft wurde.",
+  "licenseStepClearCache": "Löschen Sie Cache und Daten des Play Store sowie den Cache der Google Play-Dienste, öffnen Sie den Play Store einmal und versuchen Sie es dann erneut.",
+  "licenseStepNetwork": "Wechseln Sie zu einem anderen Netzwerk oder deaktivieren Sie VPN / Privates DNS.",
+  "licenseStepRefund": "Stellen Sie sicher, dass die Bestellung nicht erstattet oder storniert wurde.",
+  "licenseRestoreAccess": "Zugriff wiederherstellen",
+  "licenseExit": "Beenden",
+  "licenseContactUs": "Kontakt",
+  "licenseEmailCopiedTips": "E-Mail-Adresse kopiert: {email}"
 }

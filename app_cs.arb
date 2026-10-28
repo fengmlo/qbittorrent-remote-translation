@@ -1088,5 +1088,19 @@
   "multiSelectFilters": "Vícenásobný výběr filtrů",
   "drawerFilterCount": "{count,plural, =1{{count} filtr} few{{count} filtry} other{{count} filtrů}}",
   "drawerNoFilters": "Bez filtrů",
-  "torrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentů}}"
+  "torrentCount": "{count,plural, =1{{count} torrent} few{{count} torrenty} other{{count} torrentů}}",
+  "licenseUnverifiedTitle": "Licenci nelze ověřit",
+  "licenseNotLicensedTitle": "Aplikace nemá licenci",
+  "licenseNetworkDesc": "K ověření nákupu se nepodařilo připojit ke službě Google Play.",
+  "licenseStaleDesc": "Služba Google Play vrátila zastaralé informace o licenci. K tomu často dochází hned po aktualizaci aplikace.",
+  "licenseNotLicensedDesc": "Ve službě Google Play nebyl pro aktuální účet nalezen nákup této aplikace.",
+  "licenseTrySteps": "Zkuste následující postup:",
+  "licenseStepAccount": "Zkontrolujte, zda jste v Obchodě Play přihlášeni pod účtem, ze kterého byla aplikace zakoupena.",
+  "licenseStepClearCache": "Vymažte mezipaměť a data Obchodu Play a mezipaměť Služeb Google Play, jednou otevřete Obchod Play a poté to zkuste znovu.",
+  "licenseStepNetwork": "Přepněte na jinou síť nebo vypněte VPN / soukromou DNS.",
+  "licenseStepRefund": "Ujistěte se, že objednávka nebyla vrácena ani zrušena.",
+  "licenseRestoreAccess": "Obnovit přístup",
+  "licenseExit": "Ukončit",
+  "licenseContactUs": "Kontaktujte nás",
+  "licenseEmailCopiedTips": "E-mailová adresa byla zkopírována: {email}"
 }

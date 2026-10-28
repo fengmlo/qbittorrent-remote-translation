@@ -1088,5 +1088,19 @@
   "multiSelectFilters": "Filtres de selecció múltiple",
   "drawerFilterCount": "{count,plural, =1{{count} filtre} other{{count} filtres}}",
   "drawerNoFilters": "Cap filtre",
-  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}"
+  "torrentCount": "{count,plural, =1{{count} torrent} other{{count} torrents}}",
+  "licenseUnverifiedTitle": "No s'ha pogut verificar la llicència",
+  "licenseNotLicensedTitle": "Aplicació sense llicència",
+  "licenseNetworkDesc": "No s'ha pogut connectar amb Google Play per verificar la compra.",
+  "licenseStaleDesc": "Google Play ha retornat informació de llicència obsoleta. Això sol passar just després d'actualitzar l'aplicació.",
+  "licenseNotLicensedDesc": "Google Play no ha trobat cap compra d'aquesta aplicació per al compte actual.",
+  "licenseTrySteps": "Prova el següent:",
+  "licenseStepAccount": "Assegura't d'haver iniciat la sessió a Play Store amb el compte amb què vas comprar aquesta aplicació.",
+  "licenseStepClearCache": "Esborra la memòria cau i les dades de Play Store i la memòria cau de Serveis de Google Play, obre Play Store una vegada i torna-ho a provar.",
+  "licenseStepNetwork": "Canvia a una altra xarxa o desactiva la VPN / el DNS privat.",
+  "licenseStepRefund": "Assegura't que la comanda no s'hagi reembossat ni cancel·lat.",
+  "licenseRestoreAccess": "Restaura l'accés",
+  "licenseExit": "Surt",
+  "licenseContactUs": "Contacta'ns",
+  "licenseEmailCopiedTips": "S'ha copiat l'adreça electrònica: {email}"
 }

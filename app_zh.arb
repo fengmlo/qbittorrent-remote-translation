@@ -1089,5 +1089,19 @@
   "multiSelectFilters": "多选过滤器",
   "drawerFilterCount": "{count,plural, other{{count} 个过滤器}}",
   "drawerNoFilters": "无过滤器",
-  "torrentCount": "{count,plural, other{{count}个种子}}"
+  "torrentCount": "{count,plural, other{{count}个种子}}",
+  "licenseUnverifiedTitle": "无法验证授权",
+  "licenseNotLicensedTitle": "应用未获授权",
+  "licenseNetworkDesc": "无法连接到 Google Play 以验证购买。",
+  "licenseStaleDesc": "Google Play 返回了过期的授权信息。这通常发生在应用刚更新后。",
+  "licenseNotLicensedDesc": "Google Play 未在当前帐号下找到此应用的购买记录。",
+  "licenseTrySteps": "请尝试以下操作：",
+  "licenseStepAccount": "确保 Play 商店登录的是购买此应用的帐号。",
+  "licenseStepClearCache": "清除 Play 商店的缓存和数据以及 Google Play 服务的缓存，打开一次 Play 商店，然后返回重试。",
+  "licenseStepNetwork": "切换到其他网络，或关闭 VPN / 私人 DNS。",
+  "licenseStepRefund": "确认该订单未被退款或取消。",
+  "licenseRestoreAccess": "恢复访问权限",
+  "licenseExit": "退出",
+  "licenseContactUs": "联系我们",
+  "licenseEmailCopiedTips": "已复制邮箱地址：{email}"
 }

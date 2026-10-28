@@ -1114,5 +1114,19 @@
   "multiSelectFilters": "필터 다중 선택",
   "drawerFilterCount": "{count,plural, =1{{count}개 필터} other{{count}개 필터}}",
   "drawerNoFilters": "필터 없음",
-  "torrentCount": "{count,plural, =1{{count}개 토렌트} other{{count}개 토렌트}}"
+  "torrentCount": "{count,plural, =1{{count}개 토렌트} other{{count}개 토렌트}}",
+  "licenseUnverifiedTitle": "라이선스를 확인할 수 없음",
+  "licenseNotLicensedTitle": "라이선스가 없는 앱",
+  "licenseNetworkDesc": "구매 항목을 확인하기 위해 Google Play에 연결할 수 없습니다.",
+  "licenseStaleDesc": "Google Play에서 오래된 라이선스 정보를 반환했습니다. 앱 업데이트 직후에 자주 발생합니다.",
+  "licenseNotLicensedDesc": "현재 계정에서 이 앱의 구매 내역을 찾을 수 없습니다.",
+  "licenseTrySteps": "다음을 시도해 보세요:",
+  "licenseStepAccount": "이 앱을 구매한 계정으로 Play 스토어에 로그인되어 있는지 확인하세요.",
+  "licenseStepClearCache": "Play 스토어의 캐시 및 데이터와 Google Play 서비스의 캐시를 삭제하고, Play 스토어를 한 번 열었다가 돌아와서 다시 시도하세요.",
+  "licenseStepNetwork": "다른 네트워크로 전환하거나 VPN / 비공개 DNS를 끄세요.",
+  "licenseStepRefund": "주문이 환불되거나 취소되지 않았는지 확인하세요.",
+  "licenseRestoreAccess": "액세스 복원",
+  "licenseExit": "종료",
+  "licenseContactUs": "문의하기",
+  "licenseEmailCopiedTips": "이메일 주소 복사됨: {email}"
 }

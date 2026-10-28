@@ -1089,5 +1089,19 @@
   "multiSelectFilters": "Seleção múltipla de filtros",
   "drawerFilterCount": "{count,plural, one{{count} filtro} other{{count} filtros}}",
   "drawerNoFilters": "Nenhum filtro",
-  "torrentCount": "{count,plural, one{{count} torrent} other{{count} torrents}}"
+  "torrentCount": "{count,plural, one{{count} torrent} other{{count} torrents}}",
+  "licenseUnverifiedTitle": "Não foi possível verificar a licença",
+  "licenseNotLicensedTitle": "Aplicativo sem licença",
+  "licenseNetworkDesc": "Não foi possível conectar ao Google Play para verificar sua compra.",
+  "licenseStaleDesc": "O Google Play retornou informações de licença desatualizadas. Isso costuma acontecer logo após atualizar o app.",
+  "licenseNotLicensedDesc": "O Google Play não encontrou uma compra deste app na conta atual.",
+  "licenseTrySteps": "Tente o seguinte:",
+  "licenseStepAccount": "Verifique se a Play Store está conectada com a conta usada para comprar este app.",
+  "licenseStepClearCache": "Limpe o cache e os dados da Play Store e o cache do Google Play Services, abra a Play Store uma vez e volte aqui para tentar novamente.",
+  "licenseStepNetwork": "Mude para outra rede ou desative a VPN / DNS privado.",
+  "licenseStepRefund": "Certifique-se de que o pedido não foi reembolsado ou cancelado.",
+  "licenseRestoreAccess": "Restaurar acesso",
+  "licenseExit": "Sair",
+  "licenseContactUs": "Fale conosco",
+  "licenseEmailCopiedTips": "Endereço de e-mail copiado: {email}"
 }
