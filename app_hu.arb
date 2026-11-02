@@ -1006,6 +1006,13 @@
   "serverDirectories": "Könyvtárak a szerveren",
   "connectionTimeout": "Kapcsolódási időtúllépés",
   "connectionTimeoutValue": "{seconds} másodperc",
+  "@connectionTimeoutValue": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "connectionTimeoutInvalid": "Adjon meg egy számot {min} és {max} között",
   "setAsDefaultFilter": "Beállítás alapértelmezettként",
   "clearDefaultFilter": "Alapértelmezés törlése",
@@ -1072,7 +1079,21 @@
   "appLockGraceHint": "Mennyi ideig maradhat az alkalmazás a háttérben, mielőtt újabb hitelesítés szükséges",
   "appLockGraceImmediate": "Azonnal",
   "appLockGraceValueSeconds": "{seconds} másodperc",
+  "@appLockGraceValueSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "num"
+      }
+    }
+  },
   "appLockGraceValueMinutes": "{minutes} perc",
+  "@appLockGraceValueMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "num"
+      }
+    }
+  },
   "privacyScreen": "Adatvédelmi képernyő",
   "privacyScreenOnSubtitle": "Alkalmazásváltáskor elrejti a képernyő tartalmát",
   "privacyScreenOffSubtitle": "Alkalmazásváltáskor az alkalmazás tartalma látható marad",
